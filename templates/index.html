@@ -438,7 +438,16 @@
         </div>
 
         <div class="menu-count">
-            <span id="itemCount">Showing {{ menu_items|length }} items</span>
+            <div>
+                <span id="itemCount">Showing {{ menu_items|length }} items</span>
+                {% if last_updated %}
+                <div class="text-light" style="font-size: 0.85rem; opacity: 0.8;">
+                    Last updated: <span id="lastUpdated" title="{{ last_updated.strftime('%Y-%m-%d %H:%M:%S UTC') }}">
+                        {{ last_updated.strftime('%b %d, %I:%M %p') }}
+                    </span>
+                </div>
+                {% endif %}
+            </div>
             <div class="d-flex gap-2">
                 <button class="refresh-btn" id="hidePriceBtn" onclick="toggleHidePrices()">
                     🚫 Hide N/A Prices

@@ -1,0 +1,80 @@
+name: Fetch Disney Menu Data
+
+on:
+  schedule:
+    # Run every hour at minute 0
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths: 
+      - 'disneyland.py'
+      - 'config.py'
+      - '.github/workflows/fetch-disney-data.yml'
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Create cache directory
+      run: mkdir -p disney_responses
+    
+    - name: Fetch Disney data
+      run: |
+        python disneyland.py --debug 2>&1 | tee fetch.log || true
+        echo "Fetch completed - check if files were created"
+        ls -la disney_responses/ || echo "No cache files created"
+    
+    - name: Check for data changes
+      id: check_changes
+      run: |
+        git add disney_responses/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "Data changes detected"
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push if data changed
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Disney Data Fetcher"
+        
+        # Get current date for commit message
+        CURRENT_DATE=$(date -u '+%Y-%m-%d %H:%M UTC')
+        
+        git add disney_responses/
+        git commit -m "Update Disney menu data - $CURRENT_DATE
+
+        🤖 Automated data fetch
+        📅 Data fetched: $CURRENT_DATE
+        🏰 Source: Disney API"
+        
+        git push
+    
+    - name: Upload fetch log as artifact
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: fetch-log
+        path: fetch.log
+        retention-days: 7

@@ -1,0 +1,2 @@
+# This file ensures the disney_responses directory is committed to git
+# GitHub Actions will populate this directory with fresh Disney API data hourly

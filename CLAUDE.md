@@ -67,11 +67,11 @@ See `DEPLOYMENT.md` for detailed deployment instructions.
 
 **Caching System**
 - Responses cached in `disney_responses/` directory for configurable hours
-- Cache validation based on file modification time
-- Separate cache files per API endpoint with timestamps
-- Docker-aware caching with optional persistent volumes
+- GitHub Actions automatically fetch fresh data hourly and commit to repo
+- App prioritizes pre-committed cache files in read-only environments (like Render)
+- Graceful fallback to API calls if no cache files exist
+- Docker-aware caching with optional persistent volumes for local development
 - Configurable automatic cleanup (disabled by default for containers)
-- Optimized API calls check for existing current day data before fetching
 
 **Mobile-First Design**
 - Responsive templates in `templates/` directory
@@ -106,6 +106,13 @@ The app is Docker-ready with intelligent caching:
 - Cache volumes can be mounted for persistence across container restarts
 - Auto-cleanup disabled by default to work better in container environments
 - Use `CACHE_AUTO_CLEANUP=true` in managed environments like Kubernetes
+
+### Automated Data Fetching
+GitHub Actions workflow (`.github/workflows/fetch-disney-data.yml`):
+- Runs hourly to fetch fresh Disney API data
+- Commits cache files directly to the repository
+- Ensures Render deployments start with pre-cached data for instant loading
+- Can be manually triggered via GitHub Actions tab
 
 ### API Endpoints
 - `/api/status`: View current configuration and health

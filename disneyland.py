@@ -20,9 +20,15 @@ class DisneylandMenuFetcher:
         # Set up logging
         self._setup_logging()
         
-        # Create output directory if it doesn't exist
+        # Create output directory if it doesn't exist (skip if read-only)
         self.output_dir = self.config.CACHE_DIR
-        os.makedirs(self.output_dir, exist_ok=True)
+        try:
+            os.makedirs(self.output_dir, exist_ok=True)
+        except PermissionError:
+            self.logger.info(f"Cannot create cache directory {self.output_dir} (read-only filesystem)")
+            # Directory might already exist from repo, check if we can read from it
+            if not os.path.exists(self.output_dir):
+                self.logger.warning(f"Cache directory {self.output_dir} does not exist and cannot be created")
         
         # Set up base headers that will be used for all requests
         self.base_headers = self.config.get_headers()
@@ -59,7 +65,7 @@ class DisneylandMenuFetcher:
             self.logger.addHandler(file_handler)
 
     def save_response(self, response, filename):
-        """Save response data to a JSON file."""
+        """Save response data to a JSON file (optional in read-only environments)."""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         filepath = os.path.join(self.output_dir, f"{filename}_{timestamp}.json")
         
@@ -68,9 +74,12 @@ class DisneylandMenuFetcher:
             with open(filepath, 'w') as f:
                 json.dump(data, f, indent=2)
             if self.debug:
-                print(f"Saved response to {filepath}")
+                self.logger.info(f"Saved response to {filepath}")
+        except PermissionError:
+            if self.debug:
+                self.logger.info(f"Cannot write to {filepath} (read-only filesystem)")
         except Exception as e:
-            print(f"Error saving response to {filepath}: {e}")
+            self.logger.warning(f"Error saving response to {filepath}: {e}")
 
     def debug_request(self, response):
         """Print debug information about a request."""
@@ -126,17 +135,21 @@ class DisneylandMenuFetcher:
     def _get_most_recent_menu_file(self, url_friendly_id: str, date: str = None) -> Optional[str]:
         """Find the most recent menu response file for a restaurant."""
         date = date or self.config.API_DATE
-        prefix = f"menu_response_{url_friendly_id}_{date}_"
+        
         if not os.path.exists(self.output_dir):
             return None
             
+        # First try with specific date (prioritize GitHub Action cached files)
+        prefix = f"menu_response_{url_friendly_id}_{date}_"
         matching_files = [f for f in os.listdir(self.output_dir) if f.startswith(prefix) and f.endswith('.json')]
+        
+        # If no date-specific files, try without date for backward compatibility
         if not matching_files:
-            # Try without date for backward compatibility
             prefix = f"menu_response_{url_friendly_id}_"
             matching_files = [f for f in os.listdir(self.output_dir) if f.startswith(prefix) and f.endswith('.json')]
-            if not matching_files:
-                return None
+            
+        if not matching_files:
+            return None
             
         # Get the most recent file
         most_recent = max(matching_files, key=lambda x: os.path.getmtime(os.path.join(self.output_dir, x)))
@@ -149,11 +162,24 @@ class DisneylandMenuFetcher:
             
         if not os.path.exists(filepath):
             return False
-            
-        hours = hours or self.config.CACHE_HOURS
-        file_mtime = datetime.fromtimestamp(os.path.getmtime(filepath))
-        age = datetime.now() - file_mtime
-        return age.total_seconds() < hours * 3600
+        
+        # If we're in a read-only environment (like Render), treat existing files as always recent
+        # This allows us to use pre-committed files from GitHub Actions
+        try:
+            # Test if we can write to the cache directory
+            test_file = os.path.join(self.output_dir, '.write_test')
+            with open(test_file, 'w') as f:
+                f.write('test')
+            os.remove(test_file)
+            # If we can write, use normal cache timing
+            hours = hours or self.config.CACHE_HOURS
+            file_mtime = datetime.fromtimestamp(os.path.getmtime(filepath))
+            age = datetime.now() - file_mtime
+            return age.total_seconds() < hours * 3600
+        except (PermissionError, OSError):
+            # Read-only filesystem - use any existing files
+            self.logger.info(f"Using pre-cached file in read-only environment: {filepath}")
+            return True
     
     def _get_cached_restaurants_file(self, date: str = None) -> Optional[str]:
         """Find the most recent extracted restaurants file for a specific date."""
@@ -182,6 +208,26 @@ class DisneylandMenuFetcher:
             except Exception as e:
                 self.logger.warning(f"Error reading cached restaurants: {e}")
         return None
+    
+    def get_cache_last_updated(self) -> Optional[datetime]:
+        """Get the timestamp of the most recent cache file."""
+        if not os.path.exists(self.output_dir):
+            return None
+            
+        try:
+            cache_files = [f for f in os.listdir(self.output_dir) 
+                          if f.endswith('.json') and not f.startswith('.')]
+            if not cache_files:
+                return None
+                
+            # Get the most recently modified cache file
+            most_recent_file = max(cache_files, 
+                                 key=lambda x: os.path.getmtime(os.path.join(self.output_dir, x)))
+            most_recent_path = os.path.join(self.output_dir, most_recent_file)
+            return datetime.fromtimestamp(os.path.getmtime(most_recent_path))
+        except Exception as e:
+            self.logger.warning(f"Error getting cache timestamp: {e}")
+            return None
     
     def cleanup_old_cache_files(self, days_to_keep: int = 7):
         """Remove cache files older than specified days."""
@@ -487,6 +533,9 @@ def create_app(fetcher=None):
                     if (tab == 'beverages' and is_beverage) or (tab == 'food' and not is_beverage):
                         all_menu_items.append(item)
             
+            # Get cache last updated time
+            last_updated = fetcher.get_cache_last_updated()
+            
             return render_template('index.html',
                                  menu_items=all_menu_items,
                                  locations=sorted(list(locations)),
@@ -495,7 +544,8 @@ def create_app(fetcher=None):
                                  available_dates=available_dates,
                                  show_refresh=config.ENABLE_REFRESH_BUTTON,
                                  enable_favorites=config.ENABLE_FAVORITES,
-                                 enable_date_selector=config.ENABLE_DATE_SELECTOR)
+                                 enable_date_selector=config.ENABLE_DATE_SELECTOR,
+                                 last_updated=last_updated)
         except Exception as e:
             fetcher.logger.error(f"Error loading menu data: {e}")
             return render_template('error.html', error=str(e)), 500
@@ -532,6 +582,7 @@ def create_app(fetcher=None):
     @app.route('/api/status')
     def status():
         """Get app status and configuration info"""
+        last_updated = fetcher.get_cache_last_updated()
         return jsonify({
             'status': 'healthy',
             'config': {
@@ -541,6 +592,7 @@ def create_app(fetcher=None):
                 'cache_cleanup_days': config.CACHE_CLEANUP_DAYS,
                 'refresh_enabled': config.ENABLE_REFRESH_BUTTON
             },
+            'cache_last_updated': last_updated.isoformat() if last_updated else None,
             'timestamp': datetime.now().isoformat()
         })
     

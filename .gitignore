@@ -171,8 +171,8 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-disney_responses/
-*.json
+# disney_responses/ - Allow committed cache files from GitHub Action
+# *.json - Allow committed JSON cache files  
 logs/
 *.log
 
