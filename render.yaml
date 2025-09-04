@@ -11,7 +11,9 @@ services:
       - key: SECRET_KEY
         generateValue: true
       - key: CACHE_HOURS
-        value: 12
+        value: 4
+      - key: CACHE_AUTO_CLEANUP
+        value: false
       - key: ENABLE_REFRESH_BUTTON
         value: true
       - key: LOG_LEVEL

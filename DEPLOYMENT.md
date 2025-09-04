@@ -12,6 +12,12 @@
 6. Click "Create Web Service"
 7. Your app will be deployed at `https://your-app-name.onrender.com`
 
+**Note on Render caching:**
+- Render Web Services have ephemeral filesystems - cache resets on restarts/deployments
+- The app will still optimize API calls within each session
+- First load after restart will be slower, subsequent loads will be fast
+- Consider shorter `CACHE_HOURS` (4) for Render to balance freshness vs API load
+
 ### Option 2: Railway
 
 1. Install Railway CLI: `npm i -g @railway/cli`
@@ -28,10 +34,29 @@ docker build -t disneyland-menu .
 docker run -p 8080:8080 disneyland-menu
 ```
 
+**With persistent cache (recommended for production):**
+```bash
+# Using Docker Compose (recommended)
+docker-compose up -d
+
+# Or with Docker run
+docker run -p 8080:8080 -v disneyland_cache:/app/disney_responses disneyland-menu
+```
+
+**Environment variables for Docker:**
+- `CACHE_AUTO_CLEANUP=true` - Enable automatic cache cleanup in managed environments
+- `CACHE_CLEANUP_DAYS=3` - More aggressive cleanup for containers (default: 7)
+- `CACHE_HOURS=12` - Longer cache duration for production (default: 6)
+
 Deploy to cloud:
-- **Google Cloud Run**: `gcloud run deploy --source .`
+- **Google Cloud Run**: `gcloud run deploy --source .` (cache will reset on each deployment)
 - **Azure Container Instances**: Push to Azure Container Registry, then deploy
-- **AWS ECS**: Push to ECR, create task definition, deploy to ECS
+- **AWS ECS**: Push to ECR, create task definition, deploy to ECS (consider EFS for persistent cache)
+
+**Note on caching in containers:**
+- Without persistent volumes, cache resets on container restart
+- Use volumes or managed storage for cache persistence in production
+- The app intelligently avoids redundant API calls within the same session
 
 ### Option 4: PythonAnywhere
 

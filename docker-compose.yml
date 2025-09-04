@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  disneyland-menu:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - FLASK_ENV=production
+      - CACHE_HOURS=12
+      - CACHE_AUTO_CLEANUP=true  # Enable auto-cleanup in managed environments
+      - CACHE_CLEANUP_DAYS=3     # More aggressive cleanup in containers
+      - ENABLE_REFRESH_BUTTON=true
+    volumes:
+      # Optional: Persist cache across container restarts
+      - cache_data:/app/disney_responses
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/api/status"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  cache_data:
+    driver: local

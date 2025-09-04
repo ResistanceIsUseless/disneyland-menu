@@ -15,6 +15,8 @@ class Config:
     CACHE_ENABLED = os.environ.get('CACHE_ENABLED', 'true').lower() == 'true'
     CACHE_HOURS = int(os.environ.get('CACHE_HOURS', '6'))
     CACHE_DIR = os.environ.get('CACHE_DIR', 'disney_responses')
+    CACHE_CLEANUP_DAYS = int(os.environ.get('CACHE_CLEANUP_DAYS', '7'))
+    CACHE_AUTO_CLEANUP = os.environ.get('CACHE_AUTO_CLEANUP', 'false').lower() == 'true'  # Disabled by default for containers
     
     # Flask Settings
     SECRET_KEY = os.environ.get('SECRET_KEY', 'dev-secret-key-change-in-production')

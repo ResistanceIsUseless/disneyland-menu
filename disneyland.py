@@ -28,6 +28,10 @@ class DisneylandMenuFetcher:
         self.base_headers = self.config.get_headers()
         self.base_headers["Undefined"] = self.conversation_uuid
         
+        # Clean up old cache files on initialization (only if auto-cleanup is enabled)
+        if self.config.CACHE_AUTO_CLEANUP:
+            self.cleanup_old_cache_files(self.config.CACHE_CLEANUP_DAYS)
+        
         self.logger.info(f"DisneylandMenuFetcher initialized with date: {self.config.API_DATE}")
     
     def _setup_logging(self):
@@ -150,6 +154,57 @@ class DisneylandMenuFetcher:
         file_mtime = datetime.fromtimestamp(os.path.getmtime(filepath))
         age = datetime.now() - file_mtime
         return age.total_seconds() < hours * 3600
+    
+    def _get_cached_restaurants_file(self, date: str = None) -> Optional[str]:
+        """Find the most recent extracted restaurants file for a specific date."""
+        date = date or self.config.API_DATE
+        prefix = f"extracted_restaurants_{date}_"
+        
+        if not os.path.exists(self.output_dir):
+            return None
+            
+        matching_files = [f for f in os.listdir(self.output_dir) if f.startswith(prefix) and f.endswith('.json')]
+        if not matching_files:
+            return None
+            
+        # Get the most recent file
+        most_recent = max(matching_files, key=lambda x: os.path.getmtime(os.path.join(self.output_dir, x)))
+        return os.path.join(self.output_dir, most_recent)
+    
+    def _load_cached_restaurants(self, date: str = None) -> Optional[list]:
+        """Load cached restaurant data if available and recent."""
+        cached_file = self._get_cached_restaurants_file(date)
+        if cached_file and self._is_file_recent(cached_file):
+            try:
+                self.logger.info(f"Loading cached restaurant data from {cached_file}")
+                with open(cached_file, 'r') as f:
+                    return json.load(f)
+            except Exception as e:
+                self.logger.warning(f"Error reading cached restaurants: {e}")
+        return None
+    
+    def cleanup_old_cache_files(self, days_to_keep: int = 7):
+        """Remove cache files older than specified days."""
+        if not os.path.exists(self.output_dir):
+            return
+            
+        cutoff_time = datetime.now() - timedelta(days=days_to_keep)
+        removed_count = 0
+        
+        try:
+            for filename in os.listdir(self.output_dir):
+                filepath = os.path.join(self.output_dir, filename)
+                if os.path.isfile(filepath) and filename.endswith('.json'):
+                    file_mtime = datetime.fromtimestamp(os.path.getmtime(filepath))
+                    if file_mtime < cutoff_time:
+                        os.remove(filepath)
+                        removed_count += 1
+                        self.logger.debug(f"Removed old cache file: {filename}")
+            
+            if removed_count > 0:
+                self.logger.info(f"Cleaned up {removed_count} old cache files older than {days_to_keep} days")
+        except Exception as e:
+            self.logger.warning(f"Error cleaning up cache files: {e}")
 
     def fetch_menu(self, url_friendly_id: str, restaurant_name: str, location_name: str, date: str = None) -> List[Dict]:
         """Fetch menu items for a specific restaurant."""
@@ -232,10 +287,18 @@ class DisneylandMenuFetcher:
         # Use provided date or default from config
         api_date = date or self.config.API_DATE
         
+        # Check for cached restaurant data first
+        cached_restaurants = self._load_cached_restaurants(api_date)
+        if cached_restaurants:
+            self.logger.info(f"Using cached restaurant data for {api_date} ({len(cached_restaurants)} restaurants)")
+            return cached_restaurants
+        
+        self.logger.info(f"Fetching fresh restaurant data for {api_date}")
+        
         # First get auth token
         token = self.get_auth_token()
         if not token:
-            print("Failed to authenticate")
+            self.logger.error("Failed to authenticate")
             return []
 
         # Update headers with auth token
@@ -475,10 +538,26 @@ def create_app(fetcher=None):
                 'api_date': config.API_DATE,
                 'cache_enabled': config.CACHE_ENABLED,
                 'cache_hours': config.CACHE_HOURS,
+                'cache_cleanup_days': config.CACHE_CLEANUP_DAYS,
                 'refresh_enabled': config.ENABLE_REFRESH_BUTTON
             },
             'timestamp': datetime.now().isoformat()
         })
+    
+    @app.route('/api/cleanup-cache', methods=['POST'])
+    def cleanup_cache():
+        """Manually trigger cache cleanup"""
+        try:
+            days_to_keep = request.json.get('days', config.CACHE_CLEANUP_DAYS) if request.json else config.CACHE_CLEANUP_DAYS
+            fetcher.cleanup_old_cache_files(days_to_keep)
+            return jsonify({
+                'success': True,
+                'message': f'Cache cleanup completed for files older than {days_to_keep} days',
+                'timestamp': datetime.now().isoformat()
+            })
+        except Exception as e:
+            fetcher.logger.error(f"Error during cache cleanup: {e}")
+            return jsonify({'error': str(e)}), 500
     
     @app.errorhandler(404)
     def page_not_found(e):
