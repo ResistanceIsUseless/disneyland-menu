@@ -1,0 +1,350 @@
+{
+  "name": "The Sketch Pad Caf\u00e9",
+  "location": "Pixar Place Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lounge",
+      "label": "Lounge"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lounge",
+      "label": "Lounge",
+      "experience": "Lounges",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Build Your Own Brew",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "16 oz. Coffee",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Regular, Decaf or Cold Brew"
+            },
+            {
+              "title": "20 oz. Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Regular, Decaf or Cold Brew"
+            },
+            {
+              "title": "Creamer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "1/2 & 1/2, Milk, Cream"
+            },
+            {
+              "title": "Creamer Extras",
+              "prices": [
+                {
+                  "withoutTax": 1,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Almond, Oat or Coffee Ice Cubes"
+            },
+            {
+              "title": "Flavored Syrups",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ask about our Seasonal Inspiration"
+            },
+            {
+              "title": "Topping Extras",
+              "prices": [
+                {
+                  "withoutTax": 1,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Whipped Cream, Chocolate Sprinkles or Edible Rainbow Glitter"
+            }
+          ]
+        },
+        {
+          "name": "Espresso Bar",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Espresso - Single",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso - Double",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Machiatto ",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso con panna",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flat White",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e9 Latte",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Americano",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mocha",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Latte",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Tea Time",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "London Fog",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Earl Grey, Steamed Milk, and Vanilla Syrup"
+            },
+            {
+              "title": "Matcha Latte",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Heat & Run",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avocado Toast",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "smashed Avocado, sliced Hard Boiled Egg, Everything but the Bagel Seasoning, Levain Bread"
+            },
+            {
+              "title": "Mini Frittata",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Veggies & Egg Whites | Meat Lovers | Cheese & Eggs"
+            },
+            {
+              "title": "Pizza Bagel",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Bakery Case",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Sweets",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Breakfast Pastries ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Prepared Items",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Yogurts",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fruit Cups",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sandwiches",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Grab & Go Boxes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Packaged Snacks ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

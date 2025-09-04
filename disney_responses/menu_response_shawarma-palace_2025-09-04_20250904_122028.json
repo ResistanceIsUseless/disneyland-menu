@@ -1,0 +1,317 @@
+{
+  "name": "Shawarma Palace",
+  "location": "Disney California Adventure Park, Avengers Campus",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Breakfast Snack",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Denver Breakfast Shawarma",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Potatoes, Ham, Cheddar Cheese and Bell Peppers, served with Spicy Ketchup"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Captain America Shield Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 30.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Coca-Cola\u00ae Bottled Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Simply\u00ae Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vitamin Water Dragon Fruit",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Coca-Cola\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Diet Coke\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Sprite\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Wraps",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "New York's Tastiest ",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Shawarma Wrap with Garlic Hummus, served with Fresh Vegetables and Cucumber Tzatziki Sauce"
+            },
+            {
+              "title": "Side Shawarma Salad",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Tzatziki Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Impossible\u2122 Victory Falafel",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Falafel and Cauliflower Wrap with Coconut Yogurt Tzatziki Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Captain America Shield Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 30.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Coca-Cola\u00ae Bottled Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Simply\u00ae Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vitamin Water Dragon Fruit",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Coca-Cola\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Diet Coke\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Sprite\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast Snack",
+        "desktop": "Breakfast Snack"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Wraps",
+        "desktop": "Wraps"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  }
+}

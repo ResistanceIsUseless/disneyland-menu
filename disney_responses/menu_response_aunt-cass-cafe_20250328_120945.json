@@ -1,0 +1,865 @@
+{
+  "name": "Aunt Cass Caf\u00e9",
+  "location": "Disney California Adventure Park, San Fransokyo Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "PRIDE Offerings ",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "PRIDE Parade Castle Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 17.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of Fountain Beverage, Coffee, Hot Tea or Hot Cocoa at time of purchase"
+            },
+            {
+              "title": "PRIDE Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 27.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee, Hot Tea or Hot Cocoa at time of purchase"
+            },
+            {
+              "title": "Scented PRIDE Cake Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 7.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Burrata Toast",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toasted Sourdough, Onion Jam, Burrata, Tomatoes, Arugula and Balsamic Glaze"
+            },
+            {
+              "title": "Carrot Cake Bread Pudding",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Carrot Cake Bread Pudding with Cheesecake Filling and Whipped Topping"
+            },
+            {
+              "title": "Megabot Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 23.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Milk and Cookies Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cookie Butter Cold Brew, Cereal Milk and Chocolate Cookie Foam"
+            }
+          ]
+        },
+        {
+          "name": "Caf\u00e9 Specialties",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Broccoli Cheese and Bok Choy Soup",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Sourdough Bread Bowl"
+            },
+            {
+              "title": "California Roll Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shrimp Crab Salad, Wasabi Mayo and Yakisoba Sauce in a Milk Bread Bun, served with Garlic Chips"
+            },
+            {
+              "title": "San Fransokyo Clam Chowder",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso"
+            },
+            {
+              "title": "Creamy Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Sourdough Bread Bowl"
+            },
+            {
+              "title": "Chilled Shrimp Soba Noodle Salad",
+              "prices": [
+                {
+                  "withoutTax": 20.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Turkey Pesto Club",
+              "prices": [
+                {
+                  "withoutTax": 13.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Turkey Breast, Pesto A\u0457oli, Havarti, Bacon, Arugula and Tomato on Herb Foccacia with Potato Chips"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Soba Noodle Salad",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Baymax Bread",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Freshly Baked Sourdough"
+            },
+            {
+              "title": "Sourdough Mickey",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "freshly Baked Sourdough Mickey shape"
+            },
+            {
+              "title": "Sourdough Baguette",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "freshly Baked Sourdough Baguette"
+            },
+            {
+              "title": "Sourdough Loaf",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "freshly Baked Sourdough Loaf"
+            },
+            {
+              "title": "Sourdough Round",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "freshly Baked Sourdough Round"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Turkey Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Whole Fruit",
+              "prices": [
+                {
+                  "withoutTax": 2.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Green Apple"
+            },
+            {
+              "title": "Cuties\u00ae Mandarin Orange",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "LAY'S\u00ae Classic Potato Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Japanese-style Fluffy Cheesecake ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Chip Cookie",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sugar Cookie",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Placido Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italy"
+            },
+            {
+              "title": "Nectar, Lychee Hard Seltzer ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Refreshing Lychee Hard Seltzer with a crisp clean aftertaste (ABV 4.7%)"
+            },
+            {
+              "title": "Peach Soju Citrus Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus Beverage with Peach flavored Soju"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Baymax Sipper",
+              "prices": [
+                {
+                  "withoutTax": 21.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Honey Lemon-Ade",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade Zero Sugar, Yuzu Puree with Passion Fruit and Strawberry Popping Spheres"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweet Iced Tea, Gold Peak\u00ae Unsweetened Iced Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweet Iced Tea, Gold Peak\u00ae Unsweetened Iced Tea"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Broccoli Cheese and Bok Choy Soup ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in a Sourdough Bread Bowl"
+            },
+            {
+              "title": "Egg Allergy-Friendly San Fransokyo Clam Chowder",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso"
+            },
+            {
+              "title": "Egg Allergy-Friendly Chilled Shrimp Soba Noodle Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Soba Noodle Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Egg Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Cuties\u00ae Mandarin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Broccoli Cheese and Bok Choy Soup ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in a Sourdough Bread Bowl"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based Soba Noodle Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Fish/Shellflish Allergy-Friendly Kids' Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Japanese-style Cheesecake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Cuties\u00ae Mandarin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Chilled Soba Noodle Salad with Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Soba Noodle Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Milk Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Milk Allergy-Friendly Side Cuties\u00ae Mandarin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Broccoli Cheese and Bok Choy Soup ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in a Sourdough Bread Bowl"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly California Roll Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp Crab Salad, Wasabi Mayo and Yakisoba Sauce in a Milk Bread Bun, served with Garlic Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly  San Fransokyo Clam Chowder",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chilled Soba Noodle Salad with Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in a Sourdough Bread Bowl"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly  Plant-based Soba Noodle Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tofu, Cabbage, Edamame, Carrots, Roasted Corn, Scallions and Cilantro topped with Crispy Shallots and Sesame Ginger Dressing"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Disney Check Meal - Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Japanese-style Cheesecake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Cuties\u00ae Mandarin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Sourdough Bread Bowl with Curry Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Carrots, Potatoes and Onions cooked in Classic Curry topped with Rice, Pickled Ginger and Green Onions"
+            },
+            {
+              "title": "Sesame Allergy-Friendly San Fransokyo Clam Chowder",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Creamy Clam Chowder with Bacon, Potatoes and a hint of White Miso"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Sourdough Bread Bowl with Creamy Mac and Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in a Sourdough Bread Bowl"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "On Sourdough, with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Orange, Applesauce, served with choice of small DASANI\u00ae water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Japanese-style Cheesecake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Cuties\u00ae Mandarin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Sourdough Bread Bowl with Curry Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Carrots, Potatoes and Onions cooked in Classic Curry topped with Rice, Pickled Ginger and Green Onions"
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Cuties\u00ae Mandarin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

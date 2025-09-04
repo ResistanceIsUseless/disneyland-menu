@@ -1,0 +1,315 @@
+{
+  "name": "Royal Street Veranda",
+  "location": "Disneyland Park, New Orleans Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coffee Fritters ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "rolled in Cinnamon Sugar, drizzled with a White Mocha Sauce and garnished with a Praline Sugar Streusel"
+            },
+            {
+              "title": "Halloween Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Disneyland 70th Celebration Tinker Bell Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 14.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9e",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Roasted Vegetable Salad ",
+              "prices": [
+                {
+                  "withoutTax": 11.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Brussels Sprouts, Beets, Butternut Squash, Yams, Toasted Almonds, Pepitas and Burrata Cheese with Herbed Balsamic Vinaigrette"
+            },
+            {
+              "title": "Soup in Sourdough Bread Bowl ",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Choice of Clam Chowder or Broccoli Cheddar"
+            },
+            {
+              "title": "Monte Cristo Sandwich ",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Ham, Turkey and Swiss Cheese, dusted with Powdered Sugar and served with Jam"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Meatball Slider",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Meatballs, Marinara Sauce and Parmesan"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Uncrustables Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Peanut Butter and Strawberry Jelly Sandwich, served with a Cuties\u00ae Mandarin Orange and Applesauce, with choice of small Lowfat Milk or small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Joffrey's\u2122 Pumpkin Creme Br\u00fbl\u00e9e Cold Brew Coffee, Pumpkin Spiced Creamer and Toffee Chips"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Entr\u00e9e",
+        "desktop": "Entr\u00e9e"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Kids' Meal",
+        "desktop": "Kids' Meal"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  }
+}

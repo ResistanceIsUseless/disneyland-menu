@@ -1,0 +1,517 @@
+{
+  "name": "Earl of Sandwich\u00ae",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Breakfast Sandwiches",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Egg & Cheddar",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eggs, Cheddar and Breakfast Sauce on Artisan Bread"
+            },
+            {
+              "title": "Ham, Egg & Cheddar",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ham, Eggs, Cheddar and Breakfast Sauce on Artisan Bread"
+            },
+            {
+              "title": "Bacon, Egg & Cheddar",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacon, Eggs, Cheddar and Breakfast Sauce on Artisan Bread"
+            },
+            {
+              "title": "Breakfast BLT",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacon, Lettuce, Tomato and Mayonnaise on Artisan Bread"
+            },
+            {
+              "title": "Breakfast Bowl or Burrito",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Smoked Ham, Breakfast Tots, Red Onions, Roma Tomatoes, Cheddar & Sour Cream"
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Side",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Tots",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Hot Sandwiches",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Earl's Club",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey, Bacon, Swiss, Lettuce, Roma Tomato and Sandwich Sauce"
+            },
+            {
+              "title": "The Original 1762\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Beef, Cheddar and Horseradish Sauce"
+            },
+            {
+              "title": "Chipotle Chicken Avocado",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken, Bacon, Cheddar, Avocado, Lettuce and Chipotle Sauce"
+            },
+            {
+              "title": "Tuna Melt",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Albacore Tuna Salad, Swiss and Mayonnaise"
+            },
+            {
+              "title": "The Full Montagu\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Beef, Turkey, Swiss, Cheddar, Lettuce, Roma Tomato and Earl's Mustard Sauce"
+            },
+            {
+              "title": "Caprese",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Roma Tomato, Basil, and Balsamic"
+            },
+            {
+              "title": "Holiday Turkey",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey, Cornbread Stuffing, Gravy, Cranberry Sauce and Mayonnaise"
+            },
+            {
+              "title": "Italian",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Salami, Capicola, Ham, Pepperoni, Mozzarella, Roma Tomato, Italian Seasoning, and Italian Dressing"
+            },
+            {
+              "title": "Ham & Swiss",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ham, Swiss and Earl's Mustard Sauce"
+            },
+            {
+              "title": "Cuban",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tender Carnitas, Ham, Swiss, Pickles & Cuban Mustard Sauce"
+            }
+          ]
+        },
+        {
+          "name": " Deli Sandwiches",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Zesty Italian",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pepperoni, Salami, Ham, Capicola, Mozzarella, Lettuce, Roma Tomato, Red Onion, Italian Dressing & Italian Seasoning served on a 6 inch soft Hoagie Roll"
+            },
+            {
+              "title": "Earl's Ultimate",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey, Ham, Bacon, Cheddar, Swiss, Lettuce, Roma Tomato, Red Onion, Mayonnaise & Earl's Dressing served on a 6 inch soft Hoagie Roll"
+            },
+            {
+              "title": "Double Monty",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Beef, Turkey, Mayonnaise, Cheddar, Swiss, Lettuce, Roma Tomato, Red Onion & Earl's Dressing served on a 6 inch soft Hoagie Roll"
+            },
+            {
+              "title": "Cook's Capri",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Roma Tomato, Avocado, Basil, Balsamic & Earl's Dressing served on a 6 inch soft Hoagie Roll"
+            }
+          ]
+        },
+        {
+          "name": "Hand-Crafted Wraps",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Bacon Avocado",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken, Bacon, Romaine, Avocado, Roma Tomato, Cucumber and Balsamic Vinaigrette"
+            },
+            {
+              "title": "Chicken Caesar",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken, Parmesan, Romaine, House-made Croutons and Caesar Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Fresh Greens Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Earl's Cobb",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Greens, Grilled Chicken, Bacon, Cheddar, Roma Tomato, Cucumber, Cranberries & Ranch Dressing"
+            },
+            {
+              "title": "Caprese",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Diced Mozzarella, Roma Tomatoes, Romaine, Greens, Basil & Balsamic Glaze. Served with a side of Balsamic Vinaigrette"
+            },
+            {
+              "title": "House",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Greens, Roma Tomato, Cucumber, House-made Croutons and Ranch Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Artisanal Tomato Soup ",
+              "prices": [
+                {
+                  "withoutTax": 5.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tater Tots",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Just 4 Kids",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Cheese",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cheddar, Swiss and Mozzarella"
+            },
+            {
+              "title": "Turkey & Swiss",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey, Swiss and Mayonnaise"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverage - Regular",
+              "prices": [
+                {
+                  "withoutTax": 3.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Coffee",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast Sandwiches",
+        "desktop": "Breakfast Sandwiches"
+      },
+      {
+        "mobile": "Breakfast Side",
+        "desktop": "Breakfast Side"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Hot Sandwiches",
+        "desktop": "Hot Sandwiches"
+      },
+      {
+        "mobile": " Deli Sandwiches",
+        "desktop": " Deli Sandwiches"
+      },
+      {
+        "mobile": "Hand-Crafted Wraps",
+        "desktop": "Hand-Crafted Wraps"
+      },
+      {
+        "mobile": "Fresh Greens Salads",
+        "desktop": "Fresh Greens Salads"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Just 4 Kids",
+        "desktop": "Just 4 Kids"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  }
+}

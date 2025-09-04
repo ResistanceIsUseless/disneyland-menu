@@ -1,0 +1,1391 @@
+{
+  "name": "Smokejumpers Grill",
+  "location": "Disney California Adventure Park, Grizzly Peak",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Lunar New Year Mickey Shaped Light-Up Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Lunar New Year Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 27.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Orange-Vanilla Shake",
+              "prices": [
+                {
+                  "withoutTax": 11.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Whipped Topping and Orange Wafers"
+            },
+            {
+              "title": "Hei Hei Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es ",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Toast Sticks",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Powdered Sugar, Berries and Maple Syrup"
+            },
+            {
+              "title": "Breakfast Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sausage, Egg, Cheddar, Hash Browns, SJG Sauce and Green Chile on a Toasted Bun, served with Cuties\u00ae Mandarin Oranges or Breakfast Seasoned Fries"
+            },
+            {
+              "title": "Classic Breakfast Burrito",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sausage, Bacon, Egg, Cheddar and Hash Browns with Molcajete Salsa, served with Cuties\u00ae Mandarin Oranges or Breakfast Seasoned Fries"
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Plant-Based",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chorizo Burrito",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sausage, Chorizo, Egg, Cheese, Hash Browns and Avocado Sauce with Molcajete Salsa, served with Cuties\u00ae Mandarin Oranges or Breakfast Seasoned Fries"
+            }
+          ]
+        },
+        {
+          "name": "Sides ",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Seasoned Fries",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sausage Patty",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fried Egg",
+              "prices": [
+                {
+                  "withoutTax": 3.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hash Browns",
+              "prices": [
+                {
+                  "withoutTax": 3.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Molcajete Salsa",
+              "prices": [
+                {
+                  "withoutTax": 1.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Kids' Meal ",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Toast Sticks",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Powdered Sugar and Maple Syrup"
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Kids' Disney Check Meal ",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids' Breakfast Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey Bacon, Egg and Cheddar, served with Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions."
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pickle Whiskey Sour Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bourbon, Pickle Juice, Lime Juice, Sweet & Sour, garnished with Taj\u00edn\u00ae Mild Hot Sauce Rim, Taj\u00edn\u00ae and a Pickle Spear"
+            },
+            {
+              "title": "Strawberry Whiskey Sour",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Syrup, Lemon Juice and Whiskey"
+            },
+            {
+              "title": "Brewery X, Sangria Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served over Ice (ABV 10.0%)"
+            },
+            {
+              "title": "Golden Road Balboa Blonde",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.8% ABV"
+            },
+            {
+              "title": "Fremont Golden Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.5% ABV"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Boat Shoes Hazy IPA ",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.2%)"
+            },
+            {
+              "title": "Irish Cream Breakfast Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baileys Irish Cream, Chocolate Cold Brew, Toasted Marshmallow Foam and Cocoa Crisped Rice Cereal"
+            },
+            {
+              "title": "Frozen Coca-Cola\u00ae with Jack Daniel's Tennessee Whiskey",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Coca-Cola\u00ae with Captain Morgan Rum",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Beverages ",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Simply Orange\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Refreshments",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Cold Brew, Toasted Marshmallow Foam and Cocoa Crisped Rice Cereal"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Lunar New Year Mickey Shaped Light-Up Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Lunar New Year Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 27.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Orange-Vanilla Shake",
+              "prices": [
+                {
+                  "withoutTax": 11.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Whipped Topping and Orange Wafers"
+            },
+            {
+              "title": "Hei Hei Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Featured Tastes",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fish & Chips",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crispy Battered Fish, Crinkle-cut Fries and Coleslaw"
+            },
+            {
+              "title": "Lemon Pepper Wings",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Garlic Ranch"
+            },
+            {
+              "title": "Steak Salad ",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sirloin Steak, Romaine, Iceberg, Carrots, Cucumbers, Tomatoes, Pickled Red Onions and Blue Cheese with BBQ Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Pilot Classics",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chipotle BBQ Bacon Double Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 16.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Provolone, Bacon, Lettuce, Pickles, Onion Rings and Chipotle BBQ Sauce served with Crinkle-cut Fries"
+            },
+            {
+              "title": "Double Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 15.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and SJG Burger Sauce served with Crinkle-cut Fries"
+            },
+            {
+              "title": "Spicy Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-breaded Chicken, spicy Chipotle Sauce, Lettuce and Pickles served with Crinkle-cut Fries"
+            },
+            {
+              "title": "Grilled Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Breast, Smoked Provolone, Green Chile, Roasted Garlic Citrus A\u00efoli, Lettuce and Tomato served with Crinkle-cut Fries"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Crinkle-cut Fries"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based Offerings",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Double Impossible\u2122 Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 15.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "two Plant-based Patties, Dairy-free Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and Plant-based Sauce served with Crinkle Cut-Fries or Cuties\u00ae Mandarin Oranges"
+            }
+          ]
+        },
+        {
+          "name": "Extra Supplies",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crinkle-cut Fries",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Onion Rings",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mini Babybel\u00ae snack cheese - 3-pack",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Double Basecamp Burger",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Double Beef Patty Slider served with Cuties\u00ae Mandarin Orange, Yogurt Smoothie and choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Cuties\u00ae Mandarin Orange, Yogurt Smoothie and choice of small Lowfat Milk or small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chocolate Shake",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla Shake",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pickle Whiskey Sour Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bourbon, Pickle Juice, Lime Juice, Sweet & Sour, garnished with Taj\u00edn\u00ae Mild Hot Sauce Rim, Taj\u00edn\u00ae and a Pickle Spear"
+            },
+            {
+              "title": "Strawberry Whiskey Sour",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Syrup, Lemon Juice and Whiskey"
+            },
+            {
+              "title": "Brewery X, Sangria Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served over Ice (ABV 10.0%)"
+            },
+            {
+              "title": "Golden Road Balboa Blonde",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.8% ABV"
+            },
+            {
+              "title": "Fremont Golden Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.5% ABV"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Boat Shoes Hazy IPA ",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.2%)"
+            },
+            {
+              "title": "Irish Cream Breakfast Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baileys Irish Cream, Chocolate Cold Brew, Toasted Marshmallow Foam and Cocoa Crisped Rice Cereal"
+            },
+            {
+              "title": "Frozen Coca-Cola\u00ae with Jack Daniel's Tennessee Whiskey",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Coca-Cola\u00ae with Captain Morgan Rum",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Refreshments",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Cold Brew, Toasted Marshmallow Foam and Cocoa Crisped Rice Cereal"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Double Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Smoked Cheddar, Lettuce, Tomato, Pickle Slices, Grilled Onion and SJG Burger Sauce served on an Allergy-Friendly Bun with Cuties\u00ae Mandarin Oranges or Crinkle-cut Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Double Impossible\u2122 Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Impossible\u2122 Patties, Dairy-free Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and Plant-based Sauce on an Allergy-friendly Bun, served with Cuties\u00ae Mandarin Oranges or Crinkle-cut Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Grilled Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Breast, Monterey Jack, Green Chile, Roasted Garlic Citrus A\u00efoli, Lettuce and Tomato served on an Allergy-friendly Bun with Cuties\u00ae Mandarin Oranges or Crinkle-cut Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Crinkle-cut Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Disney Check Double Base Camp Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Double Beef Patty Slider on an Allergy-friendly Bun, served with Cuties\u00ae Mandarin, Yogurt Smoothie and choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Gluten Allergy-Friendly Chocolate Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten Allergy-Friendly Vanilla Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Disney Check Double Base Camp Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Double Beef Patty Slider served with Cuties\u00ae Mandarin, Yogurt Smoothie and choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Egg Allergy-Friendly Crinkle-cut Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Chocolate Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Vanilla Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Chipotle BBQ Bacon Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Provolone, Bacon, Lettuce, Pickles, Onion Rings and Chipotle BBQ Sauce served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Spicy Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hand-breaded Chicken, spicy Chipotle Sauce, Lettuce and Pickles served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Grilled Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Breast, Monterey Jack, Green Chile, Roasted Garlic Citrus A\u00efoli, Lettuce and Tomato served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Double Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Smoked Cheddar, Lettuce, Tomato, Pickle Slices, Grilled Onion and SJG Burger Sauce served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Double Impossible\u2122 Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Impossible\u2122 Patties, Dairy-free Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and Plant-based Sauce, served with Cuties\u00ae Mandarin Oranges or Crinkle-cut Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Crinkle-cut Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Disney Check Double Base Camp Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Double Beef Patty Slider served with Cuties\u00ae Mandarin, Yogurt Smoothie and choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie and a Cuties\u00ae Mandarin served with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Chocolate Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Vanilla Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Double Impossible\u2122 Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Impossible\u2122 Patties, Dairy-free Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and Plant-based Sauce, served with Cuties\u00ae Mandarin Oranges or Crinkle-cut Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Spicy Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hand-breaded Chicken, spicy Chipotle Sauce, Lettuce and Pickles served with Cuties\u00ae Mandarin Oranges or Crinkle-cut Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Crinkle-cut Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Allergy-Friendly Double Impossible\u2122 Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Impossible\u2122 Patties, Dairy-free Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and Plant-based Sauce, served with Cuties\u00ae Mandarin Oranges or Crinkle-cut Fries"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chipotle BBQ Bacon Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Provolone, Bacon, Lettuce, Pickles, Onion Rings and Chipotle BBQ Sauce served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Double Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Smoked Cheddar, Lettuce, Tomato, Pickle Slices, Grilled Onion and SJG Burger Sauce served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Spicy Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hand-breaded Chicken, spicy Chipotle Sauce, Lettuce and Pickles served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Grilled Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Breast, Monterey Jack, Green Chile, Roasted Garlic Citrus A\u00efoli, Lettuce and Tomato served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Crinkle-cut Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Disney Check Double Base Camp Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Double Beef Patty Slider served with Cuties\u00ae Mandarin, Yogurt Smoothie and choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie and a Cuties\u00ae Mandarin with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chocolate Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Vanilla Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Chipotle BBQ Bacon Double Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Provolone, Bacon, Lettuce, Pickles, Onion Rings and Chipotle BBQ Sauce served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Spicy Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hand-breaded Chicken, spicy Chipotle Sauce, Lettuce and Pickles served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Disney Check Double Basecamp Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Double Beef Patty Slider served with Cuties\u00ae Mandarin, Yogurt Smoothie and choice of small Lowfat Milk or small DASANI\u00ae Water."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Double Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Angus Beef Patties, Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and SJG Burger Sauce served with Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Grilled Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Breast, Smoked Provolone, Green Chile, Roasted Garlic A\u00cfoli, Lettuce and Tomato served Crinkle-cut Fries or Onion Rings"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Double Impossible\u2122 Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Plant-based Patties, Dairy-free Cheddar, Lettuce, Tomato, Pickles, Grilled Onion and Plant-based Sauce served with Crinkle-cut Fries or Cuties\u00ae Mandarin Oranges"
+            },
+            {
+              "title": "Sesame Allergy-Friendly (Kids') Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Cuties\u00ae Mandarin Orange, Yogurt Smoothie and a choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Braille Menu",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Braille menu available upon request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

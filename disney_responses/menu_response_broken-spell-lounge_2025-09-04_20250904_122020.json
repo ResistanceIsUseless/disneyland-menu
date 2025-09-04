@@ -1,0 +1,896 @@
+{
+  "name": "Broken Spell Lounge",
+  "location": "Disneyland Resort, Disneyland Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lounge",
+      "label": "Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lounge",
+      "label": "Lounge",
+      "experience": "Lounges",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Specialty Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pork Belly Whisky Flip",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pork Belly-infused Pendleton Whisky Midnight, Grand Marnier, Maple Syrup, Whole Egg, Pork Belly Garnish"
+            },
+            {
+              "title": "Green-eyed Sceptre",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pernod Absinthe, Avissi Prosecco, St. George Spiced Pear, Cinnamon Syrup, Lime Juice, Blackberry"
+            },
+            {
+              "title": "Squid Ink Martini",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Eagle Vodka, Dolin Blanc Vermouth de Chambery, Squid Ink, Lemon Bitters, Fennel Sprig"
+            },
+            {
+              "title": "Apricot Vodka Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Apricot-infused Golden Eagle Vodka, Orange & Lemon Juices, Coconut Water, Vanilla Mint Simple Syrup"
+            },
+            {
+              "title": "Benevolent Faerie",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Bean-infused Golden Eagle Vodka, Giffard Banana Liqueur, Pineapple Juice, Lemon Juice, Honey, Coconut Syrup, Edible Glitters"
+            },
+            {
+              "title": "Raven's Wing",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cucumber Mint-infused Condessa Prickly Pear Gin, Italicus, Starlino Rose, Lemon Juice, Pineapple Juice, Prickly Pear Syrup, Smoke Garnish"
+            },
+            {
+              "title": "Spiced Apple Martini",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Condessa Palo Santo Gin, Spiced Beet, Apple Juice, Thyme, Black Pepper"
+            },
+            {
+              "title": "Make it Blue, Make it Pink",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Empress Butterfly Gin, Luxardo Maraschino Liqueur, Lemon Juice"
+            },
+            {
+              "title": "Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flecha Azul Blanco Tequila, Cointreau, Lime, Agave"
+            },
+            {
+              "title": "Chili Chocolate Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flecha Azul A\u00f1ejo Tequila, Cr\u00e8me de Cacao, Agave Syrup, Grapefruit Bitters, Cayenne Pepper, served over a Large Ice Cube"
+            },
+            {
+              "title": "Black Thorn Bramble",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, Chambord Raspberry Liqueur, Cinnamon, Lemon Juice, garnished with Basil, Mint, Blackberries"
+            },
+            {
+              "title": "Norwegian Plums",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Linie Aquavit, Suze Gentian Liqueur, House-made Cinnamon-Plum Syrup, Lemon Juice"
+            },
+            {
+              "title": "Inca Orchid ",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ilegal Mezcal, House-made Chicha Morada, Orgeat, Cinnamon Plum Syrup, Apricot Liqueur"
+            },
+            {
+              "title": "Aquavit Sour",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Linie Aquavit, Kummel Fennel Liqueur, House-made Blueberry Syrup, Grenadine, Lime Juice, Bitters"
+            },
+            {
+              "title": "Secret Cottage",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Drumshanbo Gunpowder Irish Gin, Plum Liqueur, Sweet Vermouth, Campari, Orange Peel"
+            },
+            {
+              "title": "Amanita Muscaria",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mushroom-infused Woodford Reserve, Walnut Bitters, Rosemary, Thyme, Brown Sugar Simple Syrup, garnished with a Marinated Portabella Cap"
+            },
+            {
+              "title": "Scotch Tea Toddy",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Glenmorangie 10yr, Laphroaig 10yr, Drambuie, Sencha Tea, Chocolate Bitters"
+            }
+          ]
+        },
+        {
+          "name": "Barrel-Aged",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Barrel-Aged Smoked Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aged a minimum of one month in New American Oak. Peach-infused Uncle Nearest 1884, Toasted Clove, Cinnamon Turbinado Simple Syrup. Smoke Blend: Cherry Wood, Black Pepper, Cumin, Coriander, Clove"
+            },
+            {
+              "title": "Barrel-Aged Boulevardier",
+              "prices": [
+                {
+                  "withoutTax": 25.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aged a minimum of one month in New American Oak. Woodford Reserve Bourbon, Amaro Montenegro, Cocchi Storico Vermouth, Tempus Fugit Gran Classico Orange Aperitif"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Flights",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Scotch Whisky",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lindores Abby Scotch Lowland Single Malt, Compass Box Spaniard, Edradour 10yr, Glenturret Triple Wood. A true journey through the flavors and geography of Scotland and its wonderful contribution to the world of Single Malts."
+            },
+            {
+              "title": "Rye Whiskey",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Laws Whiskey San Luis Valley Rye, Doc Swinson\u2019s Bonded 7yr, Fox & Oden Rye, High Plains Blended Rye. A unique offering of farm to table and sustainable rye whiskies that capture the spirit of America\u2019s first whiskey."
+            },
+            {
+              "title": "Bourbon Whiskey",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Doc Swinson\u2019s Blended Straight Bourbon, Coppercraft Straight Bourbon, Dry Fly Bourbon 101, Gryphon & Grain Bourbon. A unique offering of sustainable and farm to table Bourbons that are sure to expand your palate and your appreciation."
+            },
+            {
+              "title": "Japanese Whisky",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kaiyo The Ramu 8yr, Kaiyo Mizunara Oak The Single 7yr, Kiuchi Hinomaru Celebration, Kiuchi Hinomaru 1st Edition. Sample some of Japan\u2019s oldest and most innovative Whiskies that boast sea maturation as well as rare oak ages."
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Laurent-Perrier, La Cuv\u00e9e Brut, Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 154,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Daou, Paso Robles, California",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay, The Fableist, Paso Robles, California",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay, Post and Beam by Far Niente, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 95,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Riesling, Heinz Eifel Spatlese, Mosel, Germany",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fleur de Mer, C\u00f4tes de Provence, Provence, France",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, The Fableist, The Silkworm and The Spider, Paso Robles, California",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Daou, Paso Robles, California",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Syrah, Stolpman Vineyards, Los Olivos, California",
+              "prices": [
+                {
+                  "withoutTax": 78,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, Flowers, Sonoma Coast, California",
+              "prices": [
+                {
+                  "withoutTax": 126,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Caymus, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 300,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Birra Moretti Italian Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.6% ABV"
+            },
+            {
+              "title": "Bootleggers Old World Hefeweizen",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.0% ABV"
+            },
+            {
+              "title": "Belching Beaver Hazers Gonna Haze Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "6.6% ABV"
+            },
+            {
+              "title": "Bootleggers Knuckle Sandwich Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "10% ABV"
+            },
+            {
+              "title": "RationAle Non-Alcoholic Mexican Lager",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "70th Celebration Non-Alcoholic Specialty Beverage",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grapefruit Sherbet, Watermelon, Pineapple & Lemon Juices, Simple Syrup, Tonic Water"
+            },
+            {
+              "title": "Premium Sparkling Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cuisine",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Parmesan Truffle Fries",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Herbs"
+            },
+            {
+              "title": "Jumbo Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cocktail Sauce, Cornichons, Lemon"
+            },
+            {
+              "title": "Signature Dry Rub Chicken Wings",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-pickled Carrots and Turnips, Celery, Roquefort Blue Cheese"
+            },
+            {
+              "title": "Ahi Tuna Tataki*",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aji Amarillo Ponzu, Persillade, Crispy Wontons"
+            },
+            {
+              "title": "Classic Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Croutons, Cherry Tomatoes, Parmesan. Add Grilled Chicken Breast, Salmon Filet, or Prime Flat Iron Steak at an additional cost."
+            },
+            {
+              "title": "Toasted Quinoa & Baby Kale Salad",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Persian Cucumber, Dried Cranberries, Blueberries, Almonds, Meyer Lemon Vinaigrette. Add Grilled Chicken Breast, Salmon Filet, or Prime Flat Iron Steak at an additional cost."
+            },
+            {
+              "title": "Margherita Pizza",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thai Basil, Stracciatella Mozzarella"
+            },
+            {
+              "title": "Charcuterie Pizza",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Artisan Cured Prosciutto, Pepperoni, Sausage, Sugo Di Pomodoro"
+            },
+            {
+              "title": "Seasonal Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Please ask your server for details"
+            },
+            {
+              "title": "Southwest Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Achiote Marinated Chicken Breast, Roasted Green Chile, Pepper Jack Cheese, Caramelized Onion, Garlic Butter Toasted Brioche"
+            },
+            {
+              "title": "Turkey Club",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Slow-roasted Turkey Breast, Bacon, Avocado, Tomato, Little Gem Lettuce, French Bread, French Fries"
+            },
+            {
+              "title": "Fish & Chips",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caviar Tartar Sauce, Malt Vinegar"
+            },
+            {
+              "title": "Broken Spell Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Beef, Cheddar Cheese, House Spread, Lettuce, Tomato, Onion, Pickles, Toasted Brioche Bun. Add Smoked Bacon, Avocado, Caramelized Onions, Sunny Side Egg at an additional cost."
+            },
+            {
+              "title": "Steak Frites*",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Prime Flat Iron Steak, French Fries, Demi-glace"
+            },
+            {
+              "title": "Forest Mushroom Farro Risotto",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Asparagus, Chives, Parmigiano Reggiano Frico"
+            },
+            {
+              "title": "Prime Beef French Dip",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Prime Sirloin, Havarti Cheese, Caramelized Onions, Au Jus, served with Fries, Fruit or Chips"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "New York-Style Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Salted Bourbon Caramel & Strawberry Compote"
+            },
+            {
+              "title": "Molten Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot Fudge, Whipped Cream, Almonds, Luxardo Cherries"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Specialty Cocktails",
+        "desktop": "Specialty Cocktails"
+      },
+      {
+        "mobile": "Barrel-Aged",
+        "desktop": "Barrel-Aged"
+      },
+      {
+        "mobile": "Specialty Flights",
+        "desktop": "Specialty Flights"
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Cuisine",
+        "desktop": "Cuisine"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      }
+    ]
+  }
+}

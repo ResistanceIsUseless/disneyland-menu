@@ -1,0 +1,401 @@
+{
+  "name": "Stage Door Caf\u00e9",
+  "location": "Disneyland Park, Frontierland",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 18.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Haunted Mansion Bride Sipper",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Magic Key Holder Offering",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Magic Key Mirrored Mickey-Shaped Sipper",
+              "prices": [
+                {
+                  "withoutTax": 18.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit one (1) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Caesar Wrap",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lavash Wrap with Romaine, Kale, Pepitas, White Beans, Crunchy Corn Kernels, Cotija Cheese and Mexican Caesar Pepita Dressing"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Fries and choice of Dipping Sauce"
+            },
+            {
+              "title": "Hand-dipped Corn Dog",
+              "prices": [
+                {
+                  "withoutTax": 10.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Cuties\u00ae Mandarin Oranges or a small bag of Chips"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie, a Cuties\u00ae Mandarin, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Applesauce, with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "All-Day Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Cuties\u00ae Mandarin",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Applesauce",
+              "prices": [
+                {
+                  "withoutTax": 1.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Fries",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "For Yer Sweet Tooth",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Classic Funnel Cake",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Powdered Sugar and Whipped Cream"
+            },
+            {
+              "title": "Strawberry Funnel Cake",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Strawberry Sauce, Powdered Sugar and Whipped Cream"
+            }
+          ]
+        },
+        {
+          "name": "Wet Yer Whistle",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

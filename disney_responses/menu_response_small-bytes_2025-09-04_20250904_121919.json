@@ -1,0 +1,706 @@
+{
+  "name": "Small Bytes",
+  "location": "Pixar Place Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service \u2013 Coffee",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Chips & Bits",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tortilla Chips & Dip Trio",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Seasoned Tortilla Chips, served with Queso, Salsa, and Citrus Avocado Mash"
+            },
+            {
+              "title": "Snack Box",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef-selected Cheeses, Meats, Fruits, and Crackers"
+            },
+            {
+              "title": "Hummus & Veggies",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Garlic Hummus topped with Marinated Garbanzo Beans, served with Seasonal Veggies, Pita, Medium-boiled Egg with Everything Bagel Seasoning"
+            },
+            {
+              "title": "SoCal Fruit Cart",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasonal Fruit, Tajin Seasoning, Lime Juice, served with Agave Cinnamon Yogurt for dipping"
+            },
+            {
+              "title": "Loaded Tots",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tater Tots loaded with Cheese Sauce, Sour Cream, Bacon Bits, and Green Onions"
+            }
+          ]
+        },
+        {
+          "name": "Lyte Bytes",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Small Byte Salad",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Cucumber, Tomato, Shredded Mozzarella, Herb Vinaigrette. Add Chicken, Shrimp, or Salmon at an additional cost."
+            },
+            {
+              "title": "Crispy Chicken Caesar Wrap",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Chicken Strips, Chopped Romaine, Shredded Parmesan Cheese, Caesar Dressing, Sun-dried Tomato Flour Tortilla. Make it Buffalo Style at an additional cost."
+            },
+            {
+              "title": "BBQ Chicken Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "BBQ Sauce topped with Shredded Mozzarella, Pulled Chicken, Pickled Onions, and Cilantro"
+            },
+            {
+              "title": "Asian Summer Salad",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shredded Chicken, Cabbage & Cilantro Slaw, crunchy Ramen, Green Onions, Toasted Almonds, Sesame Dressing. Add Shrimp or Salmon at an additional cost."
+            }
+          ]
+        },
+        {
+          "name": "Mega Bytes",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Quesadilla",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flour Tortilla layered with Cheese, served with Tomato Salsa, Avocado Mash, Sour Cream and Pickled Jalape\u00f1os. Add Shredded Chicken, Ground Beef, or Impossible\u2122 Beef or substitute Vegan Cheese at an additional cost."
+            },
+            {
+              "title": "Chicken Fingers",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Four (4) Chicken Tenders served with your choice of Fresh Fruit or Tater Tots"
+            },
+            {
+              "title": "Chicken Caprese Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken Breast, Tomato, fresh Mozzarella, Nut-free Pesto, Balsamic Glaze, Ciabatta Roll"
+            },
+            {
+              "title": "West Coast Dog",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacon-wrapped Wagyu Hot Dog, Onion, Peppers, A\u00efoli, Ketchup, Pickled Jalape\u00f1os, Hot Dog Bun"
+            },
+            {
+              "title": "Smashed Burger",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two (2) Smashed 4-oz Beef Patties, Special Sauce, Shredded Lettuce, American Cheese, Pickles, and Caramelized Onions on a Hawaiian Roll. Substitute Lettuce Wrap and Gluten-free Bun at an additional cost."
+            }
+          ]
+        },
+        {
+          "name": "Little Nibblers",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Cheese",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Country White Bread with Melted American Cheese, served with choice of Seasonal Fruit or Tater Tots"
+            },
+            {
+              "title": "Cheese Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "add Pepperoni at an additional cost"
+            },
+            {
+              "title": "Dogs & Tots",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wagyu Beef Hot Dog on a Steamed Bun"
+            }
+          ]
+        },
+        {
+          "name": "Frozen Refreshments",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Root Beer Float",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "classic Root Beer, Vanilla Ice Cream"
+            },
+            {
+              "title": "Cold Brew Float",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cafe Moto Cold Brew, Vanilla Ice Cream, Whipped Cream"
+            },
+            {
+              "title": "Creamsicle Float",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fanta\u00ae Orange, Vanilla Ice Cream"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fountain Drinks",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Ginger Ale, Root Beer, Orange Fanta\u00ae, Shirley Temple"
+            },
+            {
+              "title": "Juice - Small",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange, Pineapple, Cranberry, Grapefruit"
+            },
+            {
+              "title": "Juice - Large",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange, Pineapple, Cranberry, Grapefruit"
+            },
+            {
+              "title": "Horizon Milk",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Chocolate"
+            },
+            {
+              "title": "DASANI\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cafe Moto Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sanpellegrino\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limonata or Aranciata"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Firestone Walker 805",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lagunitas IPA",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Premier",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Heineken\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Excelsior Imperial Mango Cider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Truly\u00ae Hard Seltzer Wild Berry",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Summer Water Droplets",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bev Blanc",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bev Glitz",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hard Reboot",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Limoncello Float",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon Sorbet, Limoncello, Sparkling Wine, Limonata Soda, Crushed Lemon Candy"
+            },
+            {
+              "title": "Melon Mojito",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Light Rum, Midori, Mint, Lime, Soda"
+            },
+            {
+              "title": "EL Camino",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gin, Blood Orange, Grapefruit Juice, Simple Syrup"
+            },
+            {
+              "title": "Pour Values",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jameson, St. Germaine, Aperol, Lemon Juice, Simple Syrup"
+            },
+            {
+              "title": "The Wedge",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Blue Cura\u00e7ao, Pineapple Juice, Orange Juice, Agave, Lime, Mezcal Float"
+            },
+            {
+              "title": "Blackberry Bourbon Smash",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bourbon, Domaine de Canton, Blackberries, Ginger Beer"
+            },
+            {
+              "title": "Michelada",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "12-oz choice of Beer, House Michelada Mix, Chamoy, Taj\u00edn"
+            },
+            {
+              "title": "Frozen Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "add Raspberry or Mango Flavor Shot at an additional cost"
+            },
+            {
+              "title": "Pi\u00f1a Colada",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "add Raspberry or Mango Flavor Shot at an additional cost"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Chips & Bits",
+        "desktop": "Chips & Bits"
+      },
+      {
+        "mobile": "Lyte Bytes",
+        "desktop": "Lyte Bytes"
+      },
+      {
+        "mobile": "Mega Bytes",
+        "desktop": "Mega Bytes"
+      },
+      {
+        "mobile": "Little Nibblers",
+        "desktop": "Little Nibblers"
+      },
+      {
+        "mobile": "Frozen Refreshments",
+        "desktop": "Frozen Refreshments"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Hard Reboot",
+        "desktop": "Hard Reboot"
+      }
+    ]
+  }
+}

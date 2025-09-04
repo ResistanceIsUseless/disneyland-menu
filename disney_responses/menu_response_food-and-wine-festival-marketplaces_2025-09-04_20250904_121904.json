@@ -1,0 +1,49 @@
+{
+  "name": "Festival Marketplaces at the Disney California Adventure Food & Wine Festival",
+  "location": "Disney California Adventure Park",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Food and Beverages at Festival Marketplaces",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Please check closer to the event for an updated menu.",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Food and Beverages at Festival Marketplaces",
+        "desktop": "Food and Beverages at Festival Marketplaces"
+      }
+    ]
+  }
+}

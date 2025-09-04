@@ -1,0 +1,974 @@
+{
+  "name": "Festival Marketplaces at the Disney California Adventure Food & Wine Festival",
+  "location": "Disney California Adventure Park",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Food at California Craft Brews",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lemon Pepper Wings",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Garlic Ranch"
+            },
+            {
+              "title": "Sloppy Joe Slider featuring Impossible\u2122 Beef ",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Cheese"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages at California Craft Brews",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mango Guava Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Mango Pur\u00e9e, Guava Nectar, Cucumber Syrup and Lemon Juice, garnished with a Rainbow Sour Belt Gummy"
+            },
+            {
+              "title": "Chapman Crafted Orange Plaza Pale",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chapman Crafted Beer, Pale Ale, Orange, CA, ABV 5.4%"
+            },
+            {
+              "title": "Stereo Brewing A More Perfect Day Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Stereo Brewing Company, Double IPA, Placentia, CA, ABV 8.8%"
+            },
+            {
+              "title": "Noble Ale Works Flamigle Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Noble Ale Works, Pink Lemonade Hard Seltzer, Anaheim, CA, ABV 6.9%"
+            },
+            {
+              "title": "Green Cheek Guava In Berlin Berliner-style Weisse",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Green Cheek Beer Company, Fruited Berliner-style Weisse, Orange, CA, ABV 3.5%"
+            },
+            {
+              "title": "Spring Beer Flight",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Green Cheek Guava In Berlin Berliner Weisse, Stereo Brewing A More Perfect Day Double IPA, Chapman Crafted Orange Plaza Pale, Noble Ale Flamingle Hard Seltzer"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at California Craft Brews",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "California Punch",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mango Pur\u00e9e, Guava Nectar, Cucumber Syrup and Lemon Juice, garnished with a Mango Chile Lollipop"
+            },
+            {
+              "title": "DASANI\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Food at Cluck-a-Doodle-Moo",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Asa'DOS",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Skirt Steak and Chipotle Chicken with Spanish Rice and Salsa Verde"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages at Cluck-a-Doodle-Moo",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "A\u00e7ai Passion Tea-ki Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pineapple Rum, Dark Rum, Passion Fruit Syrup, Joffrey's Coffee & Tea Co.\u00ae A\u00e7ai Black Tea and Lime Juice, garnished with a Skewered Luxardo Cherry and Pineapple Wedge"
+            },
+            {
+              "title": "Estrella Jalisco Mexican Lager",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Estrella Jalisco Mexican Lager ABV 4.5% Mexico"
+            },
+            {
+              "title": "Estrella Jalisco Michelada",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Estrella Jalisco Michelada garnished with a Tajin\u00ae Rim and a Lime"
+            },
+            {
+              "title": "Golden Road Ride On Tropical Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Road Brewing Company, Hazy IPA, Los Angeles, CA, ABV 7.2%"
+            },
+            {
+              "title": "LA Bodega K\u00f6ltura K\u00f6lsch",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "LA Bodega Brewing Company, K\u00f6lsch, Whittier, CA, ABV 4.8%"
+            },
+            {
+              "title": "Russian River Blind Pig IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Russian River Brewing Company, IPA, Santa Rosa, CA, ABV 6.25%"
+            },
+            {
+              "title": "Study Break LA Punch Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Study Break Beverage Company, Hard Seltzer, Los Angeles, CA, ABV 6.5%"
+            },
+            {
+              "title": "Festival Beer Flight",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Russian River Blind Pig IPA, LA Bodega K\u00f6ltura K\u00f6lsch, Golden Road Ride On Tropical Hazy IPA, Study Break LA Punch Hard Seltzer"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cluck-a-Doodle-Moo",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Food at Garlic Kissed",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sirloin Gruy\u00e9re Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Black Garlic Chimichurri and Garlic Butter Crunch"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at Garlic Kissed",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guava-Lychee Mule",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Guava Nectar, Ginger & Lychee Syrups, Lemon Juice and ACE Guava Hard Cider, garnished with a Lemon Wheel"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Garlic Kissed",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Huckleberry-Citrus Cooler",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Huckleberry & Agave Syrups, Grapefruit Soda, Lemon & Orange Juices and Gold Peak\u00ae Black Tea, garnished with an Orange Wedge"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Food at Golden Dreams",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Musubi Fried Rice brought to you by Disney Vacation Club\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "AULANI Resort-inspired Steamed Rice with Egg, Glazed Spiced Ham, Umami Mayo and Furikake"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based at Golden Dreams",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cherry Cobbler Pot de Cr\u00e8me ",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Custard, Cherry Filling and Oat Crumble"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Golden Dreams",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Blueberry Pancake Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Joffrey's Coffee & Tea Co.\u00ae Mexico Origin Coffee, Oat Milk, Demerara, Maple & Brown Butter Syrups, topped with Blueberry Sweet Cream, garnished with Cinnamon-flavored Cereal Crumble"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Food at LA Style",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Western BBQ Burger Bao",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Sweet Barbecue Sauce, Nueske's\u00ae Applewood Smoked Bacon and Crispy Onions"
+            },
+            {
+              "title": "Mini LA Street Dog",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Jalape\u00f1o Mayo, Pepper & Onion Relish and Nueske's\u00ae Applewood Smoked Bacon"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at LA Style",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cantarito-Style Paloma",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Reposado Tequila, Lime & Habanero-infused Pineapple Juices, Rock Melon Syrup, Fresca\u00ae, garnished with a Pineapple Wheel and Taj\u00edn\u00ae"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at LA Style",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Food at Mercado de Antojos",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Birria Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Onion-Cilantro Sauce and Tortilla Crunch"
+            },
+            {
+              "title": "Caf\u00e9 de Olla Tres Leches Cake",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caf\u00e9 De Olla-infused Tres Leches topped with Piloncillo Chantilly, Cinnamon and a Mickey-shaped Cookie"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at Mercado de Antojos",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Watermelon Cucumber Mojito",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Rum, Watermelon Liqueur, Mojito & Cucumber Syrups, Watermelon Pur\u00e9e and Lime Juice, topped with Topo Chico\u00ae, garnished with Watermelon and Taj\u00edn\u00ae Twist"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Mercado de Antojos",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Raspberry Horchata",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Raspberry, Almond & Cinnamon Syrups, Rice Pudding, Milk and Condensed Milk, garnished with Skewered Raspberries"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Food at Peppers Cali-ente",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Shrimp Papas Locas",
+              "prices": [
+                {
+                  "withoutTax": 9.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cheddar-Bacon Potatoes with Jalape\u00f1o Cheese Sauce and Spicy Shrimp featuring Taj\u00edn\u00ae Chile Lime Sauce"
+            },
+            {
+              "title": "Corn Chip Chili Pie featuring Impossible\u2122 Beef ",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasoned Impossible\u2122 Beef, Spicy Cheese Sauce, Tomatoes, Sliced Jalape\u00f1os and Crema"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at Peppers Cali-ente",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pickle Whiskey Sour Cocktail ",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bourbon, Pickle Juice, Lime Juice, Sweet & Sour, garnished with Taj\u00edn\u00ae Chile Lime Sauce, Taj\u00edn\u00ae and a Pickle Spear"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Peppers Cali-ente",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Food at Uncork California",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey-shaped Macaron made with SNICKERS\u00ae bar pieces",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Mickey-shaped Macaron filled with Caramel Ganache, made with SNICKERS\u00ae bar pieces"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages at Uncork California",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lychee Melon Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Wine Apertif, Vodka, Lychee & Lime Juices and Rock Melon Syrup, garnished with a Skewered Lychee"
+            },
+            {
+              "title": "Green Apple Slush Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Green Apple BeatBox, Blue Cura\u00e7ao Syrup, Melon Liqueur, Kiwi Pur\u00e9e and Lime Juice, garnished with a Shark Gummy"
+            },
+            {
+              "title": "California Wine Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Wine, Gin, Peach Pur\u00e9e, Lemon Juice and Blue Cura\u00e7ao Syrup, garnished with a Blue Rock Candy"
+            },
+            {
+              "title": "Strawberry and Cola Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Central Coast Pinot Noir, Whiskey, Italian Amaro, Coca-Cola\u00ae, Strawberry Pur\u00e9e and Lime Juice, garnished with a Skewered Lime Gummy"
+            },
+            {
+              "title": "Cocktail Flight",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lychee Melon Cocktail, California Wine Cocktail, Strawberry and Cola Cocktail"
+            },
+            {
+              "title": "Kendall-Jackson, Vintner's Reserve",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chardonnay, CA"
+            },
+            {
+              "title": "Duckhorn Vineyards",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sauvignon Blanc, North Coast, CA"
+            },
+            {
+              "title": "Daou Vineyards, Chemin de Fleurs",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, CA"
+            },
+            {
+              "title": "J. Lohr Vineyards, Seven Oaks",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cabernet Sauvignon, Paso Robles, CA"
+            },
+            {
+              "title": "Silverado Vineyards, Mt. George",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Merlot, Napa Valley, CA"
+            },
+            {
+              "title": "Presqu'ile Winery",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Syrah, Santa Maria Valley, CA"
+            },
+            {
+              "title": "J Vineyards & Winery, J Cuv\u00e9e",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sparkling Wine, Sonoma, CA"
+            },
+            {
+              "title": "White Wine Flight",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kendall-Jackson, Chardonnay Duckhorn Vineyards, Sauvignon Blanc Daou Vineyards, Chemin de Fleurs"
+            },
+            {
+              "title": "Red Wine Flight",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "J. Lohr Vineyards, Cabernet Sauvignon Silverado Vineyards, Mt. George Merlot Presqu'ile Winery, Syrah"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Uncork California",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

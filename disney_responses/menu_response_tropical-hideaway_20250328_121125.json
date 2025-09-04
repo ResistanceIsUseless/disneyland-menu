@@ -1,0 +1,289 @@
+{
+  "name": "The Tropical Hideaway",
+  "location": "Disneyland Park, Adventureland",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings ",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pineapple-Orange-Guava Tropical Float",
+              "prices": [
+                {
+                  "withoutTax": 9.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip\u00ae Strawberry and Mango Swirl, topped with Tropical Fruit"
+            },
+            {
+              "title": "Chile-Mango Whip Swirl",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chamoy, Mango, Chile-Lime seasoning"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DOLE Whip\u00ae Float",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE\u00ae Pineapple Juice topped with DOLE Whip\u00ae Pineapple Soft Serve"
+            },
+            {
+              "title": "DOLE Whip\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip\u00ae Soft Serve"
+            },
+            {
+              "title": "DOLE Whip\u00ae Swirl Float",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE\u00ae Pineapple Juice topped with choice of two different DOLE Whip\u00ae flavors: Strawberry, Pineapple or Mango"
+            },
+            {
+              "title": "DOLE Whip\u00ae Swirl",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip\u00ae Soft Serve"
+            }
+          ]
+        },
+        {
+          "name": "Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lumpia",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shrimp and Chive Potstickers",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crispy Chile-Garlic Sauce, Fresh Herbs and Lime"
+            },
+            {
+              "title": "Lime Chicken Bao",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Butternut Squash, fresh Herbs"
+            },
+            {
+              "title": "Char Siu Bao",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet sticky Roasted Pork, in a sweet BBQ Sauce dusted with Paprika"
+            },
+            {
+              "title": "Trio of Baos",
+              "prices": [
+                {
+                  "withoutTax": 17.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of Lime Chicken or Char Siu, in any combination, includes Bao Sauce"
+            },
+            {
+              "title": "Side of Bao Sauce",
+              "prices": [
+                {
+                  "withoutTax": 1.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Grab and Go",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "MAUI STYLE\u00ae Maui Onion Flavored Potato Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "FUNYUNS\u00ae FLAMIN' HOT\u00ae Flavored Onion Flavored Rings",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DORITOS\u00ae COOL RANCH\u00ae Flavored Tortilla Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "SUNCHIPS\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "LAY'S\u00ae Baked Original Potato Crisps",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "LAY'S\u00ae Salt and Vinegar Flavored Potato Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "name": "Paradise Garden Grill",
+  "location": "Disney California Adventure Park, Paradise Gardens Park",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 18.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Coco Floral Skull Sipper",
+              "prices": [
+                {
+                  "withoutTax": 20.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Lunar New Year Mickey Shaped Light-Up Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Lunar New Year Stainless Steel Tumbler ",
+              "prices": [
+                {
+                  "withoutTax": 27.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Taquitos Ahogados",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in Salsa Verde, with Spanish Rice, Avocado Crema, Sour Cream, Pickled Onion, Cotija and Cilantro"
+            },
+            {
+              "title": "Al Pastor Tacos ",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pineapple-Achiote-marinated Pork with Avocado Spread and Tomatillo Salsa, served with Spanish Rice and Refried Beans, topped with Queso Fresco"
+            },
+            {
+              "title": "Pescado Zarandeado",
+              "prices": [
+                {
+                  "withoutTax": 29.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Whole Grilled Fish with Corn Tortillas, Refried Beans, Spanish Rice, Zesty Slaw, Pickled Vegetables and a side of Chips and Salsa"
+            },
+            {
+              "title": "Esquite Loaded Chips ",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chile Lime Chips smothered in Corn Kernels, Cotija Cheese, Chile-Lime Seasoning and Crema"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Huarache  ",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Soy-based Chorizo Beans and Seasoned Steak Tips, topped with Lettuce, Cheese, Avocado Crema and Tomatillo Salsa, served with Spanish Rice and Refried Beans topped with Nopales Pico de Gallo"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Quesadilla",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Whole Wheat Tortilla filled with Jack and Cheddar, served with a Cuties\u00ae Mandarin Orange and Applesauce, with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Street-style Taco ",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Al Pastor Taco in a Corn Tortilla, served with Spanish Rice and Refried Beans and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lime Parfait",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Layers of Graham Cracker Crust, Lime Cream Cheese Mousse and Lime-Orange Gel\u00e9e, topped with Chantilly"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brewery X Hard Peach Tea Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brewery X, Anaheim, CA, ABV 5%"
+            },
+            {
+              "title": "Cantarito-Style Paloma",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Reposado Tequila, Habanero-infused Pineapple Juice, Rock Melon Syrup, Lime Juice and Fresca\u00ae, garnished with a Pineapple Wheel and Taj\u00edn\u00ae"
+            },
+            {
+              "title": "4 Sons Lucky Dragon IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "American IPA (ABV 6.0%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Play in the Park Tumbler ",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

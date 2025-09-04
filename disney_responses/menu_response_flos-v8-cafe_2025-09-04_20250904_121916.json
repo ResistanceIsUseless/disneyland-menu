@@ -1,0 +1,1718 @@
+{
+  "name": "Flo's V8 Cafe",
+  "location": "Disney California Adventure Park, Cars Land",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    },
+    {
+      "name": "Special",
+      "label": "Special"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spicy Chicken & Fries",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fries topped with Chicken Tenders tossed in a Mango-Habanero Sauce, drizzled with Ranch Dressing and finished with Green Onions"
+            },
+            {
+              "title": "Flo's Famous Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 19.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Race Day Salad ",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Romaine Lettuce topped with Golden Crispy Chicken, Crisp Snap Peas, Shaved Carrot, Zesty Ranch Dressing, Shredded Parmesan and Chopped Bacon"
+            },
+            {
+              "title": "Pastrami Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sliced Deli-style Pastrami, Swiss Cheese, Pickle Chips, Shredded Lettuce and Mustard on Fresh-sliced Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Ka-Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Impossible\u2122 Burger",
+              "prices": [
+                {
+                  "withoutTax": 14.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Micro Burger",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Fenders",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Mack's Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Flo's Classic Shake",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Flo's Classic Shake in Souvenir Glass",
+              "prices": [
+                {
+                  "withoutTax": 16.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cars Land souvenir Shake glass served with Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Fries ",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seaborn Blackberry Margarita",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blackberry Margarita with a Chile-Lime and Black Salt Rim San Diego, CA (ABV 10%) served over ice"
+            },
+            {
+              "title": "Seaborn Pineapple Habanero Margarita",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pineapple, Mild Habanero Margarita with a Chile-Lime Rim San Diego, CA (ABV 10%) served over Ice"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Reusable Cutlery Set",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly  Impossible\u2122 Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickles on an Allergy-Friendly Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on an Allergy-Friendly Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Patty on an Allergy-friendly Roll with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake without \"Road Gravel\""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Flo's Classic Shake in Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake with a Cars Land souvenir Shake glass without \"Road Gravel\""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Ka-Cheese Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on an Allergy-Friendly Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Impossible\u2122 Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Egg Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Egg Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Egg Allergy-Friendly Ka-Cheese Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato and Pickles on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Impossible\u2122  Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Ka-Cheese Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Classic Hamburger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Impossible\u2122  Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 \u00a0Patty, Red Onions, Shredded Lettuce, Tomato and Pickles on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Peanut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Allergy-Friendly Impossible\u2122 Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Caramelized Onions, Lettuce and Tomato on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy Friendly Impossible\u2122  Burger  ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Ka-Cheese Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Pastrami Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Impossible\u2122  Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken Strips with a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Beverage"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Classic Shake in a Souvenir Glass ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cars Land souvenir Shake glass served with Vanilla, Chocolate or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Ka-Cheese Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Patty on an Allergy-friendly Roll with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Soy Allergy-Friendly Pastrami Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Soy Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake without \"Road Gravel\""
+            },
+            {
+              "title": "Soy Allergy-Friendly Flo's Classic Shake in Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake with a Cars Land souvenir Shake glass without \"Road Gravel\""
+            },
+            {
+              "title": "Soy Allergy-Friendly Ka-Cheese Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "label": "Special",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spicy Chicken & Fries",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fries topped with Chicken Tenders tossed in a Mango-Habanero Sauce, drizzled with Ranch Dressing and finished with Green Onions"
+            },
+            {
+              "title": "Flo's Famous Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 19.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Race Day Salad ",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Romaine Lettuce topped with Golden Crispy Chicken, Crisp Snap Peas, Shaved Carrot, Zesty Ranch Dressing, Shredded Parmesan and Chopped Bacon"
+            },
+            {
+              "title": "Pastrami Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sliced Deli-style Pastrami, Swiss Cheese, Pickle Chips, Shredded Lettuce and Mustard on Fresh-sliced Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Ka-Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Impossible\u2122 Burger",
+              "prices": [
+                {
+                  "withoutTax": 14.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Micro Burger",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Fenders",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Mack's Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Flo's Classic Shake",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Flo's Classic Shake in Souvenir Glass",
+              "prices": [
+                {
+                  "withoutTax": 16.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cars Land souvenir Shake glass served with Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Fries ",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seaborn Blackberry Margarita",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blackberry Margarita with a Chile-Lime and Black Salt Rim San Diego, CA (ABV 10%) served over ice"
+            },
+            {
+              "title": "Seaborn Pineapple Habanero Margarita",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pineapple, Mild Habanero Margarita with a Chile-Lime Rim San Diego, CA (ABV 10%) served over Ice"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Reusable Cutlery Set",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly  Impossible\u2122 Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickles on an Allergy-Friendly Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on an Allergy-Friendly Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Patty on an Allergy-friendly Roll with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake without \"Road Gravel\""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Flo's Classic Shake in Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake with a Cars Land souvenir Shake glass without \"Road Gravel\""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Ka-Cheese Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on an Allergy-Friendly Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Impossible\u2122 Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Egg Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Egg Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Egg Allergy-Friendly Ka-Cheese Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato and Pickles on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Impossible\u2122  Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Ka-Cheese Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Classic Hamburger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Impossible\u2122  Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 \u00a0Patty, Red Onions, Shredded Lettuce, Tomato and Pickles on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Peanut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Allergy-Friendly Impossible\u2122 Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Caramelized Onions, Lettuce and Tomato on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy Friendly Impossible\u2122  Burger  ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy Friendly Pastrami Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Ka-Cheese Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Pastrami Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Impossible\u2122  Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Red Onions, Shredded Lettuce, Tomato and Pickle Chips on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken Strips with a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Beverage"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Classic Shake in a Souvenir Glass ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cars Land souvenir Shake glass served with Vanilla, Chocolate or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Ka-Cheese Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Patty on an Allergy-friendly Roll with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Soy Allergy-Friendly Pastrami Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastrami with Pickles, Shredded Lettuce and Mustard on Rye Bread, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            },
+            {
+              "title": "Soy Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake without \"Road Gravel\""
+            },
+            {
+              "title": "Soy Allergy-Friendly Flo's Classic Shake in Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake with a Cars Land souvenir Shake glass without \"Road Gravel\""
+            },
+            {
+              "title": "Soy Allergy-Friendly Ka-Cheese Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, American Cheese, Red Onions, Lettuce, Tomato, Pickles and 1000 Island on a Toasted Bun, served with choice of Cuties\u00ae Mandarin Oranges or Fries"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Kids' Meal",
+        "desktop": "Kids' Meal"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut Allergy-Friendly",
+        "desktop": "Peanut Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Kids' Meal",
+        "desktop": "Kids' Meal"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut Allergy-Friendly",
+        "desktop": "Peanut Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ]
+  }
+}

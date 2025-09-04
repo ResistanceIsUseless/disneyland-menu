@@ -1,0 +1,1903 @@
+{
+  "name": "Jolly Holiday Bakery Cafe",
+  "location": "Disneyland Park, Main Street, U.S.A.",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Toffee-Nut Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Toffee-Nut Syrup and Vanilla Foam"
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 18.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Coco Floral Skull Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 20.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Princess Tiana Sipper",
+              "prices": [
+                {
+                  "withoutTax": 21.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit five (5) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Assorted Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Donald Macaron",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Cherry Buttercream and Vanilla Bean Cr\u00e8me"
+            },
+            {
+              "title": "Banoffee Tart",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Graham Tart Shell filled with a layer of Dulce de Leche, Banana Diplomat Cream and Fresh Bananas, topped with Vanilla Bean Chantilly and Toffee Bits"
+            },
+            {
+              "title": "Chocolate Mousse Brownie",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Chip Brownie, Dark Chocolate Ganache, White Chocolate Mousse, Crunchy Chocolate Pearls and White Chocolate Decoration"
+            },
+            {
+              "title": "Mickey-shaped Cookie",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shortbread Cookie dipped in Dark Chocolate with a Mickey Face"
+            },
+            {
+              "title": "Pineapple Bundt Cake",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Brown Sugar Crunch, topped with Pineapple Mousse and finished with a Cherry"
+            },
+            {
+              "title": "S'mores Tart",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Graham Cracker Shell filled with Dulce de Leche, Chocolate Sponge and Chocolate Ganache, topped with a Toasted Marshmallow"
+            },
+            {
+              "title": "Strawberry-stuffed Croissant",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberries, Pastry Cream, Strawberry Coulis and Powdered Sugar"
+            },
+            {
+              "title": "Matterhorn Macaroon",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinnamon Roll",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh-baked Cinnamon roll served warm and topped with Cream Cheese Icing"
+            },
+            {
+              "title": "Side of Cream Cheese Icing",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Chocolate Chip Muffin",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Butter Croissant",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Soft flaky Pastry"
+            },
+            {
+              "title": "Milk Chocolate Croissant",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "flaky Pastry filled with Chocolate"
+            },
+            {
+              "title": "Mickey-shaped Sugar Cookie",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus Shortbread Cookie"
+            },
+            {
+              "title": "Chocolate Chip Cookie",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "House Specialties",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jolly Holiday Combo",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich with Tomato Basil Soup"
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Specialties",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bacon & Egg Croissant",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "flaky Croissant filled with Egg, Bacon, Cheese, and Hollandaise Sauce"
+            },
+            {
+              "title": "Bacon & Egg Croissant with Fruit",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flaky Croissant filled with Egg, Bacon, Cheese and Hollandaise Sauce, served with a Cuties\u00ae Mandarin Orange"
+            },
+            {
+              "title": "Yogurt Parfait",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fruit and Vanilla Yogurt topped with Granola"
+            }
+          ]
+        },
+        {
+          "name": "Espresso Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Espresso - Single",
+              "prices": [
+                {
+                  "withoutTax": 3.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Espresso - Double",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caff\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Iced Caff\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Iced Caff\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Caff\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Caramel Macchiato",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Iced Caramel Macchiato",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of food. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse-shaped Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light-up your beverage. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "rich Milk Chocolate flavor"
+            },
+            {
+              "title": "Specialty Tea",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweetened Iced Tea with Vanilla Whipped Cream"
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice - 16 oz",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Orange Juice - 16 oz",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Jolly Holiday Combo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich on an Allergy-friendly Bun with Tomato Basil Soup"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Chocolate Chip Cookie",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Blueberry Muffin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Jolly Holiday Combo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich with Tomato Basil Soup"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Blueberry Muffin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Jolly Holiday Combo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich with Tomato Basil Soup"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Jolly Holiday Combo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich with Tomato Basil Soup"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chocolate Chip Cookie",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Jolly Holiday Combo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich on an Allergy-friendly Bun with Tomato Basil Soup"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Blueberry Muffin ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Jolly Holiday Combo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich with Tomato Basil Soup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Toffee-Nut Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Toffee-Nut Syrup and Vanilla Foam"
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 18.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Coco Floral Skull Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 20.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Princess Tiana Sipper",
+              "prices": [
+                {
+                  "withoutTax": 21.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit five (5) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Assorted Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Donald Macaron",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Cherry Buttercream and Vanilla Bean Cr\u00e8me"
+            },
+            {
+              "title": "Banoffee Tart",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Graham Tart Shell filled with a layer of Dulce de Leche, Banana Diplomat Cream and Fresh Bananas, topped with Vanilla Bean Chantilly and Toffee Bits"
+            },
+            {
+              "title": "Chocolate Mousse Brownie",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Chip Brownie, Dark Chocolate Ganache, White Chocolate Mousse, Crunchy Chocolate Pearls and White Chocolate Decoration"
+            },
+            {
+              "title": "Mickey-shaped Cookie",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shortbread Cookie dipped in Dark Chocolate with a Mickey Face"
+            },
+            {
+              "title": "Pineapple Bundt Cake",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Brown Sugar Crunch, topped with Pineapple Mousse and finished with a Cherry"
+            },
+            {
+              "title": "S'mores Tart",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Graham Cracker Shell filled with Dulce de Leche, Chocolate Sponge and Chocolate Ganache, topped with a Toasted Marshmallow"
+            },
+            {
+              "title": "Strawberry-stuffed Croissant",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberries, Pastry Cream, Strawberry Coulis and Powdered Sugar"
+            },
+            {
+              "title": "Matterhorn Macaroon",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinnamon Roll",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh-baked Cinnamon roll served warm and topped with Cream Cheese Icing"
+            },
+            {
+              "title": "Side of Cream Cheese Icing",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Chocolate Chip Muffin",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Butter Croissant",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Soft flaky Pastry"
+            },
+            {
+              "title": "Milk Chocolate Croissant",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "flaky Pastry filled with Chocolate"
+            },
+            {
+              "title": "Mickey-shaped Sugar Cookie",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus Shortbread Cookie"
+            },
+            {
+              "title": "Chocolate Chip Cookie",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "House Specialties",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jolly Holiday Combo",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toasted Cheese Sandwich with Tomato Basil Soup"
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beef Birria Toasted Cheese",
+              "prices": [
+                {
+                  "withoutTax": 15.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pepper Jack, Onion, Cilantro and Salsa Verde on Sourdough, served with Consom\u00e9"
+            },
+            {
+              "title": "Turkey on Ciabatta",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tomato, Lettuce and Honey-Mustard A\u00efoli served with House-made Chips"
+            },
+            {
+              "title": "Toasted Cheese",
+              "prices": [
+                {
+                  "withoutTax": 9.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Melted White Cheddar and Cheddar Cheese on Toasted Sourdough Bread"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cranberry-Pecan Salad",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Spiced Pecans, Feta, Tomatoes, Dried Cranberries, Strawberry Vinaigrette, and a fresh Breadstick"
+            },
+            {
+              "title": "Breadstick",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "warm Garlic & Herb Breadstick"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jolly Chopped Salad",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Chopped Deli Meats, Italian Relish, Garbanzos and Olives with Creamy Italian Vinaigrette\u200b and a fresh Breadstick"
+            },
+            {
+              "title": "Cuties\u00ae Mandarin Orange",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Soup",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tomato Basil Soup served with a fresh Breadstick"
+            },
+            {
+              "title": "Side of Fruit",
+              "prices": [
+                {
+                  "withoutTax": 2.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasonal Fruit"
+            },
+            {
+              "title": "House-made Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Turkey Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Yogurt Smoothie, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for complete Meals without Substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Macaroni and Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Yogurt Smoothie, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Espresso Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Espresso - Single",
+              "prices": [
+                {
+                  "withoutTax": 3.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Espresso - Double",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caff\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Iced Caff\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Iced Caff\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Caff\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Caramel Macchiato",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Iced Caramel Macchiato",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of food. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse-shaped Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light-up your beverage. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "rich Milk Chocolate flavor"
+            },
+            {
+              "title": "Specialty Tea",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweetened Iced Tea with Vanilla Whipped Cream"
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice - 16 oz",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Orange Juice - 16 oz",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Oven-roasted Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oven-roasted Turkey on an Allergy-friendly Bun with Tomato, Lettuce and Honey-Mustard A\u00efoli served with House-made Chips or Fruit"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Toasted Cheese Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served on an Allergy-friendly Bun"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Toasted Cheese Sandwich with Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served on an Allergy-friendly Bun"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with an Allergy-friendly Roll"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Blueberry Muffin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Chocolate Chip Cookie",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit and Carrots on Allergy-friendly Bread with choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Toasted Cheese Sandwich on Sourdough",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Toasted Cheese Sandwich with Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a fresh Breadstick"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Cranberry-Pecan Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Spiced Pecans, Feta, Tomatoes, Dried Cranberries, Strawberry Vinaigrette, and a fresh Breadstick"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Tomatoes and Lettuce, Seasonal Fruit and Carrots, choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Blueberry Muffin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Smoked Turkey on Ciabatta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato, Lettuce and Honey-Mustard A\u00efoli served with House-made Chips"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Toasted Cheese Sandwich with Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a fresh Breadstick"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based Cranberry-Pecan Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Spiced Pecans, Feta, Tomatoes, Dried Cranberries, Strawberry Vinaigrette, and a fresh Breadstick"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Tomatoes and Lettuce, Seasonal Fruit and Carrots, choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Macaroni and Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit and Carrots and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Smoked Turkey on Ciabatta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato, Lettuce and Honey-Mustard A\u00efoli served with House-made Chips"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Cranberry-Pecan Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Spiced Pecans, Feta, Tomatoes, Dried Cranberries, Strawberry Vinaigrette, and a fresh Breadstick"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Tomato, Lettuce, Seasonal Fruit and Carrots with Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Blueberry Muffin ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Smoked Turkey Sandwich on Ciabatta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato, Lettuce and Honey-Mustard A\u00efoli served with House-made Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Toasted Cheese Sandwich on Sourdough",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Toasted Cheese Sandwich with Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a fresh Breadstick"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chocolate Chip Cookie",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato and Lettuce served with Seasonal Fruit and Carrots and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Macaroni and Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit and Carrots and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Blueberry Muffin ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Smoked Turkey on Ciabatta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato, Lettuce and Honey-Mustard A\u00efoli served with House-made Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Toasted Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted White Cheddar and Cheddar Cheese on Toasted Sourdough Bread"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Toasted Cheese Sandwich with Tomato-Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a fresh Breadstick"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Plant-based Cranberry-Pecan Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Spiced Pecans, Feta, Tomatoes, Dried Cranberries, Strawberry Vinaigrette, and fresh Breadstick"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Turkey Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruits, Carrots and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Macaroni and Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Yogurt Smoothie, Carrots and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Toasted Cheese Sandwich with Tomato Basil Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served on an Allergy-friendly Bun"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

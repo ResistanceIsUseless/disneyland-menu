@@ -1,0 +1,713 @@
+{
+  "name": "Rancho del Zocalo Restaurante",
+  "location": "Disneyland Park, Frontierland",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Rancho del Zocalo Restaurante Seasonal Offering",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limit ten (10) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Trio of Street Tacos ",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beef, Chicken and Soy Chorizo con Papa Tacos served in Corn Tortillas with Tomatillo Sauce, garnished with Onions and Cilantro"
+            },
+            {
+              "title": "Burrito Sonora with Beef ",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Tortilla Chips"
+            },
+            {
+              "title": "Sonora Bowl with Beef",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beef served in a Bowl with Rice or Beans, topped with Salsa Fresca, Sour Cream and Cotija Cheese"
+            },
+            {
+              "title": "Burrito Sonora with Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Tortilla Chips"
+            },
+            {
+              "title": "Sonora Bowl with Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken served in a Bowl with Rice or Beans, topped with Salsa Fresca, Sour Cream and Cotija Cheese"
+            },
+            {
+              "title": "Pollo Asado",
+              "prices": [
+                {
+                  "withoutTax": 16.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Achiote-marinated Half Chicken with Rice, Beans, Curtido Slaw and Flour Tortillas"
+            },
+            {
+              "title": "Carne Asada Fries",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fries topped with Spicy Cheese Sauce, Beans, Avocado Salsa, Carne Asada and Chipotle-Lime Crema"
+            },
+            {
+              "title": "Esquite Bowl ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Corn with Chipotle Cream, Crispy Corn, Cilantro and Cotija Cheese"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Soy Chorizo con Papa Tacos ",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Salsa Fresca, topped with Onions and Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rancho del Zocalo Chicken Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Diced Achiote-marinated Chicken Breast, Romaine Lettuce, Crunchy Corn Kernels, Pepitas and Cotija Cheese"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crispy Chips con Lim\u00f3n",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crispy Chips con Lim\u00f3n with Salsa",
+              "prices": [
+                {
+                  "withoutTax": 6.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Mexican Rice",
+              "prices": [
+                {
+                  "withoutTax": 2.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Refried Beans",
+              "prices": [
+                {
+                  "withoutTax": 2.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Corn Tortillas",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Avocado Salsa Verde",
+              "prices": [
+                {
+                  "withoutTax": 2.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Sour Cream",
+              "prices": [
+                {
+                  "withoutTax": 1.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Tomatillo Sauce",
+              "prices": [
+                {
+                  "withoutTax": 1.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of Salsa Fresca ",
+              "prices": [
+                {
+                  "withoutTax": 1.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bean and Cheese Burrito",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Rice, Applesauce, Vegetables and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Chicken Taco",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Rice, Applesauce, Vegetables and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey-shaped Churro Cream Puff",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Cinnamon Pastry Cream, topped with a Cinnamon Craquelin and Cinnamon Sugar"
+            },
+            {
+              "title": "Churro Loops con Cajeta ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Churro Loops tossed with Spiced Cinnamon Sugar and served with Cajeta Caramel"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cucumber-Lime Agua Fresca",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tangy Guava Punch",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Lime Juice and Sweet Condensed Milk"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaf",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Pollo Asado ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Achiote-marinated Half Chicken with Rice, Beans, Curtido Slaw and Corn Tortillas"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Trio of Street Tacos ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Chicken and Soy Chorizo con Papa Tacos served in Corn Tortillas with Tomatillo Sauce, garnished with Onion and Cilantro."
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Pollo Asado ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Achiote-marinated Half Chicken with Rice, Beans, Curtido Slaw and Flour Tortillas"
+            },
+            {
+              "title": "Egg Allergy-Friendly Burrito Sonora with Chicken ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Chips"
+            },
+            {
+              "title": "Egg Allergy-Friendly Burrito Sonora with Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Chips"
+            },
+            {
+              "title": "Egg Allergy-Friendly Trio of Street Tacos ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Chicken and Soy Chorizo con Papa Tacos served in Corn Tortillas with Tomatillo Sauce, garnished with Onion and Cilantro."
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pollo Asado ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Achiote-marinated Half Chicken with Rice, Beans, Curtido Slaw and Flour Tortillas"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Burrito Sonora with Chicken ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Chips"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Burrito Sonora with Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Chips"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Burrito Sonora with Chicken ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde and Salsa Fresca wrapped in a Flour Tortilla, served with Chips"
+            },
+            {
+              "title": "Milk Allergy-Friendly Trio of Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Chicken and Soy Chorizo con Papa Tacos served in Corn Tortillas with Tomatillo Sauce, garnished with Onion and Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Burrito Sonora with Chicken ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Trio of Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Chicken and Soy Chorizo con Papa Tacos served in Corn Tortillas with Tomatillo Sauce, garnished with Onion and Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Burrito Sonora with Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Burrito Sonora with Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Beans, Rice, Avocado Salsa Verde, Salsa Fresca, Sour Cream and Cotija Cheese wrapped in a Flour Tortilla, served with Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Trio of Street Tacos ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Chicken and Soy Chorizo con Papa Tacos served in Corn Tortillas with Tomatillo Sauce, garnished with Onion and Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Pollo Asado ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Achiote-marinated Half Chicken with Rice, Beans, Curtido Slaw and Flour Tortillas"
+            },
+            {
+              "title": "Soy Allergy-Friendly Trio of Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef, Chicken and choice of Tacos served in Corn Tortillas with Tomatillo Sauce, garnished with Onion and Cilantro."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

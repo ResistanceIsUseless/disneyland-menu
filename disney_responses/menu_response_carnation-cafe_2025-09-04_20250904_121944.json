@@ -1,0 +1,2144 @@
+{
+  "name": "Carnation Cafe",
+  "location": "Disneyland Park, Main Street, U.S.A.",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Breakfast",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Skillet*",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Three-Cheese Egg, Breakfast Potatoes, Chopped Applewood smoked Bacon, Sliced Sausage and Shredded Cheese with a Fresh Tomato Garnish."
+            },
+            {
+              "title": "Veggie Skillet",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Three-Cheese Scrambled Eggs, Breakfast Potatoes, Onions, Mushrooms, Peppers and Spinach, topped with Shredded Cheese and Fresh Tomato Garnish"
+            },
+            {
+              "title": "Ham Steak ",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Griddled Ham, Three-Cheese Scrambled Eggs and Breakfast Potatoes \u200b"
+            },
+            {
+              "title": "Breakfast Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Three-Cheese Egg, Applewood-smoked Bacon and Cheddar on Brioche, served with Breakfast Potatoes"
+            },
+            {
+              "title": "Walt's Chili Cheese Omelet",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cheese Omelet topped with Chili, Cheese and Chives served with Breakfast Potatoes"
+            },
+            {
+              "title": "Mickey-shaped Waffle",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Applewood-smoked Bacon or Smoked Sausage"
+            },
+            {
+              "title": "Buttermilk Pancakes",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Applewood-smoked Bacon or Smoked Sausage with Seasonal Compote"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Silver Dollar Pancakes",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Mickey-shaped Waffles",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Breakfast Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Applewood-smoked Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine and Mimosas",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chandon, Sparkling Wine",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California"
+            },
+            {
+              "title": "Mimosa ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chandon Sparkling Wine with a choice of Orange Juice or Strawberry Syrup"
+            }
+          ]
+        },
+        {
+          "name": "Featured Wines by the Glass",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fess Parker, Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Barbara County"
+            },
+            {
+              "title": "Silver Palm Wines, Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California North Coast"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Bitters and Orange-infused Brown Sugar Syrup with Luxardo Cherry and Candied Orange Peel"
+            },
+            {
+              "title": "Tropical Rum Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Myers\u2019s Rum Original Dark, Pineapple, Orange & Lime Juices and Grenadine"
+            }
+          ]
+        },
+        {
+          "name": "Beers",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaten Oktoberfest",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Munich, Germany ABV 5.9%"
+            },
+            {
+              "title": "Elysian Brewing, Night Owl Pumpkin Ale",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seattle, Washington (ABV. 6.7%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaffeinated"
+            },
+            {
+              "title": "Twinings of London\u00ae Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Classic Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinnamon-spiced Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Cream Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Cream Cold Brew with Ice Cream",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Caf\u00e9 Specialties",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Breakfast Skillet*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Three-Cheese Scrambled Eggs, Allergy-Friendly Breakfast Potatoes, Chopped Applewood-smoked Bacon, Sliced Smoked Sausage and Shredded Cheese with a Fresh Tomato Garnish (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Veggie Skillet*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Three-Cheese Scrambled Eggs, Allergy-Friendly Breakfast Potatoes, Onions, Mushrooms, Peppers and Spinach, topped with Shredded Cheese and Fresh Tomato Garnish (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Ham Steak",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Griddled Ham, Three-Cheese Scrambled Eggs and Allergy-Friendly Breakfast Potatoes (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Breakfast Sandwich*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Three-Cheese Egg, Applewood-smoked Bacon and Cheddar on Gluten-Friendly Bun, served with Seasonal Fruit (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Walt's Chili Cheese Omelet",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese Omelet topped with Chili, Cheese and Chives served with Allergy-Friendly Breakfast Potatoes (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Mickey-shaped Waffle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Made with Allergy-Friendly Batter, served with Applewood-smoked Bacon or Smoked Sausage (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Buttermilk Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Applewood-smoked Bacon or Smoked Sausage with Seasonal Compote (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-Based ",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Sides",
+          "type": "Allergy Friendly|Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Applewood-smoked Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Smoked Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-friendly Kids' Meals",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey-shaped Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Made with Allergy-Friendly Batter, served with Applewood-smoked Bacon and Seasonal Fruit with a choice of Small DASANI\u00ae Water or Small Lowfat Milk.\u00a0(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Applewood-smoked Bacon and Seasonal Fruit with a choice of Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Starters",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Pickles",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-breaded Pickles served with House Sauce"
+            },
+            {
+              "title": "Walt's Chili",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hearty Chili topped with Cheese, Sour Cream, Chives and Cornbread Crisps"
+            },
+            {
+              "title": "Baked Potato Soup",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Fried Potato, Bacon, Cheddar, Monterey Jack, Sour Cream, and Chives"
+            }
+          ]
+        },
+        {
+          "name": "Gourmet Burgers",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Parmesan Toasted Patty Melt*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Monterey Jack, Grilled Onions and House Sauce on Toasted Parmesan Sourdough Bread served with your choice of fresh Fruit or Seasoned French Fries"
+            },
+            {
+              "title": "The Carnation Caf\u00e9 Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Cheddar, House-made Pickles, Vine-ripened Tomato, Red Onions, Lettuce, and House Sauce on a Brioche Bun served with your choice of fresh Fruit or Seasoned French Fries"
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches & Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Turkey Club Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey, Applewood-smoked Bacon, Vine-ripened Tomato, Monterey Jack, Lettuce, Avocado Mayonnaise and Lemon A\u00efoli on Toasted Sourdough, served with choice of fresh Fruit or Seasoned French Fries"
+            },
+            {
+              "title": "Fresh Catch of the Day ",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Chef's Selection of Sides"
+            },
+            {
+              "title": "Wedge Salad",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Iceberg Lettuce, Vine-ripened Tomato, Applewood-smoked Bacon, Blue Cheese Crumbles and Pickled Onions topped with Blue Cheese Dressing"
+            },
+            {
+              "title": "Chef's Salad ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chopped Ham, Chicken, Bacon, Cheddar Cheese, Chopped Egg, Tomato, Cucumber, Pickled Onion, Avocado, Croutons and Ranch Dressing \u200b"
+            },
+            {
+              "title": "Beef Stroganoff",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Beef, Bacon, Onions and Mushrooms over Egg Noodles"
+            },
+            {
+              "title": "Chicken-fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herbed Mashed Potatoes, Seasonal Vegetables and Country Gravy"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Carnation Garden Salad",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lettuce, Carrots, Cucumber, Radishes, Fennel, Tomatoes, Croutons and Green Goddess Dressing"
+            },
+            {
+              "title": "Hearty Veggie Burger",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Bean Patty, Vine-ripened Tomato, Chipotle Mayo, Slaw and Crispy Onions on an Artisan Bun, served with Fresh Fruit"
+            },
+            {
+              "title": "Brownie with Chocolate Sauce",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Vanilla Ice Cream"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peach Pie \u00e0 la Mode",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Peach Pie served with Vanilla Ice Cream"
+            },
+            {
+              "title": "Ice Cream Float",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream with Choice of Fountain Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peanut Butter and Jelly Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Peanut Butter, Strawberry Jelly, Carrot & Celery Sticks, Raisins, Banana and Wheat Bread, served with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hamburger Slider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Chicken-fried Chicken Tender",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Vegetable",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "French Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Featured Wines by the Glass",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fess Parker, Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Barbara County"
+            },
+            {
+              "title": "Silver Palm Wines, Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California North Coast"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Bitters and Orange-infused Brown Sugar Syrup with Luxardo Cherry and Candied Orange Peel"
+            },
+            {
+              "title": "Tropical Rum Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Myers\u2019s Rum Original Dark, Pineapple, Orange & Lime Juices and Grenadine"
+            }
+          ]
+        },
+        {
+          "name": "Beers",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaten Oktoberfest",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Munich, Germany ABV 5.9%"
+            },
+            {
+              "title": "Elysian Brewing, Night Owl Pumpkin Ale",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seattle, Washington (ABV. 6.7%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Orange Cream Soda",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fanta\u00ae, Candied Orange Syrup and Cream, with a Candied Orange Slice"
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae 70th Anniversary Blend ",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Decaffeinated"
+            },
+            {
+              "title": "Twinings of London\u00ae Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Cream Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Cream Cold Brew with Ice Cream",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Coca-Cola\u00ae Zero Sugar, Sprite\u00ae, Coca-Cola Cherry\u00ae, Fanta\u00ae Orange, Barq's\u00ae Root Beer, Minute Maid\u00ae Zero Sugar Lemonade, or Iced Tea"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Starters",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Walt's Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hearty Chili topped with Chives (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Fried Pickles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hand-breaded Dill Pickles with House Sauce (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Baked Potato Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "topped with Bacon, Cheddar, Monterey Jack, Sour Cream and Chives (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Caf\u00e9 Specialties",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Parmesan Toasted Patty Melt*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Monterey Jack, Grilled Onions and House Sauce on Toasted Parmesan Sourdough Bread (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "The Carnation Caf\u00e9 Cheeseburger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Cheddar, House-made Pickles, Vine-ripened Tomato, Red Onions, Lettuce and House Sauce on a Brioche Bun. (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Turkey Club Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey, Applewood-smoked Bacon, Vine-ripened Tomato, Monterey Jack and Lettuce on an Allergy-Friendly Bun** (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Fresh Catch of the Day ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chef's Selection of Sides. (For Peanut, Sesame and Shellfish Allergies)"
+            },
+            {
+              "title": "Wedge Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Iceberg Lettuce, Vine-ripened Tomato, Applewood-smoked Bacon, Blue Cheese Crumbles and Pickled Onions topped with Blue Cheese Dressing. (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Chef's Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chopped Ham, Chicken, Bacon, Cheddar, Chopped Egg, Tomato, Cucumber, Pickled Onion, Avocado, Croutons and Ranch Dressing. (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Beef Stroganoff",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef, Bacon, Onion and Mushroom over Egg Noodles (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Chicken-Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Herbed Mashed Potatoes, Seasonal Vegetables and Country Gravy (For Fish/Shellfish, Peanut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-Based ",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Carnation Garden Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lettuce, Carrots, Cucumber, Radishes, Tomatoes, Croutons and Avocado Ranch Dressing (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Hearty Veggie Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Bean Patty, Vine-ripened Tomato, Chipotle Mayo and Slaw on an Allergy-Friendly Bun, served with Fresh Fruit (For Gluten/Wheat, Egg, Fish/Shellfish and Milk Allergies)"
+            },
+            {
+              "title": "Brownie",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vanilla Ice Cream and Chocolate Sauce. (For Egg, Fish/Shellfish, Milk and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Dessert",
+          "type": "Appetizer|Dessert|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Scoop of Ice Cream",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream topped with Whipped Cream. (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-friendly Kids' Meals",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Butter & Jelly Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Peanut Butter, Strawberry Jelly, Carrot & Celery Sticks, Raisins and Banana with Allergy-Friendly Bread** with a choice of Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Tree Nut and Soy Allergies)"
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Seasonal Vegetables and Fruit with a choice of Small DASANI\u00ae Water or Small Lowfat Milk. (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Hamburger Slider",
+              "prices": [],
+              "pricesRange": false,
+              "description": "On an Allergy-Friendly Bun, served with Seasonal Vegetables and Fruit with a choice of Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Starters",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Pickles",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-breaded Pickles served with House Sauce"
+            },
+            {
+              "title": "Walt's Chili",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hearty Chili topped with Cheese, Sour Cream, Chives and Cornbread Crisps"
+            },
+            {
+              "title": "Baked Potato Soup",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Fried Potato, Bacon, Cheddar, Monterey Jack, Sour Cream, and Chives"
+            }
+          ]
+        },
+        {
+          "name": "Gourmet Burgers",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Parmesan Toasted Patty Melt*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Monterey Jack, Grilled Onions and House Sauce on Toasted Parmesan Sourdough Bread served with your choice of fresh Fruit or Seasoned French Fries"
+            },
+            {
+              "title": "The Carnation Caf\u00e9 Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Cheddar, House-made Pickles, Vine-ripened Tomato, Red Onions, Lettuce, and House Sauce on a Brioche Bun served with your choice of fresh Fruit or Seasoned French Fries"
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches & Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Turkey Club Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey, Applewood-smoked Bacon, Vine-ripened Tomato, Monterey Jack, Lettuce, Avocado Mayonnaise and Lemon A\u00efoli on Toasted Sourdough, served with choice of fresh Fruit or Seasoned French Fries"
+            },
+            {
+              "title": "Fresh Catch of the Day ",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Chef's Selection of Sides"
+            },
+            {
+              "title": "Wedge Salad",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Iceberg Lettuce, Vine-ripened Tomato, Applewood-smoked Bacon, Blue Cheese Crumbles and Pickled Onions topped with Blue Cheese Dressing"
+            },
+            {
+              "title": "Chef's Salad ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chopped Ham, Chicken, Bacon, Cheddar Cheese, Chopped Egg, Tomato, Cucumber, Pickled Onion, Avocado, Croutons and Ranch Dressing \u200b"
+            },
+            {
+              "title": "Beef Stroganoff",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Beef, Bacon, Onions and Mushrooms over Egg Noodles"
+            },
+            {
+              "title": "Chicken-fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herbed Mashed Potatoes, Seasonal Vegetables and Country Gravy"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Carnation Garden Salad",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lettuce, Carrots, Cucumber, Radishes, Fennel, Tomatoes, Croutons and Green Goddess Dressing"
+            },
+            {
+              "title": "Hearty Veggie Burger",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Bean Patty, Vine-ripened Tomato, Chipotle Mayo, Slaw and Crispy Onions on an Artisan Bun, served with Fresh Fruit"
+            },
+            {
+              "title": "Brownie with Chocolate Sauce",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Vanilla Ice Cream"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peach Pie \u00e0 la Mode",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Peach Pie served with Vanilla Ice Cream"
+            },
+            {
+              "title": "Ice Cream Float",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream with Choice of Fountain Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peanut Butter and Jelly Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Peanut Butter, Strawberry Jelly, Carrot & Celery Sticks, Raisins, Banana and Wheat Bread, served with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hamburger Slider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Chicken-fried Chicken Tender",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Vegetable",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "French Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Featured Wines by the Glass",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fess Parker, Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Barbara County"
+            },
+            {
+              "title": "Silver Palm Wines, Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California North Coast"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Bitters and Orange-infused Brown Sugar Syrup with Luxardo Cherry and Candied Orange Peel"
+            },
+            {
+              "title": "Tropical Rum Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Myers\u2019s Rum Original Dark, Pineapple, Orange & Lime Juices and Grenadine"
+            }
+          ]
+        },
+        {
+          "name": "Beers",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaten Oktoberfest",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Munich, Germany ABV 5.9%"
+            },
+            {
+              "title": "Elysian Brewing, Night Owl Pumpkin Ale",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seattle, Washington (ABV. 6.7%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%)",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Orange Cream Soda",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fanta\u00ae, Candied Orange Syrup and Cream, with a Candied Orange Slice"
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae 70th Anniversary Blend ",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Decaffeinated"
+            },
+            {
+              "title": "Twinings of London\u00ae Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Cream Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Cream Cold Brew with Ice Cream",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Coca-Cola\u00ae Zero Sugar, Sprite\u00ae, Coca-Cola Cherry\u00ae, Fanta\u00ae Orange, Barq's\u00ae Root Beer, Minute Maid\u00ae Zero Sugar Lemonade, or Iced Tea"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Starters",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Walt's Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hearty Chili topped with Chives (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Fried Pickles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hand-breaded Dill Pickles with House Sauce (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Baked Potato Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "topped with Bacon, Cheddar, Monterey Jack, Sour Cream and Chives (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Caf\u00e9 Specialties",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Parmesan Toasted Patty Melt*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Monterey Jack, Grilled Onions and House Sauce on Toasted Parmesan Sourdough Bread (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "The Carnation Caf\u00e9 Cheeseburger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Angus Chuck Patty, Cheddar, House-made Pickles, Vine-ripened Tomato, Red Onions, Lettuce and House Sauce on a Brioche Bun. (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Turkey Club Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey, Applewood-smoked Bacon, Vine-ripened Tomato, Monterey Jack and Lettuce on an Allergy-Friendly Bun** (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Fresh Catch of the Day ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chef's Selection of Sides. (For Peanut, Sesame and Shellfish Allergies)"
+            },
+            {
+              "title": "Wedge Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Iceberg Lettuce, Vine-ripened Tomato, Applewood-smoked Bacon, Blue Cheese Crumbles and Pickled Onions topped with Blue Cheese Dressing. (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Chef's Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chopped Ham, Chicken, Bacon, Cheddar, Chopped Egg, Tomato, Cucumber, Pickled Onion, Avocado, Croutons and Ranch Dressing. (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Beef Stroganoff",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef, Bacon, Onion and Mushroom over Egg Noodles (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Chicken-Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Herbed Mashed Potatoes, Seasonal Vegetables and Country Gravy (For Fish/Shellfish, Peanut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-Based ",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Carnation Garden Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lettuce, Carrots, Cucumber, Radishes, Tomatoes, Croutons and Avocado Ranch Dressing (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Hearty Veggie Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Bean Patty, Vine-ripened Tomato, Chipotle Mayo and Slaw on an Allergy-Friendly Bun, served with Fresh Fruit (For Gluten/Wheat, Egg, Fish/Shellfish and Milk Allergies)"
+            },
+            {
+              "title": "Brownie",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vanilla Ice Cream and Chocolate Sauce. (For Egg, Fish/Shellfish, Milk and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Dessert",
+          "type": "Appetizer|Dessert|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Scoop of Ice Cream",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream topped with Whipped Cream. (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-friendly Kids' Meals",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Butter & Jelly Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Peanut Butter, Strawberry Jelly, Carrot & Celery Sticks, Raisins and Banana with Allergy-Friendly Bread** with a choice of Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Tree Nut and Soy Allergies)"
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Seasonal Vegetables and Fruit with a choice of Small DASANI\u00ae Water or Small Lowfat Milk. (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Hamburger Slider",
+              "prices": [],
+              "pricesRange": false,
+              "description": "On an Allergy-Friendly Bun, served with Seasonal Vegetables and Fruit with a choice of Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast",
+        "desktop": "Breakfast"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+        "desktop": "Kids' Create-Your-Own Entr\u00e9es (choose one)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Sparkling Wine and Mimosas",
+        "desktop": "Sparkling Wine and Mimosas"
+      },
+      {
+        "mobile": "Featured Wines by the Glass",
+        "desktop": "Featured Wines by the Glass"
+      },
+      {
+        "mobile": "Signature Cocktails",
+        "desktop": "Signature Cocktails"
+      },
+      {
+        "mobile": "Beers",
+        "desktop": "Beers"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Allergy-Friendly Caf\u00e9 Specialties",
+        "desktop": "Allergy-Friendly Caf\u00e9 Specialties"
+      },
+      {
+        "mobile": "Allergy-Friendly Plant-Based ",
+        "desktop": "Allergy-Friendly Plant-Based "
+      },
+      {
+        "mobile": "Allergy-Friendly Sides",
+        "desktop": "Allergy-Friendly Sides"
+      },
+      {
+        "mobile": "Allergy-friendly Kids' Meals",
+        "desktop": "Allergy-friendly Kids' Meals"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Starters",
+        "desktop": "Starters"
+      },
+      {
+        "mobile": "Gourmet Burgers",
+        "desktop": "Gourmet Burgers"
+      },
+      {
+        "mobile": "Sandwiches & Entr\u00e9es",
+        "desktop": "Sandwiches & Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      },
+      {
+        "mobile": "Kids' Disney Check Meal",
+        "desktop": "Kids' Disney Check Meal"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+        "desktop": "Kids' Create-Your-Own Entr\u00e9es (choose one)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Featured Wines by the Glass",
+        "desktop": "Featured Wines by the Glass"
+      },
+      {
+        "mobile": "Signature Cocktails",
+        "desktop": "Signature Cocktails"
+      },
+      {
+        "mobile": "Beers",
+        "desktop": "Beers"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Allergy-Friendly Starters",
+        "desktop": "Allergy-Friendly Starters"
+      },
+      {
+        "mobile": "Allergy-Friendly Caf\u00e9 Specialties",
+        "desktop": "Allergy-Friendly Caf\u00e9 Specialties"
+      },
+      {
+        "mobile": "Allergy-Friendly Plant-Based ",
+        "desktop": "Allergy-Friendly Plant-Based "
+      },
+      {
+        "mobile": "Allergy-Friendly Dessert",
+        "desktop": "Allergy-Friendly Dessert"
+      },
+      {
+        "mobile": "Allergy-friendly Kids' Meals",
+        "desktop": "Allergy-friendly Kids' Meals"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Starters",
+        "desktop": "Starters"
+      },
+      {
+        "mobile": "Gourmet Burgers",
+        "desktop": "Gourmet Burgers"
+      },
+      {
+        "mobile": "Sandwiches & Entr\u00e9es",
+        "desktop": "Sandwiches & Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      },
+      {
+        "mobile": "Kids' Disney Check Meal",
+        "desktop": "Kids' Disney Check Meal"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+        "desktop": "Kids' Create-Your-Own Entr\u00e9es (choose one)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Featured Wines by the Glass",
+        "desktop": "Featured Wines by the Glass"
+      },
+      {
+        "mobile": "Signature Cocktails",
+        "desktop": "Signature Cocktails"
+      },
+      {
+        "mobile": "Beers",
+        "desktop": "Beers"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Allergy-Friendly Starters",
+        "desktop": "Allergy-Friendly Starters"
+      },
+      {
+        "mobile": "Allergy-Friendly Caf\u00e9 Specialties",
+        "desktop": "Allergy-Friendly Caf\u00e9 Specialties"
+      },
+      {
+        "mobile": "Allergy-Friendly Plant-Based ",
+        "desktop": "Allergy-Friendly Plant-Based "
+      },
+      {
+        "mobile": "Allergy-Friendly Dessert",
+        "desktop": "Allergy-Friendly Dessert"
+      },
+      {
+        "mobile": "Allergy-friendly Kids' Meals",
+        "desktop": "Allergy-friendly Kids' Meals"
+      }
+    ]
+  }
+}

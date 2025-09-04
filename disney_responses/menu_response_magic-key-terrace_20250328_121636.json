@@ -1,0 +1,1082 @@
+{
+  "name": "Magic Key Terrace - Magic Key Holder Dining",
+  "location": "Disney California Adventure Park, Performance Corridor",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Bites and Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bountiful Valley Charcuterie",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef's selection of Cheeses and Meats"
+            },
+            {
+              "title": "Emperor's New Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Huacatay-marinated Chicken, Oaxaca and Smoked Mozzarella, Radish, Huanca\u00edna Sauce, Huacatay Pistou and Micro Cilantro"
+            },
+            {
+              "title": "San Fransokyo Short Rib",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Miso Smashed Edamame, Carrot-Ginger Pur\u00e9e, Roasted Edamame, Bacon, Pineapple-Togarashi Gel, Pickled Ginger, Green Onions and a Teriyaki Reduction"
+            },
+            {
+              "title": "Route 66 Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Cornish Hen with Roasted Garlic Mashed Potatoes, Roasted Seasonal Vegetables and Mushroom Herb Gravy"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jolly Tomato-Basil Soup",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "With House Ricotta, Basil Pesto, Herb Croutons and Micro Basil"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Little Gem Lettuce, Pepita Caesar Dressing, Roasted Garlic Crouton and Parmesan"
+            },
+            {
+              "title": "Anger Roasted Harissa Cauliflower",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Bean Hummus, Fried Chickpeas and Kale, Lemon Zest, Chili Oil and Dukkha"
+            }
+          ]
+        },
+        {
+          "name": "Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Slider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Beef Slider on a Toasted Sesame Slider Bun, served with Seasonal Fruit and Fried Potatoes, with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grey Stuff Tart",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Tart with Red Velvet Cake and Raspberry Marmalade, filled with Raspberry and Grey Stuff Mousse"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avalon Cooler",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "J. Vineyards Cuv\u00e9e, Tito\u2019s Handmade Vodka, St-Germain Elderflower Liqueur, Strawberry Pur\u00e9e and Lemon Juice"
+            },
+            {
+              "title": "Mint Julep Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, Apricot Liquor, Agave, Lemon Juice and Soda Water, garnished with a Sprig of Mint"
+            },
+            {
+              "title": "Millionaire\u2019s Manhattan",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, MacMurray Estate Pinot Noir, Simple Syrup and Charred Cinnamon Stick"
+            },
+            {
+              "title": "Drop In... If you Dare",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, St. Germain Elderflower Liqueur, fresh Lemon Juice served with Maraschino Cherry Mix"
+            },
+            {
+              "title": "5... 4... 3... 2... 1",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Captain Morgan Original Spiced Rum, Bols Blue Cura\u00e7ao, Coconut-Pineapple Cream and fresh Lime Juice"
+            },
+            {
+              "title": "Shipwreck",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Rum, Giffard's Passion Fruit Liqueur, Orgeat, Coconut Milk and Lime Juice topped with Myers's Dark Rum and Aromatic Bitters"
+            },
+            {
+              "title": "Conestoga Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Topo Chico\u00ae Mineral Water, Lime Juice and Finest Call Prickly Pear Syrup"
+            },
+            {
+              "title": "Mulholland Mule",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jameson Irish Whiskey and Lime Juice topped with Ginger Beer"
+            },
+            {
+              "title": "Heimlich Chew Chew Juice (Non-Alcoholic)",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade with Granny Smith Apple Syrup and fresh Watermelon"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "J Vineyards Sparkling",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "Fess Parker, Riesling",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Barbara County"
+            },
+            {
+              "title": "Twomey, Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa County and Sonoma County"
+            },
+            {
+              "title": "Skywalker Vineyards Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 63,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marin County Estate"
+            },
+            {
+              "title": "Sterling Vineyards, Merlot ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Russian River Valley"
+            },
+            {
+              "title": "Justin Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            },
+            {
+              "title": "The Prisoner, Red Blend",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            }
+          ]
+        },
+        {
+          "name": "Beer and Hard Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chapman Crafted Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange, CA (ABV 5.2%)"
+            },
+            {
+              "title": "Bottle Logic, Tropical Hideaway",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.6%)"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Escondido, CA (ABV 7.7%)"
+            },
+            {
+              "title": "Crown & Hops, BPLP Hazy Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 6.5%)"
+            },
+            {
+              "title": "Brewery X Watermelon Lime Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.0%)"
+            },
+            {
+              "title": "Athletic Brewing CO. Run Wild Non-Alcoholic IPA",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV &lt;0.5%)"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pellegrino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Coca-Cola\u00ae Fountain Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Bites and Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bountiful Valley Charcuterie",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef's selection of Cheeses and Meats"
+            },
+            {
+              "title": "Emperor's New Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Huacatay-marinated Chicken, Oaxaca and Smoked Mozzarella, Radish, Huanca\u00edna Sauce, Huacatay Pistou and Micro Cilantro"
+            },
+            {
+              "title": "San Fransokyo Short Rib",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Miso Smashed Edamame, Carrot-Ginger Pur\u00e9e, Roasted Edamame, Bacon, Pineapple-Togarashi Gel, Pickled Ginger, Green Onions and a Teriyaki Reduction"
+            },
+            {
+              "title": "Route 66 Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Cornish Hen with Roasted Garlic Mashed Potatoes, Roasted Seasonal Vegetables and Mushroom Herb Gravy"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jolly Tomato-Basil Soup",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "With House Ricotta, Basil Pesto, Herb Croutons and Micro Basil"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Little Gem Lettuce, Pepita Caesar Dressing, Roasted Garlic Crouton and Parmesan"
+            },
+            {
+              "title": "Anger Roasted Harissa Cauliflower",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Bean Hummus, Fried Chickpeas and Kale, Lemon Zest, Chili Oil and Dukkha"
+            }
+          ]
+        },
+        {
+          "name": "Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Slider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Beef Slider on a Toasted Sesame Slider Bun, served with Seasonal Fruit and Fried Potatoes, with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grey Stuff Tart",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Tart with Red Velvet Cake and Raspberry Marmalade, filled with Raspberry and Grey Stuff Mousse"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avalon Cooler",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "J. Vineyards Cuv\u00e9e, Tito\u2019s Handmade Vodka, St-Germain Elderflower Liqueur, Strawberry Pur\u00e9e and Lemon Juice"
+            },
+            {
+              "title": "Mint Julep Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, Apricot Liquor, Agave, Lemon Juice and Soda Water, garnished with a Sprig of Mint"
+            },
+            {
+              "title": "Millionaire\u2019s Manhattan",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, MacMurray Estate Pinot Noir, Simple Syrup and Charred Cinnamon Stick"
+            },
+            {
+              "title": "Drop In... If you Dare",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, St. Germain Elderflower Liqueur, fresh Lemon Juice served with Maraschino Cherry Mix"
+            },
+            {
+              "title": "5... 4... 3... 2... 1",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Captain Morgan Original Spiced Rum, Bols Blue Cura\u00e7ao, Coconut-Pineapple Cream and fresh Lime Juice"
+            },
+            {
+              "title": "Shipwreck",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Rum, Giffard's Passion Fruit Liqueur, Orgeat, Coconut Milk and Lime Juice topped with Myers's Dark Rum and Aromatic Bitters"
+            },
+            {
+              "title": "Conestoga Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Topo Chico\u00ae Mineral Water, Lime Juice and Finest Call Prickly Pear Syrup"
+            },
+            {
+              "title": "Mulholland Mule",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jameson Irish Whiskey and Lime Juice topped with Ginger Beer"
+            },
+            {
+              "title": "Heimlich Chew Chew Juice (Non-Alcoholic)",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade with Granny Smith Apple Syrup and fresh Watermelon"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "J Vineyards Sparkling",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "Fess Parker, Riesling",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Barbara County"
+            },
+            {
+              "title": "Twomey, Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa County and Sonoma County"
+            },
+            {
+              "title": "Skywalker Vineyards Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 63,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marin County Estate"
+            },
+            {
+              "title": "Sterling Vineyards, Merlot ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Russian River Valley"
+            },
+            {
+              "title": "Justin Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            },
+            {
+              "title": "The Prisoner, Red Blend",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            }
+          ]
+        },
+        {
+          "name": "Beer and Hard Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chapman Crafted Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange, CA (ABV 5.2%)"
+            },
+            {
+              "title": "Bottle Logic, Tropical Hideaway",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.6%)"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Escondido, CA (ABV 7.7%)"
+            },
+            {
+              "title": "Crown & Hops, BPLP Hazy Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 6.5%)"
+            },
+            {
+              "title": "Brewery X Watermelon Lime Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.0%)"
+            },
+            {
+              "title": "Athletic Brewing CO. Run Wild Non-Alcoholic IPA",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV &lt;0.5%)"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pellegrino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Coca-Cola\u00ae Fountain Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

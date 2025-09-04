@@ -1,0 +1,663 @@
+{
+  "name": "Ghirardelli\u00ae Soda Fountain and Chocolate Shop",
+  "location": "Disney California Adventure Park, San Fransokyo Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Sundaes",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "World Famous Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 17.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla ice cream and handmade hot fudge topped with whipped cream, diced almonds, a cherry, and a Milk Chocolate Caramel SQUARE."
+            },
+            {
+              "title": "Magical Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 19.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla ice cream and handmade hot fudge topped with whipped cream, sprinkles, and dipped waffle ears."
+            },
+            {
+              "title": "Ocean Beach Sea Salt Caramel Sundae",
+              "prices": [
+                {
+                  "withoutTax": 17.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel sauce, vanilla ice cream, handmade milk or dark chocolate hot fudge topped with whipped cream, sea salt, and a Milk or Dark Sea Salt Caramel SQUARE."
+            },
+            {
+              "title": "Chocolate Lover's Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 17.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate ice cream layered with handmade hot fudge, topped with whipped cream, mini dark chocolate chips, chocolate sauce, and a Milk Chocolate SQUARE."
+            },
+            {
+              "title": "Gold Rush Caramel Almond Sundae",
+              "prices": [
+                {
+                  "withoutTax": 17.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel sauce, vanilla ice cream, sea salt, and diced almonds topped with whipped cream and a White Chocolate Caramel SQUARE."
+            },
+            {
+              "title": "Mint Bliss Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 17.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mint chocolate chip and chocolate ice cream, layered with handmade dark chocolate hot fudge and topped with whipped cream and a Dark Chocolate Mint SQUARE."
+            },
+            {
+              "title": "Strawberry Passion Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 20.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry and vanilla ice cream, sweetened strawberries, and handmade hot fudge topped with whipped cream and a dipped strawberry."
+            },
+            {
+              "title": "Non-Dairy Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 19.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot fudge made with non-dairy chocolate chips and almond milk over scoops of non-dairy vanilla coconut and finished with almond milk whipped topping, diced almonds, a cherry, and a 72% Dark Chocolate SQUARE."
+            },
+            {
+              "title": "Cookie Crumble Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 21.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla, cookie dough, and cookies \u2018n cream ice cream, handmade hot fudge, whipped cream, chocolate chip cookie crumbles, and two Milk Chocolate Caramel MINIS."
+            },
+            {
+              "title": "Lands End Salted Caramel Brownie Sundae",
+              "prices": [
+                {
+                  "withoutTax": 21.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A full-size chocolate brownie, caramel sauce, sea salt, vanilla ice cream, and handmade hot fudge topped with whipped cream, caramel sauce, chocolate sauce, and a cherry."
+            },
+            {
+              "title": "Golden Gate Banana Split",
+              "prices": [
+                {
+                  "withoutTax": 21.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla, strawberry, and chocolate ice cream topped with crushed pineapple, sweetened strawberries and handmade hot fudge served with a banana, whipped cream, diced almonds, and a cherry."
+            },
+            {
+              "title": "Waffle Bowl Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 21.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our world famous hot fudge sundae in a handmande dipped waffle bowl."
+            },
+            {
+              "title": "Treasure Island Warm Brownie Sundae",
+              "prices": [
+                {
+                  "withoutTax": 20.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A warm chocolate brownie half, vanilla ice cream, and handmade hot fudge topped with whipped cream, diced almonds, and a cherry."
+            },
+            {
+              "title": "Waffle Cone Mini Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 17.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our Mini Hot Fudge Sundae in a handmade dipped waffle cone."
+            },
+            {
+              "title": "Mini Hot Fudge Sundae",
+              "prices": [
+                {
+                  "withoutTax": 13.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A scoop of vanilla ice cream and handmade hot fudge topped with whipped cream, diced almonds, a cherry, and a Milk Chocolate Caramel SQUARE."
+            }
+          ]
+        },
+        {
+          "name": "Shakes",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frozen Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 12.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot cocoa mix blended with milk and ice, topped with whipped cream and mini dark chocolate chips."
+            },
+            {
+              "title": "Nob Hill Chill",
+              "prices": [
+                {
+                  "withoutTax": 12.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla ice cream blended with milk, ice, and handmade hot fudge and topped with mini dark chocolate chips."
+            },
+            {
+              "title": "Caramel Quake Shake",
+              "prices": [
+                {
+                  "withoutTax": 12.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A vanilla milkshake blended with three Milk Chocolate Caramel SQUARES, topped with whipped cream and caramel sauce."
+            },
+            {
+              "title": "Thick Shake - Small",
+              "prices": [
+                {
+                  "withoutTax": 12.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thick, cold, and creamy. Vanilla, Strawberry, or Chocolate Lover's."
+            },
+            {
+              "title": "Thick Shake - Medium",
+              "prices": [
+                {
+                  "withoutTax": 13.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thick, cold, and creamy. Vanilla, Strawberry, or Chocolate Lover's."
+            },
+            {
+              "title": "Thick Shake - Large",
+              "prices": [
+                {
+                  "withoutTax": 14.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thick, cold, and creamy. Vanilla, Strawberry, or Chocolate Lover's."
+            }
+          ]
+        },
+        {
+          "name": "Hot Cocoa",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Classic Hot Cocoa - Small",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A luxuriously deep chocolate flavor comes through in our hot cocoa topped with whipped cream and dusted with cocoa powder. Served with a Milk Chocolate Caramel SQUARE."
+            },
+            {
+              "title": "Classic Hot Cocoa - Medium",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A luxuriously deep chocolate flavor comes through in our hot cocoa topped with whipped cream and dusted with cocoa powder. Served with a Milk Chocolate Caramel SQUARE."
+            },
+            {
+              "title": "Classic Hot Cocoa - Large",
+              "prices": [
+                {
+                  "withoutTax": 8.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A luxuriously deep chocolate flavor comes through in our hot cocoa topped with whipped cream and dusted with cocoa powder. Served with a Milk Chocolate Caramel SQUARE."
+            },
+            {
+              "title": "Sea Salt Caramel Hot Cocoa - Small",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our Classic Hot Cocoa but with the added creaminess of caramel, topped with whipped cream, sea salt, and caramel sauce. Served with a Dark Sea Salt Caramel SQUARE."
+            },
+            {
+              "title": "Sea Salt Caramel Hot Cocoa - Medium",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our Classic Hot Cocoa but with the added creaminess of caramel, topped with whipped cream, sea salt, and caramel sauce. Served with a Dark Sea Salt Caramel SQUARE."
+            },
+            {
+              "title": "Sea Salt Caramel Hot Cocoa - Large",
+              "prices": [
+                {
+                  "withoutTax": 8.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our Classic Hot Cocoa but with the added creaminess of caramel, topped with whipped cream, sea salt, and caramel sauce. Served with a Dark Sea Salt Caramel SQUARE."
+            }
+          ]
+        },
+        {
+          "name": "Sweet Treats",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chocolate Brownie",
+              "prices": [
+                {
+                  "withoutTax": 6.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Chip Cookie",
+              "prices": [
+                {
+                  "withoutTax": 6.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dipped Strawberry",
+              "prices": [
+                {
+                  "withoutTax": 6.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Coffee & More",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frozen Mocha - Medium",
+              "prices": [
+                {
+                  "withoutTax": 11.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate frapp\u00e9 mix, chocolate sauce, espresso, and milk blended with ice topped with whipped cream and mini dark chocolate chips."
+            },
+            {
+              "title": "Frozen Mocha - Large",
+              "prices": [
+                {
+                  "withoutTax": 12.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate frapp\u00e9 mix, chocolate sauce, espresso, and milk blended with ice topped with whipped cream and mini dark chocolate chips."
+            },
+            {
+              "title": "Frozen Vanilla Caramel Latte - Medium",
+              "prices": [
+                {
+                  "withoutTax": 11.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla frapp\u00e9 mix, caramel sauce, espresso, and milk blended with ice topped with whipped cream and caramel sauce."
+            },
+            {
+              "title": "Frozen Vanilla Caramel Latte - Large",
+              "prices": [
+                {
+                  "withoutTax": 12.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla frapp\u00e9 mix, caramel sauce, espresso, and milk blended with ice topped with whipped cream and caramel sauce."
+            },
+            {
+              "title": "Mocha - Small",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or Iced"
+            },
+            {
+              "title": "Mocha - Medium",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or Iced"
+            },
+            {
+              "title": "Mocha - Large",
+              "prices": [
+                {
+                  "withoutTax": 8.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or Iced"
+            },
+            {
+              "title": "Latte - Small",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or iced. Flavor options: Caramel or Vanilla."
+            },
+            {
+              "title": "Latte - Medium",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or iced. Flavor options: Caramel or Vanilla."
+            },
+            {
+              "title": "Latte - Large",
+              "prices": [
+                {
+                  "withoutTax": 8.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or iced. Flavor options: Caramel or Vanilla."
+            },
+            {
+              "title": "Americano - Small",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or iced."
+            },
+            {
+              "title": "Americano - Medium",
+              "prices": [
+                {
+                  "withoutTax": 5.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or iced."
+            },
+            {
+              "title": "Americano - Large",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot or iced."
+            },
+            {
+              "title": "Sodas - Small",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sodas - Medium",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sodas - Large",
+              "prices": [
+                {
+                  "withoutTax": 6.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sparkling Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 5.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Sundaes",
+        "desktop": "Sundaes"
+      },
+      {
+        "mobile": "Shakes",
+        "desktop": "Shakes"
+      },
+      {
+        "mobile": "Hot Cocoa",
+        "desktop": "Hot Cocoa"
+      },
+      {
+        "mobile": "Sweet Treats",
+        "desktop": "Sweet Treats"
+      },
+      {
+        "mobile": "Coffee & More",
+        "desktop": "Coffee & More"
+      }
+    ]
+  }
+}

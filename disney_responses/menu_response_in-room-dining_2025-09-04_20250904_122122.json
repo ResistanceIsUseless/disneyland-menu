@@ -1,0 +1,1494 @@
+{
+  "name": "In-Room Dining at Disneyland Hotel",
+  "location": "Disneyland Resort, Disneyland Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Steel-Cut Oatmeal",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pepita-Honey Florentine | Fresh Fruits | Fresh Berries | Sultanas"
+            },
+            {
+              "title": "Mickey-shaped Waffle",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Berries, Confetti Dulce De Leche, Butter, Vermont Maple Syrup"
+            },
+            {
+              "title": "Pastry Basket",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bakeshop Croissant | Fruit Danish | Seasonal Fruit Muffin | Sweet Butter Fruit Preserves"
+            },
+            {
+              "title": "Buttermilk Pancakes",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Balsamic Macerated Strawberries, Orange Marmalade Butter, Vermont Maple Syrup"
+            },
+            {
+              "title": "Fruit Plate",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sliced Season\u2019s Best Melon | Ripe Bush Berries | Orange Supreme Honey Greek Yogurt"
+            },
+            {
+              "title": "Classic French Toast",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thick-Sliced Brioche, Cinnamon Egg, Custard, Powdered Sugar, Sweet Butter, Vermont Maple Syrup"
+            },
+            {
+              "title": "Whipped Yogurt Granola Parfait",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Granola | Fresh Seasonal Fruits & Berries | Whipped Honey Greek Yogurt"
+            },
+            {
+              "title": "Huevos Rancheros",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Corn Tortillas, Sunny Side Eggs, Fire Roasted Salsa, Beans, Chorizo, Sour Cream, Cotija Cheese, Avocado, Charred Orange Segment"
+            },
+            {
+              "title": "Bagel and Lox",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bagel, Smoked Salmon, Cream Cheese, Cucumber, Onion, Tomato, Hard-Boiled, Egg, Baby Lettuce"
+            },
+            {
+              "title": "Chorizo Breakfast Burrito",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Peppers, Onions, Pork Chorizo, Fire Roasted Salsa, Sour Cream, Avocado"
+            },
+            {
+              "title": "American Breakfast*",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two Eggs Any Style, Smoked Bacon or Sausage, Home Fries, Toast"
+            },
+            {
+              "title": "Denver Omelet",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bell Pepper, Onion, Ham, Shredded Cheese, Home Fries"
+            },
+            {
+              "title": "Garden Veggie Egg White Scramble",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cremini Mushrooms | Broccolini | Artichoke Hearts | Basil | Plum Tomatoes Fingerling Potatoes"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Plate",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two Eggs Any Style | Turkey Bacon | Crispy Hash Brown Potato Cake. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Kids' Breakfast Power Pack",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange | Yogurt Smoothie | Carrots | Whole-Grain \u201cFish\u201d Crackers| Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Buttermilk Mickey-Shaped Pancakes",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Butter, Vermont Maple Syrup, Choice of Bacon or Sausage"
+            },
+            {
+              "title": "Mickey-Shaped Waffles",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Butter, Vermont Maple Syrup"
+            }
+          ]
+        },
+        {
+          "name": "Refreshments",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Sparkling Mineral Water Large",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still Mineral Water Large",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Coca-Cola\u00ae Beverages",
+              "prices": [
+                {
+                  "withoutTax": 6.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 6.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Simply\u00ae Juices",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fairlife 2% Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "11.5oz PET Bottle"
+            },
+            {
+              "title": "Fairlife 2% Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "11.5oz PET Bottle"
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "20 oz. Pot",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Freshly Brewed Joffrey\u2019s Coffee\u2122 (Regular or Decaffeinated), Assortment of Twinings of London\u00ae Teas"
+            },
+            {
+              "title": "40 oz. Pot",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Freshly Brewed Joffrey\u2019s Coffee\u2122 (Regular or Decaffeinated), Assortment of Twinings of London\u00ae Teas"
+            },
+            {
+              "title": "Specialty Coffees",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Inquire with Host"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Starters",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modern Garden Greens",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jardini\u00e8re Vegetables | Spiced Croissant Crouton | Verjus Vinaigrette"
+            },
+            {
+              "title": "Modern Garden Greens with Grilled Chicken",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken | Jardini\u00e8re Vegetables | Spiced Croissant Crouton | Verjus Vinaigrette"
+            },
+            {
+              "title": "Modern Garden Greens with Grilled Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Shrimp | Jardini\u00e8re Vegetables | Spiced Croissant Crouton | Verjus Vinaigrette"
+            },
+            {
+              "title": "Toasted Quinoa & Baby Kale Salad",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Persian Cucumbers, Dried Cranberries, Blueberries, Marcona Almonds, Meyer Lemon Vinaigrette."
+            },
+            {
+              "title": "Toasted Quinoa & Baby Kale Salad with Grilled Chicken",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken | Persian Cucumbers | Dried Cranberries | Blueberries | Almonds Meyer Lemon Vinaigrette"
+            },
+            {
+              "title": "Toasted Quinoa & Baby Kale Salad with Grilled Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Shrimp | Persian Cucumbers | Dried Cranberries | Blueberries | Almonds Meyer Lemon Vinaigrette"
+            },
+            {
+              "title": "Crispy Chicken Wings",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Signature Dry-rub | Roquefort Dip | House-pickled Carrots & Turnips"
+            }
+          ]
+        },
+        {
+          "name": "Pizza",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Charcuterie Pizza",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Artisan Cured Prosciutto, Pepperoni, Sausage, Sun-Dried Tomatoes"
+            },
+            {
+              "title": "Margherita Pizza",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thai Basil | Stracciatella Mozzarella"
+            },
+            {
+              "title": "Seasonal Pizza",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Inquire with Host"
+            }
+          ]
+        },
+        {
+          "name": "Dinner Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Turkey Club",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Slow-Roasted Turkey Breast, Smoked Bacon, Avocado, Tomato, Little Gem Lettuce, French Roll, French Fries"
+            },
+            {
+              "title": "Wagyu American Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wagyu Beef, Cheese, House Spread, Lettuce, Tomato, Onion, Pickle, Toasted Brioche Bun"
+            },
+            {
+              "title": "BBQ-Glazed MeatLoaf",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Slow-braised Country Greens"
+            },
+            {
+              "title": "Country Fried Chicken Cutlet",
+              "prices": [
+                {
+                  "withoutTax": 40,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mashed Potatoes, Sausage Gravy, Saut\u00e9ed Seasonal Veggies"
+            },
+            {
+              "title": "Rigatoni Bolognese",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Meat Sauce, Garlic Bread, Parmigiano Reggiano"
+            },
+            {
+              "title": "Pan-roasted Filet of Salmon",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Farro Rissoto, Roasted Asparagus, Charred Meyer Lemon, Chive Oil"
+            },
+            {
+              "title": "Slow-braised Lamb Shank",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Polenta, Artichoke, Blistered Tomato, Olives, Squash Ragu"
+            },
+            {
+              "title": "Wagyu Ribeye & Shrimp Scampi*",
+              "prices": [
+                {
+                  "withoutTax": 75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Au Gratin Scalloped Potatoes, Classic B\u00e9arnaise, Chimichurri, Preserved Lemon Butter"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Chicken Breast",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brown Rice | Choice of Fruit or Seasonal Vegetables |\u00a0All Kids\u2019 Meals include choice of small Lowfat Milk or small DASANI\u00ae Water | Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Salmon Fillet",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brown Rice | Choice of Fruit or Seasonal Vegetables | All Kids\u2019 Meals include choice of small Lowfat Milk or small DASANI\u00ae Water | Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Kids' Power Pack",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange | Yogurt Smoothie | Carrots | Whole-Grain \u201cFish\u201d Crackers| All Kids\u2019 Meals include choice of small Lowfat Milk or small DASANI\u00ae Water | Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Dinner",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheeseburger Sliders",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brioche Bun | Choice of Fruit or Fries | All Kids\u2019 Meals include choice of small Lowfat Milk or small DASANI\u00ae Water"
+            },
+            {
+              "title": "Cheesy Grilled Cheese",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brioche | Choice of Fruit or Fries | All Kids\u2019 Meals include choice of small Lowfat Milk or small DASANI\u00ae Water"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Fruit or Fries"
+            }
+          ]
+        },
+        {
+          "name": "Our Sweet Ending",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Vanilla Bean Strawberry Cr\u00e8me Br\u00fbl\u00e9e",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Molten Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot Fudge | Whipped Cream | Slivered Almonds | Luxardo Cherries"
+            }
+          ]
+        },
+        {
+          "name": "Refreshments",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Sparkling Mineral Water Large",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still Mineral Water Large",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Coca-Cola\u00ae Beverages",
+              "prices": [
+                {
+                  "withoutTax": 6.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 6.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Simply\u00ae Juices",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fairlife 2% Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "11.5oz PET Bottle"
+            },
+            {
+              "title": "Fairlife 2% Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "11.5oz PET Bottle"
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "20 oz. Pot",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Freshly Brewed Joffrey\u2019s Coffee\u2122 (Regular or Decaffeinated), Assortment of Twinings of London\u00ae Teas"
+            },
+            {
+              "title": "40 oz. Pot",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Freshly Brewed Joffrey\u2019s Coffee\u2122 (Regular or Decaffeinated), Assortment of Twinings of London\u00ae Teas"
+            },
+            {
+              "title": "Specialty Coffees",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Inquire with Host"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 21.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka | Bloody Mary Mix"
+            },
+            {
+              "title": "Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Prosecco | Orange Juice"
+            },
+            {
+              "title": "Margarita",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herradura Reposado Tequila, Cointreau, Fresh Lime Juice, Agave Nectar"
+            },
+            {
+              "title": "Michelada",
+              "prices": [
+                {
+                  "withoutTax": 21.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Modelo, House Michelada Mix, Lime, Chili-Lime Seasoning"
+            },
+            {
+              "title": "Vodka Martini ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Dolin Dry Vermouth"
+            },
+            {
+              "title": "Gin Martini",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tanqueray Gin, Dolin Dry Vermouth"
+            },
+            {
+              "title": "Vodka Mule",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Ginger Beer, Fresh Lime Juice, Mint"
+            },
+            {
+              "title": "Rye Mule",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bulleit Rye Whiskey, Ginger Beer, Fresh Lime Juice, Mint"
+            }
+          ]
+        },
+        {
+          "name": "Bottled Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brewery X Huckleberry Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Golden State Jamaica Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bud Light",
+              "prices": [
+                {
+                  "withoutTax": 15.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Modelo Especial",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ballast Point Grapefruit Sculpin IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beck's Non-Alcoholic",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sparkling and White Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bollinger Brut Special Cuv\u00e9e, France",
+              "prices": [
+                {
+                  "withoutTax": 116,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375 ML"
+            },
+            {
+              "title": "Sonoma Cutrer Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Joel Gott Sauvignon Blanc, California",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375 ML"
+            },
+            {
+              "title": "Mo\u00ebt & Chandon Brut Imperial Champagne",
+              "prices": [
+                {
+                  "withoutTax": 143,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Avissi Prosecco",
+              "prices": [
+                {
+                  "withoutTax": 60,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Placido Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "The Fableist Honey Bee and Jupiter Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 65,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Daou Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rodney Strong Chardonnay, Chalk Hill",
+              "prices": [
+                {
+                  "withoutTax": 73,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 and Red Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hess Allomi Cabernet Sauvignon, California",
+              "prices": [
+                {
+                  "withoutTax": 53,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375 ML"
+            },
+            {
+              "title": "Macmurray Estate Vineyards Pinot Noir, Russian River Valley",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "750 ML"
+            },
+            {
+              "title": "Flowers Pinot Noir, Sonoma Coast",
+              "prices": [
+                {
+                  "withoutTax": 166,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "750 ML"
+            },
+            {
+              "title": "Piattelli Reserve Malbec, Luj\u00e1n de Cuyo, Mendoza, Argentina",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "750 ML"
+            },
+            {
+              "title": "The Prisoner Red Blend, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 107,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "750 ML"
+            },
+            {
+              "title": "Stag\u2019s Leap Artemis Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 198,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "750 ML"
+            },
+            {
+              "title": "Rodney Strong Chardonnay, Chalk Hill",
+              "prices": [
+                {
+                  "withoutTax": 73,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Silver Oak Cabernet Sauvignon, Alexander Valley",
+              "prices": [
+                {
+                  "withoutTax": 218,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "750 ML"
+            },
+            {
+              "title": "Caymus Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 218,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "750 ML"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Kids' Meals",
+        "desktop": "Kids' Meals"
+      },
+      {
+        "mobile": "Refreshments",
+        "desktop": "Refreshments"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Starters",
+        "desktop": "Starters"
+      },
+      {
+        "mobile": "Pizza",
+        "desktop": "Pizza"
+      },
+      {
+        "mobile": "Dinner Entr\u00e9es",
+        "desktop": "Dinner Entr\u00e9es"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Kids' Dinner",
+        "desktop": "Kids' Dinner"
+      },
+      {
+        "mobile": "Our Sweet Ending",
+        "desktop": "Our Sweet Ending"
+      },
+      {
+        "mobile": "Refreshments",
+        "desktop": "Refreshments"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Bottled Beer",
+        "desktop": "Bottled Beer"
+      },
+      {
+        "mobile": "Sparkling and White Wines",
+        "desktop": "Sparkling and White Wines"
+      },
+      {
+        "mobile": "Ros\u00e9 and Red Wines",
+        "desktop": "Ros\u00e9 and Red Wines"
+      }
+    ]
+  }
+}

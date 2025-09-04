@@ -1,0 +1,405 @@
+[
+  {
+    "id": "17920676;entityType=Dining-Event",
+    "name": "Fantasmic! Dining Packages",
+    "url": "/dining/disneyland/fantasmic-dinner-packages/",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "price_range": [
+      "$$$",
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted",
+      "dining-packages"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8116150928",
+        "longitude": "-117.9205917872"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.812463049",
+        "longitude": "-117.9197774827"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.811049",
+        "longitude": "-117.921126"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/17907410?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18743798?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412102751?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412102752?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412113531?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412113586?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412113591?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18743223?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/parks-and-tickets/entertainment/disneyland/fantasmic/fantasmic-02.jpg?1738014786793",
+        "alt": "The beauty, Belle, and the Beast dance on a romantic, rose-decorated Fantasmic! float"
+      }
+    }
+  },
+  {
+    "id": "19140685;entityType=Dining-Event",
+    "name": "Disney Princess Breakfast Adventures",
+    "url": "/dining/grand-californian-hotel/disney-princess-breakfast-adventures/",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "6",
+    "quick_service": false,
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "character-dining",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8078731418",
+        "longitude": "-117.9215664344"
+      }
+    ],
+    "additional_info": "Beginning in April 2025, Napa Rose will temporarily close for refurbishment. During this time, Disney Princess Breakfast Adventures will be held at the Trillium Room  in Disney's Grand Californian Hotel & Spa. ",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19140412?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/entertainment/meet-greet/disney/4026378_71_0424ZR_04649CM_aRGB_r1-16x9.jpg?2021-08-10T18:42:14+00:00",
+        "alt": ""
+      }
+    }
+  },
+  {
+    "id": "18970388;entityType=Dining-Event",
+    "name": "Oogie Boogie Bash Dessert Party",
+    "url": "/dining/disney-california-adventure/oogie-boogie-bash-dessert-party/",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.80639316",
+        "longitude": "-117.9203394"
+      }
+    ],
+    "additional_info": "Please Note: A valid special event ticket for Oogie Boogie Bash is required to book this dining event and is not included in the price.",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412168550?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/halloween/0916ZR_Parade1_GC_371_XGCM-16x9.jpg?2022-09-02T18:09:10+00:00",
+        "alt": ""
+      }
+    }
+  },
+  {
+    "id": "19637893;entityType=Dining-Event",
+    "name": "Trader Sam's Mixology Seminar",
+    "url": "/dining/disneyland-hotel/trader-sams-mixology-seminar/",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "4",
+    "quick_service": false,
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "dine-events"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8082908451",
+        "longitude": "-117.9265519014"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19637892?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/resort-dining/disneyland-hotel/trader-sams/21-plus-policy-trader-sams-bartender-16x9.jpg?1741115070003",
+        "alt": "A bartender serves a tropical cocktail topped with a pineapple slice and mini umbrella to a Guest."
+      }
+    }
+  },
+  {
+    "id": "18994149;entityType=Dining-Event",
+    "name": "Plaza Inn Dining Package",
+    "url": "/dining/disneyland/plaza-inn-dining-package/",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "dine-events",
+      "casual-dining"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8117514713",
+        "longitude": "-117.918622265"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18992151?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19637883?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411842656?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412327584?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19336692?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19416719?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/plaza-inn-dining-package/plaza-inn-sign-16x9.jpg?1742920974350",
+        "alt": "Plaza Inn entrance sign, Disneyland Park."
+      }
+    }
+  },
+  {
+    "id": "412099616;entityType=Dining-Event",
+    "name": "Disneyland After Dark: Star Wars Nite Dining",
+    "url": "/dining/disneyland/star-wars-nite-dining-packages/",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "8",
+    "quick_service": false,
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.811205",
+        "longitude": "-117.921262"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411890701?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/star-wars-nite/dining/DLR_CafeOrleans_StarWarsNite_DAD_SmugglersFries_03122024_DSC00439DN-16x9.jpg?2024-04-01T18:31:04+00:00",
+        "alt": "A plate of Smugglers Fries from Caf\u00e9 Orleans with aioli, chiles, herbs and peppercorns"
+      }
+    }
+  },
+  {
+    "id": "18701288;entityType=Dining-Event",
+    "name": "Tomorrowland Skyline Terrace",
+    "url": "/dining/disneyland/tomorrowland-skyline-terrace/",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "8",
+    "quick_service": false,
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.811854",
+        "longitude": "-117.916857"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18701279?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411960228?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/tomorrowland-skyline-lounge/tomorrowland-skyline-lounge-experience-wide-view-16x9.jpg?1742489919316",
+        "alt": "Spotlights crisscross the night sky from atop the Observatron in Tomorrowland with the Matterhorn behind"
+      }
+    }
+  },
+  {
+    "id": "17736036;entityType=Dining-Event",
+    "name": "World of Color Dining Package",
+    "url": "/dining/disney-california-adventure/world-of-color-dining/",
+    "location_name": "Multiple Locations",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "price_range": [
+      "$$$",
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.806621",
+        "longitude": "-117.919866"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.806478",
+        "longitude": "-117.919877"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.808068",
+        "longitude": "-117.922876"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411995993?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412004748?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412004767?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412004786?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/15516883?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/15743832?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19431663?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/world-of-color-dining-packages/world-of-color-dining-16x9.jpg?1738794237864",
+        "alt": "Guests stand in a preferred viewing area and watch the World of Color show"
+      }
+    }
+  },
+  {
+    "id": "18090211;entityType=Dining-Event",
+    "name": "World of Color Dessert Party",
+    "url": "/dining/disney-california-adventure/world-of-color-dessert-party/",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "99",
+    "quick_service": false,
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "dining-packages",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.806693",
+        "longitude": "-117.920725"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18086499?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412200905?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/entertainment/world-of-color/world-of-color-dessert-party-16x9-16x9.jpg?2022-05-19T13:10:06+00:00",
+        "alt": "The World of Color show with colorful water sprays and the Pixar Pal A Round Swinging attraction lit up at night."
+      }
+    }
+  },
+  {
+    "id": "412095335;entityType=Dining-Event",
+    "name": "\"Better Together: A Pixar Pals Celebration!\" Parade Viewing Dining Package",
+    "url": "/dining/disney-california-adventure/better-together-dining-packages/",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "99",
+    "quick_service": false,
+    "price_range": [
+      "$$$",
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8063931592",
+        "longitude": "-117.9203394055"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412095339?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412103506?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/pixar-fest/dining/DLR_DCA_Pixar_Parade_Dessert_04032024_DSC00073DN-16x9.jpg?2024-04-10T14:15:24+00:00",
+        "alt": "A plate full of food, including cured meat, grapes, crackers, cheese and Pixar themed desserts"
+      }
+    }
+  }
+]

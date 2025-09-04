@@ -1,0 +1,148 @@
+{
+  "name": "Salt & Straw",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Flavors",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Captain's Berried Treasure (v)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cereal-steeped Coconut and Oat Milk swimming with fruity House-made \"Crunch Berries\"."
+            },
+            {
+              "title": "Cornflake Cookies with Marionberry Jam",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Brown Butter Cornflake Cookies folded into a malty, Cereal-steeped Ice Cream and finished with swirls of Marionberry Jam."
+            },
+            {
+              "title": "Snap N' Crackle Marshmallow Treats",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rice Krispie Marshmallow Florentines crushed and scattered throughout Salted Vanilla Ice Cream."
+            },
+            {
+              "title": "Peanut Butter Brownie Cereal Puffs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Double-baked, Peanut Butter-glazed Brownies tossed into Peanut Butter-marbled Milk Chocolate Ice Cream."
+            },
+            {
+              "title": "Pots of Gold and Rainbows",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hand-sorted Rainbow Marshmallows playfully tossed into a Cereal-steeped Ice Cream."
+            }
+          ]
+        },
+        {
+          "name": "Classic Flavors",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sea Salt with Caramel Ribbons",
+              "prices": [],
+              "pricesRange": false,
+              "description": "We created this Ice Cream with Mark Bitterman, the owner and \"selmelier\" at The Meadow, the internationally renowned Portland Salt shop. He actually wrote the book on Salt, Salted, a James Beard Award winning cookbook. We use their Fleur de Sel, which is made in Guatemala from Salt pans that are famed for supplying the Mayan Empire at the height of its power. We've topped it off by ribboning in Hand-burned Caramel that we make in house!"
+            },
+            {
+              "title": "Salted Malted Chocolate Chip Cookie Dough",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rich, chunky bites of chewy salty and malty Homemade Cookie Dough. Mixed into a super Vanilla-y Ice Cream and finished with licks of Malted Fudge Swirls."
+            },
+            {
+              "title": "Double Fold Vanilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Made with Singing Dog Vanilla from Eugene, OR. 'Double Fold' means that they use twice as many Vanilla Beans to pack an amazing Vanilla punch. But the really good sounding part is that they not only pay a fair price for Vanilla, but also give a percent of the proceeds back to farmers when the product sells in the US. It's great Ice Cream, doing something great."
+            },
+            {
+              "title": "Chocolate Gooey Brownie",
+              "prices": [],
+              "pricesRange": false,
+              "description": "This is Chocolate Ice Cream at its simplest and most indulgent. We've teamed up with Valrhona to make a base that is rich, dark, fudgy, and chocolatey. Our in-house baked, gooey Brownies have Marshmallows baked into them to create a Brownie that treads awfully close to the point of being Fudge."
+            },
+            {
+              "title": "Honey Lavender",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oregon-grown Lavender petals are carefully steeped in Honey to extract that perfect floral flavor. We are proud to use Bee Local Honey in this Ice Cream, their Honey is harvested from urban hives all around Portland resulting in flavor that is unique and changing throughout the year."
+            },
+            {
+              "title": "Pear and Blue Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "We candy Oregon bartletts to bring our their flavor, then fold in cave-aged crumbles of Rogue Creamery blue cheese (voted best in the world) for a bold thwack."
+            },
+            {
+              "title": "Arbequina Olive Oil",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A simple combination thanks to incredible Oregon olive oil. We love enhancing its tropical, grassy flavors and rich, buttery texture in ice cream."
+            },
+            {
+              "title": "Coffee & Love Nuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "An Ice Cream as cozy and comforting as Sunday morning, created in tribute to Compart\u00e9s founder Jonathan Grahm\u2019s mission to share love through chocolate. We brew a smooth, Caramel-y medium Roast Coffee from Colombia, blend it with our Cream, and stud it with Compart\u00e9s immaculate Love Nuts\u2013pecans Caramelized in Tahitian Vanilla, sprinkled with Sea Salt, then coated in 14 layers of Chocolate. Made with Compart\u00e9s Chocolates"
+            },
+            {
+              "title": "Cinnamon Snickerdoodle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "We fold our House-baked chewy Snickerdoodle Cookies into ice cream that\u2019s spiked with the most intensely spiced, warm Cinnamon."
+            },
+            {
+              "title": "Strawberry Honey Balsamic with Black Pepper",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A strawberry triple threat. We steal a trick from the Italians, using Balsamic and citrusy Cubeb Black Pepper to help coax out the fruit's acidity and brightness."
+            },
+            {
+              "title": "Freckled Mint Chocolate Chip (v)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coconut and pure Oregon Mint Oil coalesce into a delicate, floral Ice Cream, freckled with Organic Dark Chocolate. Made with Seely Mint"
+            },
+            {
+              "title": "Marionberry Coconut Sherbet (v)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "While we\u2019re lucky enough in Oregon to have these hulking berries hit our markets in summer, most of the world has never heard of them. Coconut cream and a little sugar are the only things we need to let the sweet-tart complexity of the marionberries shine in this creamy, refreshing flavor."
+            },
+            {
+              "title": "Peanut Butter Brittle Caramel Fudge (v)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Our tribute to the most iconic duo of all time: Chocolate & Peanut butter. Creamy Coconut Vanilla Ice Cream is drizzled with a housemade semi-sweet Caramel Fudge Swirl then flecked with shards of crispy, crackly Brittle studded with Peanut Butter. The juxtaposition of textures and flavors coalesce for a rich yet balanced bite reminiscent of the iconic childhood treat, Moose Tracks."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

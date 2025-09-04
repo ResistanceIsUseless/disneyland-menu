@@ -1,0 +1,1932 @@
+{
+  "name": "Magic Key Terrace - Magic Key Holder Dining",
+  "location": "Disney California Adventure Park, Performance Corridor",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Shareables",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Meats & Cheeses",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Assortment of Chef-selected Italian Cheeses and Cured Meats"
+            },
+            {
+              "title": "Arancini",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Butternut Squash Risotto, Butternut Squash Pur\u00e9e, Mornay Sauce, Grated Romano, Basil & Chile Oils and Micro Basil"
+            },
+            {
+              "title": "Fonduta",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Cream, Smoked Mozzarella, Fontina and Roasted Garlic, served with Sourdough Crostini, Roasted Potatoes and Spanish Chorizo"
+            },
+            {
+              "title": "Focaccia",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with a Duo of House-made Butters"
+            }
+          ]
+        },
+        {
+          "name": "Soups & Salads ",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tuscan Soup",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramelized Fennel and Leeks, Potatoes, Italian Sausage, Kale, Fennel Pollen and Lemon Leek Oil"
+            },
+            {
+              "title": "Panzanella",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Heirloom Tomatoes, Prosciutto, Red Onion, Arugula, Burrata, Focaccia Croutons and Citrus Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Osso Buco",
+              "prices": [
+                {
+                  "withoutTax": 38,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Pork Shank, Creamy Mozzarella Polenta, Grilled Broccolini, Gremolata and Focaccia Sand"
+            },
+            {
+              "title": "Pork Milanese Al Marsala",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Breaded Bone-in Pork Chop served with Angel Hair, Marsala Sauce and Roasted Mushrooms, topped with Arugula and Shallots tossed in Lemon Oil"
+            },
+            {
+              "title": "Roasted Half Chicken",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon-Rosemary-rubbed Chicken, Roasted Garlic Mashed Potatoes with Caramelized Shallots, Roasted Vegetables and Lemon-Caper Sauce"
+            },
+            {
+              "title": "Gnocchi",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spicy Vodka Sauce, Romano Cheese, Micro Basil and Basil Oil"
+            },
+            {
+              "title": "Bucatini Alle Vongole",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Clams with Pasta, White Wine, Garlic, Parsley, Butter, Lemons and Focaccia Sand"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side House Salad ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine Lettuce, Green Olives, Sourdough Croutons, Olives, Pepita Seeds and House-made Caesar Dressing"
+            },
+            {
+              "title": "Orecchiette",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Saut\u00e9ed Broccolini, Caramelized Onion, Roasted Mushrooms, Sun-dried Tomatoes, Roasted Delicata Squash and Demi-glace"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cannoli",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Cheesecake Filling with Candied Pepitas, dusted with Cinnamon and Powdered Sugar"
+            },
+            {
+              "title": "Spumoni Mousse Cake",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Layers of Chocolate Cake, Chocolate Ganache, Cherry Cake, Cherry Jam, Pistachio Cake and Pistachio Mousse, served with Cherry Sauce and Pistachio Crumble"
+            }
+          ]
+        },
+        {
+          "name": "Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Slider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Beef Slider on a Toasted Bun, served with Seasonal Fruit and Yogurt, with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without Substitutions"
+            },
+            {
+              "title": "Mac and Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit and Yogurt, with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without Substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Pizza",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Seasonal Fruit and Fried Potatoes with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avalon Cooler",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "J. Vineyards Cuv\u00e9e, Tito\u2019s Handmade Vodka, St-Germain Elderflower Liqueur, Strawberry Pur\u00e9e and Lemon Juice"
+            },
+            {
+              "title": "Mint Julep Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, Apricot Liquor, Agave, Lemon Juice and Soda Water with a Sprig of Mint"
+            },
+            {
+              "title": "Millionaire\u2019s Manhattan",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, MacMurray Estate Pinot Noir, Simple Syrup and Charred Cinnamon Stick"
+            },
+            {
+              "title": "Shipwreck",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Rum, Giffard's Passion Fruit Liqueur, Orgeat, Coconut Milk and Lime Juice topped with Myers's Dark Rum and Aromatic Bitters"
+            },
+            {
+              "title": "5... 4... 3... 2... 1",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Captain Morgan Original Spiced Rum, Bols Blue Cura\u00e7ao, Coconut-Pineapple Cream and fresh Lime Juice"
+            },
+            {
+              "title": "Drop In... If you Dare",
+              "prices": [
+                {
+                  "withoutTax": 21.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, St. Germain Elderflower Liqueur, fresh Lemon Juice served with Maraschino Cherry Mix"
+            },
+            {
+              "title": "Conestoga Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Topo Chico\u00ae Mineral Water, Lime Juice and Finest Call Prickly Pear Syrup"
+            },
+            {
+              "title": "Mulholland Mule",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jameson Irish Whiskey and Lime Juice topped with Ginger Beer"
+            },
+            {
+              "title": "Pozione Verde",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Midori, Coconut Rum, Coconut Cream and Pineapple Juice"
+            },
+            {
+              "title": "Lime Thyme",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limoncello, Tanqueray Gin, Lime Juice, Thyme and Sparkling Water"
+            },
+            {
+              "title": "La Rinascita",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bombay Sapphire Gin, Campari, Pineapple Juice, Orgeat Syrup and Lemon Juice"
+            },
+            {
+              "title": "Hazelnut Affogato Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Frangelico, Espresso and Vanilla Ice Cream, topped with Chocolate"
+            },
+            {
+              "title": "Amalfi Sunset Paloma",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Watermelon Juice, Agave and Lemon Juice"
+            },
+            {
+              "title": "Boulevardier",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Campari, Dolin Sweet Vermouth and Old Forester Bourbon"
+            },
+            {
+              "title": "Aperol Spritz Flight",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol Spritz, Limoncello Spritz, Elderflower Spritz"
+            },
+            {
+              "title": "Garibaldi",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and Blood Orange Juice"
+            },
+            {
+              "title": "Bicicletta",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pinot Grigio and Campari topped with Sparkling Water"
+            },
+            {
+              "title": "Trattoria Aperitivo",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cappelletti Aperitivo, Storyhouse California Dry Gin and Lemon Juice"
+            },
+            {
+              "title": "Lemon Basil Spritz",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limoncello, Absolut Citron, Prosecco, Lemon Juice and Fresh Basil"
+            },
+            {
+              "title": "Amaro Rinfrescante",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Amaro Averna Liqueur topped with Sparkling Mineral Water and a splash of Lemon Juice"
+            },
+            {
+              "title": "Aperol Spritz",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and La Marca Prosecco topped with Soda Water"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "J Vineyards Sparkling",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "Tenuta Pederzana, Margherita Lambrusco",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Emilia-Romagna Bologna, Italy"
+            },
+            {
+              "title": "Luca Paretti, Prosecco DOC",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Treviso, Italy"
+            },
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Russian River Valley"
+            },
+            {
+              "title": "Fess Parker, Riesling",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Barbara County"
+            },
+            {
+              "title": "Cantodoro, Stemmari",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sicily, Italy"
+            },
+            {
+              "title": "Candoni, Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Veneto, Italy"
+            },
+            {
+              "title": "The Prisoner, Red Blend",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "Twomey, Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa County and Sonoma County"
+            },
+            {
+              "title": "Produttori del Barbaresco, Nebbiolo Langhe DOC",
+              "prices": [
+                {
+                  "withoutTax": 118,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Piedmonte, Italy"
+            },
+            {
+              "title": "Skywalker Vineyards Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 63,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marin County Estate"
+            },
+            {
+              "title": "Justin Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            }
+          ]
+        },
+        {
+          "name": "Beer and Hard Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peroni Nastro Azzurro",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italian Lager, Rome, Italy (ABV 5.0%)"
+            },
+            {
+              "title": "Bottle Logic, Tropical Hideaway",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.6%)"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Escondido, CA (ABV 7.7%)"
+            },
+            {
+              "title": "Harland Brewing Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (6.5% ABV)"
+            },
+            {
+              "title": "Green Cheek Beer Co Lavender Lemonade Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange, CA (5.0% ABV)"
+            },
+            {
+              "title": "Athletic Brewing CO. Run Wild Non-Alcoholic IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV &lt;0.5%)"
+            },
+            {
+              "title": "Unsung Brewing Co, Red Vespa Italian Red Lager",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.8%)"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Heimlich Chew Chew Juice (Non-Alcoholic)",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade with Granny Smith Apple Syrup and fresh Watermelon"
+            },
+            {
+              "title": "Affogato",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso with Vanilla Ice Cream, topped with Chocolate and Pistachio"
+            },
+            {
+              "title": "Premium Sparkling Mineral Water 1L ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Coca-Cola\u00ae Fountain Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Shareables",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Meats & Cheeses",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Assortment of Chef-selected Italian Cheeses and Cured Meats"
+            },
+            {
+              "title": "Arancini",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Butternut Squash Risotto, Butternut Squash Pur\u00e9e, Mornay Sauce, Grated Romano, Basil & Chile Oils and Micro Basil"
+            },
+            {
+              "title": "Fonduta",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Cream, Smoked Mozzarella, Fontina and Roasted Garlic, served with Sourdough Crostini, Roasted Potatoes and Spanish Chorizo"
+            },
+            {
+              "title": "Focaccia",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with a Duo of House-made Butters"
+            }
+          ]
+        },
+        {
+          "name": "Soups & Salads ",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tuscan Soup",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramelized Fennel and Leeks, Potatoes, Italian Sausage, Kale, Fennel Pollen and Lemon Leek Oil"
+            },
+            {
+              "title": "Panzanella",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Heirloom Tomatoes, Prosciutto, Red Onion, Arugula, Burrata, Focaccia Croutons and Citrus Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Osso Buco",
+              "prices": [
+                {
+                  "withoutTax": 38,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Pork Shank, Creamy Mozzarella Polenta, Grilled Broccolini, Gremolata and Focaccia Sand"
+            },
+            {
+              "title": "Pork Milanese Al Marsala",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Breaded Bone-in Pork Chop served with Angel Hair, Marsala Sauce and Roasted Mushrooms, topped with Arugula and Shallots tossed in Lemon Oil"
+            },
+            {
+              "title": "Roasted Half Chicken",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon-Rosemary-rubbed Chicken, Roasted Garlic Mashed Potatoes with Caramelized Shallots, Roasted Vegetables and Lemon-Caper Sauce"
+            },
+            {
+              "title": "Gnocchi",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spicy Vodka Sauce, Romano Cheese, Micro Basil and Basil Oil"
+            },
+            {
+              "title": "Bucatini Alle Vongole",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Clams with Pasta, White Wine, Garlic, Parsley, Butter, Lemons and Focaccia Sand"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side House Salad ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine Lettuce, Green Olives, Sourdough Croutons, Olives, Pepita Seeds and House-made Caesar Dressing"
+            },
+            {
+              "title": "Orecchiette",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Saut\u00e9ed Broccolini, Caramelized Onion, Roasted Mushrooms, Sun-dried Tomatoes, Roasted Delicata Squash and Demi-glace"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cannoli",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Cheesecake Filling with Candied Pepitas, dusted with Cinnamon and Powdered Sugar"
+            },
+            {
+              "title": "Spumoni Mousse Cake",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Layers of Chocolate Cake, Chocolate Ganache, Cherry Cake, Cherry Jam, Pistachio Cake and Pistachio Mousse, served with Cherry Sauce and Pistachio Crumble"
+            }
+          ]
+        },
+        {
+          "name": "Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Slider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Beef Slider on a Toasted Bun, served with Seasonal Fruit and Yogurt, with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without Substitutions"
+            },
+            {
+              "title": "Mac and Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit and Yogurt, with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without Substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Pizza",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Seasonal Fruit and Fried Potatoes with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avalon Cooler",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "J. Vineyards Cuv\u00e9e, Tito\u2019s Handmade Vodka, St-Germain Elderflower Liqueur, Strawberry Pur\u00e9e and Lemon Juice"
+            },
+            {
+              "title": "Mint Julep Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, Apricot Liquor, Agave, Lemon Juice and Soda Water with a Sprig of Mint"
+            },
+            {
+              "title": "Millionaire\u2019s Manhattan",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester Bourbon, MacMurray Estate Pinot Noir, Simple Syrup and Charred Cinnamon Stick"
+            },
+            {
+              "title": "Shipwreck",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Rum, Giffard's Passion Fruit Liqueur, Orgeat, Coconut Milk and Lime Juice topped with Myers's Dark Rum and Aromatic Bitters"
+            },
+            {
+              "title": "5... 4... 3... 2... 1",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Captain Morgan Original Spiced Rum, Bols Blue Cura\u00e7ao, Coconut-Pineapple Cream and fresh Lime Juice"
+            },
+            {
+              "title": "Drop In... If you Dare",
+              "prices": [
+                {
+                  "withoutTax": 21.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, St. Germain Elderflower Liqueur, fresh Lemon Juice served with Maraschino Cherry Mix"
+            },
+            {
+              "title": "Conestoga Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Topo Chico\u00ae Mineral Water, Lime Juice and Finest Call Prickly Pear Syrup"
+            },
+            {
+              "title": "Mulholland Mule",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jameson Irish Whiskey and Lime Juice topped with Ginger Beer"
+            },
+            {
+              "title": "Pozione Verde",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Midori, Coconut Rum, Coconut Cream and Pineapple Juice"
+            },
+            {
+              "title": "Lime Thyme",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limoncello, Tanqueray Gin, Lime Juice, Thyme and Sparkling Water"
+            },
+            {
+              "title": "La Rinascita",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bombay Sapphire Gin, Campari, Pineapple Juice, Orgeat Syrup and Lemon Juice"
+            },
+            {
+              "title": "Hazelnut Affogato Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Frangelico, Espresso and Vanilla Ice Cream, topped with Chocolate"
+            },
+            {
+              "title": "Amalfi Sunset Paloma",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Watermelon Juice, Agave and Lemon Juice"
+            },
+            {
+              "title": "Boulevardier",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Campari, Dolin Sweet Vermouth and Old Forester Bourbon"
+            },
+            {
+              "title": "Aperol Spritz Flight",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol Spritz, Limoncello Spritz, Elderflower Spritz"
+            },
+            {
+              "title": "Garibaldi",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and Blood Orange Juice"
+            },
+            {
+              "title": "Bicicletta",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pinot Grigio and Campari topped with Sparkling Water"
+            },
+            {
+              "title": "Trattoria Aperitivo",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cappelletti Aperitivo, Storyhouse California Dry Gin and Lemon Juice"
+            },
+            {
+              "title": "Lemon Basil Spritz",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limoncello, Absolut Citron, Prosecco, Lemon Juice and Fresh Basil"
+            },
+            {
+              "title": "Amaro Rinfrescante",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Amaro Averna Liqueur topped with Sparkling Mineral Water and a splash of Lemon Juice"
+            },
+            {
+              "title": "Aperol Spritz",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and La Marca Prosecco topped with Soda Water"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "J Vineyards Sparkling",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "Tenuta Pederzana, Margherita Lambrusco",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Emilia-Romagna Bologna, Italy"
+            },
+            {
+              "title": "Luca Paretti, Prosecco DOC",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Treviso, Italy"
+            },
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Russian River Valley"
+            },
+            {
+              "title": "Fess Parker, Riesling",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Barbara County"
+            },
+            {
+              "title": "Cantodoro, Stemmari",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sicily, Italy"
+            },
+            {
+              "title": "Candoni, Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Veneto, Italy"
+            },
+            {
+              "title": "The Prisoner, Red Blend",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley"
+            },
+            {
+              "title": "Twomey, Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa County and Sonoma County"
+            },
+            {
+              "title": "Produttori del Barbaresco, Nebbiolo Langhe DOC",
+              "prices": [
+                {
+                  "withoutTax": 118,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Piedmonte, Italy"
+            },
+            {
+              "title": "Skywalker Vineyards Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 63,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marin County Estate"
+            },
+            {
+              "title": "Justin Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            }
+          ]
+        },
+        {
+          "name": "Beer and Hard Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peroni Nastro Azzurro",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italian Lager, Rome, Italy (ABV 5.0%)"
+            },
+            {
+              "title": "Bottle Logic, Tropical Hideaway",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.6%)"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Escondido, CA (ABV 7.7%)"
+            },
+            {
+              "title": "Harland Brewing Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (6.5% ABV)"
+            },
+            {
+              "title": "Green Cheek Beer Co Lavender Lemonade Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange, CA (5.0% ABV)"
+            },
+            {
+              "title": "Athletic Brewing CO. Run Wild Non-Alcoholic IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV &lt;0.5%)"
+            },
+            {
+              "title": "Unsung Brewing Co, Red Vespa Italian Red Lager",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5.8%)"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Heimlich Chew Chew Juice (Non-Alcoholic)",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade with Granny Smith Apple Syrup and fresh Watermelon"
+            },
+            {
+              "title": "Affogato",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso with Vanilla Ice Cream, topped with Chocolate and Pistachio"
+            },
+            {
+              "title": "Premium Sparkling Mineral Water 1L ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Coca-Cola\u00ae Fountain Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Shareables",
+        "desktop": "Shareables"
+      },
+      {
+        "mobile": "Soups & Salads ",
+        "desktop": "Soups & Salads "
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based Offerings",
+        "desktop": "Plant-Based Offerings"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      },
+      {
+        "mobile": "Disney Check Meal",
+        "desktop": "Disney Check Meal"
+      },
+      {
+        "mobile": "Kids' Meal",
+        "desktop": "Kids' Meal"
+      },
+      {
+        "mobile": "Signature Cocktails",
+        "desktop": "Signature Cocktails"
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Beer and Hard Seltzer",
+        "desktop": "Beer and Hard Seltzer"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Shareables",
+        "desktop": "Shareables"
+      },
+      {
+        "mobile": "Soups & Salads ",
+        "desktop": "Soups & Salads "
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based Offerings",
+        "desktop": "Plant-Based Offerings"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      },
+      {
+        "mobile": "Disney Check Meal",
+        "desktop": "Disney Check Meal"
+      },
+      {
+        "mobile": "Kids' Meal",
+        "desktop": "Kids' Meal"
+      },
+      {
+        "mobile": "Signature Cocktails",
+        "desktop": "Signature Cocktails"
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Beer and Hard Seltzer",
+        "desktop": "Beer and Hard Seltzer"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      }
+    ]
+  }
+}

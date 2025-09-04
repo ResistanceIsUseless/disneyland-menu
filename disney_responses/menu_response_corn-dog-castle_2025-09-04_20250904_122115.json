@@ -1,0 +1,804 @@
+{
+  "name": "Corn Dog Castle",
+  "location": "Disney California Adventure Park, Paradise Gardens Park",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    },
+    {
+      "name": "Special",
+      "label": "Special"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Elote Corn on the Cob",
+              "prices": [
+                {
+                  "withoutTax": 9.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Whole Corn Cob dipped in Batter and fried to Golden Brown, drizzled with Chipotle A\u00efoli and topped with Chile-Lime Queso Fresco and Cilantro, served with Cuties\u00ae Mandarin Orange or Small Bag of Chips"
+            },
+            {
+              "title": "Tim Burton's The Nightmare Before Christmas Mayor Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 22.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Halloween Candy Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Halloween Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Kuzco's Poison Bottle Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oogie Boogie Moon Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 6.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Pluto Skeleton Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Coco Sipper",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Disneyland 70th Celebration Tinker Bell Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 14.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 28.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee or Hot Cocoa at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 19.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Magic Key Holder Offering",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Magic Key Kuzco's Poison Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit one (1) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Delights of the Round Table",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Original Corn Dog",
+              "prices": [
+                {
+                  "withoutTax": 11.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dipped in Corn Batter and fried to a golden Brown served with Cuties\u00ae Mandarin or Small Bag of Chips"
+            },
+            {
+              "title": "Hot-Link Corn Dog",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dipped in Corn Batter and fried to a golden brown served with Cuties\u00ae Mandarin or Small Bag of Chips"
+            },
+            {
+              "title": "Cheddar Cheese Stick",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dipped in Corn Batter and fried to a golden Brown served with Cuties\u00ae Mandarin or Small Bag of Chips"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage|Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Stereo Brewing Company Perfect Day IPA ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Local West Coast IPA, (ABV 7.5%)"
+            },
+            {
+              "title": "Modelo Especial ",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pilsner-style Lager, 4.4% ABV, 18 IBU, Mexican Cerveza"
+            }
+          ]
+        },
+        {
+          "name": "The Beverage Kingdom",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "label": "Special",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Elote Corn on the Cob",
+              "prices": [
+                {
+                  "withoutTax": 9.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Whole Corn Cob dipped in Batter and fried to Golden Brown, drizzled with Chipotle A\u00efoli and topped with Chile-Lime Queso Fresco and Cilantro, served with Cuties\u00ae Mandarin Orange or Small Bag of Chips"
+            },
+            {
+              "title": "Tim Burton's The Nightmare Before Christmas Mayor Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 22.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Halloween Candy Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Halloween Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Kuzco's Poison Bottle Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oogie Boogie Moon Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 6.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Pluto Skeleton Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Coco Sipper",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Disneyland 70th Celebration Tinker Bell Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 14.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 28.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee or Hot Cocoa at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 19.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Magic Key Holder Offering",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Magic Key Kuzco's Poison Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit one (1) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Delights of the Round Table",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Original Corn Dog",
+              "prices": [
+                {
+                  "withoutTax": 11.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dipped in Corn Batter and fried to a golden Brown served with Cuties\u00ae Mandarin or Small Bag of Chips"
+            },
+            {
+              "title": "Hot-Link Corn Dog",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dipped in Corn Batter and fried to a golden brown served with Cuties\u00ae Mandarin or Small Bag of Chips"
+            },
+            {
+              "title": "Cheddar Cheese Stick",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dipped in Corn Batter and fried to a golden Brown served with Cuties\u00ae Mandarin or Small Bag of Chips"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage|Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Stereo Brewing Company Perfect Day IPA ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Local West Coast IPA, (ABV 7.5%)"
+            },
+            {
+              "title": "Modelo Especial ",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pilsner-style Lager, 4.4% ABV, 18 IBU, Mexican Cerveza"
+            }
+          ]
+        },
+        {
+          "name": "The Beverage Kingdom",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Magic Key Holder Offering",
+        "desktop": "Magic Key Holder Offering"
+      },
+      {
+        "mobile": "Delights of the Round Table",
+        "desktop": "Delights of the Round Table"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "The Beverage Kingdom",
+        "desktop": "The Beverage Kingdom"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Magic Key Holder Offering",
+        "desktop": "Magic Key Holder Offering"
+      },
+      {
+        "mobile": "Delights of the Round Table",
+        "desktop": "Delights of the Round Table"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "The Beverage Kingdom",
+        "desktop": "The Beverage Kingdom"
+      }
+    ]
+  }
+}

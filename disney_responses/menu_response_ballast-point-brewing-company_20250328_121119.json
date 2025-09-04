@@ -1,0 +1,1280 @@
+{
+  "name": "Ballast Point\u00ae Brewing Co.",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Seasonal Offering",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "BBQ Bacon Burger",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1/2lb Angus Beef Patty, Pepper Jack Cheese, BBQ Sauce, Bacon & Crispy Onions"
+            },
+            {
+              "title": "Pumpkin Butter Cake",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm gooey layered Pumpkin Butter Cake topped with Whipped Cream, Candied Walnuts, Powdered Sugar & Mint"
+            },
+            {
+              "title": "Lobster Roll",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toasted New England Bun, Lobster tossed in Old Bay A\u00efoli, Celery, garnished with Green Onions, served with Fries or Side Salad\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Shareables",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Fries",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Add Garlic & Parmesan for $2) (Vegetarian option)"
+            },
+            {
+              "title": "Sourdough Pretzel ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with BP Cheese Sauce & Fathom Beer Mustard\u00a0"
+            },
+            {
+              "title": "Ballast Point Wings ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo or sweet Thai Chili Glazed\u00a0"
+            },
+            {
+              "title": "Shrimp Aguachile",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus cured Shrimp, Tamarind marinade, Avocado, Cucumber, Red Onion served with Tostadas"
+            },
+            {
+              "title": "Fried Calamari",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crispy fried Calamari Rings, Tomato Basil, Relish, Parmesan, served with spicy Calabrian Marinara and Lemon"
+            },
+            {
+              "title": "Fried Brussel Sprouts",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brussel Sprouts, crispy Bacon, Sambal Pomegranate Glaze"
+            },
+            {
+              "title": "Steak Nachos",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus marinated Steak, BP Cheese Sauce, Queso Fresco, Sauteed Bell Peppers & Onion, Avocado Salsa on Chili Lime Seasoned Chips. (add Avocado for $4) (add Jalape\u00f1o $1)"
+            },
+            {
+              "title": "Cheese Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marinara & Mozzarella Cheese (Sub a Gluten Free Cauliflower Crust on any Flatbread for $4) (add Jalape\u00f1o for $1) (add Bacon for $2) (Vegetarian Option)"
+            },
+            {
+              "title": "Pepperoni Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pepperoni, Marinara & Mozzarella Cheese (Sub a Gluten Free Cauliflower Crust on any Flatbread for $4) (add Jalape\u00f1o for $1) (add Bacon for $2)"
+            },
+            {
+              "title": "BBQ Chicken Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chipotle BBQ Sauce, Chicken, Mozzarella, Chedder Jack Cheese, Red Onion, Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Mains",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ballast Point Burger",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1/2lb patty, Shredded Lettuce, Tomato, BP special Sauce, American Cheese on a Toasted Brioche Bun & Pickle Spear (add Avocado for $4) (add Bacon for $2) (add Egg for $2) (add extra patty for $6) (add Jalape\u00f1o) (sub Garlic & Parmesan fries for $2) (sub Pepper Jack Cheese for $.50"
+            },
+            {
+              "title": " Beyond Delicious Burger",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beyond Patty served on a Vegan Brioche Bun, Topped with Pepper Jack Cheese, Vegan Bell Pepper A\u00efoli, Lettuce, Tomato & Pickle Spear"
+            },
+            {
+              "title": "Fried Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "7oz Chicken Breast tossed in Chili Oil, Tomato, Shredded Lettuce, Honey Siracha A\u00efoli, Toasted Brioche Bun & Pickle Spear. (add Avocado for $4) (add Bacon for $2) (add Egg for $2) (add extra patty for $6) (add Jalape\u00f1o for $1) (sub Impossible\u2122 Patty for $6) (sub Garlic Parm fries for $2)"
+            },
+            {
+              "title": "Baja Fish Tacos",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "BP Beer-battered Cod Loins, blended Tortilla, Jalape\u00f1o Red Cabbage Slaw mix, Chipotle Crema, served with Seasoned Chips & Roasted Salsa (sub fries for $4)"
+            },
+            {
+              "title": "Fish & Chips",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "BP Beer Battered Cod Loins, Crispy Seasoned Fries, served with house made Tartar Sauce & Lemons"
+            },
+            {
+              "title": "Birria Quesatacos",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Beef, blended Tortilla, Onions, Cilantro, Oaxaca Cheese, Avocado salsa Verde served with side of Seasoned chips and roasted Salsa."
+            },
+            {
+              "title": "Poke Bowl",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "marinated Ahi with Onion & Sesame, Rice, Carrots, Cucumber, Avocado, Wakame Salad, Honey-Sriracha A\u00efoli & Crispy Rice strips"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House Salad",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spring mix, Cucumber, Carrots, Heirloom Tomatoes, White Balsamic Vinaigrette (Add on Avocado for $4) (Add on Grilled Chicken for $6) (Add on Seared Ahi for $8) (add Bacon for $ 2) (Vegan and Gluten Free option)"
+            },
+            {
+              "title": "Winter Salad",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baby Spinach tossed in a Citrus Vinaigrette with Roasted Butternut Squash, Goat Cheese Crumbles, Crispy Prosciutto & Candied Walnuts (Add on Avocado for $4) (Add on Grilled Chicken for $6) (Add on Seared Ahi for $8) (add Bacon for $ 2)"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Green & Red Romaine, Garlic Croutons, Parmesan, Caesar Dressing. (Add on Avocado for $4) (Add on Grilled Chicken for $6) (Add on Seared Ahi for $8) (add Bacon for $2)"
+            }
+          ]
+        },
+        {
+          "name": "Sweets",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "New York Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sponge Cake base Cheesecake with Bourbon Vanilla, Raspberry Drizzle & Miint"
+            },
+            {
+              "title": "Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mix of Dark, Milk & White Chocolate, Hazelnut Crunch & Mint"
+            },
+            {
+              "title": "Guava Mango Flute",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tantalizing Guava & Mango swirled Gelato"
+            }
+          ]
+        },
+        {
+          "name": "Kids Menu",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mac n' Cheese",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes main dish, choice of Side, choice of Beverage and Crispy Marshmallow Rice Treat"
+            },
+            {
+              "title": "Crispy Chicken Fingers",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes main dish, choice of Side, choice of Beverage and Crispy Marshmallow Rice Treat"
+            },
+            {
+              "title": "Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes main dish, choice of Side, choice of Beverage and Crispy Marshmallow Rice Treat"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Sides",
+          "type": "Kids|Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Baby Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tortilla Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cider, Kombucha and Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fountain Hard Seltzer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rotating Seasonal Hard Seltzer"
+            },
+            {
+              "title": "Newtopia Cyder",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rotating Seasonal Hard Cider"
+            },
+            {
+              "title": "Flying Embers \u2018Pineapple Chili\u2019",
+              "prices": [],
+              "pricesRange": false,
+              "description": "juicy Pineapple with a hint of Ginger and a subtle refreshing, Chili finish"
+            }
+          ]
+        },
+        {
+          "name": "Seaborn Canned Margaritas",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Passion Guava",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry Hibiscus",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White, Ros\u00e9 and Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Prosecco, Ruffino, Italy",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio, Chloe, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 9,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay, Josh, California ",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Kim Crawford, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ros\u00e9, Chloe, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pinot Noir, Imagery, California",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, Theresa Noelle, CA Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Blend, 7 Moons, California",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet, Robert Mondavi Private Selection, Monterey County",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Seasonal Offering",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "BBQ Bacon Burger",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1/2lb Angus Beef Patty, Pepper Jack Cheese, BBQ Sauce, Bacon & Crispy Onions"
+            },
+            {
+              "title": "Pumpkin Butter Cake",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm gooey layered Pumpkin Butter Cake topped with Whipped Cream, Candied Walnuts, Powdered Sugar & Mint"
+            },
+            {
+              "title": "Lobster Roll",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toasted New England Bun, Lobster tossed in Old Bay A\u00efoli, Celery, garnished with Green Onions, served with Fries or Side Salad\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Shareables",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Fries",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Add Garlic & Parmesan for $2) (Vegetarian option)"
+            },
+            {
+              "title": "Sourdough Pretzel ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with BP Cheese Sauce & Fathom Beer Mustard\u00a0"
+            },
+            {
+              "title": "Ballast Point Wings ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo or sweet Thai Chili Glazed\u00a0"
+            },
+            {
+              "title": "Shrimp Aguachile",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus cured Shrimp, Tamarind marinade, Avocado, Cucumber, Red Onion served with Tostadas"
+            },
+            {
+              "title": "Fried Calamari",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crispy fried Calamari Rings, Tomato Basil, Relish, Parmesan, served with spicy Calabrian Marinara and Lemon"
+            },
+            {
+              "title": "Fried Brussel Sprouts",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brussel Sprouts, crispy Bacon, Sambal Pomegranate Glaze"
+            },
+            {
+              "title": "Steak Nachos",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus marinated Steak, BP Cheese Sauce, Queso Fresco, Sauteed Bell Peppers & Onion, Avocado Salsa on Chili Lime Seasoned Chips. (add Avocado for $4) (add Jalape\u00f1o $1)"
+            },
+            {
+              "title": "Cheese Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marinara & Mozzarella Cheese (Sub a Gluten Free Cauliflower Crust on any Flatbread for $4) (add Jalape\u00f1o for $1) (add Bacon for $2) (Vegetarian Option)"
+            },
+            {
+              "title": "Pepperoni Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pepperoni, Marinara & Mozzarella Cheese (Sub a Gluten Free Cauliflower Crust on any Flatbread for $4) (add Jalape\u00f1o for $1) (add Bacon for $2)"
+            },
+            {
+              "title": "BBQ Chicken Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chipotle BBQ Sauce, Chicken, Mozzarella, Chedder Jack Cheese, Red Onion, Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Mains",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ballast Point Burger",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1/2lb patty, Shredded Lettuce, Tomato, BP special Sauce, American Cheese on a Toasted Brioche Bun & Pickle Spear (add Avocado for $4) (add Bacon for $2) (add Egg for $2) (add extra patty for $6) (add Jalape\u00f1o) (sub Garlic & Parmesan fries for $2) (sub Pepper Jack Cheese for $.50"
+            },
+            {
+              "title": " Beyond Delicious Burger",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beyond Patty served on a Vegan Brioche Bun, Topped with Pepper Jack Cheese, Vegan Bell Pepper A\u00efoli, Lettuce, Tomato & Pickle Spear"
+            },
+            {
+              "title": "Fried Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "7oz Chicken Breast tossed in Chili Oil, Tomato, Shredded Lettuce, Honey Siracha A\u00efoli, Toasted Brioche Bun & Pickle Spear. (add Avocado for $4) (add Bacon for $2) (add Egg for $2) (add extra patty for $6) (add Jalape\u00f1o for $1) (sub Impossible\u2122 Patty for $6) (sub Garlic Parm fries for $2)"
+            },
+            {
+              "title": "Baja Fish Tacos",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "BP Beer-battered Cod Loins, blended Tortilla, Jalape\u00f1o Red Cabbage Slaw mix, Chipotle Crema, served with Seasoned Chips & Roasted Salsa (sub fries for $4)"
+            },
+            {
+              "title": "Fish & Chips",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "BP Beer Battered Cod Loins, Crispy Seasoned Fries, served with house made Tartar Sauce & Lemons"
+            },
+            {
+              "title": "Birria Quesatacos",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Angus Beef, blended Tortilla, Onions, Cilantro, Oaxaca Cheese, Avocado salsa Verde served with side of Seasoned chips and roasted Salsa."
+            },
+            {
+              "title": "Poke Bowl",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "marinated Ahi with Onion & Sesame, Rice, Carrots, Cucumber, Avocado, Wakame Salad, Honey-Sriracha A\u00efoli & Crispy Rice strips"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House Salad",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spring mix, Cucumber, Carrots, Heirloom Tomatoes, White Balsamic Vinaigrette (Add on Avocado for $4) (Add on Grilled Chicken for $6) (Add on Seared Ahi for $8) (add Bacon for $ 2) (Vegan and Gluten Free option)"
+            },
+            {
+              "title": "Winter Salad",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baby Spinach tossed in a Citrus Vinaigrette with Roasted Butternut Squash, Goat Cheese Crumbles, Crispy Prosciutto & Candied Walnuts (Add on Avocado for $4) (Add on Grilled Chicken for $6) (Add on Seared Ahi for $8) (add Bacon for $ 2)"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Green & Red Romaine, Garlic Croutons, Parmesan, Caesar Dressing. (Add on Avocado for $4) (Add on Grilled Chicken for $6) (Add on Seared Ahi for $8) (add Bacon for $2)"
+            }
+          ]
+        },
+        {
+          "name": "Sweets",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "New York Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sponge Cake base Cheesecake with Bourbon Vanilla, Raspberry Drizzle & Miint"
+            },
+            {
+              "title": "Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mix of Dark, Milk & White Chocolate, Hazelnut Crunch & Mint"
+            },
+            {
+              "title": "Guava Mango Flute",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tantalizing Guava & Mango swirled Gelato"
+            }
+          ]
+        },
+        {
+          "name": "Kids Menu",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mac n' Cheese",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes main dish, choice of Side, choice of Beverage and Crispy Marshmallow Rice Treat"
+            },
+            {
+              "title": "Crispy Chicken Fingers",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes main dish, choice of Side, choice of Beverage and Crispy Marshmallow Rice Treat"
+            },
+            {
+              "title": "Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes main dish, choice of Side, choice of Beverage and Crispy Marshmallow Rice Treat"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Sides",
+          "type": "Kids|Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Baby Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tortilla Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cider, Kombucha and Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fountain Hard Seltzer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rotating Seasonal Hard Seltzer"
+            },
+            {
+              "title": "Newtopia Cyder",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rotating Seasonal Hard Cider"
+            },
+            {
+              "title": "Flying Embers \u2018Pineapple Chili\u2019",
+              "prices": [],
+              "pricesRange": false,
+              "description": "juicy Pineapple with a hint of Ginger and a subtle refreshing, Chili finish"
+            }
+          ]
+        },
+        {
+          "name": "Seaborn Canned Margaritas",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Passion Guava",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry Hibiscus",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White, Ros\u00e9 and Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Prosecco, Ruffino, Italy",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio, Chloe, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 9,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay, Josh, California ",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Kim Crawford, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ros\u00e9, Chloe, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pinot Noir, Imagery, California",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, Theresa Noelle, CA Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Blend, 7 Moons, California",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet, Robert Mondavi Private Selection, Monterey County",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

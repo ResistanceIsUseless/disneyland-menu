@@ -1,0 +1,673 @@
+{
+  "name": "Lucky Fortune Cookery",
+  "location": "Disney California Adventure Park, San Fransokyo Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offering",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Megabot Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 23.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Honey Walnut Shrimp Wrap ",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Shrimp tossed in Sweet Honey Sauce, White Rice, Candied Walnuts, Slaw, Green Onions and Sesame Seeds"
+            },
+            {
+              "title": "Karaage-inspired Crispy Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Slaw and Togarashi Mayonnaise on a Potato Bun, served with Garlic Chips"
+            },
+            {
+              "title": "Teriyaki Chicken",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables and Steamed Rice"
+            },
+            {
+              "title": "Yaki Udon with Karaage-inspired Crispy Chicken",
+              "prices": [
+                {
+                  "withoutTax": 18.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy and Hoisin Sauces"
+            },
+            {
+              "title": "Beef Birria Ramen",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Consom\u00e9, served with House-made Birria, Soft-boiled Egg, Monterey Jack, Cilantro, Roasted Corn, Onions and Radish"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Yaki Udon",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy and Hoisin Sauces"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pot Stickers",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Vegetable and Chicken Pot Stickers"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Baymax Macaron",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Chocolate-Hazelnut Spread and Buttercream"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids Chicken and Rice",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Vegetables, Steamed Rice and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Plant-Based Kids Yaki Udon",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy, Hoisin Sauce and small DASANI\u00ae water"
+            },
+            {
+              "title": "Kids Teriyaki Chicken",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables, Steamed Rice and choice of small DASANI\u00ae water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coronado Brewing Co., Orange Ave Wit ",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Refreshing Light-bodied Wheat Beer bolstered by Orange Zest, Coriander, and Orange Blossom Honey (ABV 5.2%)"
+            },
+            {
+              "title": "Strawberry Lychee Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Lychee Liqueur, Premium Strawberry Syrup and Fresh Lemon Juice with sliced Strawberry Garnish"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Three Milk Ube Tea ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ube Tea with Brown Sugar Tapioca Pearls, topped with Coconut Foam"
+            },
+            {
+              "title": "Baymax Sipper",
+              "prices": [
+                {
+                  "withoutTax": 21.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Thai Tea ",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Sea Salt Cream and Brown Sugar Tapioca Pearls"
+            },
+            {
+              "title": "Hot Green Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Organic Hot Green Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Fanta\u00ae Orange, Powerade\u00ae Mountain Berry Blast, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweet Iced Tea, Gold Peak\u00ae Unsweetened Iced Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Fanta\u00ae Orange, Powerade\u00ae Mountain Berry Blast, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweet Iced Tea, Gold Peak\u00ae Unsweetened Iced Tea"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables and Steamed Rice"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids Chicken and Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vegetables, Steamed Rice and choice of small DASANI\u00ae water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Yaki Udon with Karaage-inspired Crispy Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy and Hoisin Sauces"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy and Hoisin Sauces"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Kids Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy, Hoisin Sauce and small DASANI\u00ae water"
+            },
+            {
+              "title": "Egg Allergy-Friendly Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables and Steamed Rice"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pot Stickers",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Vegetable and Chicken Pot Stickers"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids Chicken and Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vegetables, Steamed Rice and choice of small DASANI\u00ae water or small Lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables, Steamed Rice and choice of small DASANI\u00ae water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Fish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish Allergy-Friendly Beef Birria Ramen",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ramen Noodles with Consom\u00e9, served with House-made Birria, Soft Boiled Egg, Monterey Jack, Cilantro, Onions and Radish"
+            },
+            {
+              "title": "Fish Allergy-Friendly Kids Chicken and Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vegetables, Steamed Rice, and choice of Small Beverage"
+            },
+            {
+              "title": "Fish Allergy-Friendly Kids Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables, Steamed Rice, and choice of Small Beverage"
+            },
+            {
+              "title": "Fish Allergy-Friendly Plant-based Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Udon Noodles grilled with Mushrooms, Sugar Snap Peas, Roasted Peppers, Bok Choy, Dark Soy and Hoisin Sauce"
+            },
+            {
+              "title": "Fish Allergy-Friendly Yaki Udon with Karaage-inspired Crispy Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Bok Choy, Dark Soy and Hoisin Sauce"
+            },
+            {
+              "title": "Fish Allergy-Friendly Pot Stickers",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Vegetable and Chicken Pot Stickers"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Baymax Macaron",
+              "prices": [],
+              "pricesRange": false,
+              "description": "filled with Chocolate-Hazelnut Spread and Buttercream"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based Kids Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy, Hoisin Sauce and small DASANI\u00ae water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables and Steamed Rice"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Karaage-inspired Crispy Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Slaw and Togarashi Mayonnaise on a Potato Bun, served with Garlic Chips"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy and Hoisin Sauces"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Kids Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy, Hoisin Sauce and small DASANI\u00ae water"
+            },
+            {
+              "title": "Milk Allergy-Friendly Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables and Steamed Rice"
+            },
+            {
+              "title": "Milk Allergy-Friendly Pot Stickers",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Vegetable and Chicken Pot Stickers"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids Chicken and Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vegetables, Steamed Rice and choice of small DASANI\u00ae water or small Lowfat Milk"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables, Steamed Rice and choice of small DASANI\u00ae water"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Beef Birria Ramen",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Consom\u00e9, served with House-Made Birria, Soft Boiled Egg, Monterey Jack, Cilantro, Onions and Radish"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Karaage-inspired Crispy Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Slaw and Togarashi Mayonnaise on a Potato Bun, served with Garlic Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Yaki Udon with Karaage-inspired Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy and Hoisin Sauces"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Plant-based Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy and Hoisin Sauces"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Plant-based Kids Yaki Udon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mushrooms, Sugar Snap Peas, Roasted Red Peppers, Bok Choy, Dark Soy, Hoisin Sauce and small DASANI\u00ae water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables and Steamed Rice"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pot Stickers",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Vegetable and Chicken Pot Stickers"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids Chicken and Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vegetables, Steamed Rice and choice of small DASANI\u00ae water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids Teriyaki Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Saut\u00e9ed Vegetables, Steamed Rice and choice of small DASANI\u00ae water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

@@ -1,0 +1,1396 @@
+{
+  "name": "Cafe Orleans",
+  "location": "Disneyland Park, New Orleans Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Mardi Gras Prix Fixe $58",
+          "type": "Holiday",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Andouille Corn Dogs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "R\u00e9moulade Sauce, Chow Chow Relish and Mustard"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mashed Potatoes, Haricots Verts and Country Gravy"
+            },
+            {
+              "title": "Mardi Gras Roulade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Roulade filled with Coffee Mousse, Purple Vanilla Sauce and Coffee-Chocolate Crunch"
+            }
+          ]
+        },
+        {
+          "name": "Small Bites",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cup of Chicken Gumbo Soup",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tasso Ham, Andouille Sausage, Peppers, Tomatoes and Steamed Rice"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Little Gem Lettuce, Grana Padano, with House made Crouton and a Caesar Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Steak Frites",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ribeye Round, Petite Watercress Salad and B\u00e9arnaise Sauce"
+            },
+            {
+              "title": "Battered & Fried Monte Cristo Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sliced Turkey, Ham and Swiss with Seasonal Preserves and choice of Pommes Frites or Petite Salad"
+            },
+            {
+              "title": "Battered & Fried Triple Cheese Monte Cristo Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brie, Swiss and Mozzarella with Seasonal Preserves and choice of Pommes Frites or Petite Salad"
+            },
+            {
+              "title": "Cajun Butter Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasonal Vegetables and Mashed Potatoes with Cajun Garlic Butter"
+            },
+            {
+              "title": "Blackened Shrimp Alfredo Pasta",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wilted Spinach, Lemon-Roasted Garlic Alfredo Sauce and Grana Padano"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sweet Potato and Lentil Hummus",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon Oil, Pomegranate, Sunflower Seeds and Lavash"
+            },
+            {
+              "title": "Smoked Tomato Risotto",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Carolina Gold Rice, Mushrooms and Herbs"
+            },
+            {
+              "title": "Cr\u00e8me Br\u00fbl\u00e9e Tart",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Bean Cr\u00e8me Br\u00fbl\u00e9e in a Tart Shell"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coffee Roulade",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Roulade filled with Coffee Mousse, Purple Vanilla Sauce and a Coffee-Chocolate Crunch"
+            },
+            {
+              "title": "European-style Drinking Chocolate",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Brown Butter Madeleine, Mickey-shaped Churro Marshmallow, and Pecan Sabl\u00e9"
+            }
+          ]
+        },
+        {
+          "name": "Featured Wines by the Glass ",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "McBride Sisters, Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Central Coast"
+            },
+            {
+              "title": "Mirassou, Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seaborn Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Oceanside, CA (ABV 7.0%)"
+            },
+            {
+              "title": "Bourbon Julep ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bourbon, Citrus and Mint"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sierra Nevada, Hazy Little Thing IPA",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chico, California (6.7% ABV, 35 IBU)"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Minute Maid\u00ae Zerosugar Lemonade, Iced Tea"
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Twinings of London\u00ae Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep Stainless Steel Cup",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Mint Julep or your favorite Fountain Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Petite Steak",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Saut\u00e9ed Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Mickey's Cheesy Macaroni",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Market Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jasmine Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pomme Frites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Mardi Gras Prix Fixe",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Andouille Corn Dogs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "R\u00e9moulade Sauce, Chow Chow Relish and Mustard (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mashed Potatoes, Haricots Verts and Country Gravy (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Mardi Gras Roulade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Roulade filled with Coffee Mousse, Purple Vanilla Sauce and Coffee-Chocolate Crunch (For Fish/Shellfish, Peanut and Sesame Allegies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Small Bites",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cup of Chicken Gumbo Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tasso Ham, Andouille Sausage, Peppers, Tomatoes and Steamed Rice (For Egg, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Little Gem Lettuce and Grana Padano with House-made Crouton and Caesar Dressing (For Peanut/Tree Nut, Sesame, Shellfish and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entr\u00e9es",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Steak Frites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ribeye Round, Petite Watercress Salad and B\u00e9arnaise Sauce (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Battered & Fried Monte Cristo Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sliced Turkey, Ham and Swiss with Seasonal Preserves and choice of Pommes Frites or Petite Salad (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Battered & Fried Triple Cheese Monte Cristo Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Brie, Swiss and Mozzarella with Seasonal Preserves and choice of Pommes Frites or Petite Salad (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Cajun Butter Roasted Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasonal Vegetables and Mashed Potatoes with Cajun Garlic Butter (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Blackened Shrimp Alfredo Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wilted Spinach, Lemon-Roasted Garlic Alfredo Sauce and Grana Padano (For Fish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-based",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Potato and Lentil Hummus",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lemon Oil, Pomegranate, Sunflower Seeds and Lavash (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, and Soy Allergies)"
+            },
+            {
+              "title": "Smoked Tomato Risotto",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carolina Gold Rice, Mushrooms and Herbs (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, and Peanut Allergies)"
+            },
+            {
+              "title": "Cr\u00e8me Br\u00fbl\u00e9e Tart",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Cr\u00e8me Br\u00fbl\u00e9e in a Tart Shell (For Egg, Fish/Shellfish, Milk, Peanut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Sweets",
+          "type": "Allergy Friendly|Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": " European-style Drinking Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Brown Butter Madeleine, Mickey-shaped Churro Marshmallow and Pecan Sabl\u00e9 (For Fish/Shellfish and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-friendly Kids' Create-Your-Own Entr\u00e9es",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of a Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Saut\u00e9ed Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of a Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Petite Steak",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shelfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Mickey's Cheesy Macaroni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of a Small DASANI\u00ae Water or Small Lowfat Milk. (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-friendly Kids' Create-Your-Own Selections",
+          "type": "Allergy Friendly|Kids|Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Market Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Steamed Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Pomme Frites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Braille Menu",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Braille menu available upon request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Mardi Gras Prix Fixe $58",
+          "type": "Holiday",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Andouille Corn Dogs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "R\u00e9moulade Sauce, Chow Chow Relish and Mustard"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mashed Potatoes, Haricots Verts and Country Gravy"
+            },
+            {
+              "title": "Mardi Gras Roulade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Roulade filled with Coffee Mousse, Purple Vanilla Sauce and Coffee-Chocolate Crunch"
+            }
+          ]
+        },
+        {
+          "name": "Small Bites",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cup of Chicken Gumbo Soup",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tasso Ham, Andouille Sausage, Peppers, Tomatoes and Steamed Rice"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Little Gem Lettuce, Grana Padano, with House made Crouton and a Caesar Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Steak Frites",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ribeye Round, Petite Watercress Salad and B\u00e9arnaise Sauce"
+            },
+            {
+              "title": "Battered & Fried Monte Cristo Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sliced Turkey, Ham and Swiss with Seasonal Preserves and choice of Pommes Frites or Petite Salad"
+            },
+            {
+              "title": "Battered & Fried Triple Cheese Monte Cristo Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brie, Swiss and Mozzarella with Seasonal Preserves and choice of Pommes Frites or Petite Salad"
+            },
+            {
+              "title": "Cajun Butter Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasonal Vegetables and Mashed Potatoes with Cajun Garlic Butter"
+            },
+            {
+              "title": "Blackened Shrimp Alfredo Pasta",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wilted Spinach, Lemon-Roasted Garlic Alfredo Sauce and Grana Padano"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sweet Potato and Lentil Hummus",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon Oil, Pomegranate, Sunflower Seeds and Lavash"
+            },
+            {
+              "title": "Smoked Tomato Risotto",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Carolina Gold Rice, Mushrooms and Herbs"
+            },
+            {
+              "title": "Cr\u00e8me Br\u00fbl\u00e9e Tart",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Bean Cr\u00e8me Br\u00fbl\u00e9e in a Tart Shell"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coffee Roulade",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Roulade filled with Coffee Mousse, Purple Vanilla Sauce and a Coffee-Chocolate Crunch"
+            },
+            {
+              "title": "European-style Drinking Chocolate",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Brown Butter Madeleine, Mickey-shaped Churro Marshmallow, and Pecan Sabl\u00e9"
+            }
+          ]
+        },
+        {
+          "name": "Featured Wines by the Glass ",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "McBride Sisters, Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Central Coast"
+            },
+            {
+              "title": "Mirassou, Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seaborn Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Oceanside, CA (ABV 7.0%)"
+            },
+            {
+              "title": "Bourbon Julep ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bourbon, Citrus and Mint"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sierra Nevada, Hazy Little Thing IPA",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chico, California (6.7% ABV, 35 IBU)"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Minute Maid\u00ae Zerosugar Lemonade, Iced Tea"
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Twinings of London\u00ae Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Julep Stainless Steel Cup",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Mint Julep or your favorite Fountain Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Petite Steak",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Saut\u00e9ed Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Mickey's Cheesy Macaroni",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Market Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jasmine Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pomme Frites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Mardi Gras Prix Fixe",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Andouille Corn Dogs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "R\u00e9moulade Sauce, Chow Chow Relish and Mustard (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mashed Potatoes, Haricots Verts and Country Gravy (For Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Mardi Gras Roulade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Roulade filled with Coffee Mousse, Purple Vanilla Sauce and Coffee-Chocolate Crunch (For Fish/Shellfish, Peanut and Sesame Allegies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Small Bites",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cup of Chicken Gumbo Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tasso Ham, Andouille Sausage, Peppers, Tomatoes and Steamed Rice (For Egg, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Little Gem Lettuce and Grana Padano with House-made Crouton and Caesar Dressing (For Peanut/Tree Nut, Sesame, Shellfish and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entr\u00e9es",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Steak Frites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ribeye Round, Petite Watercress Salad and B\u00e9arnaise Sauce (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Battered & Fried Monte Cristo Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sliced Turkey, Ham and Swiss with Seasonal Preserves and choice of Pommes Frites or Petite Salad (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Battered & Fried Triple Cheese Monte Cristo Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Brie, Swiss and Mozzarella with Seasonal Preserves and choice of Pommes Frites or Petite Salad (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Cajun Butter Roasted Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasonal Vegetables and Mashed Potatoes with Cajun Garlic Butter (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Blackened Shrimp Alfredo Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wilted Spinach, Lemon-Roasted Garlic Alfredo Sauce and Grana Padano (For Fish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-based",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Potato and Lentil Hummus",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lemon Oil, Pomegranate, Sunflower Seeds and Lavash (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, and Soy Allergies)"
+            },
+            {
+              "title": "Smoked Tomato Risotto",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carolina Gold Rice, Mushrooms and Herbs (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, and Peanut Allergies)"
+            },
+            {
+              "title": "Cr\u00e8me Br\u00fbl\u00e9e Tart",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Cr\u00e8me Br\u00fbl\u00e9e in a Tart Shell (For Egg, Fish/Shellfish, Milk, Peanut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Sweets",
+          "type": "Allergy Friendly|Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": " European-style Drinking Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Brown Butter Madeleine, Mickey-shaped Churro Marshmallow and Pecan Sabl\u00e9 (For Fish/Shellfish and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-friendly Kids' Create-Your-Own Entr\u00e9es",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of a Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Saut\u00e9ed Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of a Small DASANI\u00ae Water or Small Lowfat Milk. (For Gluten/Wheat, Egg, Fish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Petite Steak",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shelfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Mickey's Cheesy Macaroni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of a Small DASANI\u00ae Water or Small Lowfat Milk. (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-friendly Kids' Create-Your-Own Selections",
+          "type": "Allergy Friendly|Kids|Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Market Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Steamed Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Pomme Frites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Braille Menu",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Braille menu available upon request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

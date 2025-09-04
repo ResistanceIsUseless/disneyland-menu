@@ -1,0 +1,2394 @@
+{
+  "name": "Red Rose Taverne",
+  "location": "Disneyland Park, Fantasyland",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Halloween Candy Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Halloween Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Kuzco's Poison Bottle Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Enchanted Pumpkin Stuff",
+              "prices": [
+                {
+                  "withoutTax": 7.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Mousse with Pumpkin Cake and Apricot Marmalade Center, topped with Green Sprinkles, Silver Stars, Chocolate Branch and Leaf"
+            },
+            {
+              "title": "Sparkling Peach Punch ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sprite\u00ae and Peach Syrup with Assorted Popping Spheres"
+            },
+            {
+              "title": "Sparkling Peach Punch with Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 13.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sprite\u00ae and Peach Syrup with Assorted Popping Spheres"
+            },
+            {
+              "title": "Disneyland 70th Celebration Abominable Snowman Sipper",
+              "prices": [
+                {
+                  "withoutTax": 34.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration D Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 12.09,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 28.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee, Hot Tea or Hot Cocoa at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Maple French Toast Sandwich ",
+              "prices": [
+                {
+                  "withoutTax": 13.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "French Toast with an Egg Patty, Bacon and Muenster Cheese, served with Maple Syrup"
+            },
+            {
+              "title": "Pain Perdu Platter",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs with choice of Bacon, Sausage or Taverne Potato Bites"
+            },
+            {
+              "title": "Bonjour! Breakfast ",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs served with Taverne Potato Bites, Bacon and Sausage"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Little Town Harvest Bowl ",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Chip's Dishes",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey-shaped Pancake",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Bacon, Sausage or Taverne Potato Bites\u200b"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Applesauce",
+              "prices": [
+                {
+                  "withoutTax": 2.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Taverne Potato Bites",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cheesecake Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel, Vanilla and Cinnamon Cold Brew with Pumpkin Cheesecake Topper"
+            },
+            {
+              "title": "Taverne Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel, Vanilla and Cinnamon Cold Brew with Cream"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Bonjour! Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, a Cuties\u00ae Mandarin, and choice of Hickory-smoked Bacon or Sausage"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mickey-shaped Pancake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with choice of Bacon, Sausage or Taverne Potato Bites\u200b"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly French Toast Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs with choice of Bacon, Sausage or Taverne Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Bonjour! Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs served with Taverne Potato Bites, Bacon and Sausage"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Bonjour! Breakfast ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs served with Taverne Potato Bites, Bacon and Sausage"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Little Town Harvest Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and spicy Lime A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mickey-shaped Pancake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with choice of Bacon, Sausage or Taverne Potato Bites\u200b"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly French Toast Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs with choice of Bacon, Sausage or Taverne Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Bonjour! Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs served with Taverne Potato Bites, Bacon and Sausage"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Little Town Harvest Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly French Toast Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs with choice of Bacon, Sausage or Taverne Potato Bites"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Taverne Potato Bites and Spicy Lime A\u00cfoli"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Halloween Candy Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Halloween Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Kuzco's Poison Bottle Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Enchanted Pumpkin Stuff",
+              "prices": [
+                {
+                  "withoutTax": 7.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Mousse with Pumpkin Cake and Apricot Marmalade Center, topped with Green Sprinkles, Silver Stars, Chocolate Branch and Leaf"
+            },
+            {
+              "title": "Sparkling Peach Punch ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sprite\u00ae and Peach Syrup with Assorted Popping Spheres"
+            },
+            {
+              "title": "Sparkling Peach Punch with Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 13.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sprite\u00ae and Peach Syrup with Assorted Popping Spheres"
+            },
+            {
+              "title": "Disneyland 70th Celebration Abominable Snowman Sipper",
+              "prices": [
+                {
+                  "withoutTax": 34.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration D Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 12.09,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 28.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee, Hot Tea or Hot Cocoa at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Featured Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Butternut Squash Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Butternut Squash Puree, Roasted Mushrooms, Feta and Roasted Diced Butternut Squash, topped with Garlic Miso Sauce and Fried Sage"
+            },
+            {
+              "title": "Ni\u00e7oise Salad",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Green Beans, Cherry Tomatoes, Olive Tapenade and Potato Chips with Honey Mustard Dressing"
+            },
+            {
+              "title": "Chicken Ni\u00e7oise Salad",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Grilled Chicken, Hard-boiled Eggs, Green Beans, Cherry Tomatoes, Olive Tapenade and Potato Chips with Honey Mustard Dressing"
+            },
+            {
+              "title": "Petales de Pepperoni Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Pizza au Fromage",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cheese Flatbread"
+            }
+          ]
+        },
+        {
+          "name": "Lunch Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Les Tenders de Poulet",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Tenders with Taverne Potato Bites and choice of Dipping Sauce"
+            },
+            {
+              "title": "Taverne Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 16.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two Patties with American Cheese, House-made Burger Sauce and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Taverne Triple Cheeseburger with Bacon",
+              "prices": [
+                {
+                  "withoutTax": 18.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Grilled Onions, Bacon, American Cheese, House-made Burger Sauce and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Taverne Potato Bites",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Little Town Harvest Bowl ",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Side",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Applesauce",
+              "prices": [
+                {
+                  "withoutTax": 2.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Hamburger",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Chip's Dishes",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cheesecake Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel, Vanilla and Cinnamon Cold Brew with Pumpkin Cheesecake Topper"
+            },
+            {
+              "title": "Taverne Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel, Vanilla and Cinnamon Cold Brew with Cream"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Taverne Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, American Cheese and Pickles on an Allergy-Friendly Bun, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Taverne Triple Cheeseburger with Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, Bacon, American Cheese and Pickles on an Allergy-Friendly Bun, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served on an Allergy-Friendly Bun with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            },
+            {
+              "title": "Egg Allergy-Friendly Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato Sauce and Mozzarella Cheese served on an Allergy-friendly Crust"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Egg Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Taverne Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Taverne Triple Cheeseburger with Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, Bacon, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pizza au Fromage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese Flatbread"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Taverne Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions and Pickles on an Allergy-Friendly Bun, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Milk Allergy-Friendly Taverne Triple Cheeseburger with Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, Bacon and Pickles on an Allergy-Friendly Bun, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Milk Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Taverne Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Taverne Triple Cheeseburger with Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, Bacon, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Little Town Harvest Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Tomato, Taverne Potato Bites and Spicy Lime A\u00efoli"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pizza au Fromage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese Flatbread"
+            },
+            {
+              "title": " Peanut/Tree Nut Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Taverne Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Taverne Triple Cheeseburger with Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, Bacon, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Little Town Harvest Bowl ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Quinoa, Roasted Mushrooms and Cauliflower, Arugula, Taverne Potato Bites and Spicy Lime A\u00cfoli"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Taverne Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Soy Allergy-Friendly Taverne Triple Cheeseburger with Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Onions, Bacon, American Cheese and Pickles, served with Cuties\u00ae Mandarin Oranges or Taverne Potato Bites"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Halloween Candy Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Halloween Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Kuzco's Poison Bottle Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Enchanted Pumpkin Stuff",
+              "prices": [
+                {
+                  "withoutTax": 7.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Mousse with Pumpkin Cake and Apricot Marmalade Center, topped with Green Sprinkles, Silver Stars, Chocolate Branch and Leaf"
+            },
+            {
+              "title": "Sparkling Peach Punch ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sprite\u00ae and Peach Syrup with Assorted Popping Spheres"
+            },
+            {
+              "title": "Sparkling Peach Punch with Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 13.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sprite\u00ae and Peach Syrup with Assorted Popping Spheres"
+            },
+            {
+              "title": "Disneyland 70th Celebration Abominable Snowman Sipper",
+              "prices": [
+                {
+                  "withoutTax": 34.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration D Glow Cube ",
+              "prices": [
+                {
+                  "withoutTax": 12.09,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Stainless Steel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 28.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee, Hot Tea or Hot Cocoa at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Disneyland 70th Celebration Travel Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 17.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Featured Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Butternut Squash Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Butternut Squash Puree, Roasted Mushrooms, Feta and Roasted Diced Butternut Squash, topped with Garlic Miso Sauce and Fried Sage"
+            },
+            {
+              "title": "Ni\u00e7oise Salad",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Green Beans, Cherry Tomatoes, Olive Tapenade and Potato Chips with Honey Mustard Dressing"
+            },
+            {
+              "title": "Chicken Ni\u00e7oise Salad",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Grilled Chicken, Hard-boiled Eggs, Green Beans, Cherry Tomatoes, Olive Tapenade and Potato Chips with Honey Mustard Dressing"
+            },
+            {
+              "title": "Petales de Pepperoni Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Pizza au Fromage",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cheese Flatbread"
+            }
+          ]
+        },
+        {
+          "name": "Dinner Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Les Tenders de Poulet ",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Tenders with Taverne Fries and choice of Dipping Sauce"
+            },
+            {
+              "title": "Chicken Fantasyland Faire Fold ",
+              "prices": [
+                {
+                  "withoutTax": 14.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flour Tortilla filled with a Chicken Patty, Hash Browns, Cheese, White Cheese Sauce \u200band Pickle A\u00efoli"
+            },
+            {
+              "title": "Spicy Chicken Fantasyland Faire Fold ",
+              "prices": [
+                {
+                  "withoutTax": 14.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flour Tortilla filled with a Four-Chile Spice Chicken Patty, Hash Browns, Cheese, White Cheese Sauce \u200band Pickle A\u00efoli"
+            },
+            {
+              "title": "Burger Fantasyland Faire Fold ",
+              "prices": [
+                {
+                  "withoutTax": 15.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flour Tortilla filled with Seasoned Ground Beef, Hash Browns, Cheese, White Cheese Sauce \u200band Burger Sauce"
+            },
+            {
+              "title": "Garlic Pommes Frites ",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fries seasoned with Garlic Parmesan, served with Spicy Remoulade"
+            },
+            {
+              "title": "Side of French Fries",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "S'mores Butter Cake Sundae",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Butter Cake topped with Vanilla Ice Cream, Chocolate Sauce, Graham Cracker Crumbs and Toasted Marshmallow"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based Dinner Selection",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Veggie Fantasyland Faire Fold ",
+              "prices": [
+                {
+                  "withoutTax": 14.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flour Tortilla filled with Quinoa, Roasted Mushrooms, Cauliflower, Arugula, Tomatoes, Hash Browns, Mozzarella and Spicy Lime A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Side",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Applesauce",
+              "prices": [
+                {
+                  "withoutTax": 2.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Hamburger",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Chip's Dishes",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cheesecake Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel, Vanilla and Cinnamon Cold Brew with Pumpkin Cheesecake Topper"
+            },
+            {
+              "title": "Taverne Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel, Vanilla and Cinnamon Cold Brew with Cream"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served on an Allergy-Friendly Bun with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato Sauce and Mozzarella Cheese served on an Allergy-friendly Crust"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Egg Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pizza au Fromage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese Flatbread"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Taverne Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Artisanal Pepperoni and Classic Pizzaiola Sauce with Mozzarella Cheese"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pizza au Fromage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese Flatbread"
+            },
+            {
+              "title": " Peanut/Tree Nut Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, with choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids\u2019 POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Breakfast Selections",
+        "desktop": "Breakfast Selections"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Chip's Dishes",
+        "desktop": "Chip's Dishes"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Featured Selections",
+        "desktop": "Featured Selections"
+      },
+      {
+        "mobile": "Lunch Offerings",
+        "desktop": "Lunch Offerings"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Side",
+        "desktop": "Side"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Chip's Dishes",
+        "desktop": "Chip's Dishes"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Featured Selections",
+        "desktop": "Featured Selections"
+      },
+      {
+        "mobile": "Dinner Offerings",
+        "desktop": "Dinner Offerings"
+      },
+      {
+        "mobile": "Plant-Based Dinner Selection",
+        "desktop": "Plant-Based Dinner Selection"
+      },
+      {
+        "mobile": "Side",
+        "desktop": "Side"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Chip's Dishes",
+        "desktop": "Chip's Dishes"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ]
+  }
+}

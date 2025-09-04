@@ -1,0 +1,1084 @@
+{
+  "name": "Alien Pizza Planet",
+  "location": "Disneyland Park, Tomorrowland",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "PRIDE Offerings ",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "PRIDE Parade Castle Tumbler ",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee, Hot Tea or Hot Cocoa at time of purchase"
+            },
+            {
+              "title": "PRIDE Stainless Steel Tumbler ",
+              "prices": [
+                {
+                  "withoutTax": 27.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage, Coffee, Hot Tea or Hot Cocoa at time of purchase"
+            },
+            {
+              "title": "Scented PRIDE Cake Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 7.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Skywalker Lightsaber Swizzle Stick",
+              "prices": [
+                {
+                  "withoutTax": 15.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blueberry Lemonade, POWERADE\u00ae Mountain Berry Blast, Apple Juice and Green Lime Glaze garnished with a Gummy Frog and served with a Skywalker Lightsaber Swizzle Stick"
+            },
+            {
+              "title": "Skywalker Lightsaber Swizzle Stick",
+              "prices": [
+                {
+                  "withoutTax": 15.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Taro Cream and Roasted Shredded Coconut, served with a Skywalker Lightsaber Swizzle Stick"
+            },
+            {
+              "title": "Skywalker Lightsaber Swizzle Stick",
+              "prices": [
+                {
+                  "withoutTax": 12.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Darth Vader Lightsaber Swizzle Stick",
+              "prices": [
+                {
+                  "withoutTax": 15.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blueberry Lemonade, POWERADE\u00ae Mountain Berry Blast, Apple Juice and Green Lime Glaze garnished with a Gummy Frog and served with a Darth Vader Lightsaber Swizzle Stick"
+            },
+            {
+              "title": "Darth Vader Lightsaber Swizzle Stick",
+              "prices": [
+                {
+                  "withoutTax": 15.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Taro Cream and Roasted Shredded Coconut, served with a Darth Vader Lightsaber Swizzle Stick"
+            },
+            {
+              "title": "Thumper Spring Bucket ",
+              "prices": [
+                {
+                  "withoutTax": 31.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes side of Breadsticks at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Valentine Heart Bucket",
+              "prices": [
+                {
+                  "withoutTax": 23.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes Bread Sticks at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Coco Floral Skull Sipper",
+              "prices": [
+                {
+                  "withoutTax": 20.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Alien Macaron Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Magic Key Holder Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Artisanal Style Cheese Pizza with Magic Key Thermal Tumbler ",
+              "prices": [
+                {
+                  "withoutTax": 24.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Marzano Tomato Sauce topped with Mozzarella Cheese, served with a Magic Key Thermal Tumbler with choice of Fountain Beverage"
+            },
+            {
+              "title": "Artisanal Style Pizza with Magic Key Thermal Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 24.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Marzano Tomato Sauce topped with Mozzarella Cheese and Pepperoni, served with a Magic Key Thermal Tumbler with choice of Fountain Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Pasta",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaghetti & Meatballs",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spaghetti tossed in Marinara Sauce, topped with Meatballs and Parmesan Cheese"
+            },
+            {
+              "title": "Chicken Sesame-Ginger Vegetable Noodles",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken and Stir-fried Vegetables served over Noodles, tossed with Sesame-Ginger Sauce and garnished with Cilantro & Scallions"
+            },
+            {
+              "title": "Count Down Chicken Fusilli",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Seasoned Grilled Chicken, a Parmesan-Pesto Cream Sauce with Sun-dried Tomatoes and Shaved Parmesan Cheese"
+            },
+            {
+              "title": "Count Down Shrimp Fusilli",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Garlic Shrimp, a Parmesan-Pesto Cream Sauce with Sun-dried Tomatoes and Shaved Parmesan Cheese"
+            }
+          ]
+        },
+        {
+          "name": "Pizza",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Artichoke & Pesto Pizza - Slice",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Artichoke, Tomatoes, Pickled Red Onions, Green & Black Olives, Mozzarella & Parmesan Blend and Feta Cheese Crumbles, topped with a Pesto Drizzle"
+            },
+            {
+              "title": "Mega Pepperoni - Slice",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce topped with Mozzarella Cheese and extra large slices of Pepperoni"
+            },
+            {
+              "title": "Mozz-114 Cheese Pizza - Slice",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce with a generous topping of Mozzarella Cheese"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sesame-Ginger Vegetable Noodles",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Stir-fried Vegetables served over Noodles, tossed with Sesame-Ginger Sauce and garnished with Cilantro & Scallions"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken and Orange Salad",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Salad Blend with Diced Grilled Chicken, Shredded Carrots, Mandarin Oranges, Slivered Almonds, Crispy Chow Mein Noodles and Sesame Seeds served with Sweet Chili-Soy Dressing"
+            },
+            {
+              "title": "Centurion Chicken Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken Breast atop crisp Romaine Lettuce tossed in Caesar Dressing, with Croutons and Parmesan Cheese"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Satellite Salad",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Tomatoes, Carrots served with choice of Dressing"
+            },
+            {
+              "title": "Garlon Bread",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served warm with zesty Dipping Sauce"
+            },
+            {
+              "title": "DORITOS\u00ae Nacho Cheese Flavored Tortilla Chips ",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "CHEETOS\u00ae Crunchy Cheese Flavored Snacks",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "LAY'S\u00ae Classic Potato Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "FUNYUNS\u00ae Onion Flavored Rings",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Space-getti with Meatballs",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Carrots, a Cuties\u00ae Mandarin, and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kid-Size Cheese Pizza",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Carrots, a Cuties\u00ae Mandarin, and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Green Alien Macarooooon",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Salted Caramel Buttercream, Chocolate Ganache, and Brownie Bites"
+            },
+            {
+              "title": "Chocolate Chip Cookie",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nestl\u00e9\u00ae Mickey's Ice Cream Bar ",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream coated in Chocolate"
+            },
+            {
+              "title": "Nestl\u00e9\u00ae Toll House\u00ae Vanilla Chocolate Chip Cookie Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Outshine\u00ae Strawberry Fruit Bar",
+              "prices": [
+                {
+                  "withoutTax": 5.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Lunar Liquids",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Green Drink",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Alien-inspired Punch made with Pineapple Juice, Ginger Beer, Lemon-Lime POWERADE\u00ae, Lemon Sorbet and a splash of Vanilla, served with Lychee Popping Spheres"
+            },
+            {
+              "title": "Alien Pizza Planet Sipper",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Assorted Coca-Cola\u00ae offerings available at our beverage station"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Assorted Coca-Cola\u00ae offerings available at our beverage station"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of food. Limit ten (10) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Pepperoni Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni and Cheese with Marinara Sauce on Gluten-Friendly Crust"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese with Marinara Sauce on Gluten-Friendly Crust"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Satellite Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens topped with Tomatoes, Carrots, and Cucumbers with Italian or Ranch Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Mozz-114 Cheese Pizza - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce topped with a generous topping of Mozzarella"
+            },
+            {
+              "title": "Egg Allergy-Friendly Mega Pepperoni - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce topped with Mozzarella and extra large slices of Pepperoni"
+            },
+            {
+              "title": "Egg Allergy-Friendly Chicken Sesame-Ginger Vegetable Noodles ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Chicken and Stir-fried Vegetables served over Noodles, tossed with Sesame-Ginger Sauce and garnished with Cilantro & Scallions"
+            },
+            {
+              "title": "Egg Allergy-Friendly Count Down Chicken Fusilli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Seasoned Grilled Chicken, Parmesan-Pesto Cream Sauce, Sun-dried Tomatoes and Parmesan"
+            },
+            {
+              "title": "Egg Allergy-Friendly Count Down Shrimp Fusilli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Shrimp, Parmesan Pesto Cream Sauce, Sun-dried Tomatoes and Parmesan"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Sesame-Ginger Vegetable Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Stir-fried Vegetables served over Noodles, tossed with Sesame-Ginger Sauce and garnished with Cilantro & Scallions"
+            },
+            {
+              "title": "Egg Allergy-Friendly Satellite Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens topped with Tomatoes, Carrots, and Cucumbers with Italian"
+            },
+            {
+              "title": "Egg Allergy-Friendly Garlon Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served warm with a zesty Dipping Sauce"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Space-ghetti with Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Carrot"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kid-Size Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, and Carrot"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mega Pepperoni - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce topped with Mozzarella and extra large slices of Pepperoni"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mozz-114 Cheese Pizza - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce with a generous topping of Mozzarella"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Satellite Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens topped with Tomatoes, Carrots, and Cucumbers with Italian or Ranch Dressing"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Garlon Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served Warm with a zesty Dipping Sauce"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Space-ghetti with Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Carrot"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kid-Size Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Carrot"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Pepperoni Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Dairy-free Cheese and Pepperoni with Marinara Sauce"
+            },
+            {
+              "title": "Milk Allergy-Friendly Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Dairy-free Cheese with Marinara Sauce"
+            },
+            {
+              "title": "Milk Allergy-Friendly Chicken Sesame-Ginger Vegetable Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Chicken and Stir-fried Vegetables served over Noodles, tossed with Sesame-Ginger Sauce and garnished with Cilantro & Scallions"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Sesame-Ginger Vegetable Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Stir-fried Vegetables served over Noodles, tossed with Sesame-Ginger Sauce and garnished with Cilantro & Scallions"
+            },
+            {
+              "title": "Milk Allergy-Friendly Satellite Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens topped with Tomatoes, Carrots, and Cucumbers with Italian"
+            },
+            {
+              "title": "Milk Allergy-Friendly Garlon Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served warm with zesty Dipping Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Tree Nut Allergy-Friendly Mega Pepperoni - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce topped with Mozzarella and extra large slices of Pepperoni"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mozz-114 Cheese Pizza - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce with a generous topping of Mozzarella"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Count Down Chicken Fusilli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Seasoned Grilled Chicken, Parmesan Pesto Cream Sauce, Sun-dried Tomatoes and Parmesan"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Count Down Shrimp Fusilli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Shrimp, Parmesan Pesto Cream Sauce, Sun-dried Tomatoes and Parmesan"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Centurion Chicken Caesar Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Chicken Breast atop Crisp Romaine Lettuce, tossed in Caesar Dressing with Croutons and Parmesan"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Satellite Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens topped with Tomatoes, Carrots, and Cucumbers with Italian or Ranch Dressing"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Garlon Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served warm with a zesty Dipping Sauce"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Space-ghetti with Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Carrot"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kid-Size Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Carrot"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Satellite Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Tomatoes and Carrots served with choice of Dressing"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Centurion Chicken Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Chicken Breast atop crisp Romaine Lettuce, tossed in Caesar Dressing with Croutons and Parmesan"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mega Pepperoni Pizza - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce topped with Mozzarella Cheese and extra large slices of Pepperoni"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mozz-114 Cheese Pizza - Slice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Celestial Tomato Sauce topped with Mozzarella"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Count Down Chicken Fusilli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Seasoned Grilled Chicken, Parmesan-Pesto Cream Sauce, Sun-dried Tomatoes and Parmesan"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Count Down Shrimp Fusilli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fusilli Pasta topped with Garlic Shrimp, Parmesan-Pesto Cream Sauce, Sun-dried Tomatoes and Parmesan"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Garlon Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a zesty Dipping Sauce"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Space-getti with Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Carrots, a Cuties\u00ae Mandarin Orange, and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kid-Size Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Carrots, a Cuties\u00ae Mandarin, and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Pepperoni Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Cheese with Pepperoni and Marinara Sauce"
+            },
+            {
+              "title": "Soy Allergy-Friendly Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Cheese with Marinara Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Braille Menu",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Braille menu available upon request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "name": "Gibson Girl Ice Cream Parlor",
+  "location": "Disneyland Park, Main Street, U.S.A.",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Hei Hei Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Specialties",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey's Ice Cream Truck",
+              "prices": [
+                {
+                  "withoutTax": 29.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Two-Scoop Sundae. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chocolate Chip Cookie Sundae",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "two scoops of Vanilla Ice Cream and two Fresh-baked Chocolate Chip Cookies, with Fudge Topping, Whipped Cream and a Cherry"
+            },
+            {
+              "title": "Firehouse Dalmatian Mint Sundae",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "two Scoops of Mint Chocolate Chip Ice Cream served in a Waffle Cup with Fudge Topping, Whipped Cream and a Cherry"
+            },
+            {
+              "title": "Strawberry Street Car Sundae",
+              "prices": [
+                {
+                  "withoutTax": 11.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry and Vanilla Ice Cream, served in a Dipped Waffle Cup, with Strawberry Topping, Strawberry Crisp and Whipped Cream"
+            },
+            {
+              "title": "Ice Cream Float",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "two Scoops of Vanilla Ice Cream served with choice of Barq's\u00ae Root Beer, Fanta\u00ae Orange, or Coca-Cola\u00ae"
+            }
+          ]
+        },
+        {
+          "name": "By The Scoop - Waffle Cones or Waffle Cups",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dipped Waffle Cone - Single Scoop",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "single scoop of Ice Cream served in a Chocolate Dipped Waffle Cone dipped in Peanuts or Rainbow Sprinkles"
+            },
+            {
+              "title": "Dipped Waffle Cone - Double Scoop",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "double scoop of Ice Cream served in a Chocolate Dipped Waffle Cone dipped in Peanuts or Rainbow Sprinkles"
+            },
+            {
+              "title": "Waffle Cone or Cup - Single Scoop",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "single scoop of Ice Cream served in a Waffle Cone or Waffle Cup"
+            },
+            {
+              "title": "Waffle Cone or Cup - Double Scoop",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "double scoop of Ice Cream served in a Waffle Cone or Waffle Cup"
+            }
+          ]
+        },
+        {
+          "name": "By The Scoop - Regular Cones or Regular Cups",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Regular Cone or Regular Cup - Single Scoop",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "single scoop of Ice Cream served in a Sugar Cone or cup"
+            },
+            {
+              "title": "Regular Cone or Regular Cup - Double Scoop",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "double scoop of Ice Cream served in a Sugar Cone or cup"
+            }
+          ]
+        },
+        {
+          "name": "Ice Cream Flavors",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cookies and Cream",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cookie Dough",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mint Chocolate Chip",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rocky Road",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "No Sugar Added Butter Pecan",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ice Cream Toppings",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peanuts",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted and Chopped Peanuts"
+            },
+            {
+              "title": "Sprinkles",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasonal Sprinkles"
+            },
+            {
+              "title": "Strawberry Topping",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chopped Strawberries in Sauce"
+            },
+            {
+              "title": "Hot Fudge",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot Fudge"
+            },
+            {
+              "title": "Chocolate Chips",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mini Chocolate Chips"
+            },
+            {
+              "title": "Butterscotch Caramel",
+              "prices": [
+                {
+                  "withoutTax": 1.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Butterscotch Caramel Topping"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ice Cream Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scoop of Ice Cream sandwiched between Two Freshly-baked Chocolate Chip Cookies"
+            },
+            {
+              "title": "Nestl\u00e9\u00ae Mickey's Ice Cream Bar",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream coated in Chocolate"
+            },
+            {
+              "title": "Outshine\u00ae Strawberry Fruit Bar",
+              "prices": [
+                {
+                  "withoutTax": 5.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Frozen Strawberry Fruit Bar"
+            }
+          ]
+        },
+        {
+          "name": "Bottled Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bottled Coca-Cola\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Diet Coke\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Sprite\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

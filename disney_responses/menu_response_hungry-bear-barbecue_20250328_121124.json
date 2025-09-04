@@ -1,0 +1,952 @@
+{
+  "name": "Hungry Bear Barbecue Jamboree",
+  "location": "Disneyland Park, Bayou Country",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 18.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Platters & Plates",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Smoked Barbecue Combo Platter",
+              "prices": [
+                {
+                  "withoutTax": 21.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A selection of House-smoked Meats, with Baked Beans, Coleslaw, White Bread and Pickled Vegetables. Select 2: Pork Spareribs, Pulled Pork, Sausage Link, or Beef Brisket"
+            },
+            {
+              "title": "Chicken Tenders Plate",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Coleslaw and Beer-battered Fries"
+            },
+            {
+              "title": "Smoked Angus Beef Burger with Pulled Pork",
+              "prices": [
+                {
+                  "withoutTax": 18.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "American Cheese, Golden A\u00efoli, Pickled Red Onions, B & B Pickles and Crispy Onions, with Beer-battered Fries"
+            },
+            {
+              "title": "Barbecue Pulled Pork Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Coleslaw and B & B Pickles, with Beer-battered Fries"
+            },
+            {
+              "title": "Smoked Beef Brisket Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 16.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os, with Beer-battered Fries"
+            },
+            {
+              "title": "Classic Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Beer-battered Fries"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Corn Ribs Plate",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chile-Lime A\u00efoli, Parmesan, Crispy Onions, Cilantro and Scallions, with Coleslaw and Beer-battered Fries"
+            }
+          ]
+        },
+        {
+          "name": "& More",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Loaded Fries",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Smoked Pulled Pork, Queso Sauce, Pickled Red Onions, Pickled Jalape\u00f1os, Cilantro and Scallions"
+            },
+            {
+              "title": "Coleslaw",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beer-battered Fries",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Baked Beans",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banana Pudding",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bananas, Whipped Cream, Crushed Wafer Cookies, Dulce de Leche and Toffee"
+            },
+            {
+              "title": "Churro Funnel Fries",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dusted with Cinnamon Sugar and topped with a scoop of Vanilla Ice Cream, Caramel Drizzle and Whipped Topping"
+            },
+            {
+              "title": "Funnel Cake Fries",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dusted with Powdered Sugar"
+            },
+            {
+              "title": "Side Cuties",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hamburger",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Toasted Cheese Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Pork Spareribs",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sparkling Strawberry-Pickle Lemonade\u200b",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Lemonade\u00ae, Minute Maid\u00ae Strawberry Smoothie, flavors of Lime, Sprite\u00ae, Pickle Juice and a Pickle Spear"
+            },
+            {
+              "title": "Strawberry Shortcake Lemonade\u200b",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Lemonade\u00ae, Minute Maid\u00ae Strawberry Smoothie, Sweet Cream Topping, Shortbread Crumbles & Strawberry Dust\u200b"
+            },
+            {
+              "title": "Lemonade-Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Lemonade\u00ae, Gold Peak\u00ae Unsweetened Iced Tea and a Lemon Wheel"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Coca-Cola\u00ae Zero Sugar, Barq's\u00ae Root Beer, Fanta\u00ae Orange, Powerade\u00ae Mountain Berry Blast, Minute Maid\u00ae Zero Sugar, Gold Peak\u00ae Unsweetened Black Tea, Gold Peak\u00ae Sweet Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Coca-Cola\u00ae Zero Sugar, Barq's\u00ae Root Beer, Fanta\u00ae Orange, Powerade\u00ae Mountain Berry Blast, Minute Maid\u00ae Zero Sugar, Gold Peak\u00ae Unsweetened Black Tea, Gold Peak\u00ae Sweet Tea"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey Mouse-shaped Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 6.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light-up your beverage. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of food. Limit ten (10) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Smoked Barbecue Combo Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Baked Beans, Coleslaw, Allergy-friendly Bun and Pickled Vegetables"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Classic Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Lettuce and 1000 Island on an Allergy-friendly Bun, with Coleslaw"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Smoked Beef Brisket Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os on an Allergy-friendly Bun, with Coleslaw"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kid's Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kid's Pork Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Smoked Barbecue Combo Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A selection of House-smoked Meats, with Baked Beans, Coleslaw, White Bread and Pickled Vegetables"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Corn Ribs Plate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chile-Lime A\u00efoli, Parmesan, Crispy Onions, Cilantro and Scallions, with Coleslaw and Beer-battered Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Smoked Angus Beef Burger with Pulled Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Pickled Red Onions, B & B Pickles and Crispy Onions, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Classic Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese and Lettuce, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Smoked Beef Brisket Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Barbecue Pulled Pork Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Coleslaw and B&B Pickles, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kid's Toasted Cheese Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kid's Pork Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kid's Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Smoked Barbecue Combo Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A selection of House-smoked Meats, with Baked Beans, Coleslaw, White Bread and Pickled Vegetables"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based Corn Ribs Plate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chile-Lime A\u00efoli, Parmesan, Crispy Onions, Cilantro and Scallions, with Coleslaw and Beer-battered Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Classic Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Lettuce and 1000 Island, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Smoked Beef Brisket Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os, with Beer-battered Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Smoked Angus Beef Burger with Pulled Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Golden A\u00efoli, Pickled Red Onions, B & B Pickles and Crispy Onions, with Beer-battered Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Barbecue Pulled Pork Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Coleslaw and B&B Pickles, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Loaded Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smoked Pulled Pork, Queso Sauce, Pickled Red Onions, Pickled Jalape\u00f1os, Cilantro and Scallions"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kid's Toasted Cheese Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kid's Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kid's Pork Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Smoked Barbecue Combo Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A selection of House-smoked Meats, with Baked Beans, Coleslaw, White Bread and Pickled Vegetables"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Corn Ribs Plate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chile-Lime A\u00efoli, Parmesan, Crispy Onions, Cilantro and Scallions, with Coleslaw and Beer-battered Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Classic Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lettuce and 1000 Island on an Allergy-friendly Bun, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Smoked Beef Brisket Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os on an Allergy-friendly Bun, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Barbecue Pulled Pork Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Coleslaw and B & B Pickles on an Allergy-friendly Bun, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kid's Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kid's Pork Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Smoked Barbecue Combo Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A selection of House-smoked Meats, with Baked Beans, Coleslaw, White Bread and Pickled Vegetables"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Plant-based Corn Ribs Plate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chile-Lime A\u00efoli, Parmesan, Crispy Onions, Cilantro and Scallions, with Coleslaw and Beer-battered Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Classic Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Lettuce and 1000 Island, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Smoked Beef Brisket Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os, with Beer-battered Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Smoked Angus Beef Burger with Pulled Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Golden A\u00efoli, Pickled Red Onions, B & B Pickles and Crispy Onions, with Beer-battered Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Barbecue Pulled Pork Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Coleslaw and B&B Pickles, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Loaded Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smoked Pulled Pork, Queso Sauce, Pickled Red Onions, Pickled Jalape\u00f1os, Cilantro and Scallions"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kid's Toasted Cheese Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kid's Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kid's Pork Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Smoked Barbecue Combo Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A selection of House-smoked Meats, with Baked Beans, Coleslaw, White Bread and Pickled Vegetables"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Plant-based Corn Ribs Plate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chile-Lime A\u00efoli, Parmesan, Crispy Onions, Cilantro and Scallions, with Coleslaw and Beer-battered Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Loaded Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smoked Pulled Pork, Queso Sauce, Pickled Red Onions, Pickled Jalape\u00f1os, Cilantro and Scallions"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Classic Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Lettuce and 1000 Island, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Barbecue Pulled Pork Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Coleslaw and B&B Pickles, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Smoked Angus Beef Burger with Pulled Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Golden A\u00efoli, Pickled Red Onions, B & B Pickles and Crispy Onions, with Beer-battered Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Smoked Beef Brisket Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os, with Beer-battered Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kid's Toasted Cheese Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kid's Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kid's Pork Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Smoked Barbecue Combo Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A selection of House-smoked Meats, with Baked Beans, Coleslaw, White Bread and Pickled Vegetables"
+            },
+            {
+              "title": "Soy Allergy-Friendly Plant-based Corn Ribs Plate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Parmesan, Crispy Onions, Cilantro and Scallions with Coleslaw and Beer-battered Fries"
+            },
+            {
+              "title": "Soy Allergy-Friendly Classic Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese and Lettuce, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Soy Allergy-Friendly Smoked Beef Brisket Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Pickled Red Onions and Pickled Jalape\u00f1os, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Soy Allergy-Friendly Barbecue Pulled Pork Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tangy BBQ Sauce, Coleslaw and B&B Pickles, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Soy Allergy-Friendly Smoked Angus Beef Burger with Pulled Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Pickled Red Onions, B & B Pickles and Crispy Onions, with choice of Coleslaw or Beer-battered Fries"
+            },
+            {
+              "title": "Soy Allergy-Friendly Loaded Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smoked Pulled Pork, Queso Sauce, Pickled Red Onions, Pickled Jalape\u00f1os, Cilantro and Scallions"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kid's Toasted Cheese Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kid's Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kid's Pork Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

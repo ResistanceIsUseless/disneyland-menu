@@ -1,0 +1,316 @@
+{
+  "name": "Beignets Expressed",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Classic Beignets",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Original New Orleans Beignets - Small - 4 Pcs",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dusted with powdered Sugar"
+            },
+            {
+              "title": "Original New Orleans Beignets - Large - 6 Pcs",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dusted with powdered Sugar"
+            },
+            {
+              "title": "Original New Orleans Beignets - 10 Pcs",
+              "prices": [
+                {
+                  "withoutTax": 17.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dusted with powdered Sugar"
+            },
+            {
+              "title": "Try a Dipping Sauce",
+              "prices": [
+                {
+                  "withoutTax": 2.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Caramel, Raspberry Tang, Chocolate Velvet"
+            },
+            {
+              "title": "Our Signature Beignet Mix",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Enjoy the Beignets you've loved since 2001, at home!"
+            }
+          ]
+        },
+        {
+          "name": "Glazed Beignets",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "\u201cGlazed Flavor of the Month\u201d",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "visit location for rotating signature and seasonal flavors"
+            },
+            {
+              "title": "Simply Glazed - 4 Pcs",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simple Sugar Glaze"
+            },
+            {
+              "title": "\"Joyful\" Blueberry Cobbler!",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Topped with Blueberry Cookie Crumbs. \"Celebration\" Special!"
+            },
+            {
+              "title": "Strawberry Shortcake - 4 Pcs",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Icing dusted with Strawberry Sugar, Vanilla Bean Cr\u00e8me Anglaise"
+            },
+            {
+              "title": "Dip, Drizzle & Sprinkle - 4 Pcs",
+              "prices": [
+                {
+                  "withoutTax": 17.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mix and Match any 4 glazed flavors only"
+            },
+            {
+              "title": "Dream Beignet Box",
+              "prices": [
+                {
+                  "withoutTax": 25.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Any Glazed Order Above PLUS, Order of Classic Beignets (4)"
+            }
+          ]
+        },
+        {
+          "name": "Signature Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frozen Hot Chocolate made with Ghirardelli\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Frozen premium Dutch Cocoa & real Milk made with Ghirardelli\u00ae, fresh Whipped Cream, Ghirardelli\u00ae Chocolate & Caramel drizzle"
+            },
+            {
+              "title": "Frozen Mint Julep - 16oz",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Alcoholic"
+            },
+            {
+              "title": "Coca-Cola\u00ae Freestyle Fountain - 20oz",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Drip Coffee - 12oz",
+              "prices": [
+                {
+                  "withoutTax": 3.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaf"
+            },
+            {
+              "title": "Drip Coffee - 16oz",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaf"
+            },
+            {
+              "title": "Bottled Water - Small",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ghirardelli\u00ae Premium Hot Chocolate",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Juice",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Cherry Lemonade - 16oz",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Classic Beignets",
+        "desktop": "Classic Beignets"
+      },
+      {
+        "mobile": "Glazed Beignets",
+        "desktop": "Glazed Beignets"
+      },
+      {
+        "mobile": "Signature Beverages",
+        "desktop": "Signature Beverages"
+      }
+    ]
+  }
+}

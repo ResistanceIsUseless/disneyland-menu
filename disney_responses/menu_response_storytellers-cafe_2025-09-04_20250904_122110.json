@@ -1,0 +1,5751 @@
+{
+  "name": "Storytellers Cafe",
+  "location": "Disney's Grand Californian Hotel & Spa, Disney's Grand Californian Hotel & Spa",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Brunch",
+      "label": "Brunch"
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Brunch",
+      "label": "Brunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Brunch",
+      "label": "Brunch",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Brunch Pricing ",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$64 per adult, plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$36 per child (3-9), plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Cold Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Yogurt Parfait Bar",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Individual Cereals and Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Baked Breakfast Pastries, Croissants, Muffins and Danishes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Vegetable Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Artisanal Composed Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Smoked Salmon Bar",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Sliced Fruits and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hot Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Steel-cut Oatmeal",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Omelet Station with Traditional Accoutrements",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chef Special of the Day",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crispy Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Strawberry Compote, Butter and Maple Syrup</p>"
+            },
+            {
+              "title": "Chili Verde Chilaquiles",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hash Browns",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bread Pudding with Caramel Sauce and Cr\u00e8me Anglaise",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flatbread of the Day",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Choice of Chilled Juices and Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still - Small",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375ML Bottle"
+            },
+            {
+              "title": "Premium Still - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Premium Sparkling - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Grapefruit Fizz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grapefruit Juice, Sparkling Water, Simple Syrup, Orange Juice, garnished with half Grapefruit Wheel and Thyme Sprig"
+            },
+            {
+              "title": "Strawberry Basil Smash",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Basil, Lime, Sparkling Water, garnished with a Strawberry Fan and Basil Leaf"
+            },
+            {
+              "title": "Rosemary Pear Spritz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pear Nectar, Rosemary Syrup, Lemon Juice, garnished with Rosemary Sprig and Pear Slice"
+            }
+          ]
+        },
+        {
+          "name": "Rise & Shine Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surf and Turf Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 29.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Vodka, Bloody Mary Mix with Candied Bacon, Beef Jerky, Jumbo Shrimp, Pickled Green Beans, Celery Heart, Blue Cheese Olives, Limes, Chile-Lime Rim"
+            },
+            {
+              "title": "Abracadabra Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Vodka, Cheeseburger Slider, Yellow Bloody Mary Mix with Pickled Asparagus, Cornichons"
+            },
+            {
+              "title": "Crafted Bloody Mary",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Crafted Bloody Maria",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Tailor-Made Mimosa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of: Avissi Prosecco, La Marca Luminore Prosecco, or Schramsberg Blanc de Blancs. Choice of Juice: Tangerine, Mango, or Raspberry"
+            },
+            {
+              "title": "Dazzler Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, RumChata, Chocolate Syrup, Over Ice"
+            },
+            {
+              "title": "Caf\u00e9 Especial",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Herradura Blanco Tequila, Kahl\u00faa, Cream, Whipped Cream"
+            },
+            {
+              "title": "Chocolate Hazelnut Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Frangelico Hazelnut Liquor, Cr\u00e9me de Cacao, Cinnamon and Whipped Cream"
+            },
+            {
+              "title": "Grand Candied Orange Coffee",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, Brandy, Kahl\u00faa, Cream, Whipped Cream, Orange Twist"
+            }
+          ]
+        },
+        {
+          "name": "Storied Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crafted Grand Margaritas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila of choice, Lime Juice, Cointreau, Agave Nectar"
+            },
+            {
+              "title": "Strawberry Garden",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, St-Germain Elderflower Liqueur, Strawberries, Mint and Grapefruit Juice"
+            },
+            {
+              "title": "Starlit Citrus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, Daou Ros\u00e9, Raspberry Syrup, Aperol and Lemon Juice"
+            },
+            {
+              "title": "Sweet Tale of Mango",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herradura Tequila, Mango Juice, Agave and Lime Juice with a Chamoy-Tajin Rim"
+            },
+            {
+              "title": "Bespoke Mule",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka or Four Roses Bourbon, Ginger Beer, Lime Juice, Agave Nectar, Mint"
+            },
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Vanilla Cane Sugar, Orange Bitters, Luxardo Cherry, Orange Twist"
+            },
+            {
+              "title": "The Bear Encounter",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Hendrick's Gin, Flor de Ca\u00f1a Rum, Peach Brandy, Peach Nectar, Sour Mix, Raspberry Pur\u00e9e, garnished with Raspberries"
+            },
+            {
+              "title": "Mezcal Odyssey",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Meuilleur Ouvrier Chartreuse, Sweet Vermouth, Orange & Lemon Juices and Chamoy"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 76,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "La Marca Luminore Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schramsberg Blanc de Blancs, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 132,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dom Perignon, Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 484,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Massican Sauvignon Blanc, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Saint Clair Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cloudy Bay Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Massican Pinot Grigio, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Livio Feluga Pinot Grigio, Collio, Italy",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ferrari-Carano, Tr\u00e9 Terre Chardonnay, Russian River, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam Chardonnay, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Chardonnay, Napa-Sonoma-Santa Rita Hills, California",
+              "prices": [
+                {
+                  "withoutTax": 95,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fleur De Mer, C\u00f4tes De Provence Ros\u00e9, Provence, France",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chalone Estate Pinot Noir, Monterey, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Etude Pinot Noir, Carneros, California",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flowers Pinot Noir, Sonoma Coast, California",
+              "prices": [
+                {
+                  "withoutTax": 138,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Duckhorn Merlot, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 127,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J. Lohr Hilltop Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 78,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam by Far Niente Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 121,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 31,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frank Family Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 167,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Groth Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 198,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 200,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 40,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial - Draft",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.4% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Stereo Brewing IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(6.8% ABV) | Californian IPA"
+            },
+            {
+              "title": "Rad Beer King Minutia Pilsner - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.1% ABV) | Californian Pilsner"
+            },
+            {
+              "title": "Fremont Dark Star Stout - Draft",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(8% ABV) | Californian Stout"
+            },
+            {
+              "title": "Hangar 24 Orange Wheat - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Californian Wheat Ale"
+            },
+            {
+              "title": "Budweiser - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.0% ABV) | American Pilsner"
+            },
+            {
+              "title": "Coors Light - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Pilsner"
+            },
+            {
+              "title": "Corona - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Heineken - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5% ABV) | German Style Pilsner"
+            },
+            {
+              "title": "Michelob Ultra - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Lager"
+            },
+            {
+              "title": "Lagunitas IPNA Non-Alcoholic - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(0% ABV) | Non-Alcoholic Indian Pale Ale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Mickey's Autumn Adventures Breakfast Pricing [Starting August 22]",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$69 per adult, plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$39 per child (3-9), plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Cold Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Sliced Fruits and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Whole Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yogurt Parfaits ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Granola</p>"
+            },
+            {
+              "title": "Smoked Salmon Bagels ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Croissants",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Danishes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Muffins",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beignets",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Cereals",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hot Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Biscuits & Sausage Gravy",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Quiches",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Belguim Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oatmeal",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Strawberry Compote, Butter and Maple Syrup</p>"
+            },
+            {
+              "title": "Pork Carnitas Chilaquiles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Eggs, Cotija Cheese, Pork Carnitas, Green Onions and Tomatillo Salsa</p>"
+            },
+            {
+              "title": "Breakfast Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crispy Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hash Browns",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banana Foster French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Omelet Station with Traditional Accoutrements",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Carving Station",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Honey Baked Ham [Available Between 7am - 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Top Sirloin [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Horseradish Cream Sauce"
+            },
+            {
+              "title": "Herb Roasted Turkey  [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cranberry Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini Cupcakes [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brownies [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Madeleines [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bread Pudding [Available Starting at 11am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Choice of Chilled Juices and Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still - Small",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375ML Bottle"
+            },
+            {
+              "title": "Premium Still - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Premium Sparkling - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Grapefruit Fizz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grapefruit Juice, Sparkling Water, Simple Syrup, Orange Juice, garnished with half Grapefruit Wheel and Thyme Sprig"
+            },
+            {
+              "title": "Strawberry Basil Smash",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Basil, Lime, Sparkling Water, garnished with a Strawberry Fan and Basil Leaf"
+            },
+            {
+              "title": "Rosemary Pear Spritz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pear Nectar, Rosemary Syrup, Lemon Juice, garnished with Rosemary Sprig and Pear Slice"
+            }
+          ]
+        },
+        {
+          "name": "Rise & Shine Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surf and Turf Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 29.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Vodka, Bloody Mary Mix with Candied Bacon, Beef Jerky, Jumbo Shrimp, Pickled Green Beans, Celery Heart, Blue Cheese Olives, Limes, Chile-Lime Rim"
+            },
+            {
+              "title": "Abracadabra Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Vodka, Cheeseburger Slider, Yellow Bloody Mary Mix with Pickled Asparagus, Cornichons"
+            },
+            {
+              "title": "Crafted Bloody Mary",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Crafted Bloody Maria",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Tailor-Made Mimosa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of: Avissi Prosecco, La Marca Luminore Prosecco, or Schramsberg Blanc de Blancs. Choice of Juice: Tangerine, Mango, or Raspberry"
+            },
+            {
+              "title": "Dazzler Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, RumChata, Chocolate Syrup, Over Ice"
+            },
+            {
+              "title": "Caf\u00e9 Especial",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Herradura Blanco Tequila, Kahl\u00faa, Cream, Whipped Cream"
+            },
+            {
+              "title": "Chocolate Hazelnut Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Frangelico Hazelnut Liquor, Cr\u00e9me de Cacao, Cinnamon and Whipped Cream"
+            },
+            {
+              "title": "Grand Candied Orange Coffee",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, Brandy, Kahl\u00faa, Cream, Whipped Cream, Orange Twist"
+            }
+          ]
+        },
+        {
+          "name": "Storied Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crafted Grand Margaritas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila of choice, Lime Juice, Cointreau, Agave Nectar"
+            },
+            {
+              "title": "Strawberry Garden",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, St-Germain Elderflower Liqueur, Strawberries, Mint and Grapefruit Juice"
+            },
+            {
+              "title": "Starlit Citrus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, Daou Ros\u00e9, Raspberry Syrup, Aperol and Lemon Juice"
+            },
+            {
+              "title": "Sweet Tale of Mango",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herradura Tequila, Mango Juice, Agave and Lime Juice with a Chamoy-Tajin Rim"
+            },
+            {
+              "title": "Bespoke Mule",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka or Four Roses Bourbon, Ginger Beer, Lime Juice, Agave Nectar, Mint"
+            },
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Vanilla Cane Sugar, Orange Bitters, Luxardo Cherry, Orange Twist"
+            },
+            {
+              "title": "The Bear Encounter",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Hendrick's Gin, Flor de Ca\u00f1a Rum, Peach Brandy, Peach Nectar, Sour Mix, Raspberry Pur\u00e9e, garnished with Raspberries"
+            },
+            {
+              "title": "Mezcal Odyssey",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Meuilleur Ouvrier Chartreuse, Sweet Vermouth, Orange & Lemon Juices and Chamoy"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 76,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "La Marca Luminore Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schramsberg Blanc de Blancs, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 132,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dom Perignon, Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 484,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Massican Sauvignon Blanc, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Saint Clair Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cloudy Bay Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Massican Pinot Grigio, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Livio Feluga Pinot Grigio, Collio, Italy",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ferrari-Carano, Tr\u00e9 Terre Chardonnay, Russian River, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam Chardonnay, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Chardonnay, Napa-Sonoma-Santa Rita Hills, California",
+              "prices": [
+                {
+                  "withoutTax": 95,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fleur De Mer, C\u00f4tes De Provence Ros\u00e9, Provence, France",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chalone Estate Pinot Noir, Monterey, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Etude Pinot Noir, Carneros, California",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flowers Pinot Noir, Sonoma Coast, California",
+              "prices": [
+                {
+                  "withoutTax": 138,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Duckhorn Merlot, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 127,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J. Lohr Hilltop Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 78,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam by Far Niente Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 121,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 31,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frank Family Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 167,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Groth Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 198,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 200,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 40,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial - Draft",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.4% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Stereo Brewing IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(6.8% ABV) | Californian IPA"
+            },
+            {
+              "title": "Rad Beer King Minutia Pilsner - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.1% ABV) | Californian Pilsner"
+            },
+            {
+              "title": "Fremont Dark Star Stout - Draft",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(8% ABV) | Californian Stout"
+            },
+            {
+              "title": "Hangar 24 Orange Wheat - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Californian Wheat Ale"
+            },
+            {
+              "title": "Budweiser - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.0% ABV) | American Pilsner"
+            },
+            {
+              "title": "Coors Light - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Pilsner"
+            },
+            {
+              "title": "Corona - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Heineken - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5% ABV) | German Style Pilsner"
+            },
+            {
+              "title": "Michelob Ultra - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Lager"
+            },
+            {
+              "title": "Lagunitas IPNA Non-Alcoholic - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(0% ABV) | Non-Alcoholic Indian Pale Ale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Breakfast Pricing ",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$59 per adult, plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$36 per child (3-9), plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Cold Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Individual Cereals and Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Baked Breakfast Pastries, Croissants, Muffins and Danishes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Sliced Fruits and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hot Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Steel-cut Oatmeal",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Omelet Station with Traditional Accoutrements",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chef Special of the Day",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crispy Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Strawberry Compote, Butter and Maple Syrup</p>"
+            },
+            {
+              "title": "Hash Browns",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Choice of Chilled Juices and Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still - Small",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375ML Bottle"
+            },
+            {
+              "title": "Premium Still - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Premium Sparkling - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Grapefruit Fizz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grapefruit Juice, Sparkling Water, Simple Syrup, Orange Juice, garnished with half Grapefruit Wheel and Thyme Sprig"
+            },
+            {
+              "title": "Strawberry Basil Smash",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Basil, Lime, Sparkling Water, garnished with a Strawberry Fan and Basil Leaf"
+            },
+            {
+              "title": "Rosemary Pear Spritz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pear Nectar, Rosemary Syrup, Lemon Juice, garnished with Rosemary Sprig and Pear Slice"
+            }
+          ]
+        },
+        {
+          "name": "Rise & Shine Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surf and Turf Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 29.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Vodka, Bloody Mary Mix with Candied Bacon, Beef Jerky, Jumbo Shrimp, Pickled Green Beans, Celery Heart, Blue Cheese Olives, Limes, Chile-Lime Rim"
+            },
+            {
+              "title": "Abracadabra Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Vodka, Cheeseburger Slider, Yellow Bloody Mary Mix with Pickled Asparagus, Cornichons"
+            },
+            {
+              "title": "Crafted Bloody Mary",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Crafted Bloody Maria",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Tailor-Made Mimosa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of: Avissi Prosecco, La Marca Luminore Prosecco, or Schramsberg Blanc de Blancs. Choice of Juice: Tangerine, Mango, or Raspberry"
+            },
+            {
+              "title": "Dazzler Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, RumChata, Chocolate Syrup, Over Ice"
+            },
+            {
+              "title": "Caf\u00e9 Especial",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Herradura Blanco Tequila, Kahl\u00faa, Cream, Whipped Cream"
+            },
+            {
+              "title": "Chocolate Hazelnut Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Frangelico Hazelnut Liquor, Cr\u00e9me de Cacao, Cinnamon and Whipped Cream"
+            },
+            {
+              "title": "Grand Candied Orange Coffee",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, Brandy, Kahl\u00faa, Cream, Whipped Cream, Orange Twist"
+            }
+          ]
+        },
+        {
+          "name": "Storied Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crafted Grand Margaritas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila of choice, Lime Juice, Cointreau, Agave Nectar"
+            },
+            {
+              "title": "Strawberry Garden",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, St-Germain Elderflower Liqueur, Strawberries, Mint and Grapefruit Juice"
+            },
+            {
+              "title": "Starlit Citrus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, Daou Ros\u00e9, Raspberry Syrup, Aperol and Lemon Juice"
+            },
+            {
+              "title": "Sweet Tale of Mango",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herradura Tequila, Mango Juice, Agave and Lime Juice with a Chamoy-Tajin Rim"
+            },
+            {
+              "title": "Bespoke Mule",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka or Four Roses Bourbon, Ginger Beer, Lime Juice, Agave Nectar, Mint"
+            },
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Vanilla Cane Sugar, Orange Bitters, Luxardo Cherry, Orange Twist"
+            },
+            {
+              "title": "The Bear Encounter",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Hendrick's Gin, Flor de Ca\u00f1a Rum, Peach Brandy, Peach Nectar, Sour Mix, Raspberry Pur\u00e9e, garnished with Raspberries"
+            },
+            {
+              "title": "Mezcal Odyssey",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Meuilleur Ouvrier Chartreuse, Sweet Vermouth, Orange & Lemon Juices and Chamoy"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 76,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "La Marca Luminore Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schramsberg Blanc de Blancs, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 132,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dom Perignon, Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 484,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Massican Sauvignon Blanc, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Saint Clair Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cloudy Bay Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Massican Pinot Grigio, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Livio Feluga Pinot Grigio, Collio, Italy",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ferrari-Carano, Tr\u00e9 Terre Chardonnay, Russian River, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam Chardonnay, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Chardonnay, Napa-Sonoma-Santa Rita Hills, California",
+              "prices": [
+                {
+                  "withoutTax": 95,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fleur De Mer, C\u00f4tes De Provence Ros\u00e9, Provence, France",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chalone Estate Pinot Noir, Monterey, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Etude Pinot Noir, Carneros, California",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flowers Pinot Noir, Sonoma Coast, California",
+              "prices": [
+                {
+                  "withoutTax": 138,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Duckhorn Merlot, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 127,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J. Lohr Hilltop Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 78,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam by Far Niente Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 121,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 31,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frank Family Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 167,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Groth Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 198,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 200,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 40,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial - Draft",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.4% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Stereo Brewing IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(6.8% ABV) | Californian IPA"
+            },
+            {
+              "title": "Rad Beer King Minutia Pilsner - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.1% ABV) | Californian Pilsner"
+            },
+            {
+              "title": "Fremont Dark Star Stout - Draft",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(8% ABV) | Californian Stout"
+            },
+            {
+              "title": "Hangar 24 Orange Wheat - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Californian Wheat Ale"
+            },
+            {
+              "title": "Budweiser - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.0% ABV) | American Pilsner"
+            },
+            {
+              "title": "Coors Light - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Pilsner"
+            },
+            {
+              "title": "Corona - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Heineken - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5% ABV) | German Style Pilsner"
+            },
+            {
+              "title": "Michelob Ultra - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Lager"
+            },
+            {
+              "title": "Lagunitas IPNA Non-Alcoholic - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(0% ABV) | Non-Alcoholic Indian Pale Ale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brunch",
+      "label": "Brunch",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Mickey's Autumn Adventures Brunch Pricing [Starting August 22]",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$74 per adult, plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$39 per child (3-9), plus tax",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Cold Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Sliced Fruits and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Whole Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yogurt Parfaits ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Granola</p>"
+            },
+            {
+              "title": "Smoked Salmon Bagels ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Croissants",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Danishes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Muffins",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beignets",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Individual Cereals and Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kale & Quinoa Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Turkey, Golden Raisins, Currants, Parmesan Cheese, Sage Breadcrumbs and Champaigne Vinaigrette"
+            },
+            {
+              "title": "Beet Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Goat Cheese, Pea Tendrils, Oranges, Toasted Almonds and Balsamic Dressing"
+            },
+            {
+              "title": "Caprese Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Heirloom Tomatoes, Fresh Mozzarella, Micro Basil, Arugula Extra Virgin Olive Oil & Balsamic Reduction and Baja Sea Salt"
+            }
+          ]
+        },
+        {
+          "name": "Hot Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Strawberry Compote, Butter and Maple Syrup</p>"
+            },
+            {
+              "title": "Pork Carnitas Chilaquiles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Eggs, Cotija Cheese, Pork Carnitas, Green Onions and Tomatillo Salsa</p>"
+            },
+            {
+              "title": "Breakfast Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crispy Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hash Browns",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banana Foster French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Omelet Station with Traditional Accoutrements",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Flatbreads",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Baby Zucchini",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Patty Pan Squash",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cauliflower",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Pearl Onions",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mini Bell Peppers",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tabbouleh Crusted Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Stewed Black Lentils and Lemon Cream Sauce"
+            },
+            {
+              "title": "Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "BBQ Chicken Drumettes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "French Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Carving Station",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Honey Baked Ham [Available Between 7am - 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Top Sirloin [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Horseradish Cream Sauce"
+            },
+            {
+              "title": "Herb Roasted Turkey  [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cranberry Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini Cupcakes [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brownies [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Madeleines [Available Starting at 9am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bread Pudding [Available Starting at 11am]",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Choice of Chilled Juices and Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still - Small",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375ML Bottle"
+            },
+            {
+              "title": "Premium Still - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Premium Sparkling - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Grapefruit Fizz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grapefruit Juice, Sparkling Water, Simple Syrup, Orange Juice, garnished with half Grapefruit Wheel and Thyme Sprig"
+            },
+            {
+              "title": "Strawberry Basil Smash",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Basil, Lime, Sparkling Water, garnished with a Strawberry Fan and Basil Leaf"
+            },
+            {
+              "title": "Rosemary Pear Spritz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pear Nectar, Rosemary Syrup, Lemon Juice, garnished with Rosemary Sprig and Pear Slice"
+            }
+          ]
+        },
+        {
+          "name": "Rise & Shine Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surf and Turf Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 29.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Vodka, Bloody Mary Mix with Candied Bacon, Beef Jerky, Jumbo Shrimp, Pickled Green Beans, Celery Heart, Blue Cheese Olives, Limes, Chile-Lime Rim"
+            },
+            {
+              "title": "Abracadabra Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Vodka, Cheeseburger Slider, Yellow Bloody Mary Mix with Pickled Asparagus, Cornichons"
+            },
+            {
+              "title": "Crafted Bloody Mary",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Crafted Bloody Maria",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bloody Mix with Celery, Olives, Limes"
+            },
+            {
+              "title": "Tailor-Made Mimosa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of: Avissi Prosecco, La Marca Luminore Prosecco, or Schramsberg Blanc de Blancs. Choice of Juice: Tangerine, Mango, or Raspberry"
+            },
+            {
+              "title": "Dazzler Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, RumChata, Chocolate Syrup, Over Ice"
+            },
+            {
+              "title": "Caf\u00e9 Especial",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Herradura Blanco Tequila, Kahl\u00faa, Cream, Whipped Cream"
+            },
+            {
+              "title": "Chocolate Hazelnut Coffee",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Frangelico Hazelnut Liquor, Cr\u00e9me de Cacao, Cinnamon and Whipped Cream"
+            },
+            {
+              "title": "Grand Candied Orange Coffee",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dark Roasted Coffee, Grand Marnier, Brandy, Kahl\u00faa, Cream, Whipped Cream, Orange Twist"
+            }
+          ]
+        },
+        {
+          "name": "Storied Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crafted Grand Margaritas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila of choice, Lime Juice, Cointreau, Agave Nectar"
+            },
+            {
+              "title": "Strawberry Garden",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, St-Germain Elderflower Liqueur, Strawberries, Mint and Grapefruit Juice"
+            },
+            {
+              "title": "Starlit Citrus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, Daou Ros\u00e9, Raspberry Syrup, Aperol and Lemon Juice"
+            },
+            {
+              "title": "Sweet Tale of Mango",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herradura Tequila, Mango Juice, Agave and Lime Juice with a Chamoy-Tajin Rim"
+            },
+            {
+              "title": "Bespoke Mule",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka or Four Roses Bourbon, Ginger Beer, Lime Juice, Agave Nectar, Mint"
+            },
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Vanilla Cane Sugar, Orange Bitters, Luxardo Cherry, Orange Twist"
+            },
+            {
+              "title": "The Bear Encounter",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Hendrick's Gin, Flor de Ca\u00f1a Rum, Peach Brandy, Peach Nectar, Sour Mix, Raspberry Pur\u00e9e, garnished with Raspberries"
+            },
+            {
+              "title": "Mezcal Odyssey",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Meuilleur Ouvrier Chartreuse, Sweet Vermouth, Orange & Lemon Juices and Chamoy"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 76,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "La Marca Luminore Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schramsberg Blanc de Blancs, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 132,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dom Perignon, Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 484,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Massican Sauvignon Blanc, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Saint Clair Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cloudy Bay Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Massican Pinot Grigio, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Livio Feluga Pinot Grigio, Collio, Italy",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ferrari-Carano, Tr\u00e9 Terre Chardonnay, Russian River, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam Chardonnay, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Chardonnay, Napa-Sonoma-Santa Rita Hills, California",
+              "prices": [
+                {
+                  "withoutTax": 95,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fleur De Mer, C\u00f4tes De Provence Ros\u00e9, Provence, France",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chalone Estate Pinot Noir, Monterey, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Etude Pinot Noir, Carneros, California",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flowers Pinot Noir, Sonoma Coast, California",
+              "prices": [
+                {
+                  "withoutTax": 138,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Duckhorn Merlot, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 127,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J. Lohr Hilltop Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 78,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam by Far Niente Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 121,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 31,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frank Family Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 167,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Groth Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 198,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 200,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 40,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial - Draft",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.4% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Stereo Brewing IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(6.8% ABV) | Californian IPA"
+            },
+            {
+              "title": "Rad Beer King Minutia Pilsner - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.1% ABV) | Californian Pilsner"
+            },
+            {
+              "title": "Fremont Dark Star Stout - Draft",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(8% ABV) | Californian Stout"
+            },
+            {
+              "title": "Hangar 24 Orange Wheat - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Californian Wheat Ale"
+            },
+            {
+              "title": "Budweiser - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.0% ABV) | American Pilsner"
+            },
+            {
+              "title": "Coors Light - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Pilsner"
+            },
+            {
+              "title": "Corona - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Heineken - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5% ABV) | German Style Pilsner"
+            },
+            {
+              "title": "Michelob Ultra - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Lager"
+            },
+            {
+              "title": "Lagunitas IPNA Non-Alcoholic - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(0% ABV) | Non-Alcoholic Indian Pale Ale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Dinner Pricing",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$69 per adult, plus tax ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$39 per child (3-9), plus tax ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Cold Selections",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Potato Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sliced Fruit and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Vegetable Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Artisanal Composed Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hot Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Baby Back Spareribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Carving Station",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Slow Roasted Prime Rib with Creamy Horseradish"
+            },
+            {
+              "title": "Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Creamed Corn",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Honey Corn Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "S'mores Bread Pudding",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Watermelon Sorbet",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pastry Chef's Selection of Sweets and Confectionaries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Choice of Chilled Juices and Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Mocha",
+              "prices": [
+                {
+                  "withoutTax": 6.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Still - Small",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "375ML Bottle"
+            },
+            {
+              "title": "Premium Still - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Premium Sparkling - Large",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1L Bottle"
+            },
+            {
+              "title": "Grapefruit Fizz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grapefruit Juice, Sparkling Water, Simple Syrup, Orange Juice, garnished with half Grapefruit Wheel and Thyme Sprig"
+            },
+            {
+              "title": "Strawberry Basil Smash",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Basil, Lime, Sparkling Water, garnished with a Strawberry Fan and Basil Leaf"
+            },
+            {
+              "title": "Rosemary Pear Spritz",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pear Nectar, Rosemary Syrup, Lemon Juice, garnished with Rosemary Sprig and Pear Slice"
+            }
+          ]
+        },
+        {
+          "name": "Storied Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crafted Grand Margaritas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila of choice, Lime Juice, Cointreau, Agave Nectar"
+            },
+            {
+              "title": "Strawberry Garden",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, St-Germain Elderflower Liqueur, Strawberries, Mint and Grapefruit Juice"
+            },
+            {
+              "title": "Starlit Citrus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, Daou Ros\u00e9, Raspberry Syrup, Aperol and Lemon Juice"
+            },
+            {
+              "title": "Sweet Tale of Mango",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herradura Tequila, Mango Juice, Agave and Lime Juice with a Chamoy-Tajin Rim"
+            },
+            {
+              "title": "Bespoke Mule",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka or Four Roses Bourbon, Ginger Beer, Lime Juice, Agave Nectar, Mint"
+            },
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Vanilla Cane Sugar, Orange Bitters, Luxardo Cherry, Orange Twist"
+            },
+            {
+              "title": "The Bear Encounter",
+              "prices": [
+                {
+                  "withoutTax": 17.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Hendrick's Gin, Flor de Ca\u00f1a Rum, Peach Brandy, Peach Nectar, Sour Mix, Raspberry Pur\u00e9e, garnished with Raspberries"
+            },
+            {
+              "title": "Mezcal Odyssey",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Meuilleur Ouvrier Chartreuse, Sweet Vermouth, Orange & Lemon Juices and Chamoy"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 76,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "La Marca Luminore Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schramsberg Blanc de Blancs, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 132,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dom Perignon, Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 484,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Massican Sauvignon Blanc, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Saint Clair Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 103,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cloudy Bay Sauvignon Blanc, Marlborough, New Zealand",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Massican Pinot Grigio, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Livio Feluga Pinot Grigio, Collio, Italy",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ferrari-Carano, Tr\u00e9 Terre Chardonnay, Russian River, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam Chardonnay, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Chardonnay, Napa-Sonoma-Santa Rita Hills, California",
+              "prices": [
+                {
+                  "withoutTax": 95,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 24,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fleur De Mer, C\u00f4tes De Provence Ros\u00e9, Provence, France",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chalone Estate Pinot Noir, Monterey, CA",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Etude Pinot Noir, Carneros, California",
+              "prices": [
+                {
+                  "withoutTax": 112,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flowers Pinot Noir, Sonoma Coast, California",
+              "prices": [
+                {
+                  "withoutTax": 138,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Duckhorn Merlot, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 127,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J. Lohr Hilltop Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 78,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Post & Beam by Far Niente Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 121,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 31,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frank Family Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 167,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Groth Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 198,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 42,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ZD Cabernet Sauvignon, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 200,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 40,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial - Draft",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.4% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Stereo Brewing IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(6.8% ABV) | Californian IPA"
+            },
+            {
+              "title": "Rad Beer King Minutia Pilsner - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.1% ABV) | Californian Pilsner"
+            },
+            {
+              "title": "Fremont Dark Star Stout - Draft",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(8% ABV) | Californian Stout"
+            },
+            {
+              "title": "Hangar 24 Orange Wheat - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Californian Wheat Ale"
+            },
+            {
+              "title": "Budweiser - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5.0% ABV) | American Pilsner"
+            },
+            {
+              "title": "Coors Light - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Pilsner"
+            },
+            {
+              "title": "Corona - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.6% ABV) | Mexican Lager"
+            },
+            {
+              "title": "Heineken - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(5% ABV) | German Style Pilsner"
+            },
+            {
+              "title": "Michelob Ultra - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(4.2% ABV) | Light American Lager"
+            },
+            {
+              "title": "Lagunitas IPNA Non-Alcoholic - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(0% ABV) | Non-Alcoholic Indian Pale Ale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Clarabelle's Enchanted Halloween Dinner [Available starting August 22]",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$79 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$42 per child, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Cold Selections",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fruit & Berry Display",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Salads",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crutide",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cheese & Charcuterie",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chips, Dips, & Spreads",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hot Selections",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Soup of the Day",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chef's Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Tenders & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bread & Butter Display",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Action Stations",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Carver Station & Condiments",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Desserts from Our Bakery",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Cookies ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ice Cream Machine Display",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bread Pudding",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Brunch Pricing ",
+        "desktop": "Brunch Pricing "
+      },
+      {
+        "mobile": "Cold Selections",
+        "desktop": "Cold Selections"
+      },
+      {
+        "mobile": "Hot Selections",
+        "desktop": "Hot Selections"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Rise & Shine Cocktails",
+        "desktop": "Rise & Shine Cocktails"
+      },
+      {
+        "mobile": "Storied Cocktails",
+        "desktop": "Storied Cocktails"
+      },
+      {
+        "mobile": "Sparkling Wine",
+        "desktop": "Sparkling Wine"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9 Wine",
+        "desktop": "Ros\u00e9 Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Mickey's Autumn Adventures Breakfast Pricing [Starting August 22]",
+        "desktop": "Mickey's Autumn Adventures Breakfast Pricing [Starting August 22]"
+      },
+      {
+        "mobile": "Cold Selections",
+        "desktop": "Cold Selections"
+      },
+      {
+        "mobile": "Hot Selections",
+        "desktop": "Hot Selections"
+      },
+      {
+        "mobile": "Carving Station",
+        "desktop": "Carving Station"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Rise & Shine Cocktails",
+        "desktop": "Rise & Shine Cocktails"
+      },
+      {
+        "mobile": "Storied Cocktails",
+        "desktop": "Storied Cocktails"
+      },
+      {
+        "mobile": "Sparkling Wine",
+        "desktop": "Sparkling Wine"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9 Wine",
+        "desktop": "Ros\u00e9 Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Breakfast Pricing ",
+        "desktop": "Breakfast Pricing "
+      },
+      {
+        "mobile": "Cold Selections",
+        "desktop": "Cold Selections"
+      },
+      {
+        "mobile": "Hot Selections",
+        "desktop": "Hot Selections"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Rise & Shine Cocktails",
+        "desktop": "Rise & Shine Cocktails"
+      },
+      {
+        "mobile": "Storied Cocktails",
+        "desktop": "Storied Cocktails"
+      },
+      {
+        "mobile": "Sparkling Wine",
+        "desktop": "Sparkling Wine"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9 Wine",
+        "desktop": "Ros\u00e9 Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      }
+    ],
+    "3": [
+      {
+        "mobile": "Mickey's Autumn Adventures Brunch Pricing [Starting August 22]",
+        "desktop": "Mickey's Autumn Adventures Brunch Pricing [Starting August 22]"
+      },
+      {
+        "mobile": "Cold Selections",
+        "desktop": "Cold Selections"
+      },
+      {
+        "mobile": "Hot Selections",
+        "desktop": "Hot Selections"
+      },
+      {
+        "mobile": "Carving Station",
+        "desktop": "Carving Station"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Rise & Shine Cocktails",
+        "desktop": "Rise & Shine Cocktails"
+      },
+      {
+        "mobile": "Storied Cocktails",
+        "desktop": "Storied Cocktails"
+      },
+      {
+        "mobile": "Sparkling Wine",
+        "desktop": "Sparkling Wine"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9 Wine",
+        "desktop": "Ros\u00e9 Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      }
+    ],
+    "4": [
+      {
+        "mobile": "Dinner Pricing",
+        "desktop": "Dinner Pricing"
+      },
+      {
+        "mobile": "Cold Selections",
+        "desktop": "Cold Selections"
+      },
+      {
+        "mobile": "Hot Selections",
+        "desktop": "Hot Selections"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Storied Cocktails",
+        "desktop": "Storied Cocktails"
+      },
+      {
+        "mobile": "Sparkling Wine",
+        "desktop": "Sparkling Wine"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9 Wine",
+        "desktop": "Ros\u00e9 Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      }
+    ],
+    "5": [
+      {
+        "mobile": "Clarabelle's Enchanted Halloween Dinner [Available starting August 22]",
+        "desktop": "Clarabelle's Enchanted Halloween Dinner [Available starting August 22]"
+      },
+      {
+        "mobile": "Cold Selections",
+        "desktop": "Cold Selections"
+      },
+      {
+        "mobile": "Hot Selections",
+        "desktop": "Hot Selections"
+      },
+      {
+        "mobile": "Action Stations",
+        "desktop": "Action Stations"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      }
+    ]
+  }
+}

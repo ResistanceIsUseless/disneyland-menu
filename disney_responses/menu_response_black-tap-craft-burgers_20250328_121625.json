@@ -1,0 +1,732 @@
+{
+  "name": "Black Tap Craft Burgers & Shakes",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snacks & Sides",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crispy Brussels Sprouts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sesame-Tahini"
+            },
+            {
+              "title": "Hot Fried Pickles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Spiced Buttermilk-Dill"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lettuce, Shaved Parmesan, Croutons, side of Caesar Dressing"
+            },
+            {
+              "title": "House Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lettuce, Tomato, Cucumber, Pickled Onion, House Vinaigrette"
+            },
+            {
+              "title": "Teriyaki Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ginger, Garlic, Sesame, Scallion"
+            },
+            {
+              "title": "Arugula Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Tomato, Shaved Parmesan, House Vinaigrette"
+            },
+            {
+              "title": "Buttermilk Fried Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with House Buttermilk-Dill, Korean BBQ and Lime-Honey Mustard"
+            },
+            {
+              "title": "Guac and Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smashed Avocado, Pico de Gallo, Cilantro and Scallion"
+            },
+            {
+              "title": "Street Corn Nachos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Queso Bravo, charred Corn, Scallion, Cilantro, Cotija Cheese, Radish, Hot Spice"
+            },
+            {
+              "title": "Fried Mozz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Smoky Chipotle Tomato Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Wings",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Korean BBQ Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "six pieces with Sweet and Spicy BBQ, Scallion, Sesame Seeds, and Lime served with House Buttermilk-Dill"
+            },
+            {
+              "title": "Texan BBQ Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "six pieces with Sweet BBQ and Scallions served with House Buttermilk-Dill"
+            },
+            {
+              "title": "Mexican Hot Sauce Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "six pieces with spicy Hot Sauce, Blue Cheese Crumbles and Scallions served with Blue Cheese"
+            },
+            {
+              "title": "Hot Chili Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "six pieces with Hot Chili Oil, Black Garlic & Chili Seasoning, served with House Buttermilk-dill"
+            }
+          ]
+        },
+        {
+          "name": "Craft Burgers",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The All-American Burger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Burger, American Cheese and Special Sauce, served with Lettuce, Tomato, a Pickle, and French Fries"
+            },
+            {
+              "title": "The Texan Burger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Burger, Bacon, Aged Cheddar, crispy Onion Ring, Sweet Baby Ray's\u00ae BBQ, and Mayo served with Lettuce, Tomato, a Pickle, and French Fries"
+            },
+            {
+              "title": "The Old Fashioned*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Burger, Cremini Mushrooms, Swiss, Caramelized Onion, and Horseradish Sauce, served with Lettuce, Tomato, a Pickle, and French Fries"
+            },
+            {
+              "title": "The Wagyu Steakhouse Burger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wagyu Beef, Pepper Jack Cheese, Bacon, crispy Onions, A1 Sauce, and Roasted Garlic Mayo, served with Lettuce, Tomato, a Pickle, and French Fries"
+            },
+            {
+              "title": "The Mexico City*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Burger, Pepper Jack Cheese, Pickled Jalape\u00f1os, crispy Onion Ring, and Chipotle Mayo served with Lettuce, Tomato, a Pickle, and French Fries"
+            },
+            {
+              "title": "The Champ*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "1/2 lb Wagyu Beef Burger, House Buttermilk-Dill, Blue Cheese, and Arugula served with Lettuce, Tomato, a Pickle, and French Fries"
+            },
+            {
+              "title": "The Black Truffle Burge*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wagyu Beef, Havarti Cheese, baby Arugula, Truffle-Yuzu Vinaigrette, black Garlic Peppercorn Aioli, shaved Parmesan, Truffle Oil served with Lettuce, Tomato, a Pickle, and French Fries"
+            },
+            {
+              "title": "Crispy Cauliflower Corn Burger ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cauliflower Corn burger, Corn salsa, pickled Onions, Cilantro, Avocado Jalapeno Crema, vegan bun served with Lettuce, Tomato, a Pickle, and French Fries"
+            }
+          ]
+        },
+        {
+          "name": "Add Ons for Burgers, Salads and Sandwiches",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Egg",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Avocado",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Saut\u00e9ed Mushrooms",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caramelized Onions",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Extra Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Black Tap Burger Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Burger, American Cheese, Bacon, Lettuce, Tomato, Cucumber, Pickle, Pickled Onions, Scallions, and a side of Special Sauce"
+            },
+            {
+              "title": "Crispy Chicken Caesar Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken, Lettuce, Moroccan Spice Roasted Tomatoes, Shaved Parmesan, Croutons, and Caesar Dressing"
+            },
+            {
+              "title": "Cheetos Chopped Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Green Leaf Lettuce, Napa Cabbage, Fresh Corn, Spicy Black Beans, diced Avocado, Pico de Gallo, Red and Green Peppers, Cilantro, Scallion, Cotija Cheese, Chipotle Honey grilled Chicken, Radish, Flamin' Hot Limon Cheetos, Chipotle Buttermilk Dill"
+            },
+            {
+              "title": "Crispy Cauliflower Corn ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cauliflower Corn burger, Arugula, pickled Onions, Cilantro, Corn salsa, Avocado Jalape\u00f1o Cream, sweet Corn dressing"
+            }
+          ]
+        },
+        {
+          "name": "Chicken & Sandwiches",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Crispy Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buttermilk Coleslaw, Cilantro, fresh Lime and Spicy Mayo and Korean BBQ served with French Fries"
+            },
+            {
+              "title": "The Cali Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Chicken, Swiss, Truffle Mayo, sliced Avocado, Pickled Onions served with French Fries"
+            },
+            {
+              "title": "BT Hot Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken, Hot Chili Oil, Black Garlic & Chili Seasoning, Pickle Chips, House Buttermilk-Dill, Parsley, served with French Fries"
+            }
+          ]
+        },
+        {
+          "name": "Kids",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Diz Kid",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini Prime Burger and American Cheese served with French Fries, Sweet Potato Fries, Plain Broccoli, or Kid's Salad"
+            },
+            {
+              "title": "Crispy Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two House-made White Meat Tenders served with French Fries, Sweet Potato Fries, Plain Broccoli, or Kid's Salad"
+            },
+            {
+              "title": "Grilled Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese on Martin's\u00ae Potato Bread served with French Fries, Sweet Potato Fries, Plain Broccoli, or Kid's Salad"
+            },
+            {
+              "title": "Kids Hot Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hot Dog on Martin\u2019s long Potato rolls served with French Fries, Sweet Potato Fries, Plain Broccoli, or Kid's Salad"
+            }
+          ]
+        },
+        {
+          "name": "Fries",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Idaho Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a House Sauce of your choice"
+            },
+            {
+              "title": "Sweet Potato Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with House Sauce of your choice"
+            },
+            {
+              "title": "Cheese Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Queso, Parmesan, Smoked Bacon, Scallion, Sour Cream and Onion"
+            },
+            {
+              "title": "Black Tap Hot Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hot Chili Oil, Black Garlic & Chili Seasoning, Kosher Pickles, House Buttermilk-Dill, Scallions"
+            }
+          ]
+        },
+        {
+          "name": "Crazy Shake\u2122 Milkshakes",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Classic Shakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate, Vanilla, Coffee, Black Cherry, Strawberry, Nutella\u00ae, Peanut Butter, Cookie, or Funfetti Cake Batter"
+            },
+            {
+              "title": "Classic Shakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oreo\u00ae Cookies and Cream or Brownie Batter"
+            },
+            {
+              "title": "Bam Bam Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fruity Pebbles\u00ae Shake with a Vanilla Frosted Rim with Fruity Pebbles\u00ae, topped with a Fruity Pebbles\u00ae Rice Krispy Treat, Strawberry Pop-Tarts\u00ae, Laffy Taffy\u00ae, Whipped Cream and a Cherry"
+            },
+            {
+              "title": "The Cookie Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Cookie Shake with a Vanilla Frosted Rim with Cookie Crumbles topped with a \"Cookiewich\", Crumbled Cookies, Chocolate Chips, Whipped Cream, and Chocolate Drizzle"
+            },
+            {
+              "title": "Special Edition CrazyShake\u2122 featuring Disney Mickey Mouse",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry Shake with a Vanilla Frosted Rim with Mickey Mouse-shaped Sprinkles topped with a House-made Mickey Mouse-shaped Crispy Treat, White and Red Rock Candy, Whipped Cream, Red Sprinkles and a Cherry"
+            },
+            {
+              "title": "Brooklyn Blackout",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Shake with a Chocolate Frosted Rim with Mini Chocolate Chips topped with two Chocolate Brownies, Whipped Cream and Chocolate Drizzle"
+            },
+            {
+              "title": "Cookies 'N Cream Supreme",
+              "prices": [],
+              "pricesRange": false,
+              "description": "OREO\u00ae Shake with a Vanilla Frosted Rim with Crushed OREO\u00ae\u00a0topped with a 'Cookies 'n Cream' Sandwich, Crumbled Oreo, Whipped Cream, and Chocolate Drizzle"
+            },
+            {
+              "title": "The CakeShake\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cake Batter Shake with a Vanilla Frosted Rim with Rainbow Sprinkles topped with a Funfetti Cake Slice, Whipped Cream, Rainbow Sprinkles and a Cherry"
+            },
+            {
+              "title": "Strawberry Shortcake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry Shake with a Vanilla Frosted Rim with Crumbled Cake topped with a Strawberry Shortcake Ice Cream Bar, Pink and White Twisty Pop, Whipped Cream, Strawberry Drizzle, Crumbled Cake, and a Cherry"
+            }
+          ]
+        },
+        {
+          "name": "Craft on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Blue Moon, Golden, CO",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.4%"
+            },
+            {
+              "title": "Karl Strauss, Red Trolley Ale, San Diego, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.8%"
+            },
+            {
+              "title": "21st Amendment, Blood Orange IPA, San Francisco, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 7.0%"
+            },
+            {
+              "title": "Anaheim Blonde Ale, Anaheim, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 4.9%"
+            },
+            {
+              "title": "Stella Artois, Leuven, Belgium",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.0%"
+            },
+            {
+              "title": "Brewery X, Rotating Beer, Anaheim, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.2%"
+            },
+            {
+              "title": "Stone Hazy IPA, Escondido, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 6.7%"
+            },
+            {
+              "title": "Golden Road, Mango Cart, Los Angeles, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 4.0%"
+            },
+            {
+              "title": "Golden Road x Black Tap IPA, Los Angeles, CA ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 7.0%"
+            },
+            {
+              "title": "Modelo Especial, Mexico City, MX",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 4.5%"
+            }
+          ]
+        },
+        {
+          "name": "Bottles and Cans",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Michelob Ultra, Lager, St. Louis, MO",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 4.2%"
+            },
+            {
+              "title": "Angry Orchard, Walden, NY",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.0%"
+            },
+            {
+              "title": "Firestone Walker, 805 Blonde Ale, Paso Robles, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 4.7%"
+            },
+            {
+              "title": "Corona, Mexico City, MX",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller High Life, Milwaukee, WI",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 4.6%"
+            },
+            {
+              "title": "Bud Light, St. Louis, MO",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 4.2%"
+            },
+            {
+              "title": "Allagash White, Portland, MA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.2%"
+            },
+            {
+              "title": "Truly Hard Seltzer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.0%"
+            },
+            {
+              "title": "Ace Hard Cider, Sebstopol, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 5.0%"
+            },
+            {
+              "title": "Bludacris Blueberry & Meyer Lemon Cyder, San Diego, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ABV 6.0%"
+            },
+            {
+              "title": "Brewery X Seasonal Seltzers, Anaheim, CA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pinot Gris, Underwood",
+              "prices": [],
+              "pricesRange": false,
+              "description": "375 ml Can"
+            },
+            {
+              "title": "Chardonnay, J Lohr",
+              "prices": [],
+              "pricesRange": false,
+              "description": "375 ml Bottle"
+            },
+            {
+              "title": "Ros\u00e9, Underwood",
+              "prices": [],
+              "pricesRange": false,
+              "description": "375 ml Can"
+            },
+            {
+              "title": "Pinot Noir, Coppola",
+              "prices": [],
+              "pricesRange": false,
+              "description": "250 ml Can"
+            },
+            {
+              "title": "Cabernet, J Lohr",
+              "prices": [],
+              "pricesRange": false,
+              "description": "375 ml Bottle"
+            },
+            {
+              "title": "Chandon Brut Ros\u00e9",
+              "prices": [],
+              "pricesRange": false,
+              "description": "187 ml Bottle"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "High Noon Vodka",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Watermelon or Pineapple"
+            },
+            {
+              "title": "Cutwater Long Island Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "June Shine Tropical Rum Mai Tai",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "June Shine Vodka Mule",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacardi Rum Punch",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Shots",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Blanco Teremana Tequila",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Titos Handmade Vodka",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Copalli White Rum",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jameson Irish Whiskey",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jack Daniels Tennessee Whiskey",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tanqueray Gin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Craft Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila, Agave, Lime, Chili Salt"
+            },
+            {
+              "title": "Passionfruit Mojito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Rum, Passionfruit, Lime, Mint, Soda"
+            },
+            {
+              "title": "Watermelon Basil Smash",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Watermelon, Lime Juice, Basil"
+            },
+            {
+              "title": "Godfather Part II",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bourbon, Amaretto, Bitter, Orange twists"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fountain Soda",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Black Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Classic Lemonade or Strawberry Lemonade"
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Topo Chico\u00ae Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "name": "Schmoozies!",
+  "location": "Disney California Adventure Park, Hollywood Land",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hazelnut Mickey-shaped Waffles",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "filled with Chocolate-Hazelnut Spread, served with Powdered Sugar and Syrup"
+            },
+            {
+              "title": "Sorcerer's Apprentice Mickey Shake",
+              "prices": [
+                {
+                  "withoutTax": 13.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cookies & Creme Shake with Blue Whipped Topping and Chocolate Cr\u00e8me-filled Cookie Ears"
+            },
+            {
+              "title": "Strawberry-Banana Split Shake",
+              "prices": [
+                {
+                  "withoutTax": 9.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Whipped Topping, Chocolate Sauce, Peanuts and Cr\u00e8me-filled Chocolate Cookies, topped with a Cherry"
+            },
+            {
+              "title": "Hei Hei Straw Clip ",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Study Break Brewery, Lychee + White Tea",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Los Angeles, CA (ABV 6.5%)"
+            },
+            {
+              "title": "Balcom Canyon Cider, Gateway Session Cider",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ventura, CA (ABV 4.3%)"
+            },
+            {
+              "title": "Happy Dad, Fruit Punch Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange Country, CA (ABV 5.5%)"
+            },
+            {
+              "title": "Seaborn, Strawberry Lemonade Margarita ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Encinitas, CA (ABV 9.0%)"
+            },
+            {
+              "title": "Strawberry Banana Sensation with Liquor",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberries, Banana and Lowfat Yogurt blended with Strawberry-Pineapple Juices and choice of Liquor"
+            },
+            {
+              "title": "Mango Madness with Liquor ",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mangos, Bananas, Peaches and Lowfat Yogurt blended with Pineapple, Guava and Passion Fruit Juices with choice of Liquor"
+            },
+            {
+              "title": "Mangonada with Liquor",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mangos, Bananas and Peaches blended with Pineapple and Guava Juices, finished with sweet Chamoy, Chile-Lime Seasoning and a Mango-Chile Lollipop and choice of Liquor"
+            },
+            {
+              "title": "Affogato with Irish Cream Liqueur",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream topped with Espresso and Irish Cream Liqueur"
+            },
+            {
+              "title": "Cold Brew Coffee with Liqueur or Liquor",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Coffee served over Ice with choice of Liqueur or Liquor"
+            },
+            {
+              "title": "Iced Latte with Liqueur or Liquor",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Liqueur or Liquor"
+            },
+            {
+              "title": "Iced Americano with Liqueur or Liquor",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Liqueur or Liquor"
+            }
+          ]
+        },
+        {
+          "name": "Extreme Refreshers",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mangonada Smoothie",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mangos, Bananas and Peaches blended with Pineapple and Guava Juices, finished with sweet Chamoy, Chile-Lime Seasoning and a Mango-Chile Lollipop"
+            },
+            {
+              "title": "Affogato",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream topped with Espresso"
+            }
+          ]
+        },
+        {
+          "name": "Smoothies",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mango Madness",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mangos, Peaches, Banana, and Lowfat Yogurt blended with Pineapple, Guava and Passion Fruit Juices"
+            },
+            {
+              "title": "Strawberry Banana Sensation",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberries, Banana, and Lowfat Yogurt blended with Strawberry-Pineapple Juice"
+            },
+            {
+              "title": "Make Mine Mocha",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Blended with Chocolate Sauce and Vanilla Ice Cream topped with Whipped Cream"
+            }
+          ]
+        },
+        {
+          "name": "Epic Coffees",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Espresso - Single",
+              "prices": [
+                {
+                  "withoutTax": 3.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso - Double",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Coffee served over Ice"
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caff\u00e8 Latte",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Latte",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caff\u00e8 Americano",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Americano",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Whole Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

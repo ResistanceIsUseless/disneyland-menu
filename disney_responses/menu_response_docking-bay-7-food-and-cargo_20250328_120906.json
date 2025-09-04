@@ -1,0 +1,492 @@
+{
+  "name": "Docking Bay 7 Food and Cargo",
+  "location": "Disneyland Park, Star Wars: Galaxy's Edge",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offering",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coaxium Sipper",
+              "prices": [
+                {
+                  "withoutTax": 19.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit five (5) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dewback Chili Noodles",
+              "prices": [
+                {
+                  "withoutTax": 17.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spiced Fettuccine Noodles, Gingered Ground Pork with Brussel Sprout Leaves, Shredded Red Cabbage"
+            },
+            {
+              "title": "Fried Chicken Baos",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two Crispy Chicken Baos, Sweet Chili Sauce, Scallion Salad, Cucumber Coins"
+            },
+            {
+              "title": "Surabat Valley Greens with Roasted Tip-Yip",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marinated Chicken, Mixed Greens, Quinoa-Veggie Mix, Mini Peppers, Olives, Cotija Cheese, Cilantro Dressing"
+            },
+            {
+              "title": "Endorian Fried Chicken Tip-Yip",
+              "prices": [
+                {
+                  "withoutTax": 15.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Roasted Pepper Mash, Country Gravy, Charred Broccolini"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Felucian Kefta Garden Spread ",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Meatballs, Herb Hummus, Tomato-Cucumber Relish, Pita"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ithorian Garden Patty Bun",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bao Bun, Impossible\u2122 Patty, Broccolini, House Sauce and a Cuties Mandarin served with choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Chicken Tip-Yip Youngling Meal",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Chicken, Macaroni and Cheese and Seasonal Vegetables served with choice of small Lowfat Milk or small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Vintian Mineral Mousse",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Banana Br\u00fbl\u00e9e-centered Dark Chocolate Mousse, Strawberry Mousse, Vanilla Chantilly, Chocolate Crumble, Cherry Garnish"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moof Juice",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Fruit Punch\u00ae, Simply Orange\u00ae with Pineapple, Chipotle-Pineapple"
+            },
+            {
+              "title": "Phattro",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Minute Maid\u00ae Lemonade, Desert Pear"
+            },
+            {
+              "title": "Cold Brew Black Caf",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Coffee topped with Sweet Cream Cheese and Chocolate Puffs"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sap Tap Cup",
+              "prices": [
+                {
+                  "withoutTax": 17.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Acid Spitter Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 19.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk \u2013 Small",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Endorian Fried Chicken Tip-Yip",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Roasted Pepper Mash, Country Gravy, Charred Broccolini"
+            },
+            {
+              "title": "Egg Allergy-Friendly Ithorian Garden Patty Bun ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bao Bun, Impossible\u2122 Patty, Broccolini, House Sauce and a Cuties Mandarin served with choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Endorian Fried Chicken Tip-Yip",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Roasted Pepper Mash, Country Gravy, Charred Broccolini"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Ithorian Garden Patty Bun ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bao Bun, Impossible\u2122 Patty, Broccolini, House Sauce and a Cuties Mandarin served with choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Fried Chicken Tip-Yip Youngling Meal",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Macaroni and Cheese and Seasonal Vegetables served with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Endorian Fried Chicken Tip-Yip",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Roasted Pepper Mash, Country Gravy, Charred Broccolini"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Fried Chicken Tip-Yip Youngling Meal",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Macaroni and Cheese and Seasonal Vegetables served with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Endorian Fried Chicken Tip-Yip",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Roasted Pepper Mash, Country Gravy, Charred Broccolini"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Fried Chicken Tip-Yip Youngling Meal",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Macaroni and Cheese and seasonal Vegetables served with choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Ithorian Garden Patty Bun ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bao Bun, Impossible\u2122 Patty, Broccolini, House Sauce and a Cuties Mandarin served with choice of small Lowfat Milk or small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Endorian Fried Chicken Tip-Yip",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken, Roasted Pepper Mash, Country Gravy, Charred Broccolini"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

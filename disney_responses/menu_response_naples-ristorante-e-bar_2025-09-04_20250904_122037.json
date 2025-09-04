@@ -1,0 +1,2201 @@
+{
+  "name": "Naples Ristorante e Bar",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Breakfast",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Yogurt Breakfast Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Greek Yogurt, Mixed Berry Compote, Granola, fresh Mixed Berries"
+            },
+            {
+              "title": "Cinnamon Raisin Overnight Oats",
+              "prices": [],
+              "pricesRange": false,
+              "description": "chilled Rolled Oats steeped with Milk, Cinnamon, Brown Sugar, Maple Syrup, Apples, Raisins"
+            },
+            {
+              "title": "Avocado Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ciabatta Toast, smashed Avocado, marinated Mozzarella and Cherry Tomatoes, Oregano, Basil, Balsamic Reduction (Add an Egg +4)"
+            },
+            {
+              "title": "Naples Pork Hash",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Slow-cooked Italian Pork, Potato, Carrot, Red Pepper, Oregano"
+            },
+            {
+              "title": "Breakfast Burrito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Flour Tortilla, Cheddar Cheese, Potato, Egg, Bacon, Sausage, Calabrian Pepper A\u00efoli"
+            },
+            {
+              "title": "Biscuits with Italian Sausage Gravy",
+              "prices": [],
+              "pricesRange": false,
+              "description": "three Biscuits, Italian Sausage Gravy"
+            },
+            {
+              "title": "Buttermilk Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two Buttermilk Pancakes, topped with Mixed Berries, Mascarpone Cream, Maple Syrup"
+            },
+            {
+              "title": "Italian Chicken Fried Steak",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Breaded Beef Cutlet, Italian Sausage Gravy, Fried Egg"
+            },
+            {
+              "title": "Spinach and Tomato Frittata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "traditional Spinach and Tomato Frittata, Goat Cheese, Fresh Basil"
+            },
+            {
+              "title": "Banana French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "two slices of Banana French Toast, topped with Sliced Banana, Spiced Walnut Pieces, Mascarpone Cream, Maple Syrup"
+            },
+            {
+              "title": "Italian Breakfast Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ciabatta Roll, Parma Cotto Ham, Fontina Cheese, Egg, Avocado Mash, Calabrian Pepper A\u00efoli"
+            },
+            {
+              "title": "Classic Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "2 Eggs any style, Roasted Breakfast Potatoes, Bacon or Sausage, Ciabatta Bread Toast"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Potatoes ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Two Eggs (any style)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Portion Italian Pork Hash",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Portion Italian Sausage Gravy",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Buttermilk Pancake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side of French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Breakfast Sausages (2)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon (2)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ciabatta Toast (2)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Buttermilk Biscuit ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Menu",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": " Buttermilk Pancake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Powdered Sugar"
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Potatoes and Bacon"
+            },
+            {
+              "title": "Breakfast Burrito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Flour Tortilla, Cheddar Cheese and Egg, with choice of Potatoes, Sausage or Bacon"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails ",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Naples Italian Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lib\u00e9lula Tequila, Orangecello, Sour Mix, Lime Juice"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Mr. Black Cold Brew Coffee Liqueur, Espresso"
+            },
+            {
+              "title": "Naples Bloody Mary",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Svedka Vodka, Bloody Mary Mix, Lime Juice (make it spicy with Tabasco)"
+            },
+            {
+              "title": "Mimosa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prosecco with choice of Orange, Pomegranate or Grapefruit Juice"
+            },
+            {
+              "title": "Bellini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prosecco with Peach Pur\u00e9e"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Passion Unsweetened Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Black Unsweetened Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Apple, Cranberry, Orange or Pineapple"
+            },
+            {
+              "title": "Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House-Made Focaccia",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Arrabbiata dipping sauce"
+            },
+            {
+              "title": "Panzerotti",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Pizza Dough filled with fresh Mozzarella, Ricotta, and Parmesan, Marinara"
+            },
+            {
+              "title": "Tagliere Misto",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Salame Rosa, Salami Calabrese, Salame Toscano, Fontina Cheese, Grana Padano, Castelvetrano Olives, Walnuts, Apricots, Honeycomb, Rosemary Crackers (serves up to 4)"
+            },
+            {
+              "title": "Burrata E Marmelatta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Burrata, Tomato Jam, Basil Microgreens, Olive Oil, Crostini"
+            },
+            {
+              "title": "Calamari Fritti",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Calamari, spicy Tomato Sauce"
+            },
+            {
+              "title": "Caprese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Heirloom Tomato, Mozzarella, Basil, Sea Salt, Extra Virgin Olive Oil"
+            },
+            {
+              "title": "Minestrone Soup Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minestrone Soup Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Caesar ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, crisp Romaine Leaves, grated Parmesan, toasted Croutons, House-made Dressing"
+            },
+            {
+              "title": "Contadina",
+              "prices": [],
+              "pricesRange": false,
+              "description": "chopped Romaine, Radicchio, Salami, Provolone, Garbanzo Beans, Cherry Tomato, Olive, Pepperoncini, Red Onion, Italian Vinaigrette"
+            },
+            {
+              "title": "Sonoma Chicken Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, Red & Green Grapes, Celery, Blue Cheese, Walnuts, Gem Lettuce, Citrus Vinaigrette.\u00a0"
+            },
+            {
+              "title": "Side Della Casa Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Red Onion, Tomato, Parmesan, Oregano, Pepperoncini, Italian Vinaigrette"
+            },
+            {
+              "title": "Side Caesar ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crisp Romaine Leaves, grated Parmesan, toasted Croutons, House-made Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Pastas",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "'Nduja Mafaldine E Ricotta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spicy Calabrian Sausage Cream Sauce, Seasoned Ricotta, Parmesan"
+            },
+            {
+              "title": "Linguine Ai Frutti Di Mare",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Clams, Mussels, Shrimp, Calamari, Garlic, Clam Juice, Marinara, Calabrian Chili"
+            },
+            {
+              "title": "Shrimp Penne Alla Vodka",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp, Tomato Sauce, Calabrian Chili Peppers, Garlic, Cream."
+            },
+            {
+              "title": "Lasagna Bolognese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Baked Eight-Layer Pasta with Meat Sauce and B\u00e9chamel Sauce, topped with Marinara"
+            },
+            {
+              "title": "Chicken Ravioli Florentine",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken and smoked Gouda Ravioli, White Sauce, Garlic, Sun-dried Tomato, Spinach, Capers, Parmesan"
+            },
+            {
+              "title": "Chicken Penne Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Broccoli, Chili Flakes, Garlic Cream Sauce"
+            },
+            {
+              "title": "Spaghetti and Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Handcrafted Meatballs, Marinara"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Eggplant Alla Parmigiana",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried alla Parmigiana Eggplant, Tomato Sauce, Mozzarella, Parmesan, Spaghetti with Marinara"
+            },
+            {
+              "title": "Pollo alla Parmigiana",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Breaded Chicken, Tomato Sauce, Mozzarella, Parmesan, Spaghetti with Marinara"
+            },
+            {
+              "title": "Salmone",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seared Salmon Filet, Roasted Tomatoes, Potato, Lemon"
+            },
+            {
+              "title": "Flat Iron Steak",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cooked alla Plancha, Roasted Potatoes, Heirloom Baby Carrots, Salsa Rossa"
+            },
+            {
+              "title": "Snapper Piccata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pacific Snapper, Piccata Sauce, Capers, Linguini with Cream Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brussels Sprouts with Prosciutto",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Heirloom Baby Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wood-fired Authentic Pizza Napoletana",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "10\" Individual Hot Honey Soppressata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Spicy Soppressata Salami, Capers, Hot Honey"
+            },
+            {
+              "title": "20\" Large Hot Honey Soppressata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Spicy Soppressata Salami, Capers, Hot Honey"
+            },
+            {
+              "title": "10\" Individual Venice Beach Vegan",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vegan Mozzarella, Tomato Sauce, Marinated Artichoke, Roasted Red Pepper, Grilled Red Onion, and Green Pepper"
+            },
+            {
+              "title": "20\" Large Venice Beach Vegan",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vegan Mozzarella, Tomato Sauce, Marinated Artichoke, Roasted Red Pepper, Grilled Red Onion, and Green Pepper"
+            },
+            {
+              "title": "10\" Individual Pesto Genovese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pesto, Mozzarella, Diced Tomato, Basil"
+            },
+            {
+              "title": "20\" Large Pesto Genovese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pesto, Mozzarella, Diced Tomato, Basil"
+            },
+            {
+              "title": "10\" Individual Hawaiian ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, sliced Porchetta, Pineapple, Parmesan"
+            },
+            {
+              "title": "20\" Large Hawaiian",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, sliced Porchetta, Pineapple, Parmesan"
+            },
+            {
+              "title": "10\" Individual Pollo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, Smoked Mozzarella, Red Onions, Fontina, BBQ Sauce"
+            },
+            {
+              "title": "20\" Large Pollo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, Smoked Mozzarella, Red Onions, Fontina, BBQ Sauce"
+            },
+            {
+              "title": "10\" Individual Carnivoro",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, Pepperoni, Capicola, Genoa Salami, Spicy Sausage"
+            },
+            {
+              "title": "20\" Large Carnivoro",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, Pepperoni, Capicola, Genoa Salami, Spicy Sausage"
+            },
+            {
+              "title": "10\" Individual New York ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded East Coast Mozzarella Blend, Tomato Sauce, Parmesan, Oregano."
+            },
+            {
+              "title": "20\" Large New York ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded East Coast Mozzarella Blend, Tomato Sauce, Parmesan, Oregano."
+            },
+            {
+              "title": "10\" Individual Quattro Formaggi",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Fontina, Provolone, Parmesan, Diced Tomato, Basil."
+            },
+            {
+              "title": "20\" Large Quattro Formaggi",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Fontina, Provolone, Parmesan, Diced Tomato, Basil."
+            },
+            {
+              "title": "10\" Individual Ensenada Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded Mozzarella, Seasoned Shrimp, Shredded Cabbage, Pico de Gallo, Chipotle Cream, Lime"
+            },
+            {
+              "title": "20\" Large Ensenada Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded Mozzarella, Seasoned Shrimp, shredded Cabbage, Pico de Gallo, Chipotle Crema, Lime"
+            },
+            {
+              "title": "10\" Individual Prosciutto E Melone",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Parmesan, Arugula, thinly sliced Cantaloupe, Prosciutto, Olive Oil"
+            },
+            {
+              "title": "20\" Large Prosciutto E Melone",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Parmesan, Arugula, thinly sliced Cantaloupe, Prosciutto, Olive Oil"
+            },
+            {
+              "title": "10\" Individual Margherita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Basil, Tomato Sauce"
+            },
+            {
+              "title": "20\" Large Margherita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Basil, Tomato Sauce"
+            },
+            {
+              "title": "10\" Individual Pepperoni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Fresh Mozzarella, Tomato Sauce"
+            },
+            {
+              "title": "20\" Large Pepperoni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Fresh Mozzarella, Tomato Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spicy Calabrian Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Blanco Tequila, Calabrian Peppers, Non-GMO Orange & Lime Juice, Organic Agave, Taj\u00edn Rim"
+            },
+            {
+              "title": "Naples Italian Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Blanco Tequila, Orangecello, Non-GMO Orange & Lime Juice, Organic Agave."
+            },
+            {
+              "title": "Aperol Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aperol, Prosecco, Orange Juice"
+            },
+            {
+              "title": "Smoky Desert Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Dos Hombres Mezcal, Prickly Pear, Cucumber, Lime Juice, Cucumber\u2013Mint sprig"
+            },
+            {
+              "title": "Grapefruit Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Italicus, Campari, Grapefruit Juice, Prosecco"
+            },
+            {
+              "title": "Pulcinella Old Fashioned",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Amaro Lucano Riserva, Demerara, Bitters Blend"
+            },
+            {
+              "title": "Amaretto Passione",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Amaretto, Passion Fruit, Lemon Juice, Dark Rum Float, Pineapple Leaf and Flower Garnish"
+            },
+            {
+              "title": "Tropical Sunrise",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Camarena Blanco Tequila, Pineapple Juice, Pomegranate Juice"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Luxardo Espresso Liqueur, Espresso"
+            },
+            {
+              "title": "Scarlet Heart",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Malibu Rum, Vodka, Peach Schnapps, Cranberry, Strawberry Syrup, Lemon Juice"
+            },
+            {
+              "title": "Sicilian Sunshine Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Limoncello, Prosecco, Lemon Juice"
+            },
+            {
+              "title": "Malibu Breeze",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Malibu Rum, Orange Juice, Cranberry Juice and Pineapple Juice"
+            },
+            {
+              "title": "Golden Coast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Gold Bar Whiskey, Lilet Blanc, Aperol"
+            },
+            {
+              "title": "Vodka Blush",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Pomegranate Juice, Blood Orange Juice, splash of soda.\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Sangria",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sangria Blush",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ros\u00e9, Jacques Bonet Brandy, Triple Sec, Ginger Ale"
+            },
+            {
+              "title": "Sangria White",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pinot Grigio, Triple Sec, Dry Vermouth, Orange Juice"
+            },
+            {
+              "title": "Sangria Red",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cabernet, Jaques Bonet Brandy, Triple Sec, Orange Juice, Ginger Ale"
+            },
+            {
+              "title": "Sangria Flight",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Blush, White & Red Sangria\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Non-alcoholic ",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pom Basil Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Italian Aperitif, Pomegranate Syrup, Basil, Lime Juice, Non-Alcoholic Sparkling Wine"
+            },
+            {
+              "title": "No Dramma Bahama",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Rum, Real Banana, Pineapple Juice, Grenadine, Dried Orange, Mint"
+            },
+            {
+              "title": "Zero-Rita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Tequila, Lime, Agave, Blood Orange, Lime Wheel & Orange Slice"
+            },
+            {
+              "title": "Berry Gin Free",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Gin, Lemon, Re\u00e0l Blackberry Pur\u00e9e, Non-Alcoholic Sparkling Wine"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Naples House Red",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cabernet"
+            },
+            {
+              "title": "Naples House White",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pinot Grigio"
+            },
+            {
+              "title": "Prosecco Ruffino, Veneto, Italy",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Champagne, Lanson Black Label Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Champagne, Veuve Clicquot Ros\u00e9, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Prosecco Brut Ros\u00e9, Canella, Italy",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay, Chalk Hill, Russian River Valley, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cortese, Batasiolo, Gavi di Gavi, Italy 2022",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Moscato, Mirassou, California 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio, Campagnola, Veneto, Italy 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Riesling, Ch\u00e2teau Saint Michelle, Columbia Valley 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Frenzy, Blenheim New Zealand",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Seaglass, Central Coast 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ros\u00e9, Noble Vines 515, Central Coast, 2023",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ros\u00e9, Peyrassol, La Croix, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Barbera, Batasiolo, Barbera d'Alba Sovrana, Italy, 2022",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bordeaux Blend, Opus Overture, Napa Valley",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Proverb, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Sabastiani, North Coast 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Silver Oak, Napa Valley 2012",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Opus One, Napa Valley 2019",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chianti, Querceto, Italy 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nebbiolo, Batasiolo, Barolo, Cerequio, 2013",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Merlot, Candoni, Sicily 2020 Organic",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, Cline Seven Ranches, Sonoma County",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, Theresa Noelle, Sta. Rita Hills 2019",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Blend, Banfi Centine, Tuscany 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Zinfandel, OZV, Lodi 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peroni Italian Pilsner",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Naples House Blonde",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Modelo Especial",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bay City IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kona Big Wave Golden Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Budweiser",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coors Light",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Golden Road West Coast IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Hard Cider",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Birra Dolomiti",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Guinness",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Athletic Brewing Zero Alcohol Golden Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer & Shots",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fire Bomb",
+              "prices": [],
+              "pricesRange": false,
+              "description": "can of Brewery X Hard Seltzer with Fireball Cinnamon Whiskey"
+            },
+            {
+              "title": "The Good Cheer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "select Draft or Bottled Beer coupled with select Spirits option, please ask server for details"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Passion Fruit Unsweetened Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Black Unsweetened Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Naples Blush",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pomegranate Juice, Blood Orange Juice, Lemon Juice, Sparkling Soda"
+            },
+            {
+              "title": "Strawberry Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Traditional Italian Soda",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Strawberry, French Vanilla or Raspberry, Club Soda, splash of Cream"
+            },
+            {
+              "title": "Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Water 1L",
+              "prices": [],
+              "pricesRange": false,
+              "description": "San Pellegrino Sparkling or Acqua Panna Natural"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House-Made Focaccia",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Arrabbiata dipping sauce"
+            },
+            {
+              "title": "Panzerotti",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Pizza Dough filled with fresh Mozzarella, Ricotta, and Parmesan, Marinara"
+            },
+            {
+              "title": "Tagliere Misto",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Salame Rosa, Salami Calabrese, Salame Toscano, Fontina Cheese, Grana Padano, Castelvetrano Olives, Walnuts, Apricots, Honeycomb, Rosemary Crackers (serves up to 4)"
+            },
+            {
+              "title": "Burrata E Marmelatta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Burrata, Tomato Jam, Basil Microgreens, Olive Oil, Crostini"
+            },
+            {
+              "title": "Calamari Fritti",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Calamari, spicy Tomato Sauce"
+            },
+            {
+              "title": "Caprese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Heirloom Tomato, Mozzarella, Basil, Sea Salt, Extra Virgin Olive Oil"
+            },
+            {
+              "title": "Minestrone Soup Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minestrone Soup Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Caesar ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, crisp Romaine Leaves, grated Parmesan, toasted Croutons, House-made Dressing"
+            },
+            {
+              "title": "Contadina",
+              "prices": [],
+              "pricesRange": false,
+              "description": "chopped Romaine, Radicchio, Salami, Provolone, Garbanzo Beans, Cherry Tomato, Olive, Pepperoncini, Red Onion, Italian Vinaigrette"
+            },
+            {
+              "title": "Sonoma Chicken Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, Red & Green Grapes, Celery, Blue Cheese, Walnuts, Gem Lettuce, Citrus Vinaigrette.\u00a0"
+            },
+            {
+              "title": "Side Della Casa Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Red Onion, Tomato, Parmesan, Oregano, Pepperoncini, Italian Vinaigrette"
+            },
+            {
+              "title": "Side Caesar ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crisp Romaine Leaves, grated Parmesan, toasted Croutons, House-made Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Pastas",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "'Nduja Mafaldine E Ricotta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spicy Calabrian Sausage Cream Sauce, Seasoned Ricotta, Parmesan"
+            },
+            {
+              "title": "Linguine Ai Frutti Di Mare",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Clams, Mussels, Shrimp, Calamari, Garlic, Clam Juice, Marinara, Calabrian Chili"
+            },
+            {
+              "title": "Shrimp Penne Alla Vodka",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp, Tomato Sauce, Calabrian Chili Peppers, Garlic, Cream."
+            },
+            {
+              "title": "Lasagna Bolognese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Baked Eight-Layer Pasta with Meat Sauce and B\u00e9chamel Sauce, topped with Marinara"
+            },
+            {
+              "title": "Chicken Ravioli Florentine",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken and smoked Gouda Ravioli, White Sauce, Garlic, Sun-dried Tomato, Spinach, Capers, Parmesan"
+            },
+            {
+              "title": "Chicken Penne Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Broccoli, Chili Flakes, Garlic Cream Sauce"
+            },
+            {
+              "title": "Spaghetti and Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Handcrafted Meatballs, Marinara"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Eggplant Alla Parmigiana",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried alla Parmigiana Eggplant, Tomato Sauce, Mozzarella, Parmesan, Spaghetti with Marinara"
+            },
+            {
+              "title": "Pollo alla Parmigiana",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Breaded Chicken, Tomato Sauce, Mozzarella, Parmesan, Spaghetti with Marinara"
+            },
+            {
+              "title": "Salmone",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seared Salmon Filet, Roasted Tomatoes, Potato, Lemon"
+            },
+            {
+              "title": "Flat Iron Steak",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cooked alla Plancha, Roasted Potatoes, Heirloom Baby Carrots, Salsa Rossa"
+            },
+            {
+              "title": "Snapper Piccata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pacific Snapper, Piccata Sauce, Capers, Linguini with Cream Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brussels Sprouts with Prosciutto",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Heirloom Baby Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wood-fired Authentic Pizza Napoletana",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "10\" Individual Hot Honey Soppressata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Spicy Soppressata Salami, Capers, Hot Honey"
+            },
+            {
+              "title": "20\" Large Hot Honey Soppressata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Spicy Soppressata Salami, Capers, Hot Honey"
+            },
+            {
+              "title": "10\" Individual Venice Beach Vegan",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vegan Mozzarella, Tomato Sauce, Marinated Artichoke, Roasted Red Pepper, Grilled Red Onion, and Green Pepper"
+            },
+            {
+              "title": "20\" Large Venice Beach Vegan",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vegan Mozzarella, Tomato Sauce, Marinated Artichoke, Roasted Red Pepper, Grilled Red Onion, and Green Pepper"
+            },
+            {
+              "title": "10\" Individual Pesto Genovese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pesto, Mozzarella, Diced Tomato, Basil"
+            },
+            {
+              "title": "20\" Large Pesto Genovese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pesto, Mozzarella, Diced Tomato, Basil"
+            },
+            {
+              "title": "10\" Individual Hawaiian ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, sliced Porchetta, Pineapple, Parmesan"
+            },
+            {
+              "title": "20\" Large Hawaiian",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, sliced Porchetta, Pineapple, Parmesan"
+            },
+            {
+              "title": "10\" Individual Pollo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, Smoked Mozzarella, Red Onions, Fontina, BBQ Sauce"
+            },
+            {
+              "title": "20\" Large Pollo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Chicken, Smoked Mozzarella, Red Onions, Fontina, BBQ Sauce"
+            },
+            {
+              "title": "10\" Individual Carnivoro",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, Pepperoni, Capicola, Genoa Salami, Spicy Sausage"
+            },
+            {
+              "title": "20\" Large Carnivoro",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Tomato Sauce, Pepperoni, Capicola, Genoa Salami, Spicy Sausage"
+            },
+            {
+              "title": "10\" Individual New York ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded East Coast Mozzarella Blend, Tomato Sauce, Parmesan, Oregano."
+            },
+            {
+              "title": "20\" Large New York ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded East Coast Mozzarella Blend, Tomato Sauce, Parmesan, Oregano."
+            },
+            {
+              "title": "10\" Individual Quattro Formaggi",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Fontina, Provolone, Parmesan, Diced Tomato, Basil."
+            },
+            {
+              "title": "20\" Large Quattro Formaggi",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Fontina, Provolone, Parmesan, Diced Tomato, Basil."
+            },
+            {
+              "title": "10\" Individual Ensenada Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded Mozzarella, Seasoned Shrimp, Shredded Cabbage, Pico de Gallo, Chipotle Cream, Lime"
+            },
+            {
+              "title": "20\" Large Ensenada Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded Mozzarella, Seasoned Shrimp, shredded Cabbage, Pico de Gallo, Chipotle Crema, Lime"
+            },
+            {
+              "title": "10\" Individual Prosciutto E Melone",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Parmesan, Arugula, thinly sliced Cantaloupe, Prosciutto, Olive Oil"
+            },
+            {
+              "title": "20\" Large Prosciutto E Melone",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Parmesan, Arugula, thinly sliced Cantaloupe, Prosciutto, Olive Oil"
+            },
+            {
+              "title": "10\" Individual Margherita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Basil, Tomato Sauce"
+            },
+            {
+              "title": "20\" Large Margherita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Basil, Tomato Sauce"
+            },
+            {
+              "title": "10\" Individual Pepperoni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Fresh Mozzarella, Tomato Sauce"
+            },
+            {
+              "title": "20\" Large Pepperoni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Fresh Mozzarella, Tomato Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spicy Calabrian Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Blanco Tequila, Calabrian Peppers, Non-GMO Orange & Lime Juice, Organic Agave, Taj\u00edn Rim"
+            },
+            {
+              "title": "Naples Italian Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Blanco Tequila, Orangecello, Non-GMO Orange & Lime Juice, Organic Agave."
+            },
+            {
+              "title": "Aperol Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aperol, Prosecco, Orange Juice"
+            },
+            {
+              "title": "Smoky Desert Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Dos Hombres Mezcal, Prickly Pear, Cucumber, Lime Juice, Cucumber\u2013Mint sprig"
+            },
+            {
+              "title": "Grapefruit Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Italicus, Campari, Grapefruit Juice, Prosecco"
+            },
+            {
+              "title": "Pulcinella Old Fashioned",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Amaro Lucano Riserva, Demerara, Bitters Blend"
+            },
+            {
+              "title": "Amaretto Passione",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Amaretto, Passion Fruit, Lemon Juice, Dark Rum Float, Pineapple Leaf and Flower Garnish"
+            },
+            {
+              "title": "Tropical Sunrise",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Camarena Blanco Tequila, Pineapple Juice, Pomegranate Juice"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Luxardo Espresso Liqueur, Espresso"
+            },
+            {
+              "title": "Scarlet Heart",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Malibu Rum, Vodka, Peach Schnapps, Cranberry, Strawberry Syrup, Lemon Juice"
+            },
+            {
+              "title": "Sicilian Sunshine Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Limoncello, Prosecco, Lemon Juice"
+            },
+            {
+              "title": "Malibu Breeze",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Malibu Rum, Orange Juice, Cranberry Juice and Pineapple Juice"
+            },
+            {
+              "title": "Golden Coast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Gold Bar Whiskey, Lilet Blanc, Aperol"
+            },
+            {
+              "title": "Vodka Blush",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Pomegranate Juice, Blood Orange Juice, splash of soda.\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Sangria",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sangria Blush",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ros\u00e9, Jacques Bonet Brandy, Triple Sec, Ginger Ale"
+            },
+            {
+              "title": "Sangria White",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pinot Grigio, Triple Sec, Dry Vermouth, Orange Juice"
+            },
+            {
+              "title": "Sangria Red",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cabernet, Jaques Bonet Brandy, Triple Sec, Orange Juice, Ginger Ale"
+            },
+            {
+              "title": "Sangria Flight",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Blush, White & Red Sangria\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Non-alcoholic ",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pom Basil Spritz",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Italian Aperitif, Pomegranate Syrup, Basil, Lime Juice, Non-Alcoholic Sparkling Wine"
+            },
+            {
+              "title": "No Dramma Bahama",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Rum, Real Banana, Pineapple Juice, Grenadine, Dried Orange, Mint"
+            },
+            {
+              "title": "Zero-Rita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Tequila, Lime, Agave, Blood Orange, Lime Wheel & Orange Slice"
+            },
+            {
+              "title": "Berry Gin Free",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Ritual Gin, Lemon, Re\u00e0l Blackberry Pur\u00e9e, Non-Alcoholic Sparkling Wine"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Naples House Red",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cabernet"
+            },
+            {
+              "title": "Naples House White",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pinot Grigio"
+            },
+            {
+              "title": "Prosecco Ruffino, Veneto, Italy",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Champagne, Lanson Black Label Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Champagne, Veuve Clicquot Ros\u00e9, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Prosecco Brut Ros\u00e9, Canella, Italy",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay, Chalk Hill, Russian River Valley, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cortese, Batasiolo, Gavi di Gavi, Italy 2022",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Moscato, Mirassou, California 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio, Campagnola, Veneto, Italy 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Riesling, Ch\u00e2teau Saint Michelle, Columbia Valley 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Frenzy, Blenheim New Zealand",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Seaglass, Central Coast 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ros\u00e9, Noble Vines 515, Central Coast, 2023",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ros\u00e9, Peyrassol, La Croix, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Barbera, Batasiolo, Barbera d'Alba Sovrana, Italy, 2022",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bordeaux Blend, Opus Overture, Napa Valley",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Proverb, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Sabastiani, North Coast 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Silver Oak, Napa Valley 2012",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Opus One, Napa Valley 2019",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chianti, Querceto, Italy 2021",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nebbiolo, Batasiolo, Barolo, Cerequio, 2013",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Merlot, Candoni, Sicily 2020 Organic",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, Cline Seven Ranches, Sonoma County",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Noir, Theresa Noelle, Sta. Rita Hills 2019",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Blend, Banfi Centine, Tuscany 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Zinfandel, OZV, Lodi 2020",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peroni Italian Pilsner",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Naples House Blonde",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Modelo Especial",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bay City IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kona Big Wave Golden Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Budweiser",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coors Light",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Golden Road West Coast IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Hard Cider",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Birra Dolomiti",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Guinness",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Athletic Brewing Zero Alcohol Golden Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer & Shots",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fire Bomb",
+              "prices": [],
+              "pricesRange": false,
+              "description": "can of Brewery X Hard Seltzer with Fireball Cinnamon Whiskey"
+            },
+            {
+              "title": "The Good Cheer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "select Draft or Bottled Beer coupled with select Spirits option, please ask server for details"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Passion Fruit Unsweetened Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Black Unsweetened Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Naples Blush",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pomegranate Juice, Blood Orange Juice, Lemon Juice, Sparkling Soda"
+            },
+            {
+              "title": "Strawberry Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Traditional Italian Soda",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Strawberry, French Vanilla or Raspberry, Club Soda, splash of Cream"
+            },
+            {
+              "title": "Soft Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Water 1L",
+              "prices": [],
+              "pricesRange": false,
+              "description": "San Pellegrino Sparkling or Acqua Panna Natural"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast",
+        "desktop": "Breakfast"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Kids' Menu",
+        "desktop": "Kids' Menu"
+      },
+      {
+        "mobile": "Cocktails ",
+        "desktop": "Cocktails "
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Salads",
+        "desktop": "Salads"
+      },
+      {
+        "mobile": "Pastas",
+        "desktop": "Pastas"
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Wood-fired Authentic Pizza Napoletana",
+        "desktop": "Wood-fired Authentic Pizza Napoletana"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Sangria",
+        "desktop": "Sangria"
+      },
+      {
+        "mobile": "Non-alcoholic ",
+        "desktop": "Non-alcoholic "
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Beer & Shots",
+        "desktop": "Beer & Shots"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Salads",
+        "desktop": "Salads"
+      },
+      {
+        "mobile": "Pastas",
+        "desktop": "Pastas"
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Wood-fired Authentic Pizza Napoletana",
+        "desktop": "Wood-fired Authentic Pizza Napoletana"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Sangria",
+        "desktop": "Sangria"
+      },
+      {
+        "mobile": "Non-alcoholic ",
+        "desktop": "Non-alcoholic "
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Beer & Shots",
+        "desktop": "Beer & Shots"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  }
+}

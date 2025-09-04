@@ -1,0 +1,3542 @@
+{
+  "name": "Splitsville Luxury Lanes\u2122 \u2013 Dining",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Starters",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Loaded Fries",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fries smothered with Queso Blanco, Bacon, Ranch, Scallions and love"
+            },
+            {
+              "title": "Cone of Fries",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "classic Crinkle-cut Fries, lightly seasoned and served with Chive Dip"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Tenderloins are hand-battered with Parmesan Breading then fried and served with Ranch Dressing. Ask for them tossed in Buffalo or Asian BBQ sauce, add $1"
+            },
+            {
+              "title": "Macho Nachos",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "loaded with Seasoned Ground Beef, shredded Cheddar Jack Cheese, Queso, Jalape\u00f1o and Black Bean Corn Salsa. Drizzled with Avocado Ranch."
+            },
+            {
+              "title": "Edamame",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "steamed and tossed in Kosher Salt. Spice it up with Chili Sauce for $1 (Gluten-sensitive)"
+            },
+            {
+              "title": "Cheeseburger Sliders*",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "three Slider-style Burgers topped with Cheese, Caramelized Onions, our Special Sauce, Lettuce, Tomato, and Pickles"
+            },
+            {
+              "title": "Voodoo Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Shrimp tossed in Sweet n\u2019 Spicy Voodoo Sauce, Sesame Seed and Scallions and crispy Rice Noodles."
+            },
+            {
+              "title": "Pan-Fried Potstickers",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pork Pot Stickers with Black Vinegar sauce, Scallions and Sesame Seeds."
+            },
+            {
+              "title": "Buffalo Eggrolls",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-rolled and filled with Buffalo Chicken, Cream Cheese, Celery, and Carrots. Served with Avocado Ranch"
+            },
+            {
+              "title": "Street Corn Chicken Nachos",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "loaded with Chicken, Elote-style Corn, Queso, Pickled Red Onion, Chipotle Mayo, Jalape\u00f1o and Cotija Cheese."
+            }
+          ]
+        },
+        {
+          "name": "Pizza",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Crust, Mozzarella and fresh Tomato Sauce"
+            },
+            {
+              "title": "Margherita",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "fresh Mozzarella, Roma Tomatoes, Basil, Tomato Sauce."
+            },
+            {
+              "title": "Hawaiian",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Crust, tangy BBQ Sauce and Mozzarella Cheese topped with crispy Bacon, Canadian Bacon, fresh Pineapple, and Cilantro"
+            },
+            {
+              "title": "Meat Lovers",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Smoked Sausage, Pepperoni, Bacon, and Italian Meatballs"
+            },
+            {
+              "title": "Pepperoni",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our House-made Cheese Pizza loaded with Pepperoni"
+            },
+            {
+              "title": "BBQ Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken, BBQ Sauce, Smoked Gouda, Mozzarella, Cilantro, and Red Onion"
+            },
+            {
+              "title": "Veggie",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mozzarella, Mushrooms, Red and Green Peppers, Onions and Broccoli."
+            },
+            {
+              "title": "Spicy Pepperoni",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mozzarella, pepperoni, mushroom and basil, drizzled with Mike\u2019s Hot Honey."
+            }
+          ]
+        },
+        {
+          "name": "Sushi",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "California Roll",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sushi Rice, Kani Kama Krab, Cucumber and Avocado"
+            },
+            {
+              "title": "California Crunch",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura-fried Kani Kama Krab, Cucumber and Avocado topped with Tempura Crunch, Spicy Mayo and Kimchi Ponzu."
+            },
+            {
+              "title": "Veggie Roll",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cucumber, Avocado, Carrots, Asparagus, Spring Mix, Pickled Radish, Grape Tomatoes, and Yellow Peppers rolled in Sushi Rice and drizzled with Ponzu Sauce and Sesame Seeds"
+            },
+            {
+              "title": "Spicy Tuna*",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "fresh Tuna and Cucumber, Drizzled with Spicy Mayo, Sriracha and sprinkled with Scallions, Sesame Seeds and Nori."
+            },
+            {
+              "title": "Ninja Crunch*",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura-fried Salmon and Kani Kama Krab are rolled with fresh Salmon and Tempura Crunch. Drizzled with Spicy Mayo and Eel Sauce"
+            },
+            {
+              "title": "Crouching Dragon",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura shrimp and asparagus topped with spicy krab mix, avocado and drizzled with eel sauce, spicy mayo and Sriracha."
+            },
+            {
+              "title": "Volcano Roll",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura Shrimp, Avocado, Cream Cheese and spicy Volcano Krab Mix drizzled with Spicy Mayo and Sriracha."
+            },
+            {
+              "title": "Fantasy Roll*",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Sushi dream come true! Fresh Salmon, Cucumber and Avocado are rolled in Soy Paper and topped with Steamed Shrimp and Ahi Tuna. Drizzled with spicy Kimchi Ponzu Sauce."
+            },
+            {
+              "title": "Yum Yum Roll",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura shrimp and cream cheese topped with shrimp, avocado, scallions, our signature yum yum sauce and a soy reduction."
+            },
+            {
+              "title": "Aloha Roll*",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kani Kama Krab, Cucumber and Avocado wrapped in Nori and Sushi Rice and topped with Tuna, Kiwi, Pineapple Salsa, Garlic Chili and Cilantro."
+            },
+            {
+              "title": "Surf n Turf Roll*",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura Shrimp, Cream Cheese and Avocado topped with thinly sliced, seared Tenderloin, Masago, Horseradish Cream, Kimchi Ponzu, and crispy Onions."
+            }
+          ]
+        },
+        {
+          "name": "Handhelds",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheeseburger Deluxe*",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "a classic Burger with Cheese and Special, Top-secret Sauce. Served with Lettuce, Tomato, Pickle, and Onion."
+            },
+            {
+              "title": "Baja Shrimp Tacos",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blackened Shrimp, dressed Lettuce, Thai Chili Lime, pickled red Onion and Cilantro. Served with Rice and Beans on the side."
+            },
+            {
+              "title": "Mushroom and Swiss*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "smothered with melted Swiss and savory Saut\u00e9ed Mushrooms. Served with Lettuce, Tomato, Onion and Pickle."
+            },
+            {
+              "title": "Buffalo Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Breaded Chicken Breast spiced up with Hot Sauce and cooled off with Ranch dressing, Lettuce and Tomato."
+            },
+            {
+              "title": "Tokyo Burger",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Teriyaki Barbecue, American Cheese, Bacon, a crispy Onion strings and spicy Mayo. Served with Lettuce, Tomato, Pickle and Onion."
+            },
+            {
+              "title": "Black Jack Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Blackened Chicken Breast smothered in melted Colby Jack Cheese served on a Bun topped with crispy Bacon, Guacamole, Lettuce and Tomato."
+            },
+            {
+              "title": "Impossible\u2122 Burger",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plant-based, all-natural Patty topped with melted American Cheese, Awesome Sauce, Lettuce, Tomato, Onion and Pickle."
+            },
+            {
+              "title": "Maui Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-breaded, crispy-fried Chicken Breast topped with grilled Pineapple, Teriyaki, Asian Slaw, Cilantro and spicy Mayo on a sweet roll."
+            },
+            {
+              "title": "Tofu & Pineapple Tacos ",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "marinated Tofu, Pineapple Salsa, Chipotle Mayo, Cilantro and pickled Red Onion. Served with Rice and Beans on the side."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es and Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fish n' Chips",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-battered and Golden-fried Fish Filet served with Seasoned French Fries, Coleslaw and Tartar Sauce."
+            },
+            {
+              "title": "Spicy Veggie Bowl",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Broccoli, Kale and crisp Mixed Veggies are stir-fried in Kimchi-tataki Sauce and topped with Avocado and Green Onions served over Sushi Rice."
+            },
+            {
+              "title": "Sweet n' Spicy Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura-battered Chicken, Broccoli, Red and Green Peppers are tossed in Spicy Thai Chili Sauce and served over Sushi Rice"
+            },
+            {
+              "title": "Grilled Salmon with Mango Chutney*",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "fresh Salmon is grilled and topped with Mango Chutney and served with Garlic Butter Broccoli and Sushi Rice."
+            },
+            {
+              "title": "Chicken Alfredo",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blackened Chicken, Broccoli, Red Peppers and Scallions are served over Linguine tossed with our creamy Alfredo Sauce. Toasted Garlic Bread on the side"
+            },
+            {
+              "title": "Poke Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "seared Ahi Tuna tossed in spicy Kimchi Ponzu and served over Sushi Rice with diced Avocado, fresh Mango, and Edamame. Topped with Seaweed Salad, Scallions, Sesame Seeds and Spicy Mayo."
+            },
+            {
+              "title": "Teriyaki Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Panko-crusted Chicken with Sushi Rice, Teriyaki sauce, Garlic Butter Broccoli, Red Peppers, Scallions and Sesame."
+            },
+            {
+              "title": "Steak Frites*",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "an 8-ounce American Wagyu Sirloin finished with Garlic Butter and served with Shoestring Fries, Broccoli and our signature Steak Sauce."
+            },
+            {
+              "title": "Chicken Fried Rice",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pan-roasted Chicken, Peas, Carrots, Broccoli, Egg, Bacon, and Sushi Rice are stir-fried in Kimchi Soy sauce."
+            },
+            {
+              "title": "Chicken Dinner",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Five crispy chicken tenders with fries and coleslaw. Choice of barbecue, ranch or buffalo for dipping."
+            }
+          ]
+        },
+        {
+          "name": "Kids' Entr\u00e9es",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Pizza",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Crust, Mozzarella and Tomato Sauce. Add pepperoni $1"
+            },
+            {
+              "title": "Kid Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "juicy, pint-sized Burger served plain on the Bun. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Hot Dog",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot Dog grilled and served in a Bun. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Chicken Fingers served with Honey Mustard Dipping Sauce. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Grilled Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled and served with Honey Mustard or Ranch for dipping. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Kid Pasta",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Linguine Noodles tossed in Butter, Alfredo or Marinara Sauce. Toasted Garlic Bread on the side"
+            },
+            {
+              "title": "Grilled Cheese Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "thick-sliced American Cheese melted on Texas Toast. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Super Sundae",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ghirardelli\u00ae Brownie",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Root Beer Float",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Drinks",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Juice Box",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coca-Cola\u00ae Soft Drinks",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ICEE\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Souvenir Pin Sipper \u2013 28 oz.",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Resort Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pi\u00f1a Colada",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "The creamiest frozen colada topped with Plantation Double-Aged Dark Rum."
+            },
+            {
+              "title": "Blueberry Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Vodka, freshly squeezed Lemon Juice, Simple Syrup and Blueberry Pur\u00e9e"
+            },
+            {
+              "title": "Pineapple Mangonada",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A house specialty! Our frozen Pi\u00f1a Colada, Mango, Chamoy and Tajin."
+            },
+            {
+              "title": "Big Wave Dave",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A frozen blend of Bacardi Dragonberry, 151 Rum and Blue Raspberry Lemonade. It will get you where you want to go"
+            },
+            {
+              "title": "Cadillac Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuervo Tradicional Silver, Grand Marnier, Sour Mix and fresh Orange Juice."
+            },
+            {
+              "title": "Ripcurl",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our signature flavor Big Wave Dave \u201cswirled\u201d with Pi\u00f1a Colada. Experts only."
+            }
+          ]
+        },
+        {
+          "name": "Handcrafted Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tropical Itch",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Barrel Select Bourbon, Plantation OFTD Rum, Cointreau, Passionfruit and Pineapple. Topped with a floater of Myers Dark Rum and garnished with your very own Bamboo back scratcher. Our strongest cocktail!"
+            },
+            {
+              "title": "Old Fashioned Elder",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mitcher's Bourbon, St. Germain Elderflower, dash of Bitters, and a fancy Cherry."
+            },
+            {
+              "title": "Spicy Peyote",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jalapeno-infused Tequila, 400 Conejos Mezcal, Chili Liqueur, Lime and Pineapple juice."
+            },
+            {
+              "title": "California Crush",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Vodka Muddled with fresh Strawberries, house-squeezed California Orange Juice and Agave Syrup."
+            },
+            {
+              "title": "White Peach Sangria",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Peach Moonshine, Moscato and fresh Peach Puree muddled with Orange and Mango. Garnished with a Moonshine-soaked Peach wedge."
+            },
+            {
+              "title": "Spicy Watermelon Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jalapeno-infused Tequila and Ancho Reyes Chile Liqueur find balance with fresh Watermelon, Lime and Agave."
+            },
+            {
+              "title": "Paloma",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dobel Diamante, sparkling Grapefruit Soda, Grapefruit Juice, and Lime Juice. The original skinny Margarita."
+            },
+            {
+              "title": "1915 Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester 1920 and 1910 are blended with Italicus Liqueur and Bitters. The Bourbon lover\u2019s old fashioned"
+            },
+            {
+              "title": "Long Island Tea",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Rum, Gin, Triple Sec, and Sour Mix topped with a splash of Coca-Cola\u00ae. Make it an Adios +$1!"
+            },
+            {
+              "title": "Painkiller",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pusser\u2019s Gunpowder Proof Rum, RumHaven Coconut Rum, Pineapple and Coconut, topped with Plantation OFTD Rum and sprinkle of Nutmeg. It will cure whatever ails you."
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mr. Black Coffee Liqueur, Vanilla Vodka and Cold Brew concentrate are shaken to a frothy delight."
+            },
+            {
+              "title": "Cucumber Cooler",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Vodka, Lime Juice, Simple Syrup and sliced Cucumber"
+            },
+            {
+              "title": "Pretty Boy",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Casamigo\u2019s Tequila, Pineapple, Raspberry puree, Cointreau and Lemon."
+            },
+            {
+              "title": "Royal Sangria",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Empress 1908 Gin, pineapple, orgeat syrup and fresh lemon juice."
+            }
+          ]
+        },
+        {
+          "name": "Drafts",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Michelob Ultra Draft",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "West Texas Blonde Draft",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Estrella Jalisco Draft",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kona Big Wave ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brewery X Seasonal IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brewery X Slap and Tickle IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Made West Hazy IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Golden Road Mango Cart Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "West Texas Red",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Bottled Beers",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Budweiser Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bud Light Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller Light Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coors Light Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Firestone Walker 805 Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "21st Amendment Blood Orange IPA Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ballast Point Sculpin IPA Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Guinness Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "High Noon Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Modelo Especial Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Heineken Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ace Guava Hard Cider Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brewery X Huckleberry Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "JuneShine Strawberry Kiwi Crush Hard Kombucha",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Joel Gott Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "La Crema Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gundlach Bundshu Mountain Cuvee",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Cabernet",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Robert Mondavi Napa Cabernet",
+              "prices": [
+                {
+                  "withoutTax": 60,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hess Alomi 2019 Cabernet",
+              "prices": [
+                {
+                  "withoutTax": 64,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kendall-Jackson Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Honig Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Santa Margherita Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "King Estate Willamette Valley Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sofia Blanc de Blanc",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Louis Pommery California Brut",
+              "prices": [
+                {
+                  "withoutTax": 88,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Starters",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Loaded Fries",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fries smothered with Queso Blanco, Bacon, Ranch, Scallions and love"
+            },
+            {
+              "title": "Cone of Fries",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "classic Crinkle-cut Fries, lightly seasoned and served with Chive Dip"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Tenderloins are hand-battered with Parmesan Breading then fried and served with Ranch Dressing. Ask for them tossed in Buffalo or Asian BBQ sauce, add $1"
+            },
+            {
+              "title": "Macho Nachos",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "loaded with Seasoned Ground Beef, shredded Cheddar Jack Cheese, Queso, Jalape\u00f1o and Black Bean Corn Salsa. Drizzled with Avocado Ranch."
+            },
+            {
+              "title": "Edamame",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "steamed and tossed in Kosher Salt. Spice it up with Chili Sauce for $1 (Gluten-sensitive)"
+            },
+            {
+              "title": "Cheeseburger Sliders*",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "three Slider-style Burgers topped with Cheese, Caramelized Onions, our Special Sauce, Lettuce, Tomato, and Pickles"
+            },
+            {
+              "title": "Voodoo Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Shrimp tossed in Sweet n\u2019 Spicy Voodoo Sauce, Sesame Seed and Scallions and crispy Rice Noodles."
+            },
+            {
+              "title": "Pan-Fried Potstickers",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pork Pot Stickers with Black Vinegar sauce, Scallions and Sesame Seeds."
+            },
+            {
+              "title": "Buffalo Eggrolls",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-rolled and filled with Buffalo Chicken, Cream Cheese, Celery, and Carrots. Served with Avocado Ranch"
+            },
+            {
+              "title": "Street Corn Chicken Nachos",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "loaded with Chicken, Elote-style Corn, Queso, Pickled Red Onion, Chipotle Mayo, Jalape\u00f1o and Cotija Cheese."
+            }
+          ]
+        },
+        {
+          "name": "Pizza",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Crust, Mozzarella and fresh Tomato Sauce"
+            },
+            {
+              "title": "Margherita",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "fresh Mozzarella, Roma Tomatoes, Basil, Tomato Sauce."
+            },
+            {
+              "title": "Hawaiian",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Crust, tangy BBQ Sauce and Mozzarella Cheese topped with crispy Bacon, Canadian Bacon, fresh Pineapple, and Cilantro"
+            },
+            {
+              "title": "Meat Lovers",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Smoked Sausage, Pepperoni, Bacon, and Italian Meatballs"
+            },
+            {
+              "title": "Pepperoni",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our House-made Cheese Pizza loaded with Pepperoni"
+            },
+            {
+              "title": "BBQ Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Chicken, BBQ Sauce, Smoked Gouda, Mozzarella, Cilantro, and Red Onion"
+            },
+            {
+              "title": "Veggie",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mozzarella, Mushrooms, Red and Green Peppers, Onions and Broccoli."
+            },
+            {
+              "title": "Spicy Pepperoni",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mozzarella, pepperoni, mushroom and basil, drizzled with Mike\u2019s Hot Honey."
+            }
+          ]
+        },
+        {
+          "name": "Sushi",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "California Roll",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sushi Rice, Kani Kama Krab, Cucumber and Avocado"
+            },
+            {
+              "title": "California Crunch",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura-fried Kani Kama Krab, Cucumber and Avocado topped with Tempura Crunch, Spicy Mayo and Kimchi Ponzu."
+            },
+            {
+              "title": "Veggie Roll",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cucumber, Avocado, Carrots, Asparagus, Spring Mix, Pickled Radish, Grape Tomatoes, and Yellow Peppers rolled in Sushi Rice and drizzled with Ponzu Sauce and Sesame Seeds"
+            },
+            {
+              "title": "Spicy Tuna*",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "fresh Tuna and Cucumber, Drizzled with Spicy Mayo, Sriracha and sprinkled with Scallions, Sesame Seeds and Nori."
+            },
+            {
+              "title": "Ninja Crunch*",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura-fried Salmon and Kani Kama Krab are rolled with fresh Salmon and Tempura Crunch. Drizzled with Spicy Mayo and Eel Sauce"
+            },
+            {
+              "title": "Crouching Dragon",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura shrimp and asparagus topped with spicy krab mix, avocado and drizzled with eel sauce, spicy mayo and Sriracha."
+            },
+            {
+              "title": "Volcano Roll",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura Shrimp, Avocado, Cream Cheese and spicy Volcano Krab Mix drizzled with Spicy Mayo and Sriracha."
+            },
+            {
+              "title": "Fantasy Roll*",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Sushi dream come true! Fresh Salmon, Cucumber and Avocado are rolled in Soy Paper and topped with Steamed Shrimp and Ahi Tuna. Drizzled with spicy Kimchi Ponzu Sauce."
+            },
+            {
+              "title": "Yum Yum Roll",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura shrimp and cream cheese topped with shrimp, avocado, scallions, our signature yum yum sauce and a soy reduction."
+            },
+            {
+              "title": "Aloha Roll*",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kani Kama Krab, Cucumber and Avocado wrapped in Nori and Sushi Rice and topped with Tuna, Kiwi, Pineapple Salsa, Garlic Chili and Cilantro."
+            },
+            {
+              "title": "Surf n Turf Roll*",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura Shrimp, Cream Cheese and Avocado topped with thinly sliced, seared Tenderloin, Masago, Horseradish Cream, Kimchi Ponzu, and crispy Onions."
+            }
+          ]
+        },
+        {
+          "name": "Handhelds",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheeseburger Deluxe*",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "a classic Burger with Cheese and Special, Top-secret Sauce. Served with Lettuce, Tomato, Pickle, and Onion."
+            },
+            {
+              "title": "Baja Shrimp Tacos",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blackened Shrimp, dressed Lettuce, Thai Chili Lime, pickled red Onion and Cilantro. Served with Rice and Beans on the side."
+            },
+            {
+              "title": "Mushroom and Swiss*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "smothered with melted Swiss and savory Saut\u00e9ed Mushrooms. Served with Lettuce, Tomato, Onion and Pickle."
+            },
+            {
+              "title": "Buffalo Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Breaded Chicken Breast spiced up with Hot Sauce and cooled off with Ranch dressing, Lettuce and Tomato."
+            },
+            {
+              "title": "Tokyo Burger",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Teriyaki Barbecue, American Cheese, Bacon, a crispy Onion strings and spicy Mayo. Served with Lettuce, Tomato, Pickle and Onion."
+            },
+            {
+              "title": "Black Jack Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Blackened Chicken Breast smothered in melted Colby Jack Cheese served on a Bun topped with crispy Bacon, Guacamole, Lettuce and Tomato."
+            },
+            {
+              "title": "Impossible\u2122 Burger",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plant-based, all-natural Patty topped with melted American Cheese, Awesome Sauce, Lettuce, Tomato, Onion and Pickle."
+            },
+            {
+              "title": "Maui Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-breaded, crispy-fried Chicken Breast topped with grilled Pineapple, Teriyaki, Asian Slaw, Cilantro and spicy Mayo on a sweet roll."
+            },
+            {
+              "title": "Tofu & Pineapple Tacos ",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "marinated Tofu, Pineapple Salsa, Chipotle Mayo, Cilantro and pickled Red Onion. Served with Rice and Beans on the side."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es and Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fish n' Chips",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hand-battered and Golden-fried Fish Filet served with Seasoned French Fries, Coleslaw and Tartar Sauce."
+            },
+            {
+              "title": "Spicy Veggie Bowl",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Broccoli, Kale and crisp Mixed Veggies are stir-fried in Kimchi-tataki Sauce and topped with Avocado and Green Onions served over Sushi Rice."
+            },
+            {
+              "title": "Sweet n' Spicy Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura-battered Chicken, Broccoli, Red and Green Peppers are tossed in Spicy Thai Chili Sauce and served over Sushi Rice"
+            },
+            {
+              "title": "Grilled Salmon with Mango Chutney*",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "fresh Salmon is grilled and topped with Mango Chutney and served with Garlic Butter Broccoli and Sushi Rice."
+            },
+            {
+              "title": "Chicken Alfredo",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blackened Chicken, Broccoli, Red Peppers and Scallions are served over Linguine tossed with our creamy Alfredo Sauce. Toasted Garlic Bread on the side"
+            },
+            {
+              "title": "Poke Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "seared Ahi Tuna tossed in spicy Kimchi Ponzu and served over Sushi Rice with diced Avocado, fresh Mango, and Edamame. Topped with Seaweed Salad, Scallions, Sesame Seeds and Spicy Mayo."
+            },
+            {
+              "title": "Teriyaki Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Panko-crusted Chicken with Sushi Rice, Teriyaki sauce, Garlic Butter Broccoli, Red Peppers, Scallions and Sesame."
+            },
+            {
+              "title": "Steak Frites*",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "an 8-ounce American Wagyu Sirloin finished with Garlic Butter and served with Shoestring Fries, Broccoli and our signature Steak Sauce."
+            },
+            {
+              "title": "Chicken Fried Rice",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pan-roasted Chicken, Peas, Carrots, Broccoli, Egg, Bacon, and Sushi Rice are stir-fried in Kimchi Soy sauce."
+            },
+            {
+              "title": "Chicken Dinner",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Five crispy chicken tenders with fries and coleslaw. Choice of barbecue, ranch or buffalo for dipping."
+            }
+          ]
+        },
+        {
+          "name": "Kids' Entr\u00e9es",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Pizza",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Crust, Mozzarella and Tomato Sauce. Add pepperoni $1"
+            },
+            {
+              "title": "Kid Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "juicy, pint-sized Burger served plain on the Bun. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Hot Dog",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot Dog grilled and served in a Bun. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Chicken Fingers served with Honey Mustard Dipping Sauce. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Grilled Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled and served with Honey Mustard or Ranch for dipping. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            },
+            {
+              "title": "Kid Pasta",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Linguine Noodles tossed in Butter, Alfredo or Marinara Sauce. Toasted Garlic Bread on the side"
+            },
+            {
+              "title": "Grilled Cheese Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "thick-sliced American Cheese melted on Texas Toast. Choice of Fries, Applesauce, Carrot Sticks or Veggies"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Super Sundae",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ghirardelli\u00ae Brownie",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Root Beer Float",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Drinks",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Juice Box",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coca-Cola\u00ae Soft Drinks",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "ICEE\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Souvenir Pin Sipper \u2013 28 oz.",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Resort Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pi\u00f1a Colada",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "The creamiest frozen colada topped with Plantation Double-Aged Dark Rum."
+            },
+            {
+              "title": "Blueberry Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Vodka, freshly squeezed Lemon Juice, Simple Syrup and Blueberry Pur\u00e9e"
+            },
+            {
+              "title": "Pineapple Mangonada",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A house specialty! Our frozen Pi\u00f1a Colada, Mango, Chamoy and Tajin."
+            },
+            {
+              "title": "Big Wave Dave",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A frozen blend of Bacardi Dragonberry, 151 Rum and Blue Raspberry Lemonade. It will get you where you want to go"
+            },
+            {
+              "title": "Cadillac Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuervo Tradicional Silver, Grand Marnier, Sour Mix and fresh Orange Juice."
+            },
+            {
+              "title": "Ripcurl",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Our signature flavor Big Wave Dave \u201cswirled\u201d with Pi\u00f1a Colada. Experts only."
+            }
+          ]
+        },
+        {
+          "name": "Handcrafted Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tropical Itch",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Barrel Select Bourbon, Plantation OFTD Rum, Cointreau, Passionfruit and Pineapple. Topped with a floater of Myers Dark Rum and garnished with your very own Bamboo back scratcher. Our strongest cocktail!"
+            },
+            {
+              "title": "Old Fashioned Elder",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mitcher's Bourbon, St. Germain Elderflower, dash of Bitters, and a fancy Cherry."
+            },
+            {
+              "title": "Spicy Peyote",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jalapeno-infused Tequila, 400 Conejos Mezcal, Chili Liqueur, Lime and Pineapple juice."
+            },
+            {
+              "title": "California Crush",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Vodka Muddled with fresh Strawberries, house-squeezed California Orange Juice and Agave Syrup."
+            },
+            {
+              "title": "White Peach Sangria",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Peach Moonshine, Moscato and fresh Peach Puree muddled with Orange and Mango. Garnished with a Moonshine-soaked Peach wedge."
+            },
+            {
+              "title": "Spicy Watermelon Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jalapeno-infused Tequila and Ancho Reyes Chile Liqueur find balance with fresh Watermelon, Lime and Agave."
+            },
+            {
+              "title": "Paloma",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dobel Diamante, sparkling Grapefruit Soda, Grapefruit Juice, and Lime Juice. The original skinny Margarita."
+            },
+            {
+              "title": "1915 Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Old Forester 1920 and 1910 are blended with Italicus Liqueur and Bitters. The Bourbon lover\u2019s old fashioned"
+            },
+            {
+              "title": "Long Island Tea",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Rum, Gin, Triple Sec, and Sour Mix topped with a splash of Coca-Cola\u00ae. Make it an Adios +$1!"
+            },
+            {
+              "title": "Painkiller",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pusser\u2019s Gunpowder Proof Rum, RumHaven Coconut Rum, Pineapple and Coconut, topped with Plantation OFTD Rum and sprinkle of Nutmeg. It will cure whatever ails you."
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mr. Black Coffee Liqueur, Vanilla Vodka and Cold Brew concentrate are shaken to a frothy delight."
+            },
+            {
+              "title": "Cucumber Cooler",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Vodka, Lime Juice, Simple Syrup and sliced Cucumber"
+            },
+            {
+              "title": "Pretty Boy",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Casamigo\u2019s Tequila, Pineapple, Raspberry puree, Cointreau and Lemon."
+            },
+            {
+              "title": "Royal Sangria",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Empress 1908 Gin, pineapple, orgeat syrup and fresh lemon juice."
+            }
+          ]
+        },
+        {
+          "name": "Drafts",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Michelob Ultra Draft",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "West Texas Blonde Draft",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Estrella Jalisco Draft",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kona Big Wave ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brewery X Seasonal IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brewery X Slap and Tickle IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Made West Hazy IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Golden Road Mango Cart Draft",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "West Texas Red",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Bottled Beers",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Budweiser Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bud Light Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller Light Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coors Light Bottle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Firestone Walker 805 Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "21st Amendment Blood Orange IPA Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ballast Point Sculpin IPA Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Guinness Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "High Noon Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Modelo Especial Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Heineken Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ace Guava Hard Cider Bottle",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brewery X Huckleberry Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "JuneShine Strawberry Kiwi Crush Hard Kombucha",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Joel Gott Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "La Crema Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gundlach Bundshu Mountain Cuvee",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Cabernet",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Robert Mondavi Napa Cabernet",
+              "prices": [
+                {
+                  "withoutTax": 60,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hess Alomi 2019 Cabernet",
+              "prices": [
+                {
+                  "withoutTax": 64,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "House Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kendall-Jackson Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Honig Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 44,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Santa Margherita Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "King Estate Willamette Valley Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sofia Blanc de Blanc",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Louis Pommery California Brut",
+              "prices": [
+                {
+                  "withoutTax": 88,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Starters",
+        "desktop": "Starters"
+      },
+      {
+        "mobile": "Pizza",
+        "desktop": "Pizza"
+      },
+      {
+        "mobile": "Sushi",
+        "desktop": "Sushi"
+      },
+      {
+        "mobile": "Handhelds",
+        "desktop": "Handhelds"
+      },
+      {
+        "mobile": "Entr\u00e9es and Salads",
+        "desktop": "Entr\u00e9es and Salads"
+      },
+      {
+        "mobile": "Kids' Entr\u00e9es",
+        "desktop": "Kids' Entr\u00e9es"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Drinks",
+        "desktop": "Drinks"
+      },
+      {
+        "mobile": "Resort Cocktails",
+        "desktop": "Resort Cocktails"
+      },
+      {
+        "mobile": "Handcrafted Spirits",
+        "desktop": "Handcrafted Spirits"
+      },
+      {
+        "mobile": "Drafts",
+        "desktop": "Drafts"
+      },
+      {
+        "mobile": "Bottled Beers",
+        "desktop": "Bottled Beers"
+      },
+      {
+        "mobile": "Red Wines",
+        "desktop": "Red Wines"
+      },
+      {
+        "mobile": "White Wines",
+        "desktop": "White Wines"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Starters",
+        "desktop": "Starters"
+      },
+      {
+        "mobile": "Pizza",
+        "desktop": "Pizza"
+      },
+      {
+        "mobile": "Sushi",
+        "desktop": "Sushi"
+      },
+      {
+        "mobile": "Handhelds",
+        "desktop": "Handhelds"
+      },
+      {
+        "mobile": "Entr\u00e9es and Salads",
+        "desktop": "Entr\u00e9es and Salads"
+      },
+      {
+        "mobile": "Kids' Entr\u00e9es",
+        "desktop": "Kids' Entr\u00e9es"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Drinks",
+        "desktop": "Drinks"
+      },
+      {
+        "mobile": "Resort Cocktails",
+        "desktop": "Resort Cocktails"
+      },
+      {
+        "mobile": "Handcrafted Spirits",
+        "desktop": "Handcrafted Spirits"
+      },
+      {
+        "mobile": "Drafts",
+        "desktop": "Drafts"
+      },
+      {
+        "mobile": "Bottled Beers",
+        "desktop": "Bottled Beers"
+      },
+      {
+        "mobile": "Red Wines",
+        "desktop": "Red Wines"
+      },
+      {
+        "mobile": "White Wines",
+        "desktop": "White Wines"
+      }
+    ]
+  }
+}

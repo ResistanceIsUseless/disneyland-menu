@@ -1,0 +1,344 @@
+{
+  "name": "Port of San Fransokyo Cervecer\u00eda",
+  "location": "Disney California Adventure Park, San Fransokyo Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Breakfast Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Croissant ",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Bacon, Eggs, Jalape\u00f1os, Cheese, Green Onions and Sesame Seeds"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen Yuzu Japanese Rice Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beer Flight ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of four Karl Strauss\u00ae Brewing Company Beers"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An easy, crisp, refreshing Lager with a clean, light finish (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen with Yuzu, Japanese Rice Lager with Yuzu ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Refreshing Japanese rice lager with floral and citrus notes from the addition Yuzu that finishes crisp and clean. (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hints of Raisins and Currants with a Deep Copper Color and Coffee Flavor (ABV 5.8%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Aurora Hoppyalis IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Robust Flavors and Aromas of Tropical Fruit, Pine and Tangerine with a Dry, Crisp Finish (ABV 7.0%)."
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Boat Shoes Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flavors of Citrus and Sweet Fruit that Lingers through a Juicy Finish (ABV 7.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Windansea Wheat",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aromas of Banana, Clove and a Hint of Vanilla (ABV 5.1%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverage",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snack Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pretzel-wrapped Hot Dog",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pretzel-wrapped 12-inch Hot Dog with Scallions and Mustard"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen Yuzu Japanese Rice Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beer Flight ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of four Karl Strauss\u00ae Brewing Company Beers"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An easy, crisp, refreshing Lager with a clean, light finish (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen with Yuzu, Japanese Rice Lager with Yuzu ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Refreshing Japanese rice lager with floral and citrus notes from the addition Yuzu that finishes crisp and clean. (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hints of Raisins and Currants with a Deep Copper Color and Coffee Flavor (ABV 5.8%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Aurora Hoppyalis IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Robust Flavors and Aromas of Tropical Fruit, Pine and Tangerine with a Dry, Crisp Finish (ABV 7.0%)."
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Boat Shoes Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flavors of Citrus and Sweet Fruit that Lingers through a Juicy Finish (ABV 7.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Windansea Wheat",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aromas of Banana, Clove and a Hint of Vanilla (ABV 5.1%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverage",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

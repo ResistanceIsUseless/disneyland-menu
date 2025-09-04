@@ -1,0 +1,779 @@
+{
+  "name": "Tiana\u2019s Palace",
+  "location": "Disneyland Park, New Orleans Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Raymond Firefly Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 9.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Lily Pad and Lotus Cup Ceramic Set",
+              "prices": [
+                {
+                  "withoutTax": 34.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Classic Beignet. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Shrimp Po'Boy",
+              "prices": [
+                {
+                  "withoutTax": 17.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Southern-style Dusted Shrimp with Lettuce, Tomatoes and Mayonnaise on Toasted New Orleans French Bread with R\u00e9moulade Sauce, served with Red Beans & Rice and House-made Pickles"
+            },
+            {
+              "title": "Jambalaya",
+              "prices": [
+                {
+                  "withoutTax": 17.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken, Andouille Sausage, Heritage Rice and Creole Sauce"
+            },
+            {
+              "title": "House Gumbo",
+              "prices": [
+                {
+                  "withoutTax": 17.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Chicken, Andouille Sausage and Heirloom Rice"
+            },
+            {
+              "title": "7 Greens Gumbo with Chicken & Andouille Sausage",
+              "prices": [
+                {
+                  "withoutTax": 17.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Cajun Spiced Half Chicken",
+              "prices": [
+                {
+                  "withoutTax": 19.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "brushed with BBQ Sauce served with Baked Macaroni and Cheese & Coleslaw"
+            },
+            {
+              "title": "Muffuletta Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 15.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mortadella with Pistachios, Salami, Rosemary Ham, Cheddar, Provolone and House-made Olive Relish on Toasted New Orleans Sesame Seed Bread, served with Red Beans & Rice and House-made Pickles"
+            },
+            {
+              "title": "Muffuletta Salad",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine, Mortadella with Pistachios, Salami, Rosemary Ham, Aged White Cheddar, Croutons, Basil and House-made Olive Relish"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "7 Greens Gumbo ",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            }
+          ]
+        },
+        {
+          "name": "Southern Specialties",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Buttermilk Cornbread",
+              "prices": [
+                {
+                  "withoutTax": 3.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Muffuletta Salad",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine, Mortadella with Pistachios, Salami, Rosemary Ham, Aged White Cheddar, Croutons, Basil and House-made Olive Relish"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Roasted Chicken Drumstick ",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Sweet BBQ Sauce and Heirloom Rice served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Toasted Ham & Cheese Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Savory Ham and Provolone served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Baked Macaroni and Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tiana Punch",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hi-C\u00ae Fruit Punch, Sprite\u00ae, Raspberry Syrup and Macerated Berries served over ice"
+            },
+            {
+              "title": "Nitro Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Nitro-injected Beignet-flavored Cold Brew"
+            },
+            {
+              "title": "Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beignet-flavored Cold Brew"
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Lemonade, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweet Iced Tea, Gold Peak\u00ae UnSweetened Iced Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Lemonade, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweet Iced Tea, Gold Peak\u00ae UnSweetened Iced Tea"
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Plant-based 7 Greens Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly 7 Greens Gumbo with Chicken & Andouille Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Jambalaya",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Andouille Sausage, Heritage Rice and Creole Sauce"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Roasted Chicken Drumstick",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet BBQ Sauce and Heirloom Rice served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly House Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Chicken, Andouille Sausage and Heirloom Rice"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based 7 Greens Gumbo ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Egg Allergy-Friendly 7 Greens Gumbo with Chicken & Andouille Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Egg Allergy-Friendly Jambalaya",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Andouille Sausage, Heritage Rice and Creole Sauce"
+            },
+            {
+              "title": "Egg Allergy-Friendly Muffuletta Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mortadella with Pistachios, Salami, Rosemary Ham, Cheddar, Provolone and House-made Olive Relish on Toasted New Orleans Sesame Seed Bread, served with Red Beans & Rice and House-made Pickles"
+            },
+            {
+              "title": "Egg Allergy-Friendly Roasted Chicken Drumstick",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet BBQ Sauce and Heirloom Rice served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Baked Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based 7 Greens Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly 7 Greens Gumbo with Chicken & Andouille Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Cajun Spiced Half Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "brushed with BBQ Sauce served with Baked Macaroni and Cheese & Coleslaw"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Muffuletta Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mortadella with Pistachios, Salami, Rosemary Ham, Cheddar, Provolone and House-made Olive Relish on Toasted New Orleans Sesame Seed Bread, served with Red Beans & Rice and House-made Pickles"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Muffuletta Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Romaine, Mortadella with Pistachios, Salami, Rosemary Ham, Aged White Cheddar, Croutons, Basil and House-made Olive Relish"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Roasted Chicken Drumstick",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet BBQ Sauce and Heirloom Rice served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Baked Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based 7 Greens Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Milk Allergy-Friendly Roasted Chicken Drumstick",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet BBQ Sauce and Heirloom Rice served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Peanut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Allergy-Friendly House Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Chicken, Andouille Sausage and Heirloom Rice"
+            },
+            {
+              "title": "Peanut Allergy-Friendly Plant-based 7 Greens Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Peanut Allergy-Friendly 7 Greens Gumbo with Chicken & Andouille Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Peanut Allergy-Friendly Jambalaya",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Andouille Sausage, Heritage Rice and Creole Sauce"
+            },
+            {
+              "title": "Peanut Allergy-Friendly Cajun Spiced Half Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "brushed with BBQ Sauce served with Baked Macaroni & Cheese and Coleslaw"
+            },
+            {
+              "title": "Peanut Allergy-Friendly Muffuletta Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mortadella with Pistachios, Salami, Rosemary Ham, Cheddar, Provolone and House-made Olive Relish on Toasted New Orleans Sesame Seed Bread, served with Red Beans & Rice and House-made Pickles"
+            },
+            {
+              "title": "Peanut Allergy-Friendly Muffuletta Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Romaine, Mortadella with Pistachios, Salami, Rosemary Ham, Aged White Cheddar, Croutons, Basil and House-made Olive Relish"
+            },
+            {
+              "title": "Peanut Allergy-Friendly Roasted Chicken Drumstick",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet BBQ Sauce and Heirloom Rice served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Peanut Allergy-Friendly Baked Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tree Nut Allergy-Friendly House Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Chicken, Andouille Sausage and Heirloom Rice"
+            },
+            {
+              "title": "Tree Nut Allergy-Friendly Plant-based 7 Greens Gumbo ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Tree Nut Allergy-Friendly 7 Greens Gumbo with Chicken & Andouille Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Tree Nut Allergy-Friendly Cajun Spiced Half Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "brushed with BBQ Sauce served with Baked Macaroni & Cheese and Coleslaw"
+            },
+            {
+              "title": "Tree Nut Allergy-Friendly Baked Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly House Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Chicken, Andouille Sausage and Heirloom Rice"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Plant-based 7 Greens Gumbo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Sesame Allergy-Friendly 7 Greens Gumbo with Chicken & Andouille Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Beans, Okra, Yams, Sweet Potatoes and Heirloom Rice"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Jambalaya",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Andouille Sausage, Heritage Rice and Creole Sauce"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Cajun Spiced Half Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "brushed with BBQ Sauce served with Baked Macaroni and Cheese & Coleslaw"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Roasted Chicken Drumstick",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet BBQ Sauce and Heirloom Rice served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Baked Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Applesauce with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Southern Specialties",
+        "desktop": "Southern Specialties"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Kids' Meal",
+        "desktop": "Kids' Meal"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut Allergy-Friendly",
+        "desktop": "Peanut Allergy-Friendly"
+      },
+      {
+        "mobile": "Tree Nut Allergy-Friendly",
+        "desktop": "Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ]
+  }
+}

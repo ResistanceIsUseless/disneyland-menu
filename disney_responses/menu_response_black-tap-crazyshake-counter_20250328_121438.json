@@ -1,0 +1,167 @@
+{
+  "name": "CrazyShake\u2122 Window by Black Tap",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Crazy Shake\u2122 Milkshakes",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Special Edition CrazyShake\u2122 featuring Disney Mickey Mouse",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry Shake with a Vanilla Frosted Rim with Mickey Mouse-shaped Sprinkles topped with a House-made Mickey Mouse-shaped Crispy Treat, White and Red Rock Candy, Whipped Cream, Red Sprinkles and a Cherry"
+            },
+            {
+              "title": "Bam Bam Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fruity Pebbles\u00ae Shake with a Vanilla Frosted Rim with Fruity Pebbles\u00ae, topped with a Fruity Pebbles\u00ae Rice Krispy Treat, Strawberry Pop-Tarts\u00ae, Laffy Taffy\u00ae, Whipped Cream and a Cherry"
+            },
+            {
+              "title": "Brooklyn Blackout",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Shake with a Chocolate Frosted Rim with Mini Chocolate Chips topped with two Chocolate Brownies, Whipped Cream and Chocolate Drizzle"
+            },
+            {
+              "title": "The Cookie Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Cookie Shake with a Vanilla Frosted Rim with Cookie Crumbles topped with a \"Cookiewich\", Crumbled Cookies, Chocolate Chips, Whipped Cream, and Chocolate Drizzle"
+            },
+            {
+              "title": "Cookies 'N Cream Supreme",
+              "prices": [],
+              "pricesRange": false,
+              "description": "OREO\u00ae Shake with a Vanilla Frosted Rim with Crushed OREO\u00ae\u00a0topped with a 'Cookies 'n Cream' Sandwich, Crumbled Oreo, Whipped Cream, and Chocolate Drizzle"
+            },
+            {
+              "title": "Strawberry Shortcake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry Shake with a Vanilla Frosted Rim with Crumbled Cake topped with a Strawberry Shortcake Ice Cream Bar, Pink and White Twisty Pop, Whipped Cream, Strawberry Drizzle, Crumbled Cake, and a Cherry"
+            }
+          ]
+        },
+        {
+          "name": "Classic Shakes",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate"
+            },
+            {
+              "title": "Vanilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla"
+            },
+            {
+              "title": "Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coffee"
+            },
+            {
+              "title": "Black Cherry",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Cherry"
+            },
+            {
+              "title": "Strawberry",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry"
+            },
+            {
+              "title": "Nutella\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Nutella\u00ae"
+            },
+            {
+              "title": "Peanut Butter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Peanut Butter"
+            },
+            {
+              "title": "Oreo\u00ae Cookies & Cream",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oreo\u00ae Cookies & Cream"
+            },
+            {
+              "title": "Chocolate Chip Cookie",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Chip Cookie"
+            },
+            {
+              "title": "Brownie Batter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Brownie Batter"
+            },
+            {
+              "title": "Funfetti Cake Batter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Funfetti Cake Batter"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fountain Soda",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Topo Chico\u00ae Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

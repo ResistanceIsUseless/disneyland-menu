@@ -1,0 +1,4321 @@
+[
+  {
+    "id": "17920676;entityType=Dining-Event",
+    "name": "Fantasmic! Dining Packages",
+    "url": "/dining/disneyland/fantasmic-dinner-packages/",
+    "url_friendly_id": "fantasmic-dinner-packages",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "facility_id": "17920676",
+    "price_range": [
+      "$$$",
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted",
+      "dining-packages"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8116150928",
+        "longitude": "-117.9205917872"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.812463049",
+        "longitude": "-117.9197774827"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.811049",
+        "longitude": "-117.921126"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/17907410?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18743798?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412102751?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412102752?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412113531?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412113586?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412113591?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18743223?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/parks-and-tickets/entertainment/disneyland/fantasmic/fantasmic-02.jpg?1738014786793",
+        "alt": "The beauty, Belle, and the Beast dance on a romantic, rose-decorated Fantasmic! float"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354099;entityType=restaurant",
+    "name": "Blue Bayou Restaurant",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.811049",
+        "longitude": "-117.921126"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "19140685;entityType=Dining-Event",
+    "name": "Disney Princess Breakfast Adventures",
+    "url": "/dining/grand-californian-hotel/disney-princess-breakfast-adventures/",
+    "url_friendly_id": "disney-princess-breakfast-adventures",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "6",
+    "quick_service": false,
+    "facility_id": "19140685",
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "character-dining",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8078731418",
+        "longitude": "-117.9215664344"
+      }
+    ],
+    "additional_info": "Beginning in April 2025, Napa Rose will temporarily close for refurbishment. During this time, Disney Princess Breakfast Adventures will be held at the Trillium Room  in Disney's Grand Californian Hotel & Spa. ",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19140412?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/entertainment/meet-greet/disney/4026378_71_0424ZR_04649CM_aRGB_r1-16x9.jpg?2021-08-10T18:42:14+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354372;entityType=restaurant",
+    "name": "Napa Rose",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.8078731418",
+        "longitude": "-117.9215664344"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "18970388;entityType=Dining-Event",
+    "name": "Oogie Boogie Bash Dessert Party",
+    "url": "/dining/disney-california-adventure/oogie-boogie-bash-dessert-party/",
+    "url_friendly_id": "oogie-boogie-bash-dessert-party",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "facility_id": "18970388",
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.80639316",
+        "longitude": "-117.9203394"
+      }
+    ],
+    "additional_info": "Please Note: A valid special event ticket for Oogie Boogie Bash is required to book this dining event and is not included in the price.",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412168550?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/halloween/0916ZR_Parade1_GC_371_XGCM-16x9.jpg?2022-09-02T18:09:10+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411967554;entityType=restaurant",
+    "name": "Oogie Boogie Bash Dessert Party",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.80639316",
+        "longitude": "-117.9203394"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "19637893;entityType=Dining-Event",
+    "name": "Trader Sam's Mixology Seminar",
+    "url": "/dining/disneyland-hotel/trader-sams-mixology-seminar/",
+    "url_friendly_id": "trader-sams-mixology-seminar",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "4",
+    "quick_service": false,
+    "facility_id": "19637893",
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "dine-events"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8082908451",
+        "longitude": "-117.9265519014"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19637892?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/resort-dining/disneyland-hotel/trader-sams/21-plus-policy-trader-sams-bartender-16x9.jpg?1741115070003",
+        "alt": "A bartender serves a tropical cocktail topped with a pineapple slice and mini umbrella to a Guest."
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16027513;entityType=restaurant",
+    "name": "Trader Sam's Enchanted Tiki Bar",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.8082908451",
+        "longitude": "-117.9265519014"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "18994149;entityType=Dining-Event",
+    "name": "Plaza Inn Dining Package",
+    "url": "/dining/disneyland/plaza-inn-dining-package/",
+    "url_friendly_id": "plaza-inn-dining-package",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "facility_id": "18994149",
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "dine-events",
+      "casual-dining"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8117514713",
+        "longitude": "-117.918622265"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18992151?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19637883?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411842656?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412327584?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19336692?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19416719?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/plaza-inn-dining-package/plaza-inn-sign-16x9.jpg?1742920974350",
+        "alt": "Plaza Inn entrance sign, Disneyland Park."
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354414;entityType=restaurant",
+    "name": "Plaza Inn",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.8117514713",
+        "longitude": "-117.918622265"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "412099616;entityType=Dining-Event",
+    "name": "Disneyland After Dark: Star Wars Nite Dining",
+    "url": "/dining/disneyland/star-wars-nite-dining-packages/",
+    "url_friendly_id": "star-wars-nite-dining-packages",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "8",
+    "quick_service": false,
+    "facility_id": "412099616",
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.811205",
+        "longitude": "-117.921262"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411890701?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/star-wars-nite/dining/DLR_CafeOrleans_StarWarsNite_DAD_SmugglersFries_03122024_DSC00439DN-16x9.jpg?2024-04-01T18:31:04+00:00",
+        "alt": "A plate of Smugglers Fries from Caf\u00e9 Orleans with aioli, chiles, herbs and peppercorns"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354117;entityType=restaurant",
+    "name": "Cafe Orleans",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.811205",
+        "longitude": "-117.921262"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "18701288;entityType=Dining-Event",
+    "name": "Tomorrowland Skyline Terrace",
+    "url": "/dining/disneyland/tomorrowland-skyline-terrace/",
+    "url_friendly_id": "tomorrowland-skyline-terrace",
+    "location_name": "Disneyland Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "8",
+    "quick_service": false,
+    "facility_id": "18701288",
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.811854",
+        "longitude": "-117.916857"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18701279?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411960228?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/tomorrowland-skyline-lounge/tomorrowland-skyline-lounge-experience-wide-view-16x9.jpg?1742489919316",
+        "alt": "Spotlights crisscross the night sky from atop the Observatron in Tomorrowland with the Matterhorn behind"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18516055;entityType=restaurant",
+    "name": "Tomorrowland Skyline Terrace",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.811854",
+        "longitude": "-117.916857"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "17736036;entityType=Dining-Event",
+    "name": "World of Color Dining Package",
+    "url": "/dining/disney-california-adventure/world-of-color-dining/",
+    "url_friendly_id": "world-of-color-dining",
+    "location_name": "Multiple Locations",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "14",
+    "quick_service": false,
+    "facility_id": "17736036",
+    "price_range": [
+      "$$$",
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.806621",
+        "longitude": "-117.919866"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.806478",
+        "longitude": "-117.919877"
+      },
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.808068",
+        "longitude": "-117.922876"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411995993?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412004748?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412004767?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412004786?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/15516883?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/15743832?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19431663?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/world-of-color-dining-packages/world-of-color-dining-16x9.jpg?1738794237864",
+        "alt": "Guests stand in a preferred viewing area and watch the World of Color show"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "15527906;entityType=restaurant",
+    "name": "Magic Key Terrace - Magic Key Holder Dining",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.806621",
+        "longitude": "-117.919866"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "18090211;entityType=Dining-Event",
+    "name": "World of Color Dessert Party",
+    "url": "/dining/disney-california-adventure/world-of-color-dessert-party/",
+    "url_friendly_id": "world-of-color-dessert-party",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "99",
+    "quick_service": false,
+    "facility_id": "18090211",
+    "price_range": [
+      "$$$$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "dine-events",
+      "dining-packages",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.806693",
+        "longitude": "-117.920725"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18086499?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412200905?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/entertainment/world-of-color/world-of-color-dessert-party-16x9-16x9.jpg?2022-05-19T13:10:06+00:00",
+        "alt": "The World of Color show with colorful water sprays and the Pixar Pal A Round Swinging attraction lit up at night."
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18087702;entityType=restaurant",
+    "name": "Paradise Gardens Park Events",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.806693",
+        "longitude": "-117.920725"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "412095335;entityType=Dining-Event",
+    "name": "\"Better Together: A Pixar Pals Celebration!\" Parade Viewing Dining Package",
+    "url": "/dining/disney-california-adventure/better-together-dining-packages/",
+    "url_friendly_id": "better-together-dining-packages",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "Dining-Event",
+    "maximum_party_size": "99",
+    "quick_service": false,
+    "facility_id": "412095335",
+    "price_range": [
+      "$$$",
+      "$$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dine-events",
+      "reservations-accepted"
+    ],
+    "coordinates": [
+      {
+        "entrance": "Guest Entrance",
+        "latitude": "33.8063931592",
+        "longitude": "-117.9203394055"
+      }
+    ],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412095339?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412103506?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/pixar-fest/dining/DLR_DCA_Pixar_Parade_Dessert_04032024_DSC00073DN-16x9.jpg?2024-04-10T14:15:24+00:00",
+        "alt": "A plate full of food, including cured meat, grapes, crackers, cheese and Pixar themed desserts"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "368880;entityType=restaurant",
+    "name": "Sonoma Terrace",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.8063931592",
+        "longitude": "-117.9203394055"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "19268344;entityType=restaurant",
+    "name": "Oga's Cantina at the Disneyland Resort",
+    "url": "/dining/disneyland/ogas-cantina/",
+    "url_friendly_id": "ogas-cantina",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "19268344",
+    "price_range": [
+      "$",
+      "$$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "breakfast",
+      "dinner",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19338164?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19338896?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19341127?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disneyland/ogas-cantina/cantina-dj-rex-16x9.jpg?1741362255539",
+        "alt": "Droid DJ R 3 X, a former Starspeeder 3000 pilot, bounces up and down"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16027216;entityType=restaurant",
+    "name": "Tangaroa Terrace Tropical Bar & Grill",
+    "url": "/dining/disneyland-hotel/tangaroa-terrace/",
+    "url_friendly_id": "tangaroa-terrace",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16027216",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disneyland-hotel/tangaroa-terrace/dlr-tangaroa-terrace-loco-moco-burrito-16x9.jpg?1701203603233",
+        "alt": "A burrito filled with rice, ground beef, fried egg and gravy on a plate with a cup of sauce, pineapple wedges and an orchid flower"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "17384492;entityType=restaurant",
+    "name": "Wetzel's Pretzels Cart",
+    "url": "/dining/downtown-disney-district/wetzels-pretzels-cart/",
+    "url_friendly_id": "wetzels-pretzels-cart",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "17384492",
+    "price_range": [],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/wetzels-pretzels/02_10_20-16x9.jpg?2022-05-16T13:05:45+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412240316;entityType=restaurant",
+    "name": "Sip & Sonder",
+    "url": "/dining/downtown-disney-district/sip-and-sonder/",
+    "url_friendly_id": "sip-and-sonder",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "412240316",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "bakery-cuisine-cuisine"
+    ],
+    "dining_types": [
+      "breakfast",
+      "casual-dining"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/parkside-market/SipSonder-16x9.jpg?2025-01-23T19:37:21+00:00",
+        "alt": "Four frosted donuts, 2 cappuccinos, a croissant and a drink from Sip & Sonder"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412240282;entityType=restaurant",
+    "name": "GG's Chicken Shop",
+    "url": "/dining/downtown-disney-district/ggs-chicken-shop/",
+    "url_friendly_id": "ggs-chicken-shop",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "412240282",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/parkside-market/GGs-16x9.jpg?2025-01-23T19:37:21+00:00",
+        "alt": "A Chicken Smash Burger with a side of waffle fries from GG's Chicken Shop"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354381;entityType=restaurant",
+    "name": "Napolini Pizzeria",
+    "url": "/dining/downtown-disney-district/napolini-pizzeria/",
+    "url_friendly_id": "napolini",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354381",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "italian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/downtown-disney-district/napolini-deli/napolini-pizzeria-downtown-disney-16x9.jpg?1731528140487",
+        "alt": "The front entrance to Napolini Pizzeria features patio dining space"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18690683;entityType=restaurant",
+    "name": "Character Dining",
+    "url": "/dining/characters/",
+    "url_friendly_id": "characters",
+    "location_name": "",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18690683",
+    "price_range": [],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "character-dining",
+      "casual-dining",
+      "table-service",
+      "buffet-family-style",
+      "breakfast",
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/grand-californian-hotel/disney-princess-breakfast-adventures/girl-princess-costume-characters-16x9.jpg?1691723869900",
+        "alt": "A little girl beams as her brother and sister share a laugh with Princess Ariel in the background"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19268333;entityType=restaurant",
+    "name": "Ronto Roasters",
+    "url": "/dining/disneyland/ronto-roasters/",
+    "url_friendly_id": "ronto-roasters",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19268333",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disneyland/ronto-roasters/rontos-roaster-turn-16x9.jpg?1731604317655",
+        "alt": "A pitmaster droid"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19268345;entityType=restaurant",
+    "name": "Docking Bay 7 Food and Cargo",
+    "url": "/dining/disneyland/docking-bay-7-food-and-cargo/",
+    "url_friendly_id": "docking-bay-7-food-and-cargo",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19268345",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "This special nighttime dining package lets you experience delicacies from across the galaxy after Docking Bay 7 Food and Cargo has closed its regular daily operations. During regular hours, you may order lunch and dinner in person at the location or through mobile ordering.",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-16x9.jpg?1736169109248",
+        "alt": "A large group eating at the Black Spire Outpost eatery at Star Wars Galaxy's Edge "
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19530853;entityType=restaurant",
+    "name": "Pym Test Kitchen",
+    "url": "/dining/disney-california-adventure/pym-test-kitchen/",
+    "url_friendly_id": "pym-test-kitchen",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19530853",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disney-california-adventure/pym-test-kitchen/pyms-kitchen-16x9.jpg?1730824870243",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411896782;entityType=restaurant",
+    "name": "Pizza Counter",
+    "url": "/dining/downtown-disney-district/the-pizza-counter/",
+    "url_friendly_id": "the-pizza-counter",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "411896782",
+    "price_range": [],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "lunch",
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/pizza-counter/Earl_Pizza-3-16x9.jpg?2023-03-29T18:02:50+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354483;entityType=restaurant",
+    "name": "Smokejumpers Grill",
+    "url": "/dining/disney-california-adventure/smokejumpers-grill/",
+    "url_friendly_id": "smokejumpers-grill",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354483",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/smokejumpers-grill/DLR_DCA_SmokejumpersGrill_DoubleBurger_04122022_DSC03526DN-16x9.jpg?2022-05-17T23:47:19+00:00",
+        "alt": "A double cheeseburger piled high with lettuce, tomato, onion and pickles, served with crinkle cut fries."
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "17759035;entityType=restaurant",
+    "name": "Starbucks\u00ae",
+    "url": "/dining/downtown-disney-district/starbucks-coffee/",
+    "url_friendly_id": "starbucks-coffee",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "17759035",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "bakery-cuisine-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/downtown-disney/starbucks-coffee/starbucks-coffee-00.jpg?1699623350313",
+        "alt": "Cup of cappuccino with coffee beans scattered in saucer and on table"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "369657;entityType=restaurant",
+    "name": "In-Room Dining at Disneyland Hotel",
+    "url": "/dining/disneyland-hotel/in-room-dining/",
+    "url_friendly_id": "in-room-dining",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "369657",
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/places-to-stay/disneyland-hotel/dining/dlr-in-room-dining-00.jpg?1699624200381",
+        "alt": "A succulent slice of salmon and 2 asparagus spears sit atop a bed of rice next to another dinner dish"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16486843;entityType=restaurant",
+    "name": "Flo's V8 Cafe",
+    "url": "/dining/disney-california-adventure/flos-v8-cafe/",
+    "url_friendly_id": "flos-v8-cafe",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16486843",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/flos-v8-cafe/flos-v8-cafe-00.jpg?1736339547616",
+        "alt": "Gas station-themed entrance to Flo's V8 Cafe lit with neon signs at night"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "368932;entityType=restaurant",
+    "name": "Lucky Fortune Cookery",
+    "url": "/dining/disney-california-adventure/lucky-fortune-cookery/",
+    "url_friendly_id": "lucky-fortune-cookery",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "368932",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "asian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/attractions/san-fransokyo/Lucky-Fortune-Cookery-16x9.jpg?2023-09-28T17:16:44+00:00",
+        "alt": "Lit up at night, artistic outdoor signage with a dragon that says, Lucky Fortune Cookery Pacific Rim Foods, located in San Fransokyo Square at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19268342;entityType=restaurant",
+    "name": "Kat Saka's Kettle",
+    "url": "/dining/disneyland/kat-sakas-kettle/",
+    "url_friendly_id": "kat-sakas-kettle",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19268342",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/kat-sakas/DLR_DLP_KatSakasKettle_SourCream-ChivePopcorn_01182023_DSC03326DN-16x9.jpg?2023-11-27T17:38:21+00:00",
+        "alt": "Popcorn with sour cream and chive seasoning"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411947320;entityType=restaurant",
+    "name": "Port of San Fransokyo Cervecer\u00eda",
+    "url": "/dining/disney-california-adventure/port-of-san-fransokyo-cerveceria/",
+    "url_friendly_id": "port-of-san-fransokyo-cerveceria",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "411947320",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/attractions/san-fransokyo/Port-of-SF-Cerveceria-16x9.jpg?2023-09-28T17:16:44+00:00",
+        "alt": "Outdoor signage for Port of San Fransokyo Cerveceria, a brewery in San Fransokyo Square at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354474;entityType=restaurant",
+    "name": "Storytellers Cafe",
+    "url": "/dining/grand-californian-hotel/storytellers-cafe/",
+    "url_friendly_id": "storytellers-cafe",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354474",
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "character-dining",
+      "table-service",
+      "buffet-family-style",
+      "character-breakfast",
+      "breakfast",
+      "Dinner-no-characters",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "Storytellers Cafe is temporarily closed for refurbishment for a few weeks. During the time of closure, Mickey\u2019s Tales of Adventure Breakfast Buffet and Brunch will be available in the Trillium Room. Celebrate with Mickey Mouse and some of his closest pals. For non-character dining please visit Hearthstone Lounge, with expanded hours and offerings, in addition to the many nearby restaurants within the Disneyland Resort. During this time, Storytellers Cafe will also have a Dinner Buffet in the Trillium Room.",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/368976?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18988832?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18991455?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/grand-californian-hotel/storytellers-cafe/family-storytellers-cafe-16x9.jpg?1742919688768",
+        "alt": "A daughter and her father enjoy a laugh at the dinner table with their family"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18384059;entityType=restaurant",
+    "name": "Festival Marketplaces at the Disney California Adventure Food & Wine Festival",
+    "url": "/dining/disney-california-adventure/food-and-wine-festival-marketplaces/",
+    "url_friendly_id": "food-and-wine-festival-marketplaces",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "18384059",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "californian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/food-and-wine-festival/experience/FW_Header-16x9.jpg?2024-02-23T21:31:24+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18382359;entityType=point-of-interest",
+    "name": "Disney California Adventure Food & Wine Festival",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.808642",
+        "longitude": "-117.918956"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "18735825;entityType=restaurant",
+    "name": "Splitsville Luxury Lanes\u2122 \u2013 Dining",
+    "url": "/dining/downtown-disney-district/splitsville-restaurant/",
+    "url_friendly_id": "splitsville-restaurant",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18735825",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18971565?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18971566?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411985300?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/entertainment/downtown-disney-district/splitsville-luxury-lanes/SV_exteriordawn-16x9.jpg?1741111084623",
+        "alt": "The contemporary exterior of Splitsville with its two stories and the neon Splitsville sign over the entrance"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "17394022;entityType=restaurant",
+    "name": "Market House",
+    "url": "/dining/disneyland/market-house/",
+    "url_friendly_id": "market-house",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "17394022",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/market-house/market-house-01.jpg?1735693911216",
+        "alt": "A foamy cup of cappuccino from Starbucks plated beside a scattered array of espresso beans"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16514168;entityType=restaurant",
+    "name": "Ghirardelli\u00ae Soda Fountain and Chocolate Shop",
+    "url": "/dining/disney-california-adventure/ghirardelli-soda-fountain-and-chocolate-shop/",
+    "url_friendly_id": "ghirardelli-soda-fountain-and-chocolate-shop",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16514168",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/ghirardelli/230910_Ghirardelli-Cali-Adventure-Day-Exteriors_05-16x9.jpg?2024-01-04T22:16:20+00:00",
+        "alt": "Lit up at night, outdoor signage for Ghirardelli Soda Fountain and Chocolate Shop, located in San Fransokyo Square at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354450;entityType=restaurant",
+    "name": "River Belle Terrace",
+    "url": "/dining/disneyland/river-belle-terrace/",
+    "url_friendly_id": "river-belle-terrace",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354450",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "table-service",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18247472?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411954446?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/riverbelle-terrace/DLR_DLP_RiverBelleTerrace_PorkChop_07282023_DSC02303DN-16x9.jpg?2023-10-17T21:55:09+00:00",
+        "alt": "Pork Chop served over mashed potatoes with greens from River Belle Terrace"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354396;entityType=restaurant",
+    "name": "Angry Dogs",
+    "url": "/dining/disney-california-adventure/angry-dogs/",
+    "url_friendly_id": "angry-dogs",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354396",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/pixar-pier/angry-dogs-16x9.jpg?1691708010461",
+        "alt": "The sign for Angry Dogs features a person clenching his teeth with a flaming hotdog overhead"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354348;entityType=restaurant",
+    "name": "Little Red Wagon",
+    "url": "",
+    "url_friendly_id": "little-red-wagon",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354348",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/little-red-wagon/little-red-wagon-00.jpg?1727100009685",
+        "alt": "The Little Red Wagon corn dog truck is parked near Main Street USA surrounded by trees"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18246297;entityType=restaurant",
+    "name": "Galactic Grill",
+    "url": "/dining/disneyland/galactic-grill/",
+    "url_friendly_id": "galactic-grill",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "18246297",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/galactic-grill/DLR-GG-Detail-CheeseburgerNoTomato.jpg?2021-07-01T03:07:32+00:00",
+        "alt": "A Cheeseburger and fries from Galactic Grill (alt text)"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16513928;entityType=restaurant",
+    "name": "Clarabelle's Hand-Scooped Ice Cream",
+    "url": "/dining/disney-california-adventure/clarabelles-hand-scooped-ice-cream/",
+    "url_friendly_id": "clarabelles-hand-scooped-ice-cream",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16513928",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/clarabelles-ice-cream/clarabelles-ice-cream-00.jpg?1701202494983",
+        "alt": "Sign for Clarabelle's Hand-Scooped Ice Cream shop at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16505450;entityType=restaurant",
+    "name": "Fillmore's Taste-In",
+    "url": "/dining/disney-california-adventure/fillmores-taste-in/",
+    "url_friendly_id": "fillmores-taste-in",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16505450",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/fillmores-taste-in/fillmores-taste-in-00.jpg?1699624512311",
+        "alt": "3 happy boys select fruit from Fillmore's Taste-In snack stand at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354498;entityType=restaurant",
+    "name": "The Golden Horseshoe",
+    "url": "/dining/disneyland/golden-horseshoe-restaurant/",
+    "url_friendly_id": "golden-horseshoe-restaurant",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354498",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/golden-horseshoe/golden-horseshoe-00.jpg?1714574368557",
+        "alt": "The Golden Horseshoe sign for the theater and dining location in Frontierland"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411845026;entityType=restaurant",
+    "name": "Caf\u00e9 Daisy",
+    "url": "/dining/disneyland/cafe-daisy/",
+    "url_friendly_id": "cafe-daisy",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "411845026",
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/cafe-daisy/Cafe-Daisy-16x9.jpg?2023-04-03T16:44:12+00:00",
+        "alt": "Caf\u00e9 Daisy featuring Daisy Duck on a sign at Centoonial Park in Mickey\u2019s Toontown"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354555;entityType=restaurant",
+    "name": "Wine Country Trattoria",
+    "url": "/dining/disney-california-adventure/wine-country-trattoria/",
+    "url_friendly_id": "wine-country-trattoria",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354555",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "healthy-selections-cuisine",
+      "italian-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "table-service",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/357232?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/368910?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/wine-country-trattoria/wine-country-trattoria-00.jpg?1730472975834",
+        "alt": "Italian-inspired architecture of Wine County Trattoria, a Disney California Adventure restaurant"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411936931;entityType=restaurant",
+    "name": "Tiana\u2019s Palace",
+    "url": "/dining/disneyland/tianas-palace/",
+    "url_friendly_id": "tianas-palace",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "411936931",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "cajun-creole-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/tianas-palace/IMG_5646-16x9.jpg?2024-01-19T14:33:20+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354123;entityType=restaurant",
+    "name": "Cappuccino Cart",
+    "url": "/dining/disney-california-adventure/cappuccino-cart/",
+    "url_friendly_id": "cappuccino-cart",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354123",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/attractions/san-fransokyo/Cappo-Cart-16x9.jpg?2023-09-28T17:16:44+00:00",
+        "alt": "Artistic outdoor signage in the shape of a coffee cup for the Cappuccino Cart serving gourmet coffee by Joffreys Coffee and Tea Company, located in San Fransokyo Square at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354492;entityType=restaurant",
+    "name": "The Coffee House",
+    "url": "/dining/disneyland-hotel/coffee-house/",
+    "url_friendly_id": "coffee-house",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354492",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/the-coffee-house/IMG_1835xx-16x9.jpg?2023-02-03T17:52:24+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "426608;entityType=restaurant",
+    "name": "Tropical Imports",
+    "url": "/dining/disneyland/tropical-imports/",
+    "url_friendly_id": "tropical-imports",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "426608",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/tropical-imports/tropical-imports-16x9.jpg?1709317016801",
+        "alt": "A fruit stand with apples and oranges"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354435;entityType=restaurant",
+    "name": "Jazz Kitchen Coastal Grill & Patio",
+    "url": "/dining/downtown-disney-district/jazz-kitchen-coastal-grill-patio/",
+    "url_friendly_id": "jazz-kitchen-coastal-grill-patio",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354435",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "cajun-creole-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "reservations-accepted",
+      "lunch",
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/369737?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/369738?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/coastal-grill-and-patio/CrawfishWraps-H-16x9.jpg?2023-04-19T07:22:20+00:00",
+        "alt": "Fried crawfish lettuce wraps on a white tablecloth"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18516135;entityType=restaurant",
+    "name": "Pretzel Carts",
+    "url": "/dining/pretzels/",
+    "url_friendly_id": "pretzels",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18516135",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/food-carts-multiple-locations/pretzel-cart-02.jpg?1710974108802",
+        "alt": "A Mickey shaped pretzel"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18518216;entityType=point-of-interest",
+    "name": "Pretzels at small world Promenade",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.8141300305",
+        "longitude": "-117.9180562945"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "16363584;entityType=restaurant",
+    "name": "Jolly Holiday Bakery Cafe",
+    "url": "/dining/disneyland/jolly-holiday-bakery-cafe/",
+    "url_friendly_id": "jolly-holiday-bakery-cafe",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16363584",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "bakery-cuisine-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/jolly-holiday-bakery-cafe/jolly-holiday-bakery-cafe-01.jpg?1731603276267",
+        "alt": "Mickey shaped raspberry macaron on a plate"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354447;entityType=restaurant",
+    "name": "Rita's Turbine Blenders",
+    "url": "/dining/disney-california-adventure/ritas-turbine-blenders/",
+    "url_friendly_id": "ritas-turbine-blenders",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354447",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/attractions/san-fransokyo/Ritas-16x9.jpg?2023-09-28T17:16:43+00:00",
+        "alt": "Outdoor signage for Ritas Turbine Blenders, a dining location located in San Fransokyo Square at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16488171;entityType=restaurant",
+    "name": "Earl of Sandwich\u00ae",
+    "url": "/dining/downtown-disney-district/earl-of-sandwich/",
+    "url_friendly_id": "earl-of-sandwich",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16488171",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "breakfast"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/downtown-disney/earl-of-sandwich/earl-of-sandwich-club-16x9.jpg?1741112231554",
+        "alt": "A club sandwich with turkey, bacon, Swiss cheese, lettuce and tomato"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411972544;entityType=restaurant",
+    "name": "Aunt Cass Caf\u00e9",
+    "url": "/dining/disney-california-adventure/aunt-cass-cafe/",
+    "url_friendly_id": "aunt-cass-cafe",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "411972544",
+    "price_range": [],
+    "cuisine_types": [
+      "asian-cuisine",
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/attractions/san-fransokyo/06-Aunt-Cass-FACADE-4-FOR-BLOG-16x9.jpg?2023-06-19T16:49:43+00:00",
+        "alt": "Artist rendering of Aunt Cass Caf\u00e9"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18584293;entityType=restaurant",
+    "name": "Kayla's Cake",
+    "url": "/dining/downtown-disney-district/kaylas-cake/",
+    "url_friendly_id": "kaylas-cake",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "18584293",
+    "price_range": [],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/downtown-disney/Kayla-s-HERO-image-16x9.jpg?2024-06-26T13:24:08+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "17301557;entityType=restaurant",
+    "name": "Maurice's Treats",
+    "url": "/dining/disneyland/maurices-treats/",
+    "url_friendly_id": "maurices-treats",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "17301557",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/parks-and-tickets/entertainment/disneyland/fantasy-faire/fantasy-faire-05.jpg?1699622133923",
+        "alt": "A colorful wooden sign at Fantasy Faire reads, \u2018Maurice\u2019s Treats\u2019"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18516133;entityType=restaurant",
+    "name": "Lemonade Carts",
+    "url": "/dining/lemonade/",
+    "url_friendly_id": "lemonade",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18516133",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/food-carts-multiple-locations/lemonade_cart-03.jpg?1731683461496",
+        "alt": "Three cups of icy cold frozen lemonade are topped with a swirl"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18518188;entityType=point-of-interest",
+    "name": "Churros & Lemonade in Bayou Country",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.81239074",
+        "longitude": "-117.922499"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "412110513;entityType=restaurant",
+    "name": "C\u00e9ntrico",
+    "url": "/dining/downtown-disney-district/centrico/",
+    "url_friendly_id": "centrico",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "412110513",
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "mexican-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "casual-dining",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/downtown-disney/CENTRICO_SALSAS_PADILLA_3-16x9.jpg?2024-06-26T13:24:09+00:00",
+        "alt": "Tortilla chips with refried beans and an assortment of salsa dips"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412145658;entityType=restaurant",
+    "name": "Din Tai Fung",
+    "url": "/dining/downtown-disney-district/din-tai-fung/",
+    "url_friendly_id": "din-tai-fung",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "412145658",
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "asian-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "dinner",
+      "lunch",
+      "casual-dining"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/downtown-disney/DJ_DTF_DTF_Friends_S2_037_v2-16x9.jpg?2024-06-26T13:24:09+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18409951;entityType=restaurant",
+    "name": "Hollywood Lounge",
+    "url": "/dining/disney-california-adventure/hollywood-lounge/",
+    "url_friendly_id": "hollywood-lounge",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "18409951",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/food-and-wine-festival-marketplaces/2018/festival-marketplaces-FW-the-brewhouse-hollywood-lounge-backlot-michelada-16x9.jpg?1701203791815",
+        "alt": "Specialty beverage with salted rim"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19306875;entityType=restaurant",
+    "name": "CrazyShake\u2122 Window by Black Tap",
+    "url": "/dining/downtown-disney-district/black-tap-crazyshake-counter/",
+    "url_friendly_id": "black-tap-crazyshake-counter",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19306875",
+    "price_range": [
+      "$$",
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/downtown-disney-district/black-tap-crazyshake-counter/togo-shakes-three-16x9.jpg?1741112176569",
+        "alt": "A strawberry milkshake with an ice cream bar, a vanilla milkshake covered in candy and a cookies and cream milkshake"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19598969;entityType=restaurant",
+    "name": "Blue Ribbon Corn Dog",
+    "url": "/dining/downtown-disney-district/blue-ribbon-corn-dogs/",
+    "url_friendly_id": "blue-ribbon-corn-dogs",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19598969",
+    "price_range": [],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/downtown-disney/Blue-Ribbon-Corn-Dog-Hero-Image-16x9.jpg?2024-06-26T13:24:09+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354549;entityType=restaurant",
+    "name": "GCH Craftsman Grill",
+    "url": "/dining/grand-californian-hotel/craftsman-grill/",
+    "url_friendly_id": "craftsman-grill",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354549",
+    "price_range": [
+      "$",
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/gch-craftsman-grill/DLR_GCH_CraftsmanGrill_BakedChickenNachos_04192022_DSC07811DN-2_reduced-16x9.jpg?2022-05-25T17:03:55+00:00",
+        "alt": "A pan with handles filled with Baked Nachos from GCH Craftsman Grill"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412110450;entityType=restaurant",
+    "name": "Tiendita",
+    "url": "/dining/downtown-disney-district/tiendita/",
+    "url_friendly_id": "tiendita",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "412110450",
+    "price_range": [],
+    "cuisine_types": [
+      "mexican-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/downtown-disney/TIENDITA_ENTRE-E_PASATOR_PADILLA-16x9.jpg?2024-04-15T14:53:41+00:00",
+        "alt": "Eight small tacos al pastor garnished with lime and cilantro displayed on a table"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354207;entityType=restaurant",
+    "name": "Corn Dog Castle",
+    "url": "/dining/disney-california-adventure/corn-dog-castle/",
+    "url_friendly_id": "corn-dog-castle",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354207",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "breakfast"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/corn-dog-castle/corn-dog-castle-00.jpg?1701202720163",
+        "alt": "Sign for Corndog Castle, Where Corndogs Rule! at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354516;entityType=restaurant",
+    "name": "Tiki Juice Bar",
+    "url": "/dining/disneyland/tiki-juice-bar/",
+    "url_friendly_id": "tiki-juice-bar",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354516",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disneyland/tiki-juice-bar/tiki-juice-bar-16x9.jpg?1701202832053",
+        "alt": "A pineapple soft serve dessert in a clear bowl on banana leaves"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19624444;entityType=restaurant",
+    "name": "Terran Treats",
+    "url": "/dining/disney-california-adventure/terran-treats/",
+    "url_friendly_id": "terran-treats",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19624444",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/terran-treats/DLR_DCA_TerranTreats_CosmicCreamOrb_04282021_DSC07063DN-16x9.jpg?2023-09-18T19:13:04+00:00",
+        "alt": "A Cosmic Cream Orb treat filled with whipped raspberry cheesecake"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18516131;entityType=restaurant",
+    "name": "Turkey Leg Carts",
+    "url": "/dining/turkey-legs/",
+    "url_friendly_id": "turkey-legs",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18516131",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/food-carts-multiple-locations/turkey-leg-cart-02.jpg?1699621949846",
+        "alt": "Two succulent turkey legs sits on a plate"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18615773;entityType=point-of-interest",
+    "name": "Edelweiss Snacks",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.81371081",
+        "longitude": "-117.9177229"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "369650;entityType=restaurant",
+    "name": "In-Room Dining at Disney\u2019s Grand Californian Hotel & Spa",
+    "url": "/dining/grand-californian-hotel/private-dining/",
+    "url_friendly_id": "private-dining",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "369650",
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/disneys-grand-californian-hotel-and-spa/guests/1261923380_0126ZY_0724JD-16x9.jpg?2021-12-21T20:13:51+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18606212;entityType=restaurant",
+    "name": "Lunar New Year Marketplaces",
+    "url": "/dining/disney-california-adventure/lunar-new-year-food-marketplaces/",
+    "url_friendly_id": "lunar-new-year-food-marketplaces",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "18606212",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "asian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/lunar-new-year/dining/DLR_DCA_Festival_LunarNewYear_BambooBlessings_StrawberryMilkTeaMacaron_07262023_DSC01128DN-16x9.jpg?2024-12-11T15:51:55+00:00",
+        "alt": "Mickey-shaped Strawberry Milk Tea Macaron"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "15706677;entityType=restaurant",
+    "name": "Beignets Expressed",
+    "url": "/dining/downtown-disney-district/jazz-kitchen-beignets-expressed/",
+    "url_friendly_id": "jazz-kitchen-beignets-expressed",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "15706677",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "cajun-creole-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/coastal-grill-and-patio/GlazedBeignet-H-16x9.jpg?2023-04-18T12:11:45+00:00",
+        "alt": "Rows of beignets featuring various toppings, with a bite taken out of one of them"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19343532;entityType=restaurant",
+    "name": "GCH Craftsman Bar",
+    "url": "/dining/grand-californian-hotel/craftsman-bar/",
+    "url_friendly_id": "craftsman-bar",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "19343532",
+    "price_range": [
+      "$",
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "reservations-accepted",
+      "table-service"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19623531?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19623532?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/grand-californian-hotel/craftsman-bar/gch-craftsman-bar-grill-exterior-16x9.jpg?1730825633305",
+        "alt": "An outside bar with brick pillars and a flat screen television near a pool"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16514114;entityType=restaurant",
+    "name": "Cozy Cone Motel",
+    "url": "/dining/disney-california-adventure/cozy-cone-motel/",
+    "url_friendly_id": "cozy-cone-motel",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16514114",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/cozy-cone-motel/cozy-cone-motel-00.jpg?1705022537289",
+        "alt": "A row of oversize construction cones make up Cozy Cone Motel snack stands in Cars Land"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19028067;entityType=restaurant",
+    "name": "Jack-Jack Cookie Num Nums",
+    "url": "/dining/disney-california-adventure/jack-jack-cookie-num-nums/",
+    "url_friendly_id": "jack-jack-cookie-num-nums",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19028067",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-16x9.jpg?1699622548887",
+        "alt": "Large chocolate chip cookies on a plate"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412236444;entityType=restaurant",
+    "name": "Seoul Sister",
+    "url": "/dining/downtown-disney-district/seoul-sister/",
+    "url_friendly_id": "seoul-sister",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "412236444",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "asian-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/parkside-market/SeoulSister-16x9.jpg?2025-01-23T19:37:21+00:00",
+        "alt": "A beef and egg bowl, a chicken bowl, a side of dumplings, a cup of matcha iced tea and a fruit punch juice box"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19629820;entityType=restaurant",
+    "name": "Lamplight Lounge - Boardwalk Dining",
+    "url": "/dining/disney-california-adventure/lamplight-lounge-boardwalk-dining/",
+    "url_friendly_id": "lamplight-lounge-boardwalk-dining",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "19629820",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "vegetarian-cuisine",
+      "healthy-selections-cuisine",
+      "californian-cuisine",
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/lamplight-lounge/DLR_DCA_PixarPier_PixarFest_LamplightLounge_LobsterNacho_021618_09753DN-16x9.jpg?2025-01-06T19:56:13+00:00",
+        "alt": "Plate of nachos topped with lobster, melted cheese, black beans, diced tomatoes, jalape\u00f1os and a drizzled sauce"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19436152;entityType=restaurant",
+    "name": "Sip and Savor Pass",
+    "url": "/dining/disney-california-adventure/sip-and-savor/",
+    "url_friendly_id": "sip-and-savor",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19436152",
+    "price_range": [],
+    "cuisine_types": [
+      "vegetarian-cuisine",
+      "californian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/food-and-wine-festival/shopping/STILL004_FY25Q1_PerCap_F-W_S-S_4-8Tab_DSC01999-1_Horizontal_16x9_v1_2025-02-07-16x9.jpg?2025-02-11T22:12:20+00:00",
+        "alt": "A 4 digital coupon Sip and Savor Pass held next to an 8 coupon pass for the 2025 Disney California Adventure Food and Wine Festival"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411884554;entityType=point-of-interest",
+    "name": "Sip and Savor Pass",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.808642",
+        "longitude": "-117.918956"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "16032494;entityType=restaurant",
+    "name": "Bayside Brews",
+    "url": "/dining/disney-california-adventure/bayside-brews/",
+    "url_friendly_id": "bayside-brews",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16032494",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/bayside-brews/bayside-brews-01.jpg?1691708117544",
+        "alt": "A flight of three beers"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354456;entityType=restaurant",
+    "name": "Royal Street Veranda",
+    "url": "/dining/disneyland/royal-street-veranda/",
+    "url_friendly_id": "royal-street-veranda",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354456",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/royal-street-veranda/royal-street-veranda-breadbowl-16x9.jpg?1705022417610",
+        "alt": "Bread bowls at Royal Street Veranda"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354444;entityType=restaurant",
+    "name": "Refreshment Corner",
+    "url": "/dining/disneyland/refreshment-corner/",
+    "url_friendly_id": "refreshment-corner",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354444",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/refreshment-corner/refreshment-corner-00.jpg?1701202609943",
+        "alt": "Sign for Corner Cafe and Coca-Cola Refreshment Corner on Main Street, U.S.A. at Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19267431;entityType=restaurant",
+    "name": "Milk Stand",
+    "url": "/dining/disneyland/milk-stand/",
+    "url_friendly_id": "milk-stand",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19267431",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-16x9.jpg?1701204026150",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16515009;entityType=restaurant",
+    "name": "Carthay Circle Restaurant",
+    "url": "/dining/disney-california-adventure/carthay-circle-restaurant/",
+    "url_friendly_id": "carthay-circle-restaurant",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "16515009",
+    "price_range": [
+      "$$",
+      "$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "signature-dining",
+      "table-service",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/16608194?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/16608212?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/carthay-circle-restaurant/carthay-circle-restaurant-00.jpg?1730824426642",
+        "alt": "The entrance and campanile of the Carthay Circle Restaurant in Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411845225;entityType=restaurant",
+    "name": "Good Boy! Grocers",
+    "url": "/dining/disneyland/good-boy-grocers/",
+    "url_friendly_id": "good-boy-grocers",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "411845225",
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/good-boy-grocers-market/20230318_0858_CT-2-16x9.jpg?2023-04-03T16:42:51+00:00",
+        "alt": "Good Boy Grocers featuring Pluto on a sign in Mickey\u2019s Toontown at Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354378;entityType=restaurant",
+    "name": "Naples Ristorante e Bar",
+    "url": "/dining/downtown-disney-district/naples-ristorante-e-bar/",
+    "url_friendly_id": "naples-ristorante-e-bar",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354378",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "italian-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/357066?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/369701?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411956039?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/downtown-disney/naples-ristorante-e-pizzeria/naples-exterior-sign-16x9.jpg?1741111044470",
+        "alt": "The modern style entrance to Naples Ristorante e Bar with outdoor seating"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354546;entityType=restaurant",
+    "name": "Wetzel's Pretzels",
+    "url": "/dining/downtown-disney-district/wetzels-pretzels/",
+    "url_friendly_id": "wetzels-pretzels",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354546",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/downtown-disney/wetzels-pretzels/wetzels-pretzels-00.jpg?1741111028380",
+        "alt": "A salted, twisted pretzel treat at Wetzel's Pretzels in Downtown Disney District"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354171;entityType=restaurant",
+    "name": "Se\u00f1or Buzz Churros",
+    "url": "/dining/disney-california-adventure/senor-buzz-churros/",
+    "url_friendly_id": "senor-buzz-churros",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354171",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/pixar-pier/senor-buzz-churros-v2-16x9.jpg?1731083208469",
+        "alt": "A sign featuring Buzz Lightyear identifies Senor Buzz Churros, an eatery"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16032493;entityType=restaurant",
+    "name": "Boardwalk Pizza & Pasta",
+    "url": "/dining/disney-california-adventure/boardwalk-pizza-pasta/",
+    "url_friendly_id": "boardwalk-pizza-pasta",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16032493",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "italian-cuisine"
+    ],
+    "dining_types": [
+      "lunch",
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/boardwalk-pizza-pasta/boardwalk-pizza-pasta-00a.jpg?1728575644019",
+        "alt": "A fresh out of the oven, sliced pepperoni pizza on a wooden pizza board sits on a table outdoors"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "368519;entityType=restaurant",
+    "name": "Bengal Barbecue",
+    "url": "/dining/disneyland/bengal-barbecue/",
+    "url_friendly_id": "bengal-barbecue",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "368519",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/bengal-barbecue/bengal-barbecue-00.jpg?1701202039985",
+        "alt": "Sign with wood carving of a tiger\u2019s head, The Bengal Barbecue restaurant in Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19624438;entityType=restaurant",
+    "name": "Pym Tasting Lab",
+    "url": "/dining/disney-california-adventure/pym-tasting-lab/",
+    "url_friendly_id": "pym-tasting-lab",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19624438",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/avengers-campus/pym-kitchen-16x9_1.jpg?1730824787421",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "424962;entityType=restaurant",
+    "name": "Fairfax Market",
+    "url": "/dining/disney-california-adventure/fairfax-fruit-market/",
+    "url_friendly_id": "fairfax-fruit-market",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "424962",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/fairfax-market/fairfax-market-00.jpg?1699624779736",
+        "alt": "Fairfax Market sign at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18516125;entityType=restaurant",
+    "name": "Popcorn Carts",
+    "url": "/dining/popcorn/",
+    "url_friendly_id": "popcorn",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18516125",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/food-carts-multiple-locations/popcorn-cart-00.jpg?1731103665173",
+        "alt": "Popcorn"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18518206;entityType=point-of-interest",
+    "name": "Popcorn near Carthay Circle Restaurant",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.807739",
+        "longitude": "-117.918627"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "17302464;entityType=restaurant",
+    "name": "Boudin Bread Cart",
+    "url": "",
+    "url_friendly_id": "boudin-bread-cart",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "17302464",
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/boudin-bread-cart/DLR_DCA_BaymaxBread_08152023_DSC02274DN-16x9.jpg?2024-06-28T17:10:09+00:00",
+        "alt": "Bread in the shape of Baymax, standing on a wooden baker's paddle"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16032481;entityType=restaurant",
+    "name": "Paradise Garden Grill",
+    "url": "/dining/disney-california-adventure/paradise-garden-grill/",
+    "url_friendly_id": "paradise-garden-grill",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16032481",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "mexican-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/paradise-garden-grill/paradise-garden-grill-00.jpg?1740403289412",
+        "alt": "Sign for Paradise Garden Grill, a Disney California Adventure Mediterranean restaurant"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354273;entityType=restaurant",
+    "name": "Harbour Galley",
+    "url": "/dining/disneyland/harbour-galley/",
+    "url_friendly_id": "harbour-galley",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354273",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/harbour-galley/harbour-galley-00.jpg?1731604417721",
+        "alt": "Sign: Harbour Galley Come Ashore for Dockside Dining at Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354195;entityType=restaurant",
+    "name": "Cocina Cucamonga Mexican Grill",
+    "url": "/dining/disney-california-adventure/cocina-cucamonga-mexican-grill/",
+    "url_friendly_id": "cocina-cucamonga-mexican-grill",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354195",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "mexican-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/cocina-cucamonga-mexican-grill/DLR_DCA_CocinaCucamonga_QuesaBirriaTacos_04252023_DSC01244DN-2-16x9.jpg?2023-07-31T13:48:09+00:00",
+        "alt": "Two Quesa Birria Tacos on a plate with sliced radishes and a bowl of salsa"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411876218;entityType=restaurant",
+    "name": "Earl of Sandwich\u00ae Tavern",
+    "url": "/dining/downtown-disney-district/earl-of-sandwich-tavern/",
+    "url_friendly_id": "earl-of-sandwich-tavern",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "411876218",
+    "price_range": [],
+    "cuisine_types": [],
+    "dining_types": [
+      "dinner",
+      "lunch",
+      "casual-dining"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/earl-tavern/Earl_Pizza-5-16x9.jpg?2023-03-29T18:16:35+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354261;entityType=restaurant",
+    "name": "Goofy's Kitchen",
+    "url": "/dining/disneyland-hotel/goofys-kitchen/",
+    "url_friendly_id": "goofys-kitchen",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354261",
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "buffet-family-style",
+      "breakfast",
+      "reservations-accepted",
+      "character-breakfast",
+      "character-dining",
+      "character-dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/369069?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/369071?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412087526?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412087527?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412087528?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/resort-dining/disneyland-hotel/goofys-kitchen/goofys-kitchen-06.jpg?1743096091186",
+        "alt": "Goofy wearing a chef\u2019s ensemble presents his kitchen"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19624439;entityType=restaurant",
+    "name": "Shawarma Palace",
+    "url": "/dining/disney-california-adventure/shawarma-palace/",
+    "url_friendly_id": "shawarma-palace",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19624439",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/avengers-campus/DLR_DCA_AvengersCampus_Schwarma_Wrapper_yellow_16x9.jpg?1730825055929",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18516137;entityType=restaurant",
+    "name": "Fruit Carts",
+    "url": "/dining/fruit/",
+    "url_friendly_id": "fruit",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18516137",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/food-carts-multiple-locations/fruit-cart-00.jpg?1731683455500",
+        "alt": "A fruit stand with apples, bananas and oranges"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18518182;entityType=point-of-interest",
+    "name": "Bayou Country Fruit Cart",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.81239274",
+        "longitude": "-117.9220131"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "354465;entityType=restaurant",
+    "name": "Stage Door Caf\u00e9",
+    "url": "/dining/disneyland/stage-door-cafe/",
+    "url_friendly_id": "stage-door-cafe",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354465",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/stage-door-cafe/stage-door-cafe-00.jpg?1714574451505",
+        "alt": "Western-themed entrance sign for Stage Door Cafe at Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18516129;entityType=restaurant",
+    "name": "Churro Carts",
+    "url": "/dining/churros/",
+    "url_friendly_id": "churros",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "18516129",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/food-carts-multiple-locations/churros_cart-00.jpg?1731683449507",
+        "alt": "A stack of churros"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18615734;entityType=point-of-interest",
+    "name": "Willie's Churros",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Multiple Locations",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.807677",
+        "longitude": "-117.919496"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "18515597;entityType=restaurant",
+    "name": "Festive Food Marketplace",
+    "url": "/dining/disney-california-adventure/festive-foods-marketplaces/",
+    "url_friendly_id": "festive-foods-marketplaces",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "18515597",
+    "price_range": [],
+    "cuisine_types": [
+      "american-cuisine",
+      "californian-cuisine",
+      "mexican-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/events/festival-of-holidays/dining/2024/DLR_DCA_FOH_FavoriteThings_BraisedPorkBellyAdobo_08162021_DSC07222DN-16x9.jpg?2024-11-12T22:25:00+00:00",
+        "alt": "Braised Pork Belly Adobo and garlic fried rice on a plate"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18510278;entityType=point-of-interest",
+    "name": "Festive Food Marketplace - A Twist on Tradition",
+    "url": "",
+    "url_friendly_id": "",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "coordinates": [
+      {
+        "entrance": "Main",
+        "latitude": "33.806214",
+        "longitude": "-117.920025"
+      }
+    ],
+    "menu_items": []
+  },
+  {
+    "id": "354276;entityType=restaurant",
+    "name": "Hearthstone Lounge",
+    "url": "/dining/grand-californian-hotel/hearthstone-lounge/",
+    "url_friendly_id": "hearthstone-lounge",
+    "location_name": "Disney's Grand Californian Hotel & Spa",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354276",
+    "price_range": [
+      "$",
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "Hearthstone Lounge will expand lunch service to 7 days per week with a limited menu, in addition to offering a new daily breakfast buffet\u2014for Guests staying at Disney\u2019s Grand Californian Hotel & Spa.",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412099691?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412099692?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/grand-californian-hotel/hearthstone-lounge/heartstone-16x9.jpg?1741224077234",
+        "alt": "The lodge style interior of Hearthstone Lounge with dining tables , sofa seating and a bar. "
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "369084;entityType=restaurant",
+    "name": "Broken Spell Lounge",
+    "url": "/dining/disneyland-hotel/broken-spell-lounge/",
+    "url_friendly_id": "broken-spell-lounge",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "369084",
+    "price_range": [],
+    "cuisine_types": [
+      "american-cuisine",
+      "californian-cuisine"
+    ],
+    "dining_types": [
+      "table-service"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/369085?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/broken-spell-lounge/Broken-Spell_Interior-16x9.jpg?2024-10-18T16:40:49+00:00",
+        "alt": "The bar area at the Broken Spell Lounge featuring a haunted forest theme, stools, lamps and place settings"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354441;entityType=restaurant",
+    "name": "Alien Pizza Planet",
+    "url": "/dining/disneyland/alien-pizza-planet/",
+    "url_friendly_id": "alien-pizza-planet",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354441",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disneyland/tomorrowland/disneyland-pizza-port-pepperoni-16x9.jpg?1701203854889",
+        "alt": "Pizza topped with pepperoni"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354228;entityType=restaurant",
+    "name": "Troubadour Tavern",
+    "url": "/dining/disneyland/troubadour-tavern/",
+    "url_friendly_id": "troubadour-tavern",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354228",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/troubadour-tavern/troubadour-tavern-00.jpg?1736341701883",
+        "alt": "Sign for Troubadour Tavern, a Fantasyland Restaurant at Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411983055;entityType=restaurant",
+    "name": "Great Maple Modern American Eatery",
+    "url": "/dining/pixar-place-hotel/great-maple-modern-american-eatery/",
+    "url_friendly_id": "great-maple-modern-american-eatery",
+    "location_name": "Pixar Place Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "411983055",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411985010?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411985011?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411985081?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/great-maple/111423CT2MB-0133b-2-16x9.jpg?2023-11-20T19:03:49+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412041188;entityType=restaurant",
+    "name": "The Sketch Pad Caf\u00e9",
+    "url": "/dining/pixar-place-hotel/sketch-pad-cafe/",
+    "url_friendly_id": "sketch-pad-cafe",
+    "location_name": "Pixar Place Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "412041188",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "dinner",
+      "lunch",
+      "casual-dining",
+      "breakfast"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/sketch-pad-cafe/pastries_1-16x9.jpg?2023-11-28T17:58:39+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354135;entityType=restaurant",
+    "name": "Adorable Snowman Frosted Treats",
+    "url": "/dining/disney-california-adventure/adorable-snowman-frosted-treats/",
+    "url_friendly_id": "adorable-snowman-frosted-treats",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354135",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/pixar-pier/adorable-snowman-16x9.jpg?1736339745440",
+        "alt": "The exterior of Adorable Snowman Frosted Treats"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354369;entityType=restaurant",
+    "name": "Mint Julep Bar",
+    "url": "/dining/disneyland/mint-julep-bar/",
+    "url_friendly_id": "mint-julep-bar",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354369",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/mint-julep-bar/mint-julep-bar-00.jpg?1726062605175",
+        "alt": "Sign for Mint Julep Bar, French Quarter dining location in Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "411954570;entityType=restaurant",
+    "name": "Palm Breeze Bar",
+    "url": "/dining/disneyland-hotel/palm-breeze-bar/",
+    "url_friendly_id": "palm-breeze-bar",
+    "location_name": "Disneyland Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "411954570",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine",
+      "californian-cuisine",
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411960654?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411960722?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/resorts/disneyland-hotel/amenities/Palm-Breeze-Bar_Hero_5.20.24-16x9.jpg?2024-06-25T17:40:37+00:00",
+        "alt": "Chairs and place settings at a bar and a table with a sign on the wall that says, 'Palm Breeze Bar'"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354084;entityType=restaurant",
+    "name": "Award Wieners",
+    "url": "/dining/disney-california-adventure/award-wieners/",
+    "url_friendly_id": "award-wieners",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354084",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/award-weiners/award-weiners-00.jpg?1701202171222",
+        "alt": "Award Wieners, Best Wieners in a Supporting Role menu and sign for the Disneyland Resort hot dog restaurant"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19013078;entityType=restaurant",
+    "name": "Lamplight Lounge",
+    "url": "/dining/disney-california-adventure/lamplight-lounge/",
+    "url_friendly_id": "lamplight-lounge",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "19013078",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "californian-cuisine",
+      "healthy-selections-cuisine",
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "reservations-accepted",
+      "lunch-no-characters",
+      "Dinner-no-characters"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19012970?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19012975?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19295229?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/pixar-pier/lamplight-lounge-chair-16x9.jpg?1736339645862",
+        "alt": "A Guest sits in a rustic chair that is stylized with an illustration of Miguel from Coco playing guitar"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "369431;entityType=restaurant",
+    "name": "Edelweiss Snacks",
+    "url": "/dining/disneyland/edelweiss-snacks/",
+    "url_friendly_id": "edelweiss-snacks",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "369431",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/edelweiss-snacks/edelweiss-snacks-00.jpg?1736343912604",
+        "alt": "Edelweiss Snacks quick-service restaurant sign at Disneyland Park."
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354477;entityType=restaurant",
+    "name": "Studio Catering Co.",
+    "url": "/dining/disney-california-adventure/studio-catering-co/",
+    "url_friendly_id": "studio-catering-co",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354477",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/studio-catering-co/studio-catering-company-01.jpg?1701202663728",
+        "alt": "The Studio Catering Co snack truck with a Coca Cola beverage cart stationed in front"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354321;entityType=restaurant",
+    "name": "Jamba\u00ae",
+    "url": "/dining/downtown-disney-district/jamba/",
+    "url_friendly_id": "jamba",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354321",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/downtown-disney-district/jamba/jamba-juice-fruits-smoothie-16x9.jpg?1699624757583",
+        "alt": "Strawberries, a bowl of sliced fruit with granola and berries, a smoothie in a cup and a slice of toast topped with blueberries, sliced bananas and honey"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412050945;entityType=restaurant",
+    "name": "Small Bytes",
+    "url": "/dining/pixar-place-hotel/small-bytes/",
+    "url_friendly_id": "small-bytes",
+    "location_name": "Pixar Place Hotel",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "412050945",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [],
+    "dining_types": [
+      "breakfast",
+      "casual-dining",
+      "lunch",
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/small-bytes/SmallBytes-Salads-Wraps-16x9.jpg?2024-01-23T22:50:36+00:00",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "18674905;entityType=restaurant",
+    "name": "Red Rose Taverne",
+    "url": "/dining/disneyland/red-rose-taverne/",
+    "url_friendly_id": "red-rose-taverne",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "18674905",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/red-rose-taverne/DLR_DLP_RedRoseTaverne_ChickenCordonBleuSandwich_01052023_DSC05312DN-16x9.jpg?2023-01-23T14:32:26+00:00",
+        "alt": "A Chicken Cordon Bleu Sandwich with a side of tater tots from Red Rose Taverne at Disneyland Resort"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354462;entityType=restaurant",
+    "name": "Schmoozies!",
+    "url": "/dining/disney-california-adventure/schmoozies-smoothies/",
+    "url_friendly_id": "schmoozies-smoothies",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354462",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/schmoozies/schmoozies-00.jpg?1701201974209",
+        "alt": "Entrance sign for Schmoozies! the smoothie bar at Disney California Adventure Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19139055;entityType=restaurant",
+    "name": "Salt & Straw",
+    "url": "/dining/downtown-disney-district/salt-and-straw/",
+    "url_friendly_id": "salt-and-straw",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19139055",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/downtown-disney-district/salt-and-straw/salt-straw-ice-cream-downtown-disney-16x9.jpg?1740589197253",
+        "alt": "3 Salt and Straw cups filled with scoops of luscious ice cream"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "368928;entityType=restaurant",
+    "name": "Mendocino Terrace",
+    "url": "/dining/disney-california-adventure/mendocino-terrace/",
+    "url_friendly_id": "mendocino-terrace",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "368928",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/368808?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/mendocino-terrace/mendocino-terrace-wine-00.jpg?1701202105697",
+        "alt": "White wine in a glass at Mendocino Terrace at Golden Wine Winery"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354405;entityType=restaurant",
+    "name": "Poultry Palace",
+    "url": "/dining/disney-california-adventure/poultry-palace/",
+    "url_friendly_id": "poultry-palace",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354405",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/pixar-pier/poultry-palace-16x9.jpg?1699622707107",
+        "alt": "Poultry Palace, a Quick Service eatery shaped like a chicken wing and juice box"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19269424;entityType=restaurant",
+    "name": "Black Tap Craft Burgers & Shakes",
+    "url": "/dining/downtown-disney-district/black-tap-craft-burgers/",
+    "url_friendly_id": "black-tap-craft-burgers",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19269424",
+    "price_range": [
+      "$",
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "lunch",
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/downtown-disney-district/black-tap-texan-burger-16x9.jpg?1741112187492",
+        "alt": "Hands holding a burger with bacon, onion rings and barbecue sauce"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412267575;entityType=restaurant",
+    "name": "Vista Parkside Market",
+    "url": "/dining/downtown-disney-district/vista-parkside-market/",
+    "url_friendly_id": "vista-parkside-market",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "412267575",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/parkside-market/Vista-16x9.jpg?2025-01-23T19:37:21+00:00",
+        "alt": "A table set with 5 different drinks next to a wall with a sign that reads \u2032Vista Parkside Market\u2032"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19104269;entityType=restaurant",
+    "name": "Ballast Point\u00ae Brewing Co.",
+    "url": "/dining/downtown-disney-district/ballast-point-brewing-company/",
+    "url_friendly_id": "ballast-point-brewing-company",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "19104269",
+    "price_range": [
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "casual-dining",
+      "dinner"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19200886?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19200887?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/experience-updates/downtown-disney/downtown-disney-evening-16x9.jpg?1742480985586",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16513886;entityType=restaurant",
+    "name": "Fiddler, Fifer & Practical Cafe",
+    "url": "/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/",
+    "url_friendly_id": "fiddler-fifer-and-practical-cafe",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "16513886",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "bakery-cuisine-cuisine"
+    ],
+    "dining_types": [
+      "breakfast"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disney-california-adventure/fiddler-fifer-and-practical-cafe/fiddler-fifer-and-practical-cafe-00.jpg?1699623412946",
+        "alt": "Entrance sign, lit at night, for Fiddler, Fifer, and Practical Cafe"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354255;entityType=restaurant",
+    "name": "Gibson Girl Ice Cream Parlor",
+    "url": "/dining/disneyland/gibson-girl-ice-cream-parlor/",
+    "url_friendly_id": "gibson-girl-ice-cream-parlor",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354255",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/gibson-girl-ice-cream-parlor/gibson-girl-ice-cream-parlor-00.jpg?1701203295702",
+        "alt": "Ice cream sundaes sign at the Gibson Girl Ice Cream Parlor on Main Street, U.S.A. in Disneyland Park"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354303;entityType=restaurant",
+    "name": "Hungry Bear Barbecue Jamboree",
+    "url": "/dining/disneyland/hungry-bear-barbecue/",
+    "url_friendly_id": "hungry-bear-barbecue",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354303",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/hungry-bear-restaurant/101424CT2MB-0037-16x9.jpg?2024-10-17T16:46:55+00:00",
+        "alt": "The boardwalk entrance to the Hungry Bear Barbecue Jamboree restaurant at the Disneyland Resort"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "19197204;entityType=restaurant",
+    "name": "The Tropical Hideaway",
+    "url": "/dining/disneyland/tropical-hideaway/",
+    "url_friendly_id": "tropical-hideaway",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "19197204",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "vegetarian-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disneyland/tropical-hideaway/tropical-hideaway-architect-atmosphere-16x9.jpg?1728586143712",
+        "alt": "The exterior of The Tropical Hideaway lit at night"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "412110504;entityType=restaurant",
+    "name": "Paseo",
+    "url": "/dining/downtown-disney-district/paseo/",
+    "url_friendly_id": "paseo",
+    "location_name": "Downtown Disney District",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "412110504",
+    "price_range": [
+      "$$$"
+    ],
+    "cuisine_types": [
+      "mexican-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "casual-dining",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/downtown-disney/PASEO_GROUP_AE_PADILLA-16x9.jpg?2024-06-26T13:24:08+00:00",
+        "alt": "A table set with several Mexican dishes and beverages"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "16588263;entityType=restaurant",
+    "name": "Carthay Circle Lounge",
+    "url": "/dining/disney-california-adventure/carthay-circle-lounge/",
+    "url_friendly_id": "carthay-circle-lounge",
+    "location_name": "Disney California Adventure Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "16588263",
+    "price_range": [
+      "$",
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19601288?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19602286?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disney-california-adventure/buena-vista-street/buena-vista-carthay-circle-16x9.jpg?1731955909626",
+        "alt": ""
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354438;entityType=restaurant",
+    "name": "Rancho del Zocalo Restaurante",
+    "url": "/dining/disneyland/rancho-del-zocalo-restaurante/",
+    "url_friendly_id": "rancho-del-zocalo-restaurante",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": true,
+    "facility_id": "354438",
+    "price_range": [
+      "$"
+    ],
+    "cuisine_types": [
+      "american-cuisine",
+      "mexican-cuisine"
+    ],
+    "dining_types": [],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/dlr/things-to-do/dining/disneyland/rancho-del-zocalo-restaurante/dlr-rancho-del-zocalo-16x9.jpg?1738262935408",
+        "alt": "Entrance sign: Rancho del Zocalo Restaurante, a Disneyland Park Mexican restaurant"
+      }
+    },
+    "menu_items": []
+  },
+  {
+    "id": "354129;entityType=restaurant",
+    "name": "Carnation Cafe",
+    "url": "/dining/disneyland/carnation-cafe/",
+    "url_friendly_id": "carnation-cafe",
+    "location_name": "Disneyland Park",
+    "entity_type": "restaurant",
+    "maximum_party_size": "",
+    "quick_service": false,
+    "facility_id": "354129",
+    "price_range": [
+      "$",
+      "$$"
+    ],
+    "cuisine_types": [
+      "american-cuisine"
+    ],
+    "dining_types": [
+      "table-service",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "reservations-accepted"
+    ],
+    "coordinates": [],
+    "additional_info": "",
+    "product_urls": [
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/356910?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/368555?locale=en-US",
+      "https://dineprdsvc.dlr.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/368556?locale=en-US"
+    ],
+    "media": {
+      "thumbnail": {
+        "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disneyland/dining/carnation-cafe/DLR_DLP_Carnation-Cafe_Short-Rib_10312024_DSC03602DN-16x9.jpg?2025-01-02T06:29:31+00:00",
+        "alt": "Short ribs with barbecue sauce, mashed potatoes and green beans"
+      }
+    },
+    "menu_items": []
+  }
+]

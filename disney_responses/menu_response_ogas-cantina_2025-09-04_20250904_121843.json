@@ -1,0 +1,1874 @@
+{
+  "name": "Oga's Cantina at the Disneyland Resort",
+  "location": "Disneyland Park, Star Wars: Galaxy's Edge",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lounge",
+      "label": "Lounge"
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lounge",
+      "label": "Lounge",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Newly Landed",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rancor Beer Flight Souvenir Board with Four Teeth",
+              "prices": [
+                {
+                  "withoutTax": 75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Alcoholic) enjoy a sampling of each Beer"
+            },
+            {
+              "title": "Batuu Brine Dewroots",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cucumbers, Chile Oil, Crispy Shallots, Galma Chips"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions without Alcohol",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Grinning Loth-cat with Souvenir Mug",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals, served in a souvenir Loth-cat Carved Mug"
+            },
+            {
+              "title": "The Grinning Loth-cat",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals"
+            },
+            {
+              "title": "Black Spire Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Joffrey's Coffee\u00ae, Falernum, Honey Mango Syrup, Citrus Juice"
+            },
+            {
+              "title": "Blurrgfire",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Pomegranate Juice, and Habanero-Lime"
+            },
+            {
+              "title": "Jabba Juice",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Orange\u00ae with Pineapple, Kiwi, Cantaloupe, and Blueberry Flavor-filled Boba"
+            },
+            {
+              "title": "Moogan Tea",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Chocolate Milk, Vanilla, and Cinnamon, topped with Vanilla Whipped Cream, Cinnamon & Sugar-dusted Cereal"
+            },
+            {
+              "title": "Tarine Tea",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Peach, Huckleberry, and Mint"
+            },
+            {
+              "title": "Blue Bantha",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue Milk served chilled with Bantha-inspired Brown Butter Chocolate Chip and Coconut Cookie"
+            },
+            {
+              "title": "Hyperdrive (Punch It!)",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Powerade\u00ae Mountain Berry Blast, White Cranberry Juice, Black Cherry Pur\u00e9e, and Sprite\u00ae"
+            }
+          ]
+        },
+        {
+          "name": "Snack",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surabat Valley Harvest Board ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Torched Sourdough Bread, Aji Verde-infused Pork Spread, Spicy Salsa Criolla"
+            },
+            {
+              "title": "Reythan Crackers and Moss Mousse",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Chip with Avocado Mousse, Salsa, Lime Aire"
+            },
+            {
+              "title": "Garlic-Cheese Five Blossom Bread with Spicy Cheese Sauce",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Garlic Parmesan Pretzel Knot and Chile de Arbol Cheese Sauce"
+            },
+            {
+              "title": "Oga's Obsession",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Wild Strawberry Flavor, Yogurt-filled Popping Spheres, Strawberry & Grape Candy Pebbles, with a bursting Dried Fruit Mixture"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions with Alcohol",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Takodana Quencher",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Dragonberry Rum, Bols Blue Cura\u00e7ao, Simply Orange\u00ae with Pineapple, Kiwi flavors"
+            },
+            {
+              "title": "Jedi Mind Trick",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Botanical Grapefruit and Rose Vodka, BroVo Lucky Falernum Liqueur, Bols Blue Cura\u00e7ao, White Grape Juice, Lime Juice, and Grapefruit Bitters"
+            },
+            {
+              "title": "Jet Juice",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Chile Liqueur, Pomegranate Liqueur, White Grape Juice and Lemon Juice"
+            },
+            {
+              "title": "Angry Bloody Rancor",
+              "prices": [
+                {
+                  "withoutTax": 23.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato Vodka, Clam-Tomato Juice, Kimchee Base, Gochujang Pepper, Lime Juice, Lemon Juice, garnished with a Spicy Candied Rancor Bacon"
+            },
+            {
+              "title": "Yub Nub",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit"
+            },
+            {
+              "title": "The Outer Rim",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Pomegranate Liqueur, Lime Juice, and Pure Cane Sugar, topped with Exotic Fruit Pur\u00e9e"
+            },
+            {
+              "title": "Coruscant Cooler",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Maraska Maraschino Liqueur, Carpano Antica Sweet Vermouth, Cranberry Juice, Lime Juice"
+            },
+            {
+              "title": "Fuzzy Tauntaun",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "C\u00eeroc Peach Vodka, Bols Peach Schnapps, and Simply Orange\u00ae topped with Tangerine, Pure Cane Sugar, \"Buzz Button Tingling\" Foam"
+            },
+            {
+              "title": "Yub Nub with souvenir Endor Mug",
+              "prices": [
+                {
+                  "withoutTax": 49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit served in a souvenir Endor mug"
+            }
+          ]
+        },
+        {
+          "name": "Beers on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mythosaur Mug",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Ne\u2019tra gal Ale"
+            },
+            {
+              "title": "Black Squadron Lager",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Lager with a touch of Honey (Delahunt Brewing) (ABV 4.8%)"
+            },
+            {
+              "title": "Jogan Blossom Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 14.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ube-flavored Hazy IPA with Floral Notes"
+            },
+            {
+              "title": "Bad Motivator IPA",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 6.0%) Tropical India Pale Ale with Galaxy and Comet Hops (Sierra Nevada Brewing Co.)"
+            },
+            {
+              "title": "Gamorrean Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 5.2%) Red Ale with Roasted Caramel, Hop character, and touch of Grapefruit (New Belgium Brewing Co.)"
+            },
+            {
+              "title": "White Wampa Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 4.5%) Classic Hefeweizen with a Banana and Citrus character (Ballast Point Brewing Co.)"
+            }
+          ]
+        },
+        {
+          "name": "Wine on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Toniray, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Formerly produced on Alderaan, Teal-colored, refreshing Crisp style, Aroma characteristics of Green Apple and Meyer Lemon with flavors of juicy White Peach, Apricot and a hint of Vanilla"
+            },
+            {
+              "title": "Imperial Guard, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fully clad Crimson-colored, nicely Focused Red Cherry and Raspberry Aromas combined robust Red Berry Fruit flavors, a touch of Caramel, Dark Chocolate, and Spice with long, supple Tannins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Newly Landed",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rancor Beer Flight Souvenir Board with Four Teeth",
+              "prices": [
+                {
+                  "withoutTax": 75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Alcoholic) enjoy a sampling of each Beer"
+            },
+            {
+              "title": "Batuu Brine Dewroots",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cucumbers, Chile Oil, Crispy Shallots, Galma Chips"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions without Alcohol",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Grinning Loth-cat",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals"
+            },
+            {
+              "title": "The Grinning Loth-cat with Souvenir Mug",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals, served in a souvenir Loth-cat Carved Mug"
+            },
+            {
+              "title": "Black Spire Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Joffrey's Coffee\u00ae, Falernum, Honey Mango Syrup, Citrus Juice"
+            },
+            {
+              "title": "Blurrgfire",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Pomegranate Juice, and Habanero-Lime"
+            },
+            {
+              "title": "Jabba Juice",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Orange\u00ae with Pineapple, Kiwi, Cantaloupe, and Blueberry Flavor-filled Boba"
+            },
+            {
+              "title": "Moogan Tea",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Chocolate Milk, Vanilla, and Cinnamon, topped with Vanilla Whipped Cream, Cinnamon & Sugar-dusted Cereal"
+            },
+            {
+              "title": "Tarine Tea",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Peach, Huckleberry, and Mint"
+            },
+            {
+              "title": "Blue Bantha",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue Milk served chilled with Bantha-inspired Brown Butter Chocolate Chip and Coconut Cookie"
+            },
+            {
+              "title": "Hyperdrive (Punch It!)",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Powerade\u00ae Mountain Berry Blast, White Cranberry Juice, Black Cherry Pur\u00e9e, and Sprite\u00ae"
+            }
+          ]
+        },
+        {
+          "name": "Snack",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surabat Valley Harvest Board ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Torched Sourdough Bread, Aji Verde-infused Pork Spread, Spicy Salsa Criolla"
+            },
+            {
+              "title": "Reythan Crackers and Moss Mousse",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Chip with Avocado Mousse, Salsa, Lime Aire"
+            },
+            {
+              "title": "Garlic-Cheese Five Blossom Bread with Spicy Cheese Sauce",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Garlic Parmesan Pretzel Knot and Chile de Arbol Cheese Sauce"
+            },
+            {
+              "title": "Oga's Obsession",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Wild Strawberry Flavor, Yogurt-filled Popping Spheres, Strawberry & Grape Candy Pebbles, with a bursting Dried Fruit Mixture"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions with Alcohol",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Takodana Quencher",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Dragonberry Rum, Bols Blue Cura\u00e7ao, Simply Orange\u00ae with Pineapple, Kiwi flavors"
+            },
+            {
+              "title": "Jedi Mind Trick",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Botanical Grapefruit and Rose Vodka, BroVo Lucky Falernum Liqueur, Bols Blue Cura\u00e7ao, White Grape Juice, Lime Juice, and Grapefruit Bitters"
+            },
+            {
+              "title": "Jet Juice",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Chile Liqueur, Pomegranate Liqueur, White Grape Juice and Lemon Juice"
+            },
+            {
+              "title": "Angry Bloody Rancor",
+              "prices": [
+                {
+                  "withoutTax": 23.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato Vodka, Clam-Tomato Juice, Kimchee Base, Gochujang Pepper, Lime Juice, Lemon Juice, garnished with a Spicy Candied Rancor Bacon"
+            },
+            {
+              "title": "Yub Nub",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit"
+            },
+            {
+              "title": "The Outer Rim",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Pomegranate Liqueur, Lime Juice, and Pure Cane Sugar, topped with Exotic Fruit Pur\u00e9e"
+            },
+            {
+              "title": "Coruscant Cooler",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Maraska Maraschino Liqueur, Carpano Antica Sweet Vermouth, Cranberry Juice, Lime Juice"
+            },
+            {
+              "title": "Fuzzy Tauntaun",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "C\u00eeroc Peach Vodka, Bols Peach Schnapps, and Simply Orange\u00ae topped with Tangerine, Pure Cane Sugar, \"Buzz Button Tingling\" Foam"
+            },
+            {
+              "title": "Yub Nub with souvenir Endor Mug",
+              "prices": [
+                {
+                  "withoutTax": 49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit served in a souvenir Endor mug"
+            }
+          ]
+        },
+        {
+          "name": "Beers on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mythosaur Mug",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Ne\u2019tra gal Ale"
+            },
+            {
+              "title": "Black Squadron Lager",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Lager with a touch of Honey (Delahunt Brewing) (ABV 4.8%)"
+            },
+            {
+              "title": "Jogan Blossom Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 14.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ube-flavored Hazy IPA with Floral Notes"
+            },
+            {
+              "title": "Bad Motivator IPA",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 6.0%) Tropical India Pale Ale with Galaxy and Comet Hops (Sierra Nevada Brewing Co.)"
+            },
+            {
+              "title": "Gamorrean Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 5.2%) Red Ale with Roasted Caramel, Hop character, and touch of Grapefruit (New Belgium Brewing Co.)"
+            },
+            {
+              "title": "White Wampa Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 4.5%) Classic Hefeweizen with a Banana and Citrus character (Ballast Point Brewing Co.)"
+            }
+          ]
+        },
+        {
+          "name": "Wine on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Toniray, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Formerly produced on Alderaan, Teal-colored, refreshing Crisp style, Aroma characteristics of Green Apple and Meyer Lemon with flavors of juicy White Peach, Apricot and a hint of Vanilla"
+            },
+            {
+              "title": "Imperial Guard, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fully clad Crimson-colored, nicely Focused Red Cherry and Raspberry Aromas combined robust Red Berry Fruit flavors, a touch of Caramel, Dark Chocolate, and Spice with long, supple Tannins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Newly Landed",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rancor Beer Flight Souvenir Board with Four Teeth",
+              "prices": [
+                {
+                  "withoutTax": 75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Alcoholic) enjoy a sampling of each Beer"
+            },
+            {
+              "title": "Batuu Brine Dewroots",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cucumbers, Chile Oil, Crispy Shallots, Galma Chips"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions without Alcohol",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Grinning Loth-cat with Souvenir Mug",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals, served in a souvenir Loth-cat Carved Mug"
+            },
+            {
+              "title": "The Grinning Loth-cat",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals"
+            },
+            {
+              "title": "Black Spire Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Joffrey's Coffee\u00ae, Falernum, Honey Mango Syrup, Citrus Juice"
+            },
+            {
+              "title": "Blurrgfire",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Pomegranate Juice, and Habanero-Lime"
+            },
+            {
+              "title": "Jabba Juice",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Orange\u00ae with Pineapple, Kiwi, Cantaloupe, and Blueberry Flavor-filled Boba"
+            },
+            {
+              "title": "Moogan Tea",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Chocolate Milk, Vanilla, and Cinnamon, topped with Vanilla Whipped Cream, Cinnamon & Sugar-dusted Cereal"
+            },
+            {
+              "title": "Tarine Tea",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Peach, Huckleberry, and Mint"
+            },
+            {
+              "title": "Blue Bantha",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue Milk served chilled with Bantha-inspired Brown Butter Chocolate Chip and Coconut Cookie"
+            },
+            {
+              "title": "Hyperdrive (Punch It!)",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Powerade\u00ae Mountain Berry Blast, White Cranberry Juice, Black Cherry Pur\u00e9e, and Sprite\u00ae"
+            }
+          ]
+        },
+        {
+          "name": "Snack",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surabat Valley Harvest Board ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Torched Sourdough Bread, Aji Verde-infused Pork Spread, Spicy Salsa Criolla"
+            },
+            {
+              "title": "Reythan Crackers and Moss Mousse",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Chip with Avocado Mousse, Salsa, Lime Aire"
+            },
+            {
+              "title": "Garlic-Cheese Five Blossom Bread with Spicy Cheese Sauce",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Garlic Parmesan Pretzel Knot and Chile de Arbol Cheese Sauce"
+            },
+            {
+              "title": "Oga's Obsession",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Wild Strawberry Flavor, Yogurt-filled Popping Spheres, Strawberry & Grape Candy Pebbles, with a bursting Dried Fruit Mixture"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions with Alcohol",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Takodana Quencher",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Dragonberry Rum, Bols Blue Cura\u00e7ao, Simply Orange\u00ae with Pineapple, Kiwi flavors"
+            },
+            {
+              "title": "Jedi Mind Trick",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Botanical Grapefruit and Rose Vodka, BroVo Lucky Falernum Liqueur, Bols Blue Cura\u00e7ao, White Grape Juice, Lime Juice, and Grapefruit Bitters"
+            },
+            {
+              "title": "Jet Juice",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Chile Liqueur, Pomegranate Liqueur, White Grape Juice and Lemon Juice"
+            },
+            {
+              "title": "Angry Bloody Rancor",
+              "prices": [
+                {
+                  "withoutTax": 23.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato Vodka, Clam-Tomato Juice, Kimchee Base, Gochujang Pepper, Lime Juice, Lemon Juice, garnished with a Spicy Candied Rancor Bacon"
+            },
+            {
+              "title": "Yub Nub",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit"
+            },
+            {
+              "title": "The Outer Rim",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Pomegranate Liqueur, Lime Juice, and Pure Cane Sugar, topped with Exotic Fruit Pur\u00e9e"
+            },
+            {
+              "title": "Coruscant Cooler",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Maraska Maraschino Liqueur, Carpano Antica Sweet Vermouth, Cranberry Juice, Lime Juice"
+            },
+            {
+              "title": "Fuzzy Tauntaun",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "C\u00eeroc Peach Vodka, Bols Peach Schnapps, and Simply Orange\u00ae topped with Tangerine, Pure Cane Sugar, \"Buzz Button Tingling\" Foam"
+            },
+            {
+              "title": "Yub Nub with souvenir Endor Mug",
+              "prices": [
+                {
+                  "withoutTax": 49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit served in a souvenir Endor mug"
+            }
+          ]
+        },
+        {
+          "name": "Beers on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mythosaur Mug",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Ne\u2019tra gal Ale"
+            },
+            {
+              "title": "Black Squadron Lager",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Lager with a touch of Honey (Delahunt Brewing) (ABV 4.8%)"
+            },
+            {
+              "title": "Jogan Blossom Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 14.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ube-flavored Hazy IPA with Floral Notes"
+            },
+            {
+              "title": "Bad Motivator IPA",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 6.0%) Tropical India Pale Ale with Galaxy and Comet Hops (Sierra Nevada Brewing Co.)"
+            },
+            {
+              "title": "Gamorrean Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 5.2%) Red Ale with Roasted Caramel, Hop character, and touch of Grapefruit (New Belgium Brewing Co.)"
+            },
+            {
+              "title": "White Wampa Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 4.5%) Classic Hefeweizen with a Banana and Citrus character (Ballast Point Brewing Co.)"
+            }
+          ]
+        },
+        {
+          "name": "Wine on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Toniray, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Formerly produced on Alderaan, Teal-colored, refreshing Crisp style, Aroma characteristics of Green Apple and Meyer Lemon with flavors of juicy White Peach, Apricot and a hint of Vanilla"
+            },
+            {
+              "title": "Imperial Guard, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fully clad Crimson-colored, nicely Focused Red Cherry and Raspberry Aromas combined robust Red Berry Fruit flavors, a touch of Caramel, Dark Chocolate, and Spice with long, supple Tannins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Newly Landed",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rancor Beer Flight Souvenir Board with Four Teeth",
+              "prices": [
+                {
+                  "withoutTax": 75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Alcoholic) enjoy a sampling of each Beer"
+            },
+            {
+              "title": "Batuu Brine Dewroots",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cucumbers, Chile Oil, Crispy Shallots, Galma Chips"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions without Alcohol",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Grinning Loth-cat with Souvenir Mug",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals, served in a souvenir Loth-cat Carved Mug"
+            },
+            {
+              "title": "The Grinning Loth-cat",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Guava Juice, Coconut Milk, Lime Juice, Pure Cane Syrup, topped with Basil Crystals"
+            },
+            {
+              "title": "Black Spire Brew",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cold Brew Joffrey's Coffee\u00ae, Falernum, Honey Mango Syrup, Citrus Juice"
+            },
+            {
+              "title": "Blurrgfire",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Pomegranate Juice, and Habanero-Lime"
+            },
+            {
+              "title": "Jabba Juice",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Orange\u00ae with Pineapple, Kiwi, Cantaloupe, and Blueberry Flavor-filled Boba"
+            },
+            {
+              "title": "Moogan Tea",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Chocolate Milk, Vanilla, and Cinnamon, topped with Vanilla Whipped Cream, Cinnamon & Sugar-dusted Cereal"
+            },
+            {
+              "title": "Tarine Tea",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Unsweetened Tea, Peach, Huckleberry, and Mint"
+            },
+            {
+              "title": "Blue Bantha",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue Milk served chilled with Bantha-inspired Brown Butter Chocolate Chip and Coconut Cookie"
+            },
+            {
+              "title": "Hyperdrive (Punch It!)",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Powerade\u00ae Mountain Berry Blast, White Cranberry Juice, Black Cherry Pur\u00e9e, and Sprite\u00ae"
+            }
+          ]
+        },
+        {
+          "name": "Snack",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Surabat Valley Harvest Board ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Torched Sourdough Bread, Aji Verde-infused Pork Spread, Spicy Salsa Criolla"
+            },
+            {
+              "title": "Reythan Crackers and Moss Mousse",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Chip with Avocado Mousse, Salsa, Lime Aire"
+            },
+            {
+              "title": "Garlic-Cheese Five Blossom Bread with Spicy Cheese Sauce",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Garlic Parmesan Pretzel Knot and Chile de Arbol Cheese Sauce"
+            },
+            {
+              "title": "Oga's Obsession",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade, Wild Strawberry Flavor, Yogurt-filled Popping Spheres, Strawberry & Grape Candy Pebbles, with a bursting Dried Fruit Mixture"
+            }
+          ]
+        },
+        {
+          "name": "Concoctions with Alcohol",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Takodana Quencher",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Dragonberry Rum, Bols Blue Cura\u00e7ao, Simply Orange\u00ae with Pineapple, Kiwi flavors"
+            },
+            {
+              "title": "Jedi Mind Trick",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Botanical Grapefruit and Rose Vodka, BroVo Lucky Falernum Liqueur, Bols Blue Cura\u00e7ao, White Grape Juice, Lime Juice, and Grapefruit Bitters"
+            },
+            {
+              "title": "Jet Juice",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Chile Liqueur, Pomegranate Liqueur, White Grape Juice and Lemon Juice"
+            },
+            {
+              "title": "Angry Bloody Rancor",
+              "prices": [
+                {
+                  "withoutTax": 23.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato Vodka, Clam-Tomato Juice, Kimchee Base, Gochujang Pepper, Lime Juice, Lemon Juice, garnished with a Spicy Candied Rancor Bacon"
+            },
+            {
+              "title": "Yub Nub",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit"
+            },
+            {
+              "title": "The Outer Rim",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Pomegranate Liqueur, Lime Juice, and Pure Cane Sugar, topped with Exotic Fruit Pur\u00e9e"
+            },
+            {
+              "title": "Coruscant Cooler",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Maraska Maraschino Liqueur, Carpano Antica Sweet Vermouth, Cranberry Juice, Lime Juice"
+            },
+            {
+              "title": "Fuzzy Tauntaun",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "C\u00eeroc Peach Vodka, Bols Peach Schnapps, and Simply Orange\u00ae topped with Tangerine, Pure Cane Sugar, \"Buzz Button Tingling\" Foam"
+            },
+            {
+              "title": "Yub Nub with souvenir Endor Mug",
+              "prices": [
+                {
+                  "withoutTax": 49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Malibu Pineapple Rum, Sailor Jerry Spiced Rum, Citrus Juices, and Passion Fruit served in a souvenir Endor mug"
+            }
+          ]
+        },
+        {
+          "name": "Beers on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mythosaur Mug",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Ne\u2019tra gal Ale"
+            },
+            {
+              "title": "Black Squadron Lager",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Lager with a touch of Honey (Delahunt Brewing) (ABV 4.8%)"
+            },
+            {
+              "title": "Jogan Blossom Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 14.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ube-flavored Hazy IPA with Floral Notes"
+            },
+            {
+              "title": "Bad Motivator IPA",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 6.0%) Tropical India Pale Ale with Galaxy and Comet Hops (Sierra Nevada Brewing Co.)"
+            },
+            {
+              "title": "Gamorrean Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 5.2%) Red Ale with Roasted Caramel, Hop character, and touch of Grapefruit (New Belgium Brewing Co.)"
+            },
+            {
+              "title": "White Wampa Ale",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 4.5%) Classic Hefeweizen with a Banana and Citrus character (Ballast Point Brewing Co.)"
+            }
+          ]
+        },
+        {
+          "name": "Wine on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Toniray, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Formerly produced on Alderaan, Teal-colored, refreshing Crisp style, Aroma characteristics of Green Apple and Meyer Lemon with flavors of juicy White Peach, Apricot and a hint of Vanilla"
+            },
+            {
+              "title": "Imperial Guard, Goldschmidt Vineyards, Sonoma",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fully clad Crimson-colored, nicely Focused Red Cherry and Raspberry Aromas combined robust Red Berry Fruit flavors, a touch of Caramel, Dark Chocolate, and Spice with long, supple Tannins"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Newly Landed",
+        "desktop": "Newly Landed"
+      },
+      {
+        "mobile": "Concoctions without Alcohol",
+        "desktop": "Concoctions without Alcohol"
+      },
+      {
+        "mobile": "Snack",
+        "desktop": "Snack"
+      },
+      {
+        "mobile": "Concoctions with Alcohol",
+        "desktop": "Concoctions with Alcohol"
+      },
+      {
+        "mobile": "Beers on Tap",
+        "desktop": "Beers on Tap"
+      },
+      {
+        "mobile": "Wine on Tap",
+        "desktop": "Wine on Tap"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Newly Landed",
+        "desktop": "Newly Landed"
+      },
+      {
+        "mobile": "Concoctions without Alcohol",
+        "desktop": "Concoctions without Alcohol"
+      },
+      {
+        "mobile": "Snack",
+        "desktop": "Snack"
+      },
+      {
+        "mobile": "Concoctions with Alcohol",
+        "desktop": "Concoctions with Alcohol"
+      },
+      {
+        "mobile": "Beers on Tap",
+        "desktop": "Beers on Tap"
+      },
+      {
+        "mobile": "Wine on Tap",
+        "desktop": "Wine on Tap"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Newly Landed",
+        "desktop": "Newly Landed"
+      },
+      {
+        "mobile": "Concoctions without Alcohol",
+        "desktop": "Concoctions without Alcohol"
+      },
+      {
+        "mobile": "Snack",
+        "desktop": "Snack"
+      },
+      {
+        "mobile": "Concoctions with Alcohol",
+        "desktop": "Concoctions with Alcohol"
+      },
+      {
+        "mobile": "Beers on Tap",
+        "desktop": "Beers on Tap"
+      },
+      {
+        "mobile": "Wine on Tap",
+        "desktop": "Wine on Tap"
+      }
+    ],
+    "3": [
+      {
+        "mobile": "Newly Landed",
+        "desktop": "Newly Landed"
+      },
+      {
+        "mobile": "Concoctions without Alcohol",
+        "desktop": "Concoctions without Alcohol"
+      },
+      {
+        "mobile": "Snack",
+        "desktop": "Snack"
+      },
+      {
+        "mobile": "Concoctions with Alcohol",
+        "desktop": "Concoctions with Alcohol"
+      },
+      {
+        "mobile": "Beers on Tap",
+        "desktop": "Beers on Tap"
+      },
+      {
+        "mobile": "Wine on Tap",
+        "desktop": "Wine on Tap"
+      }
+    ]
+  }
+}

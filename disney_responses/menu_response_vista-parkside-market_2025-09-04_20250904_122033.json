@@ -1,0 +1,408 @@
+{
+  "name": "Vista Parkside Market",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Bar \u2013 Lounge",
+      "label": "Bar \u2013 Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar \u2013 Lounge",
+      "label": "Bar \u2013 Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Vista Point",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hornitos Reposado, Grapefruit, Lemon, Lime"
+            },
+            {
+              "title": "Flashy Plumage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacardi, Watermelon Juice, Lime Juice"
+            },
+            {
+              "title": "Golden Hue",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bombay Sapphire, Lillet Blanc, Lemon Juice, Club Soda"
+            },
+            {
+              "title": "Nocturnal Overlook",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tito\u2019s Vodka, Coffee Liqueur, Sip & Sonder Espresso"
+            },
+            {
+              "title": "Nightfall",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Don Julio Reposado, Milk, Sip & Sonder Cold Brew"
+            },
+            {
+              "title": "Mountain Breeze",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tito\u2019s Vodka, Hibiscus Liqueur, Lime Juice"
+            },
+            {
+              "title": "Morning Mist",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garrison Brothers Small Batch Bourbon, Earl Grey, Angostura, Orange Bitters"
+            },
+            {
+              "title": "On the Wing",
+              "prices": [],
+              "pricesRange": false,
+              "description": "St. Elder, Mumm Sparkling Brut Ros\u00e9"
+            },
+            {
+              "title": "Smokey Sunset",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ardbeg Wee Beastie, Lime Juice, Pineapple, Coconut Cream, Blood Orange"
+            },
+            {
+              "title": "Lofty Perch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Astral Blanco, Lime Juice, Agave, Jalape\u00f1o"
+            },
+            {
+              "title": "Mountain Climb",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tasting of Garrison Brothers Bourbon. 1-oz Small Batch, 1-oz Single Barrel, 1-oz Balmorhea."
+            }
+          ]
+        },
+        {
+          "name": "Frozen Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Flamboyance",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fros\u00e9 with Giesen 0% Ros\u00e9"
+            },
+            {
+              "title": "The Flamboyance",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fros\u00e9 with Chapoutier Belleruche Ros\u00e9"
+            },
+            {
+              "title": "The Birdwatcher",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Iced Tea and Lemonade"
+            },
+            {
+              "title": "The Birdwatcher",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Iced Tea and Lemonade with Buffalo Trace Bourbon"
+            }
+          ]
+        },
+        {
+          "name": "Shared Cocktail",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Red or White Sangria 1 L",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Create your own flavors with herbal simple syrups served on the side. Basil & Lavender, Thyme, Basil & Mint, Orange & Clove."
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Michelob Ultra",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz, (ABV 4.2%)"
+            },
+            {
+              "title": "Coors Light",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz, (ABV 4.2%)"
+            },
+            {
+              "title": "Miller Lite",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz, (ABV 4.2%)"
+            },
+            {
+              "title": "Stella Artois",
+              "prices": [],
+              "pricesRange": false,
+              "description": "12-oz, (ABV 5.2%)"
+            },
+            {
+              "title": "Modelo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 4.2%)"
+            },
+            {
+              "title": "Parkside IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 7.7%), Bay City Brewing, San Diego, California"
+            },
+            {
+              "title": "Dictionary Roulette ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 7.4%), Brewery X, Anaheim, California"
+            },
+            {
+              "title": "Tropical Hideaway",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 5.6%), Bottle Logic, Anaheim, California"
+            },
+            {
+              "title": "Red Trolley",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 5.8%), Karl Strauss, San Diego, California"
+            },
+            {
+              "title": "Duck Beer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 5.8%), Brewery X, Anaheim, California"
+            },
+            {
+              "title": "Succulent Sipper",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 5.0%), Hard Seltzer, Brewery X, Anaheim, California"
+            },
+            {
+              "title": "POG Hard Cider",
+              "prices": [],
+              "pricesRange": false,
+              "description": "16-oz Draft, (ABV 6.5%), Newtopia, San Diego, California"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling & Ros\u00e9",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Domaine Chandon Sparkling",
+              "prices": [],
+              "pricesRange": false,
+              "description": "California"
+            },
+            {
+              "title": "Mumm Sparkling Brut Ros\u00e9",
+              "prices": [],
+              "pricesRange": false,
+              "description": "California"
+            },
+            {
+              "title": "Nicolas Feuillatte Brut",
+              "prices": [],
+              "pricesRange": false,
+              "description": "France"
+            },
+            {
+              "title": "La Marca Prosecco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Italy"
+            },
+            {
+              "title": "Ch\u00e2teau. D\u2019Esclans Whispering Angel Ros\u00e9",
+              "prices": [],
+              "pricesRange": false,
+              "description": "France"
+            },
+            {
+              "title": "Daou Ros\u00e9",
+              "prices": [],
+              "pricesRange": false,
+              "description": "California"
+            },
+            {
+              "title": "Chapoutier Belleruche Ros\u00e9",
+              "prices": [],
+              "pricesRange": false,
+              "description": "France"
+            }
+          ]
+        },
+        {
+          "name": "White",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chateau Ste Michelle Riesling",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Washington"
+            },
+            {
+              "title": "Kim Crawford Sauvignon Blanc",
+              "prices": [],
+              "pricesRange": false,
+              "description": "New Zealand"
+            },
+            {
+              "title": "Torres Pazo Das Bruxas Albari\u00f1o",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spain"
+            },
+            {
+              "title": "J Lohr Chardonnay",
+              "prices": [],
+              "pricesRange": false,
+              "description": "California"
+            }
+          ]
+        },
+        {
+          "name": "Red",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Argyle Pinot Noir",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oregon"
+            },
+            {
+              "title": "Louis M Martini Cabernet Sauvignon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "California"
+            },
+            {
+              "title": "Belasco de Baquedando AR Gurentota Malbec",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Argentina"
+            },
+            {
+              "title": "Termes Toro Tempranillo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spain"
+            }
+          ]
+        },
+        {
+          "name": "Zero Proof",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brisk Breeze",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lyre\u2019s Aperitif Rosso, Lyre\u2019s Sparkling, Club Soda"
+            },
+            {
+              "title": "The Fresh Cut",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seedlip Garden, Herbal Simple Syrup, Tonic Water"
+            },
+            {
+              "title": "Bird's Eye View",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lyre\u2019s Agave Blanco Spirit, Lime Juice, Simple Syrup, Mint"
+            },
+            {
+              "title": "Giesen 0% Sauvignon Blanc or Ros\u00e9",
+              "prices": [],
+              "pricesRange": false,
+              "description": "New Zealand"
+            },
+            {
+              "title": "Giesen 0% Sparkling Wine",
+              "prices": [],
+              "pricesRange": false,
+              "description": "New Zealand"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Frozen Cocktails",
+        "desktop": "Frozen Cocktails"
+      },
+      {
+        "mobile": "Shared Cocktail",
+        "desktop": "Shared Cocktail"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Sparkling & Ros\u00e9",
+        "desktop": "Sparkling & Ros\u00e9"
+      },
+      {
+        "mobile": "White",
+        "desktop": "White"
+      },
+      {
+        "mobile": "Red",
+        "desktop": "Red"
+      },
+      {
+        "mobile": "Zero Proof",
+        "desktop": "Zero Proof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2405 @@
+{
+  "name": "Tangaroa Terrace Tropical Bar & Grill",
+  "location": "Disneyland Resort, Disneyland Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Seasonal Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hei Hei Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "American Breakfast",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Bacon and Sweet Potato Medley, served with a Pineapple Wedge*"
+            },
+            {
+              "title": "Loco Moco Burrito*",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steamed Jasmine Rice, Chopped Wagyu Beef Patty, Fried Egg, Gravy, Crunchy Fried Shallots and Furikake, served with Salsa Roja*"
+            },
+            {
+              "title": "Kalbi Short Rib and Eggs* ",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Tender Braised Kalbi Beef Short Rib and Sweet Potato Medley, served with a Pineapple Wedge*"
+            },
+            {
+              "title": "Coconut French Toast ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Texas Toast, Powdered Sugar, Candied Pineapple, Toasted Shaved Coconut and Maple Syrup, served with Bacon"
+            },
+            {
+              "title": "Tropical Buttermilk Pancakes ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Macadamia Nut Buttermilk Pancakes, Caramelized Bananas, Maple Syrup and Sweet Butter"
+            },
+            {
+              "title": "K\u0101lua-style Pork Breakfast Croissant Sandwich* ",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tender K\u0101lua-style Pork, Bacon, Fried Egg and Havarti Cheese on a Toasted Croissant Bun, served with a Pineapple Wedge*"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Island Garden Avocado Toast ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plant-based Croissant, Smashed Avocado, Watermelon Radish, Sweet Cherry Tomato, Micro Cilantro, Shichimi A\u00efoli Drizzle and Lime Wedge, served with Pineapple Wedge and Fresh Berries*"
+            }
+          ]
+        },
+        {
+          "name": "Side",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Scrambled Eggs",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Junior Scramble",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Sweet Potato Medley, Turkey Bacon and a Pineapple Wedge, served with choice of small DASANI\u00ae Water or small Lowfat Milk*. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey-shaped Tangaroa Toast",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cinnamon-sugared Toast, Citrus Custard, Guava Syrup, Whipped Cream and Toasted Coconut, served with Turkey Bacon and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Mickey-shaped Pancake ",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fluffy Buttermilk Pancake with Maple Syrup, served with Turkey Bacon and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Grab 'n' Go",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Banana",
+              "prices": [
+                {
+                  "withoutTax": 2,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "CHEETOS\u00ae Crunchy Cheese Flavored Snacks",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "CHEETOS\u00ae Crunchy FLAMIN' HOT\u00ae Cheese Flavored Snacks ",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DORITOS\u00ae Nacho Cheese Flavored Tortilla Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "String Cheese",
+              "prices": [
+                {
+                  "withoutTax": 1.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sabra Classic Grab and Go Hummus",
+              "prices": [
+                {
+                  "withoutTax": 2.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Applesauce",
+              "prices": [
+                {
+                  "withoutTax": 2.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry Greek Yogurt",
+              "prices": [
+                {
+                  "withoutTax": 3.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blueberry Greek Yogurt",
+              "prices": [
+                {
+                  "withoutTax": 3.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Uncrustable PB&J Sandwich - Grape",
+              "prices": [
+                {
+                  "withoutTax": 2.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Croissant",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Butter Croissant",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blueberry Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Chocolate Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinnamon Roll",
+              "prices": [
+                {
+                  "withoutTax": 8.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chia Granola Parfait",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cuties\u00ae Mandarin 3-Pack",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin 3-Pack"
+            },
+            {
+              "title": "Fresh Pineapple",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fruit Cup"
+            },
+            {
+              "title": "Fresh Watermelon",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fruit Cup"
+            },
+            {
+              "title": "Froot Loops Cereal",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corn Flakes Cereal",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft Frozen Strawberry Lemonade Cup",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft Frozen Lemonade Cup",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Caesar Salad ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herb-marinated Chicken Breast, Romaine Lettuce, Parmesan Cheese, Herb Croutons and Caesar Dressing"
+            },
+            {
+              "title": "Mixed Greens ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Candied Pecans, Blue Cheese and Herb Vinaigrette"
+            },
+            {
+              "title": "Turkey Focaccia Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Turkey Breast, Lettuce and Tomato in a Focaccia Bun"
+            },
+            {
+              "title": "Vegetable Wrap ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Assorted Grilled Vegetables Wrapped in a Spinach Tortilla"
+            }
+          ]
+        },
+        {
+          "name": "Assorted Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coca-Cola Freestyle\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk - Small",
+              "prices": [
+                {
+                  "withoutTax": 3,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply Lemonade\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Powerade\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "vitaminwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Monster\u2122 Energy",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Monster\u2122 Energy Zero Ultra",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Coffee Express",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Joffrey's Coffee\u2122 Hawaiian Kona Blend - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Joffrey's Coffee\u2122 Hawaiian Kona Blend - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decaffeinated Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decaffeinated Coffee - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea - Regular",
+              "prices": [
+                {
+                  "withoutTax": 3.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate - Regular",
+              "prices": [
+                {
+                  "withoutTax": 3.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly American Breakfast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Bacon, and Sweet Potato Medley served with a Pineapple Wedge"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' - Junior Scramble",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Sweet Potato Medley, Pineapple Wedge, Turkey Bacon and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Loco Moco Burrito* ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Steamed Jasmine Rice, Chopped Wagyu Beef Patty, Gravy, Crunchy Fried Shallots and Furikake, served with Salsa Roja*"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin, Yogurt Smoothie,&#160;&#160;Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small DASANI\u00ae Bottled Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly American Breakfast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Bacon, and Sweet Potato Medley served with a Pineapple Wedge"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Tangaroa Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Brick Toast, Citrus Custard, Guava Syrup, Whipped Cream, and Toasted Coconut, served with Bacon"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Avocado Toast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smashed Avocado, Scrambled Eggs, Hollandaise and Spiced Ham Lardons on Toasted Hawaiian Bread topped with Microgreens, Watermelon Radish and Edible Flower"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' - Junior Scramble",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Sweet Potato Medley, Pineapple Wedge, Turkey Bacon and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Mickey-shaped Tangaroa Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cinnamon-sugared Toast, Citrus Custard, Guava Syrup, Whipped Cream and Toasted Coconut, served with Turkey Bacon and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Dasani\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based Island Garden Avocado Toast ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Plant-based Croissant, Smashed Avocado, Watermelon Radish, Sweet Cherry Tomato, Micro Cilantro, Shichimi A\u00efoli Drizzle and Lime Wedge, served with Pineapple Wedge and Fresh Berries*"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kalbi Short Rib and Eggs* ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Tender Braised Kalbi Beef Short Rib and Sweet Potato Medley, served with a Pineapple Wedge*"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Tropical Buttermilk Pancakes ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Macadamia Nut Buttermilk Pancakes, Caramelized Bananas, Maple Syrup and Sweet Butter"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Loco Moco Burrito*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Steamed Jasmine Rice, Chopped Wagyu Beef Patty, Fried Egg, Gravy, Crunchy Fried Shallots and Furikake, served with Salsa Roja*"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Coconut French Toast ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Texas Toast, Powdered Sugar, Candied Pineapple, Toasted Shaved Coconut and Maple Syrup, served With Bacon"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly K\u0101lua-style Pork Breakfast Croissant Sandwich* ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tender K\u0101lua-style Pork, Bacon, Fried Egg and Havarti Cheese on a Toasted Croissant Bun, served with a Pineapple Wedge*"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mickey-shaped Pancake ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fluffy Buttermilk Pancake with Maple Syrup, served with Turkey Bacon and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly American Breakfast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Bacon, and Sweet Potato Medley served with a Pineapple Wedge"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' - Junior Scramble",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Sweet Potato Medley, Pineapple Wedge, Turkey Bacon and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Milk Allergy-Friendly Kalbi Short Rib and Eggs* ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Tender Braised Kalbi Beef Short Rib and Sweet Potato Medley, served with a Pineapple Wedge*"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly American Breakfast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Bacon, and Sweet Potato Medley served with a Pineapple Wedge"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Loco Moco Burrito*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Steamed Jasmine Rice, Chopped Garlic Beef Patty, Gravy, crunchy Fried Onions, and Furikake, served with Salsa Roja"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Tangaroa Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Brick Toast, Citrus Custard, Guava Syrup, Whipped Cream, served with Bacon"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Avocado Toast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smashed Avocado, Scrambled Eggs, Hollandaise and Spiced Ham Lardons on Toasted Hawaiian Bread topped with Microgreens, Watermelon Radish and Edible Flowers"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' - Junior Scramble",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Sweet Potato Medley, Pineapple Wedge, Turkey Bacon and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Dasani\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Mickey-shaped Tangaroa Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cinnamon-sugared Toast, Citrus Custard Guava Syrup, Whipped Cream, served with Turkey Bacon and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree nut Allergy-Friendly Kalbi Short Rib and Eggs* ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Tender Braised Kalbi Beef Short Rib and Sweet Potato Medley, served with a Pineapple Wedge*"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mickey-shaped Pancake ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fluffy Buttermilk Pancake with Maple Syrup, served with Turkey Bacon and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly American Breakfast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Bacon, and Sweet Potato Medley served with a Pineapple Wedge"
+            },
+            {
+              "title": "Soy Allergy-Friendly Tangaroa Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Brick Toast, Citrus Custard, Guava Syrup, Whipped Cream, and Toasted Coconut, served with Bacon"
+            },
+            {
+              "title": "Soy Nut Allergy-Friendly Kids' - Junior Scramble",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Egg, Sweet Potato Medley, Pineapple Wedge, Turkey Bacon and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Mickey-shaped Tangaroa Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cinnamon-sugared Toast, Citrus Custard, Guava Syrup and Whipped Cream, served with Turkey Bacon and choice of Small DASANI\u00ae Water or\u00a0Small Lowfat Milk."
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Crackers with choice of Small Beverage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hei Hei Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of beverage. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pork Gyoza",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pork and Vegetable Pot Stickers topped with Unagi Sauce and Bonito Flakes, served with Gochujang A\u00efoli"
+            },
+            {
+              "title": "Basket of Sweet Potato Fries",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Basket of French Fries",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Shrimp Tempura ",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Ponzu Dipping Sauce, Toasted Sesame, Chile Threads and Green Onions"
+            },
+            {
+              "title": "Spiced Dry-rub Chicken Wings ",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shichimi-spiced Dry-rub Chicken Wings served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Tempura-battered Green Beans",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Togarashi A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Poke Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of Ahi Tuna*, Salmon* or Marinated Tofu with Smashed Avocado, Sliced Cucumber, Edamame and Imitation Crab Salad with Sushi Rice, topped with Crispy Fried Onions and Togarashi A\u00efoli"
+            },
+            {
+              "title": "Hawaiian Platter",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice Of Braised Kalbi Beef Short Rib or Teriyaki Chicken Thigh served with Steamed Jasmine Rice, Stir-fried Vegetables, Steamed Baby Bok Choy and Sweet Teriyaki Glaze"
+            },
+            {
+              "title": "Wagyu Hawaiian Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wagyu Cheeseburger served with Grilled Pineapple, Applewood-smoked Bacon, Havarti Cheese, Butter Lettuce, Tomato, Onions and Sweet -and-Spicy Spread, served with choice of Sweet Potato Fries or French Fries*"
+            },
+            {
+              "title": "Tonkotsu Ramen",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rich Pork-based Broth, Fish Cake, Wavy Noodles, Pork Belly Slices, Fresh Green Onions, Shiitake Mushrooms, Sambal, Soft-boiled Flavored Egg, Garlic Oil and Nori*"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of French Fries or Sweet Potato Fries"
+            },
+            {
+              "title": "Island Chopped Salad* ",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Teriyaki Chicken or Pan-seared Salmon*, Crisp Romaine Spears, Pineapple-glazed Smoked Ham, Green Papaya Slaw, Tropical Fruit Compote, Cotija Cheese, Edamame, Passion-Orange-Guava A\u00efoli and Crisp Fried Shallots, served with Passion Fruit Vinaigrette*"
+            },
+            {
+              "title": "Swaying Palms Salad with Teriyaki Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Teriyaki Chicken or Pan-seared Salmon*, Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            },
+            {
+              "title": "Pupu Platter ",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pork Gyoza, Shrimp Tempura, Tempura-battered Green Beans and Togarashi Chicken Wings, served with Togarashi A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Swaying Palms Salad ",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side of Rice",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Salmon Teriyaki Bowl",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seared Salmon served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge, served with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions."
+            },
+            {
+              "title": "Chicken Teriyaki Bowl",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Teriyaki Chicken Thigh, Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and Pineapple Wedge, served with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions."
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids' Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of Sweet Potato Fries or French Fries and a Pineapple Wedge and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Teriyaki Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge served with choice of Salmon* (Add $2) or Teriyaki Chicken Thigh and choice of Small Beverage or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meal without substitutions."
+            }
+          ]
+        },
+        {
+          "name": "Grab 'n' Go",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Banana",
+              "prices": [
+                {
+                  "withoutTax": 2,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "CHEETOS\u00ae Crunchy Cheese Flavored Snacks",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "CHEETOS\u00ae Crunchy FLAMIN' HOT\u00ae Cheese Flavored Snacks ",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DORITOS\u00ae Nacho Cheese Flavored Tortilla Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "String Cheese",
+              "prices": [
+                {
+                  "withoutTax": 1.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sabra Classic Grab and Go Hummus",
+              "prices": [
+                {
+                  "withoutTax": 2.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Applesauce",
+              "prices": [
+                {
+                  "withoutTax": 2.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry Greek Yogurt",
+              "prices": [
+                {
+                  "withoutTax": 3.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blueberry Greek Yogurt",
+              "prices": [
+                {
+                  "withoutTax": 3.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Uncrustable PB&J Sandwich - Grape",
+              "prices": [
+                {
+                  "withoutTax": 2.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Croissant",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Butter Croissant",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blueberry Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Chocolate Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinnamon Roll",
+              "prices": [
+                {
+                  "withoutTax": 8.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chia Granola Parfait",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cuties\u00ae Mandarin 3-Pack",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cuties\u00ae Mandarin 3-Pack"
+            },
+            {
+              "title": "Fresh Pineapple",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fruit Cup"
+            },
+            {
+              "title": "Fresh Watermelon",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fruit Cup"
+            },
+            {
+              "title": "Froot Loops Cereal",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corn Flakes Cereal",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft Frozen Strawberry Lemonade Cup",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft Frozen Lemonade Cup",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Caesar Salad ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herb-marinated Chicken Breast, Romaine Lettuce, Parmesan Cheese, Herb Croutons and Caesar Dressing"
+            },
+            {
+              "title": "Mixed Greens ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Candied Pecans, Blue Cheese and Herb Vinaigrette"
+            },
+            {
+              "title": "Turkey Focaccia Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Turkey Breast, Lettuce and Tomato in a Focaccia Bun"
+            },
+            {
+              "title": "Vegetable Wrap ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Assorted Grilled Vegetables Wrapped in a Spinach Tortilla"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coconut Cake",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Chantilly Cream and Guava Sauce"
+            },
+            {
+              "title": "Nestl\u00e9\u00ae Mickey's Ice Cream Bar",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream coated in Chocolate"
+            },
+            {
+              "title": "Nestl\u00e9\u00ae Mickey's Ice Cream Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "H\u00e4agen-Dazs\u00ae Ice Cream Bar",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Assorted Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coca-Cola Freestyle\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk - Small",
+              "prices": [
+                {
+                  "withoutTax": 3,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply Lemonade\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Powerade\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "vitaminwater\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Monster\u2122 Energy",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Monster\u2122 Energy Zero Ultra",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Coffee Express",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Joffrey's Coffee\u2122 Hawaiian Kona Blend - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Joffrey's Coffee\u2122 Hawaiian Kona Blend - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decaffeinated Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decaffeinated Coffee - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea - Regular",
+              "prices": [
+                {
+                  "withoutTax": 3.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate - Regular",
+              "prices": [
+                {
+                  "withoutTax": 3.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate - Large",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-friendly Hawaiian Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Marinated Short Rib or Teriyaki Chicken Thigh served with Furikake-seasoned Jasmine Rice and Tangy Slaw"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Wagyu Hawaiian Cheeseburger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Grilled Pineapple, Applewood-smoked Bacon, Havarti, Butter Lettuce, Tomato, Onions, Sweet-and-Spicy Spread on an Allergy-friendly Bun, served with Pineapple Wedges"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kid's Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served on an Allergy-friendly Bun with Sweet Potato Fries, a Pineapple Wedge and served with choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Teriyaki Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge served with choice of Salmon* (Add $2) or Teriyaki Chicken Thigh and choice of Small Beverage or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Mixed Greens ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Candied Pecans, Blue Cheese and Herb Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Teriyaki Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge served with choice of Salmon* (Add $2) or Teriyaki Chicken Thigh and Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Crackers with choice of Small DASANI\u00ae Bottled Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Egg Allergy-Friendly Vegetable Wrap ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Assorted Grilled Vegetables Wrapped in a Spinach Tortilla"
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Swaying Palms Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            }
+          ]
+        },
+        {
+          "name": "Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shellfish Allergy-Friendly Hawaiian Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Marinated Short Rib or Teriyaki Chicken Thigh, served with Jasmine Rice, Macaroni Salad and tangy Slaw"
+            },
+            {
+              "title": "Shellfish Allergy-Friendly Kids' Teriyaki Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge served with choice of Salmon* (Add $2) or Teriyaki Chicken Thigh and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Wagyu Hawaiian Cheeseburger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Grilled Pineapple, Applewood-smoked Bacon, Havarti, Butter Lettuce, Tomato, Onions, and Sweet & Spicy Spread on an Allergy-friendly Bun and served with Sweet Potato Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Hawaiian Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Marinated Short Rib or Teriyaki Chicken Thigh served with Jasmine Rice, Macaroni Salad and Tangy Slaw"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Panko-crusted Long Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kid's Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Sweet Potato Fries, a Pineapple Wedge and choice of Small Dasani\u00ae Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Teriyaki Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Teriyaki Chicken Thigh served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Vegetable Wrap ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Assorted Grilled Vegetables Wrapped in a Spinach Tortilla"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Turkey Focaccia Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Turkey Breast, Lettuce and Tomato in a Focaccia Bun"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mixed Greens ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Candied Pecans, Blue Cheese and Herb Vinaigrette"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based Swaying Palms Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Poke Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Ahi Tuna*, Salmon* or Marinated Tofu with Smashed Avocado, Sliced Cucumber, Edamame and Imitation Crab Salad with Sushi Rice, topped with Crispy Fried Onions and Togarashi A\u00efoli"
+            },
+            {
+              "title": "Milk Allergy-Friendly Hawaiian Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Marinated Short Rib or Teriyaki Chicken Thigh served with Furikake-seasoned Jasmine Rice, Macaroni Salad and Tangy Slaw"
+            },
+            {
+              "title": "Milk Allergy-Friendly Panko-crusted Long Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with choice of Sweet Potato Fries or French Fries and a Pineapple Wedge and Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' Teriyaki Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge served with choice of Salmon* (Add $2) or Teriyaki Chicken Thigh and Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Milk Allergy-Friendly Vegetable Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Assorted Grilled Vegetables Wrapped in a Spinach Tortilla"
+            },
+            {
+              "title": "Milk Allergy-Friendly Turkey Focaccia Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Turkey Breast, Lettuce and Tomato in a Focaccia Bun"
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Swaying Palms Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Poke Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Ahi Tuna*, Salmon* or Marinated Tofu with Smashed Avocado, Sliced Cucumber, Edamame and Imitation Crab Salad with Sushi Rice, topped with Crispy Fried Onions and Togarashi A\u00efoli"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Hawaiian Platter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Marinated Short Rib or Teriyaki Chicken Thigh served with Furikake-seasoned Jasmine Rice and Tangy Slaw"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Tonkotsu Ramen",
+              "prices": [],
+              "pricesRange": false,
+              "description": "rich Pork-based Broth, Wavy Noodles, Pork Belly Slices, Fresh Green Onions, Shiitake Mushrooms, Sambal, Soft-boiled Flavored Egg and Nori"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Wagyu Hawaiian Cheeseburger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Grilled Pineapple, Applewood-smoked Bacon, Havarti, Butter Lettuce, Tomato, Onions, and Sweet & Spicy Spread on an Allergy-friendly Bun, served with Sweet Potato Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Panko-crusted Long Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Sweet Potato Fries,\u00a0a Pineapple Wedge\u00a0and choice of Small Dasani\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Teriyaki Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge served with choice of Salmon* (Add $2) or Teriyaki Chicken Thigh and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chicken Caesar Salad ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Herb-marinated Chicken Breast, Romaine Lettuce, Parmesan Cheese, Herb Croutons and Caesar Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Panko-crusted Long Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small DASANI\u00ae Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Vegetable Wrap ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Assorted Grilled Vegetables Wrapped in a Spinach Tortilla"
+            },
+            {
+              "title": "Soy Allergy-Friendly Turkey Focaccia Sandwich ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Turkey Breast, Lettuce and Tomato in a Focaccia Bun"
+            },
+            {
+              "title": "Soy Allergy-Friendly Mixed Greens ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Candied Pecans, Blue Cheese and Herb Vinaigrette"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

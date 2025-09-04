@@ -1,0 +1,1621 @@
+{
+  "name": "Cozy Cone Motel",
+  "location": "Disney California Adventure Park, Cars Land",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Special",
+      "label": "Special"
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Special",
+      "label": "Special",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Oogie Boogie Bash Offering [Available durring Event Only]",
+          "type": "Alcoholic Beverage|Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ube Hot Chocolate with Vanilla Vodka ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Green Vanilla Whipped Topping and Black Sprinkles"
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offerings at Cozy Cone 1",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cars Land Lighted Cone Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Pumpkin Pie Churro ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Classic Churro topped with Pumpkin Cream and Pie Crust Pieces"
+            },
+            {
+              "title": "Firetruck Slushy",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Slushy garnished with a Gummy Candy"
+            }
+          ]
+        },
+        {
+          "name": "Churros at Cozy Cone 1",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Churro",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Dipping Sauce"
+            },
+            {
+              "title": "Side Caramel Sauce",
+              "prices": [
+                {
+                  "withoutTax": 1.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at Cozy Cone 1",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew Martini ",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew with Irish Cream, Vanilla Vodka and Pumpkin Sauce, topped with Cold Cream Foam"
+            },
+            {
+              "title": "Strawberry Slushy Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Slushy with Tequila, Chile-Lime Seasoning and Chamoy, garnished with a Strawberry Gummy"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 1",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew with Pumpkin Sauce, topped with Cold Cream Foam"
+            },
+            {
+              "title": "Ramone's \"Pear of Dice\" Soda",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soft Serve at Cozy Cone 2",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mater's Haul-O-Ween Cone ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Black Sprinkles, served in a Cup or a Cone"
+            },
+            {
+              "title": "Ube-Vanilla Twist Soft Serve ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Black Sprinkles, served in a Cup or a Cone"
+            },
+            {
+              "title": "Vanilla Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Cone or Cup"
+            },
+            {
+              "title": "Chocolate Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Cone or Cup"
+            },
+            {
+              "title": "Chocolate-Vanilla Twist Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Cone or Cup"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 2",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Route Beer Float",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Route Beer Float in a Souvenir Glass",
+              "prices": [
+                {
+                  "withoutTax": 16.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Snacks at Cozy Cone 3",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Slow Burnin' Mac & Cheese Cone ",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh-cooked Pasta tossed with a Spicy Red Pepper Cheese Sauce in a Bread Cone, topped with Crushed Chile-Cheese Puffs"
+            },
+            {
+              "title": "Chili Cone Queso",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beef Chili, Cheddar Cheese and Corn Chips served in a Bread Cone"
+            },
+            {
+              "title": "Bacon Mac 'n' Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "creamy Mac 'n' Cheese mixed with Roasted Bacon served in a Bread Cone"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 3",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Snacks at Cozy Cone 4",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chimichanga",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages at Cozy Cone 4",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tarantula Hill El Rey Salt and Lime, Mexican Lager ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thousand Oaks, CA (ABV 5.0%)"
+            },
+            {
+              "title": "Unsung Brewing Company, Poison Green Apple, Hard Seltzer ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 7.0%)"
+            },
+            {
+              "title": "Sky Duster West Coast IPA ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Los Angeles, CA (ABV 7.0%)"
+            },
+            {
+              "title": "Mother Earth Brew Co. Cali Screamin Pumpkin Vanilla Cream Ale ",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV 5.0%)"
+            },
+            {
+              "title": "Watermelon Michelada",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tarantula Hill El Rey Salt and Lime Mexican Lager with Watermelon Chamoy Lemonade, rimmed with Chile-Lime Seasoning and Chamoy"
+            },
+            {
+              "title": "Watermelon Chamoy Margarita ",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila with Watermelon Chamoy Lemonade and a Watermelon Lollipop"
+            },
+            {
+              "title": "Watermelon Vodka Lemonade Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka with Watermelon Lemonade and Watermelon Ring Candy"
+            },
+            {
+              "title": "Vodka & All Natural Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vodka & Pomegranate Limeade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 4",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Watermelon Lemonade ",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Watermelon Lemonade and Watermelon Ring Candy"
+            },
+            {
+              "title": "Fillmore's Fuelin' Groovy' All Natural Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fillmore\u2019s Fuelin\u2019 Groovy Pomegranate Limeade",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offering at Cozy Cone 5",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cars Land Lighted Cone Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Barbacoa Sope ",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Sope with Barbacoa, Chorizo Beans, Lettuce, Queso, Crema and Salsa Roja"
+            }
+          ]
+        },
+        {
+          "name": "Popcorn at Cozy Cone 5",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Popcorn Scoop",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Popcorn flavor"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at Cozy Cone 5",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Watermelon Chamoy Lemonade Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Modelo Sandia Picante with Watermelon Chamoy Lemonade, rimmed with Chile-Lime Seasoning and Chamoy"
+            },
+            {
+              "title": "Strawberry Paloma ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Topo Chico\u00ae and Strawberry Syrup, garnished with a Lime and Strawberry Gummy Candy"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 5",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings at Cozy Cone 1",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cars Land Lighted Cone Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Pumpkin Pie Churro ",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Classic Churro topped with Pumpkin Cream and Pie Crust Pieces"
+            },
+            {
+              "title": "Firetruck Slushy",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Slushy garnished with a Gummy Candy"
+            }
+          ]
+        },
+        {
+          "name": "Churros at Cozy Cone 1",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Churro",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Dipping Sauce"
+            },
+            {
+              "title": "Side Caramel Sauce",
+              "prices": [
+                {
+                  "withoutTax": 1.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at Cozy Cone 1",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew Martini ",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew with Irish Cream, Vanilla Vodka and Pumpkin Sauce, topped with Cold Cream Foam"
+            },
+            {
+              "title": "Strawberry Slushy Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Slushy with Tequila, Chile-Lime Seasoning and Chamoy, garnished with a Strawberry Gummy"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 1",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Cr\u00e8me Br\u00fbl\u00e9e Cold Brew with Pumpkin Sauce, topped with Cold Cream Foam"
+            },
+            {
+              "title": "Ramone's \"Pear of Dice\" Soda",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offering at Cozy Cone 2",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cars Land Lighted Cone Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Soft Serve at Cozy Cone 2",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mater's Haul-O-Ween Cone ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Black Sprinkles, served in a Cup or a Cone"
+            },
+            {
+              "title": "Ube-Vanilla Twist Soft Serve ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Black Sprinkles, served in a Cup or a Cone"
+            },
+            {
+              "title": "Vanilla Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Cone or Cup"
+            },
+            {
+              "title": "Chocolate Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Cone or Cup"
+            },
+            {
+              "title": "Chocolate-Vanilla Twist Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Cone or Cup"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 2",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Route Beer Float",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Route Beer Float in a Souvenir Glass",
+              "prices": [
+                {
+                  "withoutTax": 16.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offering at Cozy Cone 3",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cars Land Lighted Cone Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Snacks at Cozy Cone 3",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Slow Burnin' Mac & Cheese Cone ",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh-cooked Pasta tossed with a Spicy Red Pepper Cheese Sauce in a Bread Cone, topped with Crushed Chile-Cheese Puffs"
+            },
+            {
+              "title": "Chili Cone Queso",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beef Chili, Cheddar Cheese and Corn Chips served in a Bread Cone"
+            },
+            {
+              "title": "Bacon Mac 'n' Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "creamy Mac 'n' Cheese mixed with Roasted Bacon served in a Bread Cone"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 3",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Snacks at Cozy Cone 4",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chimichanga",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages at Cozy Cone 4",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tarantula Hill El Rey Salt and Lime, Mexican Lager ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thousand Oaks, CA (ABV 5.0%)"
+            },
+            {
+              "title": "Unsung Brewing Company, Poison Green Apple, Hard Seltzer ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 7.0%)"
+            },
+            {
+              "title": "Sky Duster West Coast IPA ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Los Angeles, CA (ABV 7.0%)"
+            },
+            {
+              "title": "Mother Earth Brew Co. Cali Screamin Pumpkin Vanilla Cream Ale ",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV 5.0%)"
+            },
+            {
+              "title": "Watermelon Michelada",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tarantula Hill El Rey Salt and Lime Mexican Lager with Watermelon Chamoy Lemonade, rimmed with Chile-Lime Seasoning and Chamoy"
+            },
+            {
+              "title": "Watermelon Chamoy Margarita ",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila with Watermelon Chamoy Lemonade and a Watermelon Lollipop"
+            },
+            {
+              "title": "Watermelon Vodka Lemonade Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka with Watermelon Lemonade and Watermelon Ring Candy"
+            },
+            {
+              "title": "Vodka & All Natural Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vodka & Pomegranate Limeade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 4",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Watermelon Lemonade ",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Watermelon Lemonade and Watermelon Ring Candy"
+            },
+            {
+              "title": "Fillmore's Fuelin' Groovy' All Natural Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fillmore\u2019s Fuelin\u2019 Groovy Pomegranate Limeade",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offering at Cozy Cone 5",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cars Land Lighted Cone Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Barbacoa Sope ",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Sope with Barbacoa, Chorizo Beans, Lettuce, Queso, Crema and Salsa Roja"
+            }
+          ]
+        },
+        {
+          "name": "Popcorn at Cozy Cone 5",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Popcorn Scoop",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Popcorn flavor"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverage at Cozy Cone 5",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Watermelon Chamoy Lemonade Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Modelo Sandia Picante with Watermelon Chamoy Lemonade, rimmed with Chile-Lime Seasoning and Chamoy"
+            },
+            {
+              "title": "Strawberry Paloma ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Topo Chico\u00ae and Strawberry Syrup, garnished with a Lime and Strawberry Gummy Candy"
+            }
+          ]
+        },
+        {
+          "name": "Beverages at Cozy Cone 5",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Oogie Boogie Bash Offering [Available durring Event Only]",
+        "desktop": "Oogie Boogie Bash Offering [Available durring Event Only]"
+      },
+      {
+        "mobile": "Seasonal Offerings at Cozy Cone 1",
+        "desktop": "Seasonal Offerings at Cozy Cone 1"
+      },
+      {
+        "mobile": "Churros at Cozy Cone 1",
+        "desktop": "Churros at Cozy Cone 1"
+      },
+      {
+        "mobile": "Alcoholic Beverage at Cozy Cone 1",
+        "desktop": "Alcoholic Beverage at Cozy Cone 1"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 1",
+        "desktop": "Beverages at Cozy Cone 1"
+      },
+      {
+        "mobile": "Soft Serve at Cozy Cone 2",
+        "desktop": "Soft Serve at Cozy Cone 2"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 2",
+        "desktop": "Beverages at Cozy Cone 2"
+      },
+      {
+        "mobile": "Snacks at Cozy Cone 3",
+        "desktop": "Snacks at Cozy Cone 3"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 3",
+        "desktop": "Beverages at Cozy Cone 3"
+      },
+      {
+        "mobile": "Snacks at Cozy Cone 4",
+        "desktop": "Snacks at Cozy Cone 4"
+      },
+      {
+        "mobile": "Alcoholic Beverages at Cozy Cone 4",
+        "desktop": "Alcoholic Beverages at Cozy Cone 4"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 4",
+        "desktop": "Beverages at Cozy Cone 4"
+      },
+      {
+        "mobile": "Seasonal Offering at Cozy Cone 5",
+        "desktop": "Seasonal Offering at Cozy Cone 5"
+      },
+      {
+        "mobile": "Popcorn at Cozy Cone 5",
+        "desktop": "Popcorn at Cozy Cone 5"
+      },
+      {
+        "mobile": "Alcoholic Beverage at Cozy Cone 5",
+        "desktop": "Alcoholic Beverage at Cozy Cone 5"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 5",
+        "desktop": "Beverages at Cozy Cone 5"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Seasonal Offerings at Cozy Cone 1",
+        "desktop": "Seasonal Offerings at Cozy Cone 1"
+      },
+      {
+        "mobile": "Churros at Cozy Cone 1",
+        "desktop": "Churros at Cozy Cone 1"
+      },
+      {
+        "mobile": "Alcoholic Beverage at Cozy Cone 1",
+        "desktop": "Alcoholic Beverage at Cozy Cone 1"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 1",
+        "desktop": "Beverages at Cozy Cone 1"
+      },
+      {
+        "mobile": "Seasonal Offering at Cozy Cone 2",
+        "desktop": "Seasonal Offering at Cozy Cone 2"
+      },
+      {
+        "mobile": "Soft Serve at Cozy Cone 2",
+        "desktop": "Soft Serve at Cozy Cone 2"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 2",
+        "desktop": "Beverages at Cozy Cone 2"
+      },
+      {
+        "mobile": "Seasonal Offering at Cozy Cone 3",
+        "desktop": "Seasonal Offering at Cozy Cone 3"
+      },
+      {
+        "mobile": "Snacks at Cozy Cone 3",
+        "desktop": "Snacks at Cozy Cone 3"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 3",
+        "desktop": "Beverages at Cozy Cone 3"
+      },
+      {
+        "mobile": "Snacks at Cozy Cone 4",
+        "desktop": "Snacks at Cozy Cone 4"
+      },
+      {
+        "mobile": "Alcoholic Beverages at Cozy Cone 4",
+        "desktop": "Alcoholic Beverages at Cozy Cone 4"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 4",
+        "desktop": "Beverages at Cozy Cone 4"
+      },
+      {
+        "mobile": "Seasonal Offering at Cozy Cone 5",
+        "desktop": "Seasonal Offering at Cozy Cone 5"
+      },
+      {
+        "mobile": "Popcorn at Cozy Cone 5",
+        "desktop": "Popcorn at Cozy Cone 5"
+      },
+      {
+        "mobile": "Alcoholic Beverage at Cozy Cone 5",
+        "desktop": "Alcoholic Beverage at Cozy Cone 5"
+      },
+      {
+        "mobile": "Beverages at Cozy Cone 5",
+        "desktop": "Beverages at Cozy Cone 5"
+      }
+    ]
+  }
+}

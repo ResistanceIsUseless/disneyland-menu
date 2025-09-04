@@ -1,0 +1,164 @@
+{
+  "name": "Seoul Sister",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Signature Bowls",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beef & Egg",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bulgogi Beef, Carrots, Kale, Egg, Sesame Oil, Spicy Gochu Seoul Sauce, with a choice of Rice, Japchae Noodles, or Salad"
+            },
+            {
+              "title": "Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bulgogi Beef, Kimchi, Green Onions, Garlic Soy Sauce, with a choice of Rice, Japchae Noodles, or Salad"
+            },
+            {
+              "title": "Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Chicken, Carrots, Broccoli, Green Onions, Furikake, sweet Soy Sauce, with a choice of Rice, Japchae Noodles, or Salad"
+            },
+            {
+              "title": "Pork Belly",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Pork Belly, Carrots, Snow Peas, Pickled Ginger, Apricot Ginger Sauce, with a choice of Rice, Japchae Noodles, or Salad"
+            },
+            {
+              "title": "Tofu",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Organic Tofu, Carrots, Kale, Cucumber, Avocado, creamy Vegenaise Sauce, with a choice of Rice, Japchae Noodles, or Salad"
+            }
+          ]
+        },
+        {
+          "name": "Appetizer",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dumplings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Beef and Vegetable Dumplings"
+            }
+          ]
+        },
+        {
+          "name": "Grab & Go Salad",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Korean Chicken Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Chicken, Carrots, Cucumber, Green Onion, Sesame Oil, Greens, with Spicy Gochu Seoul Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Drinks",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Korean Yuja Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Matcha Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Unsweetened"
+            }
+          ]
+        },
+        {
+          "name": "Grab & Go",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fruit Punch",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gimme Seaweed",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sea Salt"
+            }
+          ]
+        },
+        {
+          "name": "Kids' \"Ai\" Menu Set",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beef Mini Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bulgogi Beef, Broccoli, Green Onion, Garlic Soy Sauce, and choice of Rice or Japchae Noodles. [Mini bowl includes Gimme Seaweed Snack and Milk or choice of Juice]"
+            },
+            {
+              "title": "Chicken Mini Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Chicken, Carrots, Broccoli, Green Onions, Furikake, Sweet Soy Sauce, and choice of Rice or Japchae Noodles. [Mini bowl includes Gimme Seaweed Snack and Milk or choice of Juice]"
+            },
+            {
+              "title": "Rice Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rice and Sweet Soy Sauce. [Mini bowl includes Gimme Seaweed Snack and Milk or choice of Juice]"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

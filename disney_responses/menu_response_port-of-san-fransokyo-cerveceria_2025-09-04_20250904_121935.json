@@ -1,0 +1,879 @@
+{
+  "name": "Port of San Fransokyo Cervecer\u00eda",
+  "location": "Disney California Adventure Park, San Fransokyo Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    },
+    {
+      "name": "Special",
+      "label": "Special"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Breakfast Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Croissant ",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Bacon, Eggs, Jalape\u00f1os, Cheese, Green Onions and Sesame Seeds"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager ",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager (ABV 4.4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager Michelada (ABV 4.4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Oktoberfest ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV 5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%) ",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale Michelada",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Michelada with Karl Strauss\u00ae Red Trolley Ale"
+            },
+            {
+              "title": "Fieldwork Day Money Non-Alcoholic Grapefruit Blonde Ale ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Golden Ale with a subtle Malt profile, light Fruity hoppiness, and exceptionally bright finish of Grapefruit. (ABV &lt;0.5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Frank the Dank Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A hop forward American Double IPA bursting with Pine, Orange and Tropical Aromas and flavors with a dry crisp finish (ABV 8.5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Battle Bot Blonde",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Easy drinking and crisp with a slight biscuity malt sweetness that's refreshing and bright. (ABV 4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Battle Bot Blonde Michelada",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Michelada with Karl Strauss\u00ae Brewing Company, Battle Bot Blonde"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen Yuzu Japanese Rice Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beer Flight ",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of four Karl Strauss\u00ae Brewing Company Beers"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An easy, crisp, refreshing Lager with a clean, light finish (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen with Yuzu, Japanese Rice Lager with Yuzu ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Refreshing Japanese rice lager with floral and citrus notes from the addition Yuzu that finishes crisp and clean. (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hints of Raisins and Currants with a Deep Copper Color and Coffee Flavor (ABV 5.8%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Aurora Hoppyalis IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Robust Flavors and Aromas of Tropical Fruit, Pine and Tangerine with a Dry, Crisp Finish (ABV 7.0%)."
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Boat Shoes Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flavors of Citrus and Sweet Fruit that Lingers through a Juicy Finish (ABV 7.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Windansea Wheat",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aromas of Banana, Clove and a Hint of Vanilla (ABV 5.1%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverage",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snack Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pretzel-wrapped Hot Dog",
+              "prices": [
+                {
+                  "withoutTax": 11.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pretzel-wrapped 12-inch Hot Dog with Scallions and Mustard"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager ",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager (ABV 4.4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager Michelada (ABV 4.4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Oktoberfest ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV 5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%) ",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale Michelada",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Michelada with Karl Strauss\u00ae Red Trolley Ale"
+            },
+            {
+              "title": "Fieldwork Day Money Non-Alcoholic Grapefruit Blonde Ale ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Golden Ale with a subtle Malt profile, light Fruity hoppiness, and exceptionally bright finish of Grapefruit. (ABV &lt;0.5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Frank the Dank Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A hop forward American Double IPA bursting with Pine, Orange and Tropical Aromas and flavors with a dry crisp finish (ABV 8.5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Battle Bot Blonde",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Easy drinking and crisp with a slight biscuity malt sweetness that's refreshing and bright. (ABV 4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Battle Bot Blonde Michelada",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Michelada with Karl Strauss\u00ae Brewing Company, Battle Bot Blonde"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen Yuzu Japanese Rice Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beer Flight ",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of four Karl Strauss\u00ae Brewing Company Beers"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An easy, crisp, refreshing Lager with a clean, light finish (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen with Yuzu, Japanese Rice Lager with Yuzu ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Refreshing Japanese rice lager with floral and citrus notes from the addition Yuzu that finishes crisp and clean. (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hints of Raisins and Currants with a Deep Copper Color and Coffee Flavor (ABV 5.8%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Aurora Hoppyalis IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Robust Flavors and Aromas of Tropical Fruit, Pine and Tangerine with a Dry, Crisp Finish (ABV 7.0%)."
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Boat Shoes Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flavors of Citrus and Sweet Fruit that Lingers through a Juicy Finish (ABV 7.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Windansea Wheat",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aromas of Banana, Clove and a Hint of Vanilla (ABV 5.1%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverage",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "label": "Special",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snack Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pretzel-wrapped Hot Dog",
+              "prices": [
+                {
+                  "withoutTax": 11.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pretzel-wrapped 12-inch Hot Dog with Scallions and Mustard"
+            }
+          ]
+        },
+        {
+          "name": "Beer",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager ",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager (ABV 4.4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Karl Strauss\u00ae Brewing Company, Karlitos Mexican Lager Michelada (ABV 4.4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Oktoberfest ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV 5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, 70th Anniversary IPA, San Diego CA. (ABV 7.0%) ",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An intensely single-hopped American IPA bursting with Grapefruit Aromas, Citrus, and Tropical Fruit Flavors (ABV 7.0%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale Michelada",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Michelada with Karl Strauss\u00ae Red Trolley Ale"
+            },
+            {
+              "title": "Fieldwork Day Money Non-Alcoholic Grapefruit Blonde Ale ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Alcoholic Golden Ale with a subtle Malt profile, light Fruity hoppiness, and exceptionally bright finish of Grapefruit. (ABV &lt;0.5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Frank the Dank Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A hop forward American Double IPA bursting with Pine, Orange and Tropical Aromas and flavors with a dry crisp finish (ABV 8.5%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Battle Bot Blonde",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Easy drinking and crisp with a slight biscuity malt sweetness that's refreshing and bright. (ABV 4%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Battle Bot Blonde Michelada",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Michelada with Karl Strauss\u00ae Brewing Company, Battle Bot Blonde"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen Yuzu Japanese Rice Lager Michelada ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beer Flight ",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of four Karl Strauss\u00ae Brewing Company Beers"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Follow the Sun Lager",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An easy, crisp, refreshing Lager with a clean, light finish (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Moment of Zen with Yuzu, Japanese Rice Lager with Yuzu ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Refreshing Japanese rice lager with floral and citrus notes from the addition Yuzu that finishes crisp and clean. (ABV 4.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Red Trolley Ale",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hints of Raisins and Currants with a Deep Copper Color and Coffee Flavor (ABV 5.8%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Aurora Hoppyalis IPA",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Robust Flavors and Aromas of Tropical Fruit, Pine and Tangerine with a Dry, Crisp Finish (ABV 7.0%)."
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Boat Shoes Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flavors of Citrus and Sweet Fruit that Lingers through a Juicy Finish (ABV 7.2%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, Windansea Wheat",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aromas of Banana, Clove and a Hint of Vanilla (ABV 5.1%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverage",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast Offering",
+        "desktop": "Breakfast Offering"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Beverage",
+        "desktop": "Beverage"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Snack Offering",
+        "desktop": "Snack Offering"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Beverage",
+        "desktop": "Beverage"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Snack Offering",
+        "desktop": "Snack Offering"
+      },
+      {
+        "mobile": "Beer",
+        "desktop": "Beer"
+      },
+      {
+        "mobile": "Beverage",
+        "desktop": "Beverage"
+      }
+    ]
+  }
+}

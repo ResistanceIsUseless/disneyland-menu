@@ -1,0 +1,788 @@
+{
+  "name": "C\u00e9ntrico",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Antojitos",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guacamole",
+              "prices": [],
+              "pricesRange": false,
+              "description": "creamy Avocado, Tomato, Cilantro, Onion, Lime, Serrano, Tortilla Chips, Salsa {add Chicharr\u00f3n or add Pork Belly} [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Chips & Salsa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "bottomless crispy Tortilla Chips, fresh house-made Salsa [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Avocado Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ricotta, Avocado, Preserved Meyer Lemons, Salsa Macha, Serrano, Chives [Vegetarian]"
+            },
+            {
+              "title": "Tlayuda",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oaxacan Tostada, Black Bean Pur\u00e9e, Avocado Mousse, Cecina, Chorizo, Pork Belly, Salsa Macha, Oaxaca Cheese [Made without Gluten]"
+            },
+            {
+              "title": "Tuna Tiradito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "sashimi-grade Ahi Tuna, Chiles Toreados, Avocado, Red Onion, Soy Ponzu"
+            },
+            {
+              "title": "Mixed Ceviche Coctel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Salsa Acapulco, Fish, Shrimp, Octopus, Cherry Tomato, Red Onion, Avocado, Chips"
+            },
+            {
+              "title": "Shrimp Aguachile",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lime Juice Cured Shrimp, Cucumber, Cilantro, Red Onion, Chiles Toreados, Avocado, Yuzu-Lime-Soy Aguachile"
+            },
+            {
+              "title": "Tangerine Shrimp Ceviche",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp, Avocado, Mango, Jalape\u00f1o, Tangerine Habanero, Agua Chile, Jicama, Cherry Tomatoes, Cucumber [Made without Gluten]"
+            }
+          ]
+        },
+        {
+          "name": "Tacos",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cochinita Pibil Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Guerrero-style Pork, Black Bean Pur\u00e9e, Pickled Red Onions, Habanero Salsa, Corn Tortillas [Made without Gluten]"
+            },
+            {
+              "title": "Fish Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mahi Mahi with light Tempura crisp, creamy Coleslaw, Chipotle A\u00efoli, Flour Tortillas"
+            },
+            {
+              "title": "Taquitos de Papa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "four lightly Fried Corn Tortillas stuffed with Potato, Onion, Cilantro, topped with Salsa Verde, Guacamole, Red Onion, Tomato"
+            },
+            {
+              "title": "Carne Asada Tacos ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sirloin Steak, Roasted Knob Onion, Onion, Cilantro, Chile de \u00c1rbol Salsa, Flour Tortillas"
+            },
+            {
+              "title": "Chicken Mole Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mole Negro, Sour Cream, Queso Fresco, Sesame Seeds, Pickled Red Onions, Corn Tortillas"
+            },
+            {
+              "title": "Chicken Taquitos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "four lightly Fried Corn Tortillas, stuffed with Shredded Chicken, topped with Sour Cream, Queso Fresco, Salsa Verde, Lettuce, Tomato"
+            }
+          ]
+        },
+        {
+          "name": "Quesadillas",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Oaxacan Quesadilla ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hoja Santa, Oaxaca Cheese, Avocado Mousse, Salsa Roja, Corn Tortilla [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Gobernador Quesadilla ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp, Oaxaca Cheese, Pico de Gallo, Flour Tortilla"
+            },
+            {
+              "title": "Quesachicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Pinto Beans, Coleslaw, Oaxacan Cheese, Avocado Mousse, Radishes, Corn Tortilla [Made without Gluten]"
+            },
+            {
+              "title": "Quesapastor",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Al Pastor, Oaxacan Cheese, Onion, Cilantro, Avocado Mousse, Salsa Roja, Corn Tortilla [Made without Gluten]"
+            },
+            {
+              "title": "Quesabirrias",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lamb Birria, Oaxacan Cheese, Guacasalsa, Cilantro, Red Onion, Consom\u00e9, Corn Tortilla [Made without Gluten]"
+            }
+          ]
+        },
+        {
+          "name": "Acompa\u00f1antes",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Butter, Parmesan [Vegetarian]"
+            },
+            {
+              "title": "Mexican Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato Broth, Peas, Carrot [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Mexican Street Corn",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Locally-sourced Corn, Epazote-Garlic A\u00efoli, Chili Powder, Lime Juice [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Pinto Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pur\u00e9ed, Locally-sourced Pinto Beans, Spices [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Black Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pur\u00e9ed, Avocado Leaves, Serrano [Made without Gluten]"
+            },
+            {
+              "title": "Tortillas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "house-made Corn Tortillas [Made without Gluten] [Vegetarian]"
+            }
+          ]
+        },
+        {
+          "name": "Platos Principales",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Caesar Salad ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Baby Romaine, Oven-Roasted Tomatoes, Queso Cincho, Sunflower Seeds, Charred Avocado, Roasted Poblano Dressing {add Chicken or Shrimp} [Made without Gluten]"
+            },
+            {
+              "title": "Huarache de Hongos ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oval-Shaped Corn Masa, Mushroom Tinga, Pinto Beans, Sour Cream, Queso Fresco {add Chicken or Shrimp} [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Squash Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Seasonal Squash, Mint Jocoque, Avocado, Salsa Macha, Dill, Roasted Pumpkin Seeds {add Chicken or Shrimp} [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Torta Ahogada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Carnitas, Pinto Beans, Avocado, Tomato Sauce, Bolillo Bread, Pickled Red Onion, Chile de \u00c1rbol Salsa"
+            },
+            {
+              "title": "Huarache de Asada ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oval-Shaped Corn Masa, Grilled Flank Steak, Black Bean Pur\u00e9e, Saut\u00e9ed Spinach, Caramelized Onion, Goat Cheese Fondue [Made without Gluten]"
+            },
+            {
+              "title": "Burrito Norte\u00f1o",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef, Crispy Mexican Cheese, Pinto Beans, Rice, Tomatillo & Chile de \u00c1rbol\u00a0Salsa, Sour Cream, Queso Fresco, Avocado, Flour Tortilla"
+            },
+            {
+              "title": "Chef Carlos' BBQ Ribs [Half Rack]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Ribs, Chipotle-Tamarind Glaze, Creamy Coleslaw, sweet Pickled Cucumbers, Sesame Seeds, Dill, Mint [Made without Gluten]"
+            },
+            {
+              "title": "Chef Carlos' BBQ Ribs [Full Rack]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Ribs, Chipotle-Tamarind Glaze, Creamy Coleslaw, sweet Pickled Cucumbers, Sesame Seeds, Dill, Mint [Made without Gluten]"
+            },
+            {
+              "title": "C\u00e9ntrico Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "half-pound Wagy\u016b Beef Burger, Brioche Bun, Gruy\u00e9re, Pickled Yellow Beets, Oven-Roasted Tomatoes, Truffle A\u00efoli, Black Truffle Sauce, Pickled Serrano Peppers, Garlic Butter-Parmesan French Fries {add Avocado}"
+            },
+            {
+              "title": "Pan-Seared Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Canadian Salmon, Sweet Corn Esquites, Fennel & Cherry Tomato Salad, Lemon Vinaigrette [Made without Gluten]"
+            }
+          ]
+        },
+        {
+          "name": "Ni\u00f1os",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Tomatoes, Cheese, Avocado, Corn Tortilla includes Rice, Refried Beans or French Fries [Made without Gluten]"
+            },
+            {
+              "title": "Burrito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carne Asada, Chicken or Pinto Beans, Cheese, Flour Tortilla includes Rice, Refried Beans or French Fries"
+            },
+            {
+              "title": "Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken or Carne Asada, Oaxaca Cheese, Sour Cream, Queso Fresco, Flour Tortilla includes Rice, Refried Beans or French Fries"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Chicken Tenders, Ranch Dressing includes Rice, Refried Beans or French Fries"
+            },
+            {
+              "title": "Tres Quesos Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Elbow Pasta, creamy Three-Cheese Sauce includes Rice, Refried Beans or French Fries [Vegetarian]"
+            }
+          ]
+        },
+        {
+          "name": "Bebidas",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frozen Mangonada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mango Pur\u00e9e, Lime Juice, Chamoy, Mango"
+            },
+            {
+              "title": "Tepache",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fermented Mango & Chili Soda"
+            },
+            {
+              "title": "Mango Chili Magic",
+              "prices": [],
+              "pricesRange": false,
+              "description": "De La Calle\u2122 Tepache Mango Chili, Lime Juice, Simple Syrup"
+            },
+            {
+              "title": "Sodas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Ginger Ale, Root Beer, Lemonade, Dr. Pepper\u00ae"
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Unsweetened or Passion"
+            },
+            {
+              "title": "Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lavazza Regular or Decaf"
+            },
+            {
+              "title": "Aqua Panna ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "1 L Still"
+            },
+            {
+              "title": "San Pellegrino\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sparkling"
+            },
+            {
+              "title": "Topo Chico",
+              "prices": [],
+              "pricesRange": false,
+              "description": "12 oz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Antojitos",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guacamole",
+              "prices": [],
+              "pricesRange": false,
+              "description": "creamy Avocado, Tomato, Cilantro, Onion, Lime, Serrano, Tortilla Chips, Salsa {add Chicharr\u00f3n or add Pork Belly} [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Chips & Salsa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "bottomless crispy Tortilla Chips, fresh house-made Salsa [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Avocado Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ricotta, Avocado, Preserved Meyer Lemons, Salsa Macha, Serrano, Chives [Vegetarian]"
+            },
+            {
+              "title": "Tlayuda",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oaxacan Tostada, Black Bean Pur\u00e9e, Avocado Mousse, Cecina, Chorizo, Pork Belly, Salsa Macha, Oaxaca Cheese [Made without Gluten]"
+            },
+            {
+              "title": "Tuna Tiradito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "sashimi-grade Ahi Tuna, Chiles Toreados, Avocado, Red Onion, Soy Ponzu"
+            },
+            {
+              "title": "Mixed Ceviche Coctel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Salsa Acapulco, Fish, Shrimp, Octopus, Cherry Tomato, Red Onion, Avocado, Chips"
+            },
+            {
+              "title": "Shrimp Aguachile",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lime Juice Cured Shrimp, Cucumber, Cilantro, Red Onion, Chiles Toreados, Avocado, Yuzu-Lime-Soy Aguachile"
+            },
+            {
+              "title": "Tangerine Shrimp Ceviche",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp, Avocado, Mango, Jalape\u00f1o, Tangerine Habanero, Agua Chile, Jicama, Cherry Tomatoes, Cucumber [Made without Gluten]"
+            }
+          ]
+        },
+        {
+          "name": "Tacos",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cochinita Pibil Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Guerrero-style Pork, Black Bean Pur\u00e9e, Pickled Red Onions, Habanero Salsa, Corn Tortillas [Made without Gluten]"
+            },
+            {
+              "title": "Fish Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mahi Mahi with light Tempura crisp, creamy Coleslaw, Chipotle A\u00efoli, Flour Tortillas"
+            },
+            {
+              "title": "Taquitos de Papa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "four lightly Fried Corn Tortillas stuffed with Potato, Onion, Cilantro, topped with Salsa Verde, Guacamole, Red Onion, Tomato"
+            },
+            {
+              "title": "Carne Asada Tacos ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sirloin Steak, Roasted Knob Onion, Onion, Cilantro, Chile de \u00c1rbol Salsa, Flour Tortillas"
+            },
+            {
+              "title": "Chicken Mole Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mole Negro, Sour Cream, Queso Fresco, Sesame Seeds, Pickled Red Onions, Corn Tortillas"
+            },
+            {
+              "title": "Chicken Taquitos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "four lightly Fried Corn Tortillas, stuffed with Shredded Chicken, topped with Sour Cream, Queso Fresco, Salsa Verde, Lettuce, Tomato"
+            }
+          ]
+        },
+        {
+          "name": "Quesadillas",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Oaxacan Quesadilla ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hoja Santa, Oaxaca Cheese, Avocado Mousse, Salsa Roja, Corn Tortilla [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Gobernador Quesadilla ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp, Oaxaca Cheese, Pico de Gallo, Flour Tortilla"
+            },
+            {
+              "title": "Quesachicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Pinto Beans, Coleslaw, Oaxacan Cheese, Avocado Mousse, Radishes, Corn Tortilla [Made without Gluten]"
+            },
+            {
+              "title": "Quesapastor",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Al Pastor, Oaxacan Cheese, Onion, Cilantro, Avocado Mousse, Salsa Roja, Corn Tortilla [Made without Gluten]"
+            },
+            {
+              "title": "Quesabirrias",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lamb Birria, Oaxacan Cheese, Guacasalsa, Cilantro, Red Onion, Consom\u00e9, Corn Tortilla [Made without Gluten]"
+            }
+          ]
+        },
+        {
+          "name": "Acompa\u00f1antes",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "French Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Butter, Parmesan [Vegetarian]"
+            },
+            {
+              "title": "Mexican Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tomato Broth, Peas, Carrot [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Mexican Street Corn",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Locally-sourced Corn, Epazote-Garlic A\u00efoli, Chili Powder, Lime Juice [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Pinto Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pur\u00e9ed, Locally-sourced Pinto Beans, Spices [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Black Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pur\u00e9ed, Avocado Leaves, Serrano [Made without Gluten]"
+            },
+            {
+              "title": "Tortillas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "house-made Corn Tortillas [Made without Gluten] [Vegetarian]"
+            }
+          ]
+        },
+        {
+          "name": "Platos Principales",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Caesar Salad ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Baby Romaine, Oven-Roasted Tomatoes, Queso Cincho, Sunflower Seeds, Charred Avocado, Roasted Poblano Dressing {add Chicken or Shrimp} [Made without Gluten]"
+            },
+            {
+              "title": "Huarache de Hongos ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oval-Shaped Corn Masa, Mushroom Tinga, Pinto Beans, Sour Cream, Queso Fresco {add Chicken or Shrimp} [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Squash Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Seasonal Squash, Mint Jocoque, Avocado, Salsa Macha, Dill, Roasted Pumpkin Seeds {add Chicken or Shrimp} [Made without Gluten] [Vegetarian]"
+            },
+            {
+              "title": "Torta Ahogada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Carnitas, Pinto Beans, Avocado, Tomato Sauce, Bolillo Bread, Pickled Red Onion, Chile de \u00c1rbol Salsa"
+            },
+            {
+              "title": "Huarache de Asada ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Oval-Shaped Corn Masa, Grilled Flank Steak, Black Bean Pur\u00e9e, Saut\u00e9ed Spinach, Caramelized Onion, Goat Cheese Fondue [Made without Gluten]"
+            },
+            {
+              "title": "Burrito Norte\u00f1o",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef, Crispy Mexican Cheese, Pinto Beans, Rice, Tomatillo & Chile de \u00c1rbol\u00a0Salsa, Sour Cream, Queso Fresco, Avocado, Flour Tortilla"
+            },
+            {
+              "title": "Chef Carlos' BBQ Ribs [Half Rack]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Ribs, Chipotle-Tamarind Glaze, Creamy Coleslaw, sweet Pickled Cucumbers, Sesame Seeds, Dill, Mint [Made without Gluten]"
+            },
+            {
+              "title": "Chef Carlos' BBQ Ribs [Full Rack]",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Ribs, Chipotle-Tamarind Glaze, Creamy Coleslaw, sweet Pickled Cucumbers, Sesame Seeds, Dill, Mint [Made without Gluten]"
+            },
+            {
+              "title": "C\u00e9ntrico Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "half-pound Wagy\u016b Beef Burger, Brioche Bun, Gruy\u00e9re, Pickled Yellow Beets, Oven-Roasted Tomatoes, Truffle A\u00efoli, Black Truffle Sauce, Pickled Serrano Peppers, Garlic Butter-Parmesan French Fries {add Avocado}"
+            },
+            {
+              "title": "Pan-Seared Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Canadian Salmon, Sweet Corn Esquites, Fennel & Cherry Tomato Salad, Lemon Vinaigrette [Made without Gluten]"
+            }
+          ]
+        },
+        {
+          "name": "Ni\u00f1os",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, Tomatoes, Cheese, Avocado, Corn Tortilla includes Rice, Refried Beans or French Fries [Made without Gluten]"
+            },
+            {
+              "title": "Burrito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carne Asada, Chicken or Pinto Beans, Cheese, Flour Tortilla includes Rice, Refried Beans or French Fries"
+            },
+            {
+              "title": "Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken or Carne Asada, Oaxaca Cheese, Sour Cream, Queso Fresco, Flour Tortilla includes Rice, Refried Beans or French Fries"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Chicken Tenders, Ranch Dressing includes Rice, Refried Beans or French Fries"
+            },
+            {
+              "title": "Tres Quesos Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Elbow Pasta, creamy Three-Cheese Sauce includes Rice, Refried Beans or French Fries [Vegetarian]"
+            }
+          ]
+        },
+        {
+          "name": "Bebidas",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frozen Mangonada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mango Pur\u00e9e, Lime Juice, Chamoy, Mango"
+            },
+            {
+              "title": "Tepache",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fermented Mango & Chili Soda"
+            },
+            {
+              "title": "Mango Chili Magic",
+              "prices": [],
+              "pricesRange": false,
+              "description": "De La Calle\u2122 Tepache Mango Chili, Lime Juice, Simple Syrup"
+            },
+            {
+              "title": "Sodas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Ginger Ale, Root Beer, Lemonade, Dr. Pepper\u00ae"
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Unsweetened or Passion"
+            },
+            {
+              "title": "Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lavazza Regular or Decaf"
+            },
+            {
+              "title": "Aqua Panna ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "1 L Still"
+            },
+            {
+              "title": "San Pellegrino\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sparkling"
+            },
+            {
+              "title": "Topo Chico",
+              "prices": [],
+              "pricesRange": false,
+              "description": "12 oz"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Antojitos",
+        "desktop": "Antojitos"
+      },
+      {
+        "mobile": "Tacos",
+        "desktop": "Tacos"
+      },
+      {
+        "mobile": "Quesadillas",
+        "desktop": "Quesadillas"
+      },
+      {
+        "mobile": "Acompa\u00f1antes",
+        "desktop": "Acompa\u00f1antes"
+      },
+      {
+        "mobile": "Platos Principales",
+        "desktop": "Platos Principales"
+      },
+      {
+        "mobile": "Ni\u00f1os",
+        "desktop": "Ni\u00f1os"
+      },
+      {
+        "mobile": "Bebidas",
+        "desktop": "Bebidas"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Antojitos",
+        "desktop": "Antojitos"
+      },
+      {
+        "mobile": "Tacos",
+        "desktop": "Tacos"
+      },
+      {
+        "mobile": "Quesadillas",
+        "desktop": "Quesadillas"
+      },
+      {
+        "mobile": "Acompa\u00f1antes",
+        "desktop": "Acompa\u00f1antes"
+      },
+      {
+        "mobile": "Platos Principales",
+        "desktop": "Platos Principales"
+      },
+      {
+        "mobile": "Ni\u00f1os",
+        "desktop": "Ni\u00f1os"
+      },
+      {
+        "mobile": "Bebidas",
+        "desktop": "Bebidas"
+      }
+    ]
+  }
+}

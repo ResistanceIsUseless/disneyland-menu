@@ -1,0 +1,560 @@
+{
+  "name": "GCH Craftsman Grill",
+  "location": "Disney's Grand Californian Hotel & Spa, Disney's Grand Californian Hotel & Spa",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Smoked Salmon Bagel Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Caper Cream Cheese, Arugula, Roasted Tomato and Red Onions on a Toasted Plain Bagel, served with Seasonal Fruit"
+            },
+            {
+              "title": "Breakfast Sandwich*",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Bacon, Cheddar, Smoked Paprika A\u00efoli, Avocado and Waffled Hash Brown on a Croissant Bun, served with a House Salad"
+            },
+            {
+              "title": "American Breakfast*",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Bacon or Sausage, Fruit or Breakfast Potatoes and Choice of Toast: White, Wheat or Sourdough"
+            },
+            {
+              "title": "Farmer\u2019s Market Frittata*",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eggs, Ham, Spinach, House-blend Cheese, Onions, Asparagus, Bell Peppers, Roasted Vine Tomato and Lemon Hollandaise, served with a House Salad"
+            },
+            {
+              "title": "Breakfast Burrito*",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eggs, Bacon, Potato, Pico de Gallo and Shredded Cheese in a Flour Tortilla with Salsa Roja and Sour Cream"
+            },
+            {
+              "title": "Avocado Toast on Sourdough*",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Sourdough, Avocado, Poached Eggs, Ricotta, Chives, Crispy Garlic, Honey, Basil and Lemon Oil"
+            },
+            {
+              "title": "Brioche French Toast",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thick-sliced Brioche with Vanilla Sweetened Mascarpone, Fresh Berries, Powdered Sugar and Blueberry Compote"
+            },
+            {
+              "title": "Belgian Waffle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Inquire with Cashier"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Power Pack",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, a Yogurt Smoothie, Carrots and Whole-Grain \"Fish\" Crackers served with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Kid's Breakfast Plate*",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Turkey Bacon and Waffled Hash Browns with choice of Seasonal Fruit or Lowfat Yogurt and small Lowfat Milk or small Dasani\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Breakfast",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kid\u2019s Mickey-shaped Waffle",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dusted with Powdered Sugar and served with Syrup and choice of small Lowfat Milk or small Dasani\u00ae Water"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Poke Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Sushi-grade Ahi Tuna or Salmon tossed in Citrus Ponzu with Cucumber, Edamame, Avocado, Crab Salad, Green Onions, Radicchio, Pickled Seaweed, Furikake and Spicy A\u00efoli, with choice of Calrose Rice or Mixed Greens"
+            },
+            {
+              "title": "Avocado Panzanella",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Baby Heirloom Tomatoes, Assorted Mediterranean Olives, Feta, Arugula and Charred Onion Chimichurri"
+            },
+            {
+              "title": "Baked Nachos",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Shredded Beef or Chicken, Tortilla Chips, Cheese Sauce, Shredded Cheese, Black Beans, Green Onions, Pickled Jalape\u00f1os, Cilantro, Queso Fresco, Avocado, Crema and Salsa Roja"
+            },
+            {
+              "title": "Carne Asada Quesadilla ",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Carne Asada with Melted Cheese, Roasted Corn Relish, Black Beans and Green Onions, wrapped in a Flour Tortilla with Chipotle Crema, Fresno Chile, Cilantro and Limes"
+            },
+            {
+              "title": "Shrimp Ceviche*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marinated Shrimp, Spicy Citrus Broth, White Onion, Tomato, Cucumber, Avocado and Cilantro, served with Tortilla Chips"
+            },
+            {
+              "title": "Angus Burger*",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cilantro-Mint A\u00efoli, White Onion, Grafton Smoked Cheddar, Iceberg Lettuce, Pickles and Tomato on a Brioche Bun, served with Fries"
+            },
+            {
+              "title": "Sticky Chicken Wings",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Rice, Gochujang BBQ Sauce, Aleppo Spice, Pickled Cucumber Slaw, Toasted Sesame Seeds and Green Onions"
+            },
+            {
+              "title": "Flat Iron Steak Salad*",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kale and Romaine, Avocado, Corn, Jicama, Cherry Tomatoes, Cilantro, Aleppo Spice, Crispy Tortilla Strips, Toasted Pepitas and Queso Fresco, with Greek Yogurt Caesar Dressing (Substitute Salmon or Chicken)"
+            },
+            {
+              "title": "Salmon Salad*",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Salmon Fillet, Cucumber, Avocado, Tomato, Sweet Peppers, Farro, Charred Green Onions, Shallots, Valbreso Feta, Champagne Vinaigrette and Baby Kale (Substitute Flat Iron Steak or Chicken)"
+            },
+            {
+              "title": "Hot Dog of the Month",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "inquire with a Cashier"
+            }
+          ]
+        },
+        {
+          "name": "Artisanal Pizzas from Our Pizza Oven",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Margherita Pizza",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Fresh Basil, Fire-roasted Tomatoes and Artisan Cheese Blend"
+            },
+            {
+              "title": "Classic Pepperoni Pizza",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Premium Pepperoni and Artisan Cheese Blend"
+            },
+            {
+              "title": "Forest Mushroom Impossible\u2122 Sausage Pizza",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Mushrooms, Plant-based Sausage, Mushroom Spread, Caramelized Onions, Green Onions, Fresh Mozzarella and Artisan Cheese Blend"
+            },
+            {
+              "title": "Charcuterie Pizza",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Premium Pepperoni, Prosciutto, Sausage, Arugula, Fire-roasted Tomatoes and Artisan Cheese Blend"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Filled Long John Donut",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vampire Mickey Cake Donut",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minnie Halloween Cupcake",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pumpkin Pepita Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Classic Sundae",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream, Chocolate Sauce, Chantilly Cream and Toasted Almonds, topped with a Cherry"
+            },
+            {
+              "title": "Apple Galette",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel Ice Cream, Vanilla sauce and Powdered Sugar"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Power Pack",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, a Yogurt Smoothie, Carrots and Whole-Grain \"Fish\" Crackers served with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Hamburger",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, a Yogurt Smoothie and choice of small Dasani\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit or French Fries and a choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Parmesan-crusted Grilled Cheese Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit or French Fries and a choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Kids' Breakfast",
+        "desktop": "Kids' Breakfast"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Artisanal Pizzas from Our Pizza Oven",
+        "desktop": "Artisanal Pizzas from Our Pizza Oven"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Kids' Meals",
+        "desktop": "Kids' Meals"
+      }
+    ]
+  }
+}

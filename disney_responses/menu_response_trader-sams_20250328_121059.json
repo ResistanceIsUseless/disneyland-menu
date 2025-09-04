@@ -1,0 +1,1634 @@
+{
+  "name": "Trader Sam's Enchanted Tiki Bar",
+  "location": "Disneyland Resort, Disneyland Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Poke Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of Ahi Tuna*, Salmon* or Marinated Tofu with Smashed Avocado, Sliced Cucumber, Edamame and Imitation Crab Salad with Sushi Rice, topped with Crispy Fried Onions and Togarashi A\u00efoli"
+            },
+            {
+              "title": "Tempura-Battered Green Beans",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Hawaiian Platter",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice Of Braised Kalbi Beef Short Rib or Teriyaki Chicken Thigh served with Steamed Jasmine Rice, Stir-fried Vegetables, Steamed Baby Bok Choy and Sweet Teriyaki Glaze"
+            },
+            {
+              "title": "Island Salad",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Teriyaki Chicken or Pan-seared Salmon*, Crisp Romaine Spears, Pineapple-glazed Smoked Ham, Green Papaya Slaw, Tropical Fruit Compote, Cotija Cheese, Edamame, Passion-Orange-Guava A\u00efoli and Crisp Fried Shallots, served with Passion Fruit Vinaigrette"
+            },
+            {
+              "title": "Wagyu Hawaiian Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Grilled Pineapple, Applewood-smoked Bacon, Havarti, Sweet-and-Spicy Spread, served with choice of Sweet Potato Fries or French Fries"
+            },
+            {
+              "title": "Swaying Palms Salad with Teriyaki Chicken",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Pan-seared Salmon* or Teriyaki Chicken, Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            },
+            {
+              "title": "Tonkotsu Ramen",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rich Pork-based Broth, Fish Cake, Wavy Noodles, Pork Belly Slices, Fresh Green Onions, Shiitake Mushrooms, Sambal, Soft-boiled Flavored Egg, Garlic Oil and Nori"
+            },
+            {
+              "title": "Pupu Platter",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pork Gyoza, Tempura-battered Green Beans, Shrimp Tempura and spiced Dry-rub Chicken Wings, served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Shichimi-spiced Dry-rub Chicken Wings",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of French Fries or Sweet Potato Fries"
+            },
+            {
+              "title": "Shrimp Tempura",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Ponzu Dipping Sauce, Toasted Sesame, Chile Threads and Green Onions"
+            },
+            {
+              "title": "K\u0101lua-style Pork Nacho Poutine",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Potato Fries, Togarashi A\u00efoli, Cotija Cheese, Cheese Sauce, Pickled Red Onion, Lime Crema and Cilantro"
+            },
+            {
+              "title": "Pork Gyoza",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Pork and Vegetable Pot Stickers topped with Unagi Sauce and Bonito Flakes, served with Gochujang A\u00efoli"
+            },
+            {
+              "title": "Coconut Cake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chantilly Cream and Guava Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Plant Based ",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Swaying Palms Salad",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie, a Cuties\u00ae Mandarin, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Chicken Teriyaki Bowl",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Teriyaki Chicken Thigh served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge with choice of Small Lowfat Milk or Small Dasani\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Salmon Teriyaki Bowl",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge with choice of Small Lowfat Milk or Small Dasani\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids' Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Sweet Potato Fries, Fruit and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Uh-Oa!",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Myers's Original Dark Rum, Juices of Orange, Passion Fruit, Guava, Pineapple, and Grapefruit, Falernum, Cinnamon and fresh Lime Juice"
+            },
+            {
+              "title": "Tangaroa Cooler",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hamilton Pot Still Black Rum, Grapefruit & Lime Juices, Tamarind & Ginger Syrups, Soda Water and Orange Bitters"
+            },
+            {
+              "title": "Zambezi Sour",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Falernum, Simple Syrup, and Juices of Lime and Grapefruit"
+            },
+            {
+              "title": "Krakatoa Punch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sailor Jerry Spiced Rum, Flor De Ca\u00f1a Rum, Orgeat (Almond) Syrup, Sam's Gorilla Grog and Hibiscus Grenadine"
+            },
+            {
+              "title": "Sea Monster's Embrace",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Planteray OFTD Rum, Mount Gay Eclipse Rum, Plantation 3 Star Rum, Passion Fruit, Falernum and Lime, Orange & Pineapple Juices"
+            },
+            {
+              "title": "HippopotoMai-Tai",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Planteray Dark Rum, Flor de Ca\u00f1a Silver Rum, Orange Cura\u00e7ao, Lime Juice, Orgeat and Simple Syrup"
+            },
+            {
+              "title": "Hala Kahiki",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Plantation Pineapple Rum, fresh Lemon Juice, Honey Syrup, Falernum and Peychaud's Bitters"
+            },
+            {
+              "title": "Tiki Tiki Tiki Rum",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Flor De Ca\u00f1a Rum, Cream of Coconut and Juices of Pineapple and Orange dusted with Cinnamon and Nutmeg"
+            },
+            {
+              "title": "Angolada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smith and Cross Navy Strength Rum, Cream of Coconut, Angostura Bitters, and Juices of Lime and Pineapple"
+            },
+            {
+              "title": "Safari Swizzle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hamilton 151 Rum, fresh Lime Juice, Mint, and Agave Nectar topped with Angostura Bitters"
+            },
+            {
+              "title": "Mosquito Mojito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacardi Dragon Berry Rum, Agave Nectar, Falernum, Mint and fresh Lime Juice topped with Soda Water"
+            },
+            {
+              "title": "Shipwreck on the Rocks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon with Agave Nectar and freshly Muddled Lemon and Mint"
+            },
+            {
+              "title": "Zombie",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Appleton Estate Rum, Bacardi Reserva Ocho Rum, Hamilton 151 Rum, Tropical Juices, Falernum, and Cinnamon"
+            },
+            {
+              "title": "Piranha Pool",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Stoli Strasberi Vodka blended with Pineapple Juice, Cream of Coconut, Strawberry Pur\u00e9e, and Blue Cura\u00e7ao"
+            },
+            {
+              "title": "Tiki La Casita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Herradura Reposado, Guava Pur\u00e9e, Falernum, Pineapple & Lime Juices, Clement Creole Shrubb Orange Liqueur and Orange Bitters"
+            }
+          ]
+        },
+        {
+          "name": "Sam's No-Booze Brews",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Skipper Sipper",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tropical Juices, Agave Nectar, Falernum, Mint and fresh Lime Juice topped with Soda Water"
+            },
+            {
+              "title": "Schweitzer Falls",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tropical Juices and Sam's Gorilla Grog topped with Sprite\u00ae"
+            },
+            {
+              "title": "Polynesian Punch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sam's Gorilla Grog and Hibiscus Grenadine"
+            },
+            {
+              "title": "Rationale Brewing, Non-Alcoholic Mexican Style Lager",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Less than 0.5%ABV"
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexico (ABV 4.4%)"
+            },
+            {
+              "title": "Kona Longboard Island Lager",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kailua-Kona, HI (ABV 4.8%)"
+            },
+            {
+              "title": "Bottle Logic 714 Blonde Ale",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 4.8%)"
+            },
+            {
+              "title": "Brewery X Shhhwheat Tangerine Wheat Ale",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5%)"
+            },
+            {
+              "title": "Karl Strauss Boat Shoes Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV 7.2%)"
+            },
+            {
+              "title": "Karl Strauss IPA Collaboration Series",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA"
+            }
+          ]
+        },
+        {
+          "name": "Beer & Hard Seltzer (Bottled and Canned)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coors Light",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden, CO"
+            },
+            {
+              "title": "Budweiser",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "St. Louis, MO"
+            },
+            {
+              "title": "Corona Extra",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexico"
+            },
+            {
+              "title": "Heineken",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Netherlands"
+            },
+            {
+              "title": "Bud Light",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "St. Louis, MO"
+            },
+            {
+              "title": "Kona Big Wave Golden Ale",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kailua-Kona, HI"
+            },
+            {
+              "title": "Lost Coast Brother Thelonious Abbey Ale",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fort Bragg, CA"
+            },
+            {
+              "title": "Bottle Logic Brewing, She Shot First New England Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA"
+            },
+            {
+              "title": "Melograno Cucumber Lime Mojito",
+              "prices": [
+                {
+                  "withoutTax": 11.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Domaine St. Michelle Brut",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Washington"
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Louis Jadot Chablis",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "France"
+            },
+            {
+              "title": "Sonoma-Cutrer Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sonoma Coast"
+            },
+            {
+              "title": "Matua Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "New Zealand"
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Daou Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Fableist Spider and Silkworm Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 59,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Central Coast\u00a0"
+            },
+            {
+              "title": "Daou Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 88,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            },
+            {
+              "title": "St. Francis Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sonoma Valley"
+            }
+          ]
+        },
+        {
+          "name": "DOLE Whip\u00ae [Available at Patio Bar Only]",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DOLE Whip\u00ae Pineapple Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip\u00ae Pineapple Soft Serve"
+            },
+            {
+              "title": "DOLE Whip\u00ae Float",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE\u00ae Pineapple Juice topped with DOLE Whip\u00ae Pineapple Soft Serve"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages [Available at Patio Bar Only]",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DOLE Whip\u00ae Float with a Splash of Rum",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip\u00ae Float served with choice of Captain Morgan Parrot Bay Coconut Rum or Myers's Dark Rum. Available at patio bar only."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Poke Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of Ahi Tuna*, Salmon* or Marinated Tofu with Smashed Avocado, Sliced Cucumber, Edamame and Imitation Crab Salad with Sushi Rice, topped with Crispy Fried Onions and Togarashi A\u00efoli"
+            },
+            {
+              "title": "Tempura-Battered Green Beans",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Hawaiian Platter",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice Of Braised Kalbi Beef Short Rib or Teriyaki Chicken Thigh served with Steamed Jasmine Rice, Stir-fried Vegetables, Steamed Baby Bok Choy and Sweet Teriyaki Glaze"
+            },
+            {
+              "title": "Island Salad",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Teriyaki Chicken or Pan-seared Salmon*, Crisp Romaine Spears, Pineapple-glazed Smoked Ham, Green Papaya Slaw, Tropical Fruit Compote, Cotija Cheese, Edamame, Passion-Orange-Guava A\u00efoli and Crisp Fried Shallots, served with Passion Fruit Vinaigrette"
+            },
+            {
+              "title": "Wagyu Hawaiian Cheeseburger*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Grilled Pineapple, Applewood-smoked Bacon, Havarti, Sweet-and-Spicy Spread, served with choice of Sweet Potato Fries or French Fries"
+            },
+            {
+              "title": "Swaying Palms Salad with Teriyaki Chicken",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Pan-seared Salmon* or Teriyaki Chicken, Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            },
+            {
+              "title": "Tonkotsu Ramen",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rich Pork-based Broth, Fish Cake, Wavy Noodles, Pork Belly Slices, Fresh Green Onions, Shiitake Mushrooms, Sambal, Soft-boiled Flavored Egg, Garlic Oil and Nori"
+            },
+            {
+              "title": "Pupu Platter",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pork Gyoza, Tempura-battered Green Beans, Shrimp Tempura and spiced Dry-rub Chicken Wings, served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Shichimi-spiced Dry-rub Chicken Wings",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Togarashi A\u00efoli"
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of French Fries or Sweet Potato Fries"
+            },
+            {
+              "title": "Shrimp Tempura",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Ponzu Dipping Sauce, Toasted Sesame, Chile Threads and Green Onions"
+            },
+            {
+              "title": "K\u0101lua-style Pork Nacho Poutine",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Potato Fries, Togarashi A\u00efoli, Cotija Cheese, Cheese Sauce, Pickled Red Onion, Lime Crema and Cilantro"
+            },
+            {
+              "title": "Pork Gyoza",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Pork and Vegetable Pot Stickers topped with Unagi Sauce and Bonito Flakes, served with Gochujang A\u00efoli"
+            },
+            {
+              "title": "Coconut Cake",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chantilly Cream and Guava Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Plant Based ",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Swaying Palms Salad",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spicy Mizuna & Mache Greens, Charred Hearts of Palm, Cucumber, Cashews, Julienne Peppers, Carrots, Snow Peas and Puffed Rice Noodle, served with Sesame Vinaigrette*"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie, a Cuties\u00ae Mandarin, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Chicken Teriyaki Bowl",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Teriyaki Chicken Thigh served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge with choice of Small Lowfat Milk or Small Dasani\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Salmon Teriyaki Bowl",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Steamed Jasmine Rice, Broccoli, Teriyaki Sauce and a Pineapple Wedge with choice of Small Lowfat Milk or Small Dasani\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids' Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Sweet Potato Fries, Fruit and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Uh-Oa!",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Myers's Original Dark Rum, Juices of Orange, Passion Fruit, Guava, Pineapple, and Grapefruit, Falernum, Cinnamon and fresh Lime Juice"
+            },
+            {
+              "title": "Tangaroa Cooler",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hamilton Pot Still Black Rum, Grapefruit & Lime Juices, Tamarind & Ginger Syrups, Soda Water and Orange Bitters"
+            },
+            {
+              "title": "Zambezi Sour",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buffalo Trace Bourbon, Falernum, Simple Syrup, and Juices of Lime and Grapefruit"
+            },
+            {
+              "title": "Krakatoa Punch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sailor Jerry Spiced Rum, Flor De Ca\u00f1a Rum, Orgeat (Almond) Syrup, Sam's Gorilla Grog and Hibiscus Grenadine"
+            },
+            {
+              "title": "Sea Monster's Embrace",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Planteray OFTD Rum, Mount Gay Eclipse Rum, Plantation 3 Star Rum, Passion Fruit, Falernum and Lime, Orange & Pineapple Juices"
+            },
+            {
+              "title": "HippopotoMai-Tai",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Planteray Dark Rum, Flor de Ca\u00f1a Silver Rum, Orange Cura\u00e7ao, Lime Juice, Orgeat and Simple Syrup"
+            },
+            {
+              "title": "Hala Kahiki",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Plantation Pineapple Rum, fresh Lemon Juice, Honey Syrup, Falernum and Peychaud's Bitters"
+            },
+            {
+              "title": "Tiki Tiki Tiki Rum",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Flor De Ca\u00f1a Rum, Cream of Coconut and Juices of Pineapple and Orange dusted with Cinnamon and Nutmeg"
+            },
+            {
+              "title": "Angolada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Smith and Cross Navy Strength Rum, Cream of Coconut, Angostura Bitters, and Juices of Lime and Pineapple"
+            },
+            {
+              "title": "Safari Swizzle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hamilton 151 Rum, fresh Lime Juice, Mint, and Agave Nectar topped with Angostura Bitters"
+            },
+            {
+              "title": "Mosquito Mojito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacardi Dragon Berry Rum, Agave Nectar, Falernum, Mint and fresh Lime Juice topped with Soda Water"
+            },
+            {
+              "title": "Shipwreck on the Rocks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon with Agave Nectar and freshly Muddled Lemon and Mint"
+            },
+            {
+              "title": "Zombie",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Appleton Estate Rum, Bacardi Reserva Ocho Rum, Hamilton 151 Rum, Tropical Juices, Falernum, and Cinnamon"
+            },
+            {
+              "title": "Piranha Pool",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Stoli Strasberi Vodka blended with Pineapple Juice, Cream of Coconut, Strawberry Pur\u00e9e, and Blue Cura\u00e7ao"
+            },
+            {
+              "title": "Tiki La Casita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Herradura Reposado, Guava Pur\u00e9e, Falernum, Pineapple & Lime Juices, Clement Creole Shrubb Orange Liqueur and Orange Bitters"
+            }
+          ]
+        },
+        {
+          "name": "Sam's No-Booze Brews",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Skipper Sipper",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tropical Juices, Agave Nectar, Falernum, Mint and fresh Lime Juice topped with Soda Water"
+            },
+            {
+              "title": "Schweitzer Falls",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tropical Juices and Sam's Gorilla Grog topped with Sprite\u00ae"
+            },
+            {
+              "title": "Polynesian Punch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sam's Gorilla Grog and Hibiscus Grenadine"
+            },
+            {
+              "title": "Rationale Brewing, Non-Alcoholic Mexican Style Lager",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Less than 0.5%ABV"
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexico (ABV 4.4%)"
+            },
+            {
+              "title": "Kona Longboard Island Lager",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kailua-Kona, HI (ABV 4.8%)"
+            },
+            {
+              "title": "Bottle Logic 714 Blonde Ale",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 4.8%)"
+            },
+            {
+              "title": "Brewery X Shhhwheat Tangerine Wheat Ale",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (ABV 5%)"
+            },
+            {
+              "title": "Karl Strauss Boat Shoes Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA (ABV 7.2%)"
+            },
+            {
+              "title": "Karl Strauss IPA Collaboration Series",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "San Diego, CA"
+            }
+          ]
+        },
+        {
+          "name": "Beer & Hard Seltzer (Bottled and Canned)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coors Light",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden, CO"
+            },
+            {
+              "title": "Budweiser",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "St. Louis, MO"
+            },
+            {
+              "title": "Corona Extra",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexico"
+            },
+            {
+              "title": "Heineken",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Netherlands"
+            },
+            {
+              "title": "Bud Light",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "St. Louis, MO"
+            },
+            {
+              "title": "Kona Big Wave Golden Ale",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kailua-Kona, HI"
+            },
+            {
+              "title": "Lost Coast Brother Thelonious Abbey Ale",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fort Bragg, CA"
+            },
+            {
+              "title": "Bottle Logic Brewing, She Shot First New England Hazy IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA"
+            },
+            {
+              "title": "Melograno Cucumber Lime Mojito",
+              "prices": [
+                {
+                  "withoutTax": 11.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Domaine St. Michelle Brut",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Washington"
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Louis Jadot Chablis",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "France"
+            },
+            {
+              "title": "Sonoma-Cutrer Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sonoma Coast"
+            },
+            {
+              "title": "Matua Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "New Zealand"
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Daou Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Fableist Spider and Silkworm Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 59,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Central Coast\u00a0"
+            },
+            {
+              "title": "Daou Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 88,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            },
+            {
+              "title": "St. Francis Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sonoma Valley"
+            }
+          ]
+        },
+        {
+          "name": "DOLE Whip\u00ae [Available at Patio Bar Only]",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DOLE Whip\u00ae Pineapple Soft Serve",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip\u00ae Pineapple Soft Serve"
+            },
+            {
+              "title": "DOLE Whip\u00ae Float",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE\u00ae Pineapple Juice topped with DOLE Whip\u00ae Pineapple Soft Serve"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages [Available at Patio Bar Only]",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DOLE Whip\u00ae Float with a Splash of Rum",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip\u00ae Float served with choice of Captain Morgan Parrot Bay Coconut Rum or Myers's Dark Rum. Available at patio bar only."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

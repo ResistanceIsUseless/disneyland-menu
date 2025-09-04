@@ -1,0 +1,1164 @@
+{
+  "name": "Carthay Circle Restaurant",
+  "location": "Disney California Adventure Park, Buena Vista Street",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Lunch - Seasonal Prix-Fixe Pricing",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$62 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$19 per child, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Starters (choice of one)",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Green Garbanzo Bean Fritters",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spicy Roasted Pepper-Lemon Yogurt"
+            },
+            {
+              "title": "Farmers Market Stone Fruit & Burrata Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prosciutto, Tomato Compote"
+            },
+            {
+              "title": "Celebration of Summer Heirloom Melons ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chilled Melon-Almond Gazpacho"
+            }
+          ]
+        },
+        {
+          "name": "Main Course (choice of one)",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Gochujang-Honey Glazed Shrimps",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Kimchi Fried Rice, Cashews, Crispy Hijiki, Poached Egg"
+            },
+            {
+              "title": "Fresh Garganelli Pasta with Zucchini Pesto",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wild Mushrooms, Basil, Pine Nuts, Heirloom Tomatoes"
+            },
+            {
+              "title": "Chicken Schnitzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Heirloom Tomatoes, Dill, Yogurt, Sun Gold Tomato Sauce"
+            },
+            {
+              "title": "Santa Maria Grilled Tri Tip",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ranchero Black Beans, Roasted Poblano Chilies, Fresh Corn"
+            }
+          ]
+        },
+        {
+          "name": "Kids' - First Course (choice of one)",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Fruit with Honey Yogurt & Granola",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tempura, Green Beans with Buttermilk Dressing",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' - Entrees (choice of one)",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rigatoni Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Marinara, Butter, or Alfredo, served with a choice of Small Low-fat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Classic Grilled Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Tomato Soup, served with a choice of Small Low-fat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Chicken Jalape\u00f1o Empanadas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cilantro Crema, served with a choice of Small Low-fat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Shareable Side for an Additional Cost ",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Warm Cheddar Parker House Rolls",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Calabrian Chili-Pine Nut Romesco Butter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Special and Unique Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Starters",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peruvian Sashimi of Hiramasa Yellowtail*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Leche de Tigre, J\u00edcama, Crispy Cancha, Cilantro"
+            },
+            {
+              "title": "Shrimps & Calamari Steak Fritto Misto*",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shishito Peppers, Nori, Pickled Ginger, Yuzu Kosho A\u00efoli"
+            },
+            {
+              "title": "Oaxacan Style Braised Short Rib",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crispy \u201cTetela\u201d, Queso Fresco, Tomatillo Essence"
+            },
+            {
+              "title": "Heirloom Tomato & Thai Basil Salad",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coconut, Cashews, Hearts of Palm, Spicy Preserved Lemon Vinaigrette"
+            },
+            {
+              "title": "Spanish Potato Croquettes",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Manchego Cheese, Soria Chorizo, Roasted Garlic A\u00efoli"
+            },
+            {
+              "title": "Chicken Wings \u201cEl Pastor\u201d",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pineapple-Habanero Butter"
+            },
+            {
+              "title": " Summer Watermelon Carpaccio",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pickled Watermelon Rind, Almond Butter, Honey-Champagne Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Half Chicken Shawarma",
+              "prices": [
+                {
+                  "withoutTax": 46,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Green Garbanzo Hummus, Fermented Chili, Warm Naan"
+            },
+            {
+              "title": "Maple Leaf Duck Breast Schnitzel",
+              "prices": [
+                {
+                  "withoutTax": 48,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Duck Confit-Artichoke Hash, Pine Nuts, Red Bell Pepper Romesco"
+            },
+            {
+              "title": "Sustainable Fish of the Day*",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thai Green Papaya Salad, Cashews, Spicy Mango-Lemongrass Curry"
+            },
+            {
+              "title": "Garganelee Pasta with Blue Lump Crab*",
+              "prices": [
+                {
+                  "withoutTax": 58,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Basil Pesto, White Mexican Shrimps, Bay Scallops, Cockles, Sun Gold Tomato Essence"
+            },
+            {
+              "title": "Signature Thick Cut Pork Chop*",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Saut\u00e9ed Farmers Market Zucchini, Stone Fruit Relish"
+            },
+            {
+              "title": "Grilled \u201cPrime\u201d Hanger Steak*",
+              "prices": [
+                {
+                  "withoutTax": 52,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamed Corn, Blackberry-Poblano Chili Salsa"
+            }
+          ]
+        },
+        {
+          "name": "For the Table",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Warm Cheddar Parker House Rolls",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Calabrian Chili-Pine Nut Romesco Butter"
+            },
+            {
+              "title": "Yukon Gold Mashed Potatoes",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Heavy Cream, Butter"
+            },
+            {
+              "title": "Blistered Romano Beans",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gochujang Chili Crunch, Cashews, Pickled Daikon"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Farmers Market Peach Hand Pie",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Caramel Sauce, Brown Sugar Ice Cream"
+            },
+            {
+              "title": "White Chocolate Graham Crunch S\u2019mores",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Sauce, Golden Graham Ice Cream"
+            },
+            {
+              "title": "Seasonal Sorbet",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' - First Course, included with Entr\u00e9e (choice of one)",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Fruit with Honey Yogurt & Granola",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tempura, Green Beans with Buttermilk Dressing",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Entr\u00e9es",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rigatoni Pasta",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "choice of Marinara, Butter, or Alfredo, served with a choice of Small Low-fat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Classic Grilled Cheese, Tomato Soup",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a choice of Small Low-fat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Chicken Jalape\u00f1o Empanadas, Cilantro Crema",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a choice of Small Low-fat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Filet Mignon Beef Skewers, Yukon Gold Mashed Potatoes",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a choice of Small Low-fat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Dessert",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hazelnut Crunch Mickey Pop",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Rose Petal Soda",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "locally sourced Purified Sparkling Water flavored with delicate Rose Essence and garnished with an edible Sugar-glazed Organic Rose Petal"
+            },
+            {
+              "title": "Wildberry Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "All Natural Lemonade with flavors of Blackberry, Strawberry, Raspberry, and Blueberry with a Spritz of Purified Sparkling Water"
+            },
+            {
+              "title": "Twin Bill",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Classic Combination of natural Lemonade and Iced Tea lightly sweetened with Organic Agave Nectar"
+            },
+            {
+              "title": "Shirley Temple",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sprite\u00ae with Grenadine and Maraschino Cherries"
+            },
+            {
+              "title": "Roy Rogers",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae with Grenadine and Maraschino Cherries"
+            },
+            {
+              "title": "Acqua Panna",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Still (1L)"
+            },
+            {
+              "title": "San Pellegrino",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sparkling (1L)"
+            },
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Coca-Cola\u00ae Zero Sugar, Sprite\u00ae, Fanta\u00ae Orange, Barq's\u00ae Root Beer, POWERADE\u00ae Mountain Berry Blast, or Minute Maid\u00ae Zero Sugar Lemonade"
+            },
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Regular or Decaf"
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Curtain Call",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Banfi Rosa Regale Brachetto d'Acqui, Piedmont",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fonseca Bin No. 27, Reserve Porto, Portugal",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michele Chiarlo Nivole, Moscato d'Asti",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Graham's, 20 year Tawny Porto, Portugal",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dow's, 10 year Tawny Porto, Portugal",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Disney Family of Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fess Parker Chardonnay, Santa Barbara County",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kurt Russell Gogi \"Goldie\" Chardonnay, Santa Rita Hills",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 23,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kurt Russell Gogi \"Southpaw\" Pinot Noir, Santa Rita Hills",
+              "prices": [
+                {
+                  "withoutTax": 198,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "MacMurray Ranch Pinot Gris, Russian River Valley",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon, Silverado Vineyards, Napa Valley 2018",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 23,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Classic Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Classic Martini",
+              "prices": [
+                {
+                  "withoutTax": 22.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Classically prepared with Hendrick\u2019s Gin or Double Cross Vodka, Lillet Blanc Dry Vermouth, and Gourmet Blue Cheese-Truffle Olives served with an Ice Sphere made from locally sourced Purified Water"
+            },
+            {
+              "title": "Carthay Mai Tai",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Surfrider Rum, Luxardo Maraschino and Orgeat (Almond) Syrups, Pineapple and fresh Citrus Juices, tapped with Myer's Original Dark Rum, garnished with an Orange Wedge and Luxardo Cherry"
+            },
+            {
+              "title": "Negroni",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beefeater Gin, Campari, and Carpano Antica Sweet Vermouth served over Hard Cubed Ice"
+            },
+            {
+              "title": "Ernest's Daiquiri",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Luxardo Maraschino Liqueur, fresh Lime and Grapefruit Juice, and Organic Agave Nectar, served up"
+            },
+            {
+              "title": "Aviation Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 22.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plymouth Gin, Cr\u00e8me de Violette Liqueur, Luxardo Maraschino Liqueur, and fresh Lemon Juice, served up"
+            },
+            {
+              "title": "Side Car",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hennessy V.S. Cognac, Cointreau, fresh Lemon Juice, and Agave Nectar with a Lemon Peel and a Sugar Rim"
+            },
+            {
+              "title": "Citrus Berry Punch",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pimm\u2019s No. 1 Liqueur, Plymouth Gin, Strawberry, and Lemonade served over Crushed Ice"
+            },
+            {
+              "title": "Ginger Rogers",
+              "prices": [
+                {
+                  "withoutTax": 20.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plymouth Gin, Luxardo Apricot Liqueur, Noilly Prat Dry Vermouth, and a hint of fresh Lemon Juice, served up"
+            },
+            {
+              "title": "Tequila Daisy",
+              "prices": [
+                {
+                  "withoutTax": 22.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Don Julio Reposado Tequila, Cointreau, Cr\u00e8me de Violette Liqueur, fresh Lime Juice, Organic Agave Nectar, and Egg Whites, served up"
+            },
+            {
+              "title": "The Derby",
+              "prices": [
+                {
+                  "withoutTax": 19.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bulleit Bourbon, fresh Grapefruit Juice, and Honey, served up"
+            },
+            {
+              "title": "Scotch Mist",
+              "prices": [
+                {
+                  "withoutTax": 19.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Known to be Walt\u2019s Drink of Choice \u2013 Johnnie Walker Black Label Scotch with a Lemon Peel served over Crushed Ice"
+            },
+            {
+              "title": "Pisco Sour",
+              "prices": [
+                {
+                  "withoutTax": 20.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "El Gobernador Pisco, fresh Lime Juice, Organic Agave Nectar, Angostura Bitters, and Egg Whites"
+            },
+            {
+              "title": "Classic Manhattan",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bulleit Rye Small Batch American Whiskey, Carpano Antica Sweet Vermouth, Angostura Bitters, and Luxardo Gourmet Maraschino Cherries served with an Ice Sphere made from locally sourced Purified Water"
+            },
+            {
+              "title": "Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Reserve Bourbon with Angostura and Orange Bitters, a Luxardo Gourmet Maraschino Cherry, and served with an Ice Sphere made from locally sourced Purified Water"
+            },
+            {
+              "title": "Classic Gin & Tonic",
+              "prices": [
+                {
+                  "withoutTax": 19.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick\u2019s Gin and Premium Tonic"
+            },
+            {
+              "title": "Dill Gin & Tonic",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plymouth Gin, Premium Tonic, Zesty Deli Dill Pickle Brine, locally grown Organic Dill, and Lemon Peel"
+            },
+            {
+              "title": "Botanical Gin & Tonic",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, Premium Tonic, Star Anise, Cardamom, and Mint"
+            },
+            {
+              "title": "Sparkling Mare",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Saint-Hilaire Sparkling Wine, St-Germain Elderflower Liqueur, and Aperol Orange Aperitif"
+            },
+            {
+              "title": "Double Pear Martini",
+              "prices": [
+                {
+                  "withoutTax": 22.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Double Cross and Absolut Pears Vodkas, Pear Nectar, and fresh Lime Juice complemented with a marinated Baby Pear, served up"
+            },
+            {
+              "title": "Bourbon Crusta",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bulleit Bourbon, Cointreau, Luxardo Maraschino Liqueur, and fresh Lemon Juice with a Lemon Peel and a Sugar Rim"
+            },
+            {
+              "title": "Club Mojito",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Organic Mint from nearby farms, fresh Lime Juice, and Organic Agave Nectar topped with locally sourced Purified Sparkling Water served over Crushed Ice"
+            },
+            {
+              "title": "Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 21.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hanson of Sonoma Habanero Organic Vodka, Bloody Mary Mix, Barbecue Bitters, and Dill Pickle Brine garnished with a locally grown Organic Dill Sprig and a dehydrated Horseradish-crusted Tomato Slice"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Lunch - Seasonal Prix-Fixe Pricing",
+        "desktop": "Lunch - Seasonal Prix-Fixe Pricing"
+      },
+      {
+        "mobile": "Starters (choice of one)",
+        "desktop": "Starters (choice of one)"
+      },
+      {
+        "mobile": "Main Course (choice of one)",
+        "desktop": "Main Course (choice of one)"
+      },
+      {
+        "mobile": "Kids' - First Course (choice of one)",
+        "desktop": "Kids' - First Course (choice of one)"
+      },
+      {
+        "mobile": "Kids' - Entrees (choice of one)",
+        "desktop": "Kids' - Entrees (choice of one)"
+      },
+      {
+        "mobile": "Shareable Side for an Additional Cost ",
+        "desktop": "Shareable Side for an Additional Cost "
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Starters",
+        "desktop": "Starters"
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "For the Table",
+        "desktop": "For the Table"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Kids' - First Course, included with Entr\u00e9e (choice of one)",
+        "desktop": "Kids' - First Course, included with Entr\u00e9e (choice of one)"
+      },
+      {
+        "mobile": "Kids' Entr\u00e9es",
+        "desktop": "Kids' Entr\u00e9es"
+      },
+      {
+        "mobile": "Kids' Dessert",
+        "desktop": "Kids' Dessert"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Curtain Call",
+        "desktop": "Curtain Call"
+      },
+      {
+        "mobile": "Disney Family of Wines",
+        "desktop": "Disney Family of Wines"
+      },
+      {
+        "mobile": "Classic Cocktails",
+        "desktop": "Classic Cocktails"
+      }
+    ]
+  }
+}

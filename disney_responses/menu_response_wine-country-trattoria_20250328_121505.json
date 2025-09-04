@@ -1,0 +1,2546 @@
+{
+  "name": "Wine Country Trattoria",
+  "location": "Disney California Adventure Park, Performance Corridor",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Soup Del Giorno",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chefs' selection of Seasonal Ingredients"
+            },
+            {
+              "title": "Fried Calamari",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lightly-breaded Calamari and Haricots Vert served with Pepperoncini A\u00efoli"
+            },
+            {
+              "title": "Pull-Apart Cheese Bread",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sun-dried Tomato Focaccia, Whipped Herb Ricotta, Mozzarella, Tomato Coulis and Micro Herbs"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Wine Country Trattoria Salad with Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Greens with Pears, Candied Walnuts, Pickled Red Onions, Whipped Feta, Endive and Pear Vinaigrette"
+            },
+            {
+              "title": "Hearty Short Rib Pasta",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Broccolini, Caramelized Onions, Mushrooms, Rich Creamy Sauce and Pappardelle Pasta"
+            },
+            {
+              "title": "Rib-Eye Steak*",
+              "prices": [
+                {
+                  "withoutTax": 39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ribeye with Mascarpone Roasted Garlic Mashed Potatoes, Glazed Baby Carrots and Porcini Mushroom Demi Sauce"
+            },
+            {
+              "title": "Spaghetti Bolognese",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A rich Rag\u00f9 of Beef, Italian Sausage, Tomatoes, and Seasonings"
+            },
+            {
+              "title": "Shrimp Alfredo",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "creamy Mushroom Alfredo sauce with Parsley, Garlic and Chili flakes"
+            },
+            {
+              "title": "Chicken Parmesan",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Breaded and Fried Chicken Breast with Tomato Sauce and Mozzarella served over Spaghetti"
+            },
+            {
+              "title": "Salmon",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Roasted Red Bell Pepper Polenta and Roasted Seasonal Vegetables with a Lemon-Parsley A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaghetti Aglio Olio",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lightly tossed with Seasonal Vegetables, Garlic, Chili Flakes, and Lemon Oil"
+            },
+            {
+              "title": "Tomato Salad",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus-marinated Tomatoes, Housemade Ricotta, Pesto, crispy Basil and Watercress"
+            },
+            {
+              "title": "Lemon-Berry Tart",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon Berry Tart with Pistachio Crumble"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Breast",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Whole-Grain Pasta with Marinara and Meatballs",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Salmon",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Cheese Pizza",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Hot Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fountain Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Coca-Cola\u00ae Zero Sugar, Sprite\u00ae, Fanta\u00ae Orange, Minute Maid\u00ae Zero Sugar Pomegranate Lemonade, and Freshly Brewed Iced Tea"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Aperol Spritz",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and La Marca Prosecco topped with Soda Water"
+            },
+            {
+              "title": "Garibaldi",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and Blood Orange Juice"
+            },
+            {
+              "title": "Italian Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1800 Silver Tequila, Lime Juice, Sweet-and-Sour and a floater of Disaronno Amareto"
+            },
+            {
+              "title": "Trattoria Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bulleit Rye Bourbon, Rosemary Reduction, Bitters and Club Soda"
+            },
+            {
+              "title": "Passion Fruit Mule",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, Lime Juice, Ginger Beer and Passion Fruit Liqueur"
+            },
+            {
+              "title": "Amaro Rinfrescante",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Amaro Averna Liqueur topped with Sparkling Mineral Water and a splash of Lemon Juice"
+            },
+            {
+              "title": "Trattoria Aperitivo",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cappelletti Aperitivo, Storyhouse California Dry Gin and Lemon Juice"
+            },
+            {
+              "title": "Frozen Limoncello",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Meletti Limoncello, Sweet-and-Sour and Lemonade"
+            },
+            {
+              "title": "Lemon Basil Spritz",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limoncello, Absolut Citron, Prosecco, Lemon Juice, and Fresh Basil"
+            },
+            {
+              "title": "Pineapple Crush",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendricks Gin, Captain Morgan, Orgeat, Passionfruit, Pineapple Juice, Lemon"
+            },
+            {
+              "title": "Prickly Pear Mojito",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Rum, Peach Schnapps, Prickly Pear, Agave, Lime Juice, Soda Water"
+            },
+            {
+              "title": "Red Sangria",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beso Del Sol Red Sangria made from 100% natural marriage of Spanish Tempranillo Grapes, Orange, Blood Orange, and Lemon Juices with a touch of Natural Cinnamon"
+            },
+            {
+              "title": "White Sangria",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beso Del Sol White Sangria made from 100% natural blend of Airen White Spanish Grapes, Lemon, Peach, and Mango Juices"
+            }
+          ]
+        },
+        {
+          "name": "Beer, Cider and Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peroni",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italian Pale Lager, Rome, Italy (5% ABV)"
+            },
+            {
+              "title": "North Coast PranQster",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fort Bragg, CA (ABV 7.6%)"
+            },
+            {
+              "title": "Brewery X, Watermelon Lime Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (5.0% ABV), 12oz serving"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.7%)"
+            },
+            {
+              "title": "Brewery X, \"Hey Mambo!\", Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 5.0%)"
+            },
+            {
+              "title": "Corona",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexican Lager, Mexico City (4.5% ABV, 22 IBU)"
+            },
+            {
+              "title": "Seasonal ACE Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sebastopol, CA (ABV 5.0-6.9%)"
+            },
+            {
+              "title": "Athletic Brewing, Run Wild Non-Alcoholic IPA (ABV <0.5%)",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wine Flights",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Wine Flight - Tour of Italy",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Placido Pinot Grigio, Veneto; Giovanni Rosso Barolo, Piedmont; Banfi Chianti Classico Riserva"
+            },
+            {
+              "title": "Wine Flight - California Wine Country",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Honig Vineyards Sauvignon Blanc, Napa Valley; MacMurray Estate Vineyards Pinot Noir, Russian River Valley; Schweiger Family Cabernet Sauvignon, Spring Mountain District"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling and White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mo\u00ebt & Chandon, Brut Imperial Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banfi Rosa Regale, Brachetto d'Acqui, Italy",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Zonin, Prosecco Brut Sparkling Wine, Italy",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Placido, Pinot Grigio, Veneto",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Parducci, Small Lot Pinot Gris/Grigio, Mendocino County",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Honig Vineyards, Sauvignon Blanc, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Whitehall Lane, Sauvignon Blanc, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chalk Hill, Sauvignon Blanc, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chalk Hill, Chardonnay, Sonoma Coast",
+              "prices": [
+                {
+                  "withoutTax": 89,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 21,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Far Niente, Chardonnay, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 141,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chateau Montelena, Chardonnay, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 73,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kistler, Chardonnay, Sonoma Valley",
+              "prices": [
+                {
+                  "withoutTax": 172,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sterling Vineyards, Chardonnay, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michele Chiarlo Nivole Moscato, Italy",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "a delicate dessert wine, light and soft on the palate with a fragrant, fruity bouquet and a clean, crisp finish (3-oz pour)"
+            },
+            {
+              "title": "Conundrum, California",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "MacMurray Estate, Pinot Noir, Sonoma Coast",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Canyon Road, Merlot, California",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Provenance, Merlot, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beaulieu Vineyards, Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schweiger Family, Cabernet Sauvignon, Spring Mountain District",
+              "prices": [
+                {
+                  "withoutTax": 89,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 21,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Silverado, Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 23,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banfi Chianti Classico Riserva, DOCG Red Blend, Italy",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fantasia, Sangiovese, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 23,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rosso Barolo",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Piedmonte, Italy"
+            },
+            {
+              "title": "Perrin Nature C\u00f4tes-du-Rh\u00f4ne, France",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Campolieti Valpolicella Ripasso, Venetia, Italy",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Barossa Valley Estate Shiraz, South Australia",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Zinfandel Saldo",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Northern California"
+            },
+            {
+              "title": "Beaulieu Vineyards, Tapestry, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 85,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Appetizers",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fried Calamari",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lightly breaded Calamari and Haricots Verts served with Pepperoncini A\u00efoli. (For Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Pull-Apart Cheese Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sun-dried Tomato Focaccia, Whipped Herb Ricotta, Mozzarella, Tomato Coulis and Micro Herbs. (For Egg, Fish/Shellfish, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entr\u00e9es",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rib-Eye Steak*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mascarpone Roasted Garlic Mashed Potatoes, Glazed Baby Carrots and Porcini Mushroom Demi Sauce. (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Spaghetti Bolognese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A rich Ragu of Beef, Italian Sausage, Vegetables and Seasonings (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Shrimp Alfredo** ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a creamy White Wine Sauce, Parsley, Garlic and Chili Flakes. (For Gluten/Wheat, Egg, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Hearty Short Rib Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Broccolini, Caramelized Onions, Mushrooms, Rich Creamy Sauce and Pappardelle Pasta (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Trattoria Salad with Shrimp or Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Tomato, Fresh Strawberries, Carrot Ribbons, Crispy Artichokes, Roasted Beet Mascarpone Spread and Champagne Vinaigrette. (For Egg, Fish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Creamy Roasted Red Bell Pepper Polenta and Roasted Seasonal Vegetables with a Lemon-Parsley A\u00efoli. (For Peanut/Tree Nut, Sesame and Shellfish Allergies)"
+            },
+            {
+              "title": "Chicken Parmesan",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Breaded and Fried Chicken Breast with Tomato Sauce and Mozzarella served over Spaghetti. (For Peanut/Tree Nut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-Based",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tomato Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Tomatoes, House-made Ricotta, Pesto, Basil and Watercress with Sourdough Croutons. (For Egg, Fish/Shellfish, Milk, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Spaghetti Aglio Olio**",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lightly tossed with Seasonal Vegetables, Garlic, Chili Flakes and Olive Oil-White Wine Sauce. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Desserts",
+          "type": "Allergy Friendly|Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tiramisu Bread Pudding",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sourdough Bread Pudding, Espresso Liqueur, Mascarpone Cream and Chocolate Shavings(For Fish/Shellfish, Peanut/Tree Nut and Soy Allergies)"
+            },
+            {
+              "title": "Trattoria Raspberry Sorbet ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Meals",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Breast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Whole-Grain Pasta with Marinara and Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame and Shellfish Allergies)"
+            },
+            {
+              "title": "Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Meal Selections ",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Soup Del Giorno",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chefs' selection of Seasonal Ingredients"
+            },
+            {
+              "title": "Fried Calamari",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lightly-breaded Calamari and Haricots Vert served with Pepperoncini A\u00efoli"
+            },
+            {
+              "title": "Pull-Apart Cheese Bread",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sun-dried Tomato Focaccia, Whipped Herb Ricotta, Mozzarella, Tomato Coulis and Micro Herbs"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Wine Country Trattoria Salad with Shrimp",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Greens with Pears, Candied Walnuts, Pickled Red Onions, Whipped Feta, Endive and Pear Vinaigrette"
+            },
+            {
+              "title": "Hearty Short Rib Pasta",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Broccolini, Caramelized Onions, Mushrooms, Rich Creamy Sauce and Pappardelle Pasta"
+            },
+            {
+              "title": "Rib-Eye Steak*",
+              "prices": [
+                {
+                  "withoutTax": 39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ribeye with Mascarpone Roasted Garlic Mashed Potatoes, Glazed Baby Carrots and Porcini Mushroom Demi Sauce"
+            },
+            {
+              "title": "Spaghetti Bolognese",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A rich Rag\u00f9 of Beef, Italian Sausage, Tomatoes, and Seasonings"
+            },
+            {
+              "title": "Shrimp Alfredo",
+              "prices": [
+                {
+                  "withoutTax": 31,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "creamy Mushroom Alfredo sauce with Parsley, Garlic and Chili flakes"
+            },
+            {
+              "title": "Chicken Parmesan",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Breaded and Fried Chicken Breast with Tomato Sauce and Mozzarella served over Spaghetti"
+            },
+            {
+              "title": "Salmon",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Roasted Red Bell Pepper Polenta and Roasted Seasonal Vegetables with a Lemon-Parsley A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaghetti Aglio Olio",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lightly tossed with Seasonal Vegetables, Garlic, Chili Flakes, and Lemon Oil"
+            },
+            {
+              "title": "Tomato Salad",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus-marinated Tomatoes, Housemade Ricotta, Pesto, crispy Basil and Watercress"
+            },
+            {
+              "title": "Lemon-Berry Tart",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon Berry Tart with Pistachio Crumble"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entr\u00e9es (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Breast",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Whole-Grain Pasta with Marinara and Meatballs",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Salmon",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Cheese Pizza",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with choice of two (2) Selections and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Hot Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fountain Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Coca-Cola\u00ae Zero Sugar, Sprite\u00ae, Fanta\u00ae Orange, Minute Maid\u00ae Zero Sugar Pomegranate Lemonade, and Freshly Brewed Iced Tea"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Aperol Spritz",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and La Marca Prosecco topped with Soda Water"
+            },
+            {
+              "title": "Garibaldi",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol and Blood Orange Juice"
+            },
+            {
+              "title": "Italian Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "1800 Silver Tequila, Lime Juice, Sweet-and-Sour and a floater of Disaronno Amareto"
+            },
+            {
+              "title": "Trattoria Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bulleit Rye Bourbon, Rosemary Reduction, Bitters and Club Soda"
+            },
+            {
+              "title": "Passion Fruit Mule",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, Lime Juice, Ginger Beer and Passion Fruit Liqueur"
+            },
+            {
+              "title": "Amaro Rinfrescante",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Amaro Averna Liqueur topped with Sparkling Mineral Water and a splash of Lemon Juice"
+            },
+            {
+              "title": "Trattoria Aperitivo",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cappelletti Aperitivo, Storyhouse California Dry Gin and Lemon Juice"
+            },
+            {
+              "title": "Frozen Limoncello",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Meletti Limoncello, Sweet-and-Sour and Lemonade"
+            },
+            {
+              "title": "Lemon Basil Spritz",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limoncello, Absolut Citron, Prosecco, Lemon Juice, and Fresh Basil"
+            },
+            {
+              "title": "Pineapple Crush",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendricks Gin, Captain Morgan, Orgeat, Passionfruit, Pineapple Juice, Lemon"
+            },
+            {
+              "title": "Prickly Pear Mojito",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Rum, Peach Schnapps, Prickly Pear, Agave, Lime Juice, Soda Water"
+            },
+            {
+              "title": "Red Sangria",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beso Del Sol Red Sangria made from 100% natural marriage of Spanish Tempranillo Grapes, Orange, Blood Orange, and Lemon Juices with a touch of Natural Cinnamon"
+            },
+            {
+              "title": "White Sangria",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beso Del Sol White Sangria made from 100% natural blend of Airen White Spanish Grapes, Lemon, Peach, and Mango Juices"
+            }
+          ]
+        },
+        {
+          "name": "Beer, Cider and Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peroni",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italian Pale Lager, Rome, Italy (5% ABV)"
+            },
+            {
+              "title": "North Coast PranQster",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fort Bragg, CA (ABV 7.6%)"
+            },
+            {
+              "title": "Brewery X, Watermelon Lime Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Anaheim, CA (5.0% ABV), 12oz serving"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.7%)"
+            },
+            {
+              "title": "Brewery X, \"Hey Mambo!\", Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 5.0%)"
+            },
+            {
+              "title": "Corona",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexican Lager, Mexico City (4.5% ABV, 22 IBU)"
+            },
+            {
+              "title": "Seasonal ACE Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sebastopol, CA (ABV 5.0-6.9%)"
+            },
+            {
+              "title": "Athletic Brewing, Run Wild Non-Alcoholic IPA (ABV <0.5%)",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wine Flights",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Wine Flight - Tour of Italy",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Placido Pinot Grigio, Veneto; Giovanni Rosso Barolo, Piedmont; Banfi Chianti Classico Riserva"
+            },
+            {
+              "title": "Wine Flight - California Wine Country",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Honig Vineyards Sauvignon Blanc, Napa Valley; MacMurray Estate Vineyards Pinot Noir, Russian River Valley; Schweiger Family Cabernet Sauvignon, Spring Mountain District"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling and White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mo\u00ebt & Chandon, Brut Imperial Champagne, France",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banfi Rosa Regale, Brachetto d'Acqui, Italy",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Zonin, Prosecco Brut Sparkling Wine, Italy",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Placido, Pinot Grigio, Veneto",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Parducci, Small Lot Pinot Gris/Grigio, Mendocino County",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Honig Vineyards, Sauvignon Blanc, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Whitehall Lane, Sauvignon Blanc, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chalk Hill, Sauvignon Blanc, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chalk Hill, Chardonnay, Sonoma Coast",
+              "prices": [
+                {
+                  "withoutTax": 89,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 21,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Far Niente, Chardonnay, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 141,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chateau Montelena, Chardonnay, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 73,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kistler, Chardonnay, Sonoma Valley",
+              "prices": [
+                {
+                  "withoutTax": 172,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sterling Vineyards, Chardonnay, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michele Chiarlo Nivole Moscato, Italy",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "a delicate dessert wine, light and soft on the palate with a fragrant, fruity bouquet and a clean, crisp finish (3-oz pour)"
+            },
+            {
+              "title": "Conundrum, California",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "MacMurray Estate, Pinot Noir, Sonoma Coast",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Canyon Road, Merlot, California",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Provenance, Merlot, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beaulieu Vineyards, Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schweiger Family, Cabernet Sauvignon, Spring Mountain District",
+              "prices": [
+                {
+                  "withoutTax": 89,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 21,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Silverado, Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 23,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banfi Chianti Classico Riserva, DOCG Red Blend, Italy",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fantasia, Sangiovese, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 94,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 23,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rosso Barolo",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Piedmonte, Italy"
+            },
+            {
+              "title": "Perrin Nature C\u00f4tes-du-Rh\u00f4ne, France",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Campolieti Valpolicella Ripasso, Venetia, Italy",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Barossa Valley Estate Shiraz, South Australia",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Zinfandel Saldo",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Northern California"
+            },
+            {
+              "title": "Beaulieu Vineyards, Tapestry, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 85,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Appetizers",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fried Calamari",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lightly breaded Calamari and Haricots Verts served with Pepperoncini A\u00efoli. (For Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Pull-Apart Cheese Bread",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sun-dried Tomato Focaccia, Whipped Herb Ricotta, Mozzarella, Tomato Coulis and Micro Herbs. (For Egg, Fish/Shellfish, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entr\u00e9es",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rib-Eye Steak*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Mascarpone Roasted Garlic Mashed Potatoes, Glazed Baby Carrots and Porcini Mushroom Demi Sauce. (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Spaghetti Bolognese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A rich Ragu of Beef, Italian Sausage, Vegetables and Seasonings (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Shrimp Alfredo** ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a creamy White Wine Sauce, Parsley, Garlic and Chili Flakes. (For Gluten/Wheat, Egg, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Hearty Short Rib Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Broccolini, Caramelized Onions, Mushrooms, Rich Creamy Sauce and Pappardelle Pasta (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Trattoria Salad with Shrimp or Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Tomato, Fresh Strawberries, Carrot Ribbons, Crispy Artichokes, Roasted Beet Mascarpone Spread and Champagne Vinaigrette. (For Egg, Fish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Creamy Roasted Red Bell Pepper Polenta and Roasted Seasonal Vegetables with a Lemon-Parsley A\u00efoli. (For Peanut/Tree Nut, Sesame and Shellfish Allergies)"
+            },
+            {
+              "title": "Chicken Parmesan",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Breaded and Fried Chicken Breast with Tomato Sauce and Mozzarella served over Spaghetti. (For Peanut/Tree Nut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-Based",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tomato Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Tomatoes, House-made Ricotta, Pesto, Basil and Watercress with Sourdough Croutons. (For Egg, Fish/Shellfish, Milk, Sesame and Soy Allergies)"
+            },
+            {
+              "title": "Spaghetti Aglio Olio**",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lightly tossed with Seasonal Vegetables, Garlic, Chili Flakes and Olive Oil-White Wine Sauce. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Desserts",
+          "type": "Allergy Friendly|Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tiramisu Bread Pudding",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sourdough Bread Pudding, Espresso Liqueur, Mascarpone Cream and Chocolate Shavings(For Fish/Shellfish, Peanut/Tree Nut and Soy Allergies)"
+            },
+            {
+              "title": "Trattoria Raspberry Sorbet ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Meals",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Breast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Whole-Grain Pasta with Marinara and Meatballs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame and Shellfish Allergies)"
+            },
+            {
+              "title": "Cheese Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All meals include choice of small DASANI\u00ae Water or small lowfat milk. (For Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Meal Selections ",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

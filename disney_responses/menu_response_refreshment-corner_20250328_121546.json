@@ -1,0 +1,867 @@
+{
+  "name": "Refreshment Corner",
+  "location": "Disneyland Park, Main Street, U.S.A.",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Magic Key Holder Offerings",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Magic Key Mirrored Mickey-Shaped Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 18.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit one (1) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Magic Key Tumbler",
+              "prices": [
+                {
+                  "withoutTax": 14.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Fountain Beverage at time of purchase. Magic Key holder must present a valid Magic Key Pass to Purchase. Refills are not included."
+            }
+          ]
+        },
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Chip & Dale Orb Sipper",
+              "prices": [
+                {
+                  "withoutTax": 18.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Coco Floral Skull Sipper",
+              "prices": [
+                {
+                  "withoutTax": 20.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Donald Duck Munchlings Bucket",
+              "prices": [
+                {
+                  "withoutTax": 24.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes Spicy Firefly Chips at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Spicy Firefly Chips ",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spicy Corn Chips topped with Chili, Cheese and Jalapenos"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chili Potato Dog ",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baked Potato, All-Beef Hot Dog, Spicy Chili, Cheese Sauce, Sour Cream, Green Onion and Spicy Corn Chips"
+            },
+            {
+              "title": "All-Beef Hot Dog Basket",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Chili Cheese Dog Basket",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Home-style Chili, Shredded Cheese and Onion, served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Mac & Cheese in a Sourdough Bread Bowl",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mac & Cheese served in a Sourdough Bread Bowl with Shredded Cheese"
+            },
+            {
+              "title": "Mac & Cheese Dog Basket",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Macaroni and Cheese, Bacon Bits and served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Hearty Chili",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "All-Beef Chili served in a Sourdough Bread Bowl topped with Shredded Cheese"
+            },
+            {
+              "title": "Mac & Cheese Chili in a Sourdough Bread Bowl",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mac & Cheese and Hearty Chili served in a Sourdough Bread Bowl with Shredded Cheese"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "POWER Pack",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie, a Cuties\u00ae Mandarin, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey Mouse Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Mickey-shaped Pretzel served dusted with Coarse Salt"
+            },
+            {
+              "title": "Cheese Cup",
+              "prices": [
+                {
+                  "withoutTax": 1.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jalape\u00f1o Cheese-filled Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Jalape\u00f1o Cheese-filled Pretzel"
+            },
+            {
+              "title": "Cream Cheese-filled Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Cream Cheese-filled Pretzel"
+            },
+            {
+              "title": "Cinnamon Roll Pretzel ",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cream Cheese-filled Pretzel topped with Cinnamon Sugar and Cream Cheese Icing"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sweet Heat Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Watermelon-Habanero Lemonade with Spiced Lemon and Serrano"
+            },
+            {
+              "title": "Princess Tiana Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 21.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit five (5) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Princess Aurora Sipper",
+              "prices": [
+                {
+                  "withoutTax": 21.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Princess Belle Sipper",
+              "prices": [
+                {
+                  "withoutTax": 19.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Mickey Mouse-shaped Glow Cube",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light-up your beverage. Limit ten (10) per person, per transaction."
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Reusable Utensils",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with purchase of food. Limit ten (10) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly All-Beef Hot Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Featuring a Premium Hot Dog served on an Allergy-friendly Bun, includes a Cuties\u00ae Mandarin Orange or small bag of Chips"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Chili Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Home-style Chili, Shredded Cheese and Onion on an Allergy-Friendly Bun, served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Hearty Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Topped with Cheese and served with an Allergy-friendly Roll"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly All-Beef Hot Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Featuring a Premium Hot Dog served on a Bun, includes a Cuties\u00ae Mandarin Orange or small bag of Chips"
+            },
+            {
+              "title": "Egg Allergy-Friendly Chili Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Home-style Chili, Shredded Cheese and Onion, served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Egg Allergy-Friendly Hearty Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "In a Sourdough Bread Bowl topped with Cheddar Cheese"
+            },
+            {
+              "title": "Egg Allergy-Friendly Mickey Mouse Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Mickey-shaped Pretzel served dusted with Coarse Salt"
+            },
+            {
+              "title": "Egg Allergy-Friendly Jalape\u00f1o Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Jalape\u00f1o Cheese-filled Pretzel"
+            },
+            {
+              "title": "Egg Allergy-Friendly Cream Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Cream Cheese-filled Pretzel"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly All-Beef Hot Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Premium Hot Dog served on a Warm Bun with choice of Cuties\u00ae Mandarin Orange or small bag of Chips"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Chili Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Home-style Chili, Shredded Cheese and Onion, served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mac & Cheese in a Sourdough Bread Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mac & Cheese served in a Sourdough Bread Bowl with Shredded Cheese"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mac and Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Macaroni and Cheese, Bacon Bits and served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Hearty Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Chili served with a Bread Roll, topped with Shredded Cheese"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mac & Cheese Chili in a Sourdough Bread Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mac & Cheese and Hearty Chili served in a Sourdough Bread Bowl with Shredded Cheese"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mickey Mouse Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Mickey-shaped Pretzel served dusted with Coarse Salt"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Jalape\u00f1o Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Jalape\u00f1o Cheese-filled Pretzel"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Cream Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Cream Cheese-filled Pretzel"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie, a Cuties\u00ae Mandarin, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly All-Beef Hot Dog ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Featuring a Premium Hot Dog served on a Bun, includes a Cuties\u00ae Mandarin Orange or small bag of Chips"
+            },
+            {
+              "title": "Milk Allergy-Friendly Chili Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Featuring a Premium Hot Dog served on a Bun, includes a Cuties\u00ae Mandarin Orange or small bag of Chips"
+            },
+            {
+              "title": "Milk Allergy-friendly Hearty Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "In a Sourdough Bread Bowl"
+            },
+            {
+              "title": "Milk Allergy-Friendly Mickey Mouse Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Mickey-shaped Pretzel served dusted with Coarse Salt"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly All-Beef Hot Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Premium Hot Dog served on a Warm Bun with choice of Cuties\u00ae Mandarin Orange or small bag of Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Chili Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Home-style Chili, Shredded Cheese and Onion, served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mac & Cheese in a Sourdough Bread Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mac & Cheese served in a Sourdough Bread Bowl with Shredded Cheese"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mac and Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Macaroni and Cheese, Bacon Bits and served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Hearty Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Chili served with a Bread Roll, topped with Shredded Cheese"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mac & Cheese Chili in a Sourdough Bread Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mac & Cheese and Hearty Chili served in a Sourdough Bread Bowl with Shredded Cheese"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mickey Mouse Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Mickey-shaped Pretzel served dusted with Coarse Salt"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Jalape\u00f1o Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Jalape\u00f1o Cheese-filled Pretzel"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Cream Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Cream Cheese-filled Pretzel"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Yogurt Smoothie, a Cuties\u00ae Mandarin, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Bottled Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly All-Beef Hot Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Premium Hot Dog served on a Warm Bun with choice of a Cuties\u00ae Mandarin Orange or Small Bag of Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Chili Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Home-style Chili, Shredded Cheese and Onion, served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mac & Cheese in a Sourdough Bread Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mac & Cheese served in a Sourdough Bread Bowl with Shredded Cheese"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mac & Cheese Dog Basket",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Hot Dog topped with Macaroni and Cheese, Bacon Bits and served with a Cuties\u00ae Mandarin Orange or a Small Bag of Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Hearty Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-Beef Chili served in a Sourdough Bread Bowl topped with Shredded Cheese"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mac & Cheese Chili in a Sourdough Bread Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mac & Cheese and Hearty Chili served in a Sourdough Bread Bowl with Shredded Cheese"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mickey Mouse Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Mickey-shaped Pretzel served dusted with Coarse Salt"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Jalape\u00f1o Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Jalape\u00f1o Cheese-filled Pretzel"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Cream Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Cream Cheese-filled Pretzel"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly All-Beef Hot Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Featuring a Premium Hot Dog served on an Allergy-Friendly Bun, includes a Cuties\u00ae Mandarin Orange"
+            },
+            {
+              "title": "Soy Allergy-Friendly Hearty Chili",
+              "prices": [],
+              "pricesRange": false,
+              "description": "In a Sourdough Bread bowl, topped with Cheddar Cheese"
+            },
+            {
+              "title": "Soy Allergy-Friendly Mickey Mouse Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Mickey-shaped Pretzel served dusted with Coarse Salt"
+            },
+            {
+              "title": "Soy Allergy-Friendly Jalape\u00f1o Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Jalape\u00f1o Cheese-filled Pretzel"
+            },
+            {
+              "title": "Soy Allergy-Friendly Cream Cheese-filled Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Cream Cheese-filled Pretzel"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' POWER Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers with choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

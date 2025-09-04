@@ -1,0 +1,8 @@
+{
+  "result": {
+    "token_type": "BEARER",
+    "expires_in": "28800",
+    "scope": "AUTHZ_PUBLIC-INSECURE"
+  },
+  "successful": true
+}

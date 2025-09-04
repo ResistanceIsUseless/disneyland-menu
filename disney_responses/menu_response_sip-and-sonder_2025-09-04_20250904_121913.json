@@ -1,0 +1,793 @@
+{
+  "name": "Sip & Sonder",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Coffee",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Regular Drip",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decaf Drip",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e9 Au Lait",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Espresso",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cortado",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Americano",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Drinks on Tap",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cold Brew",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nod to Nicaud",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cold Brew with Chicory & Cane Sugar"
+            },
+            {
+              "title": "Iced Oat Milk Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kombucha",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Specialties",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Sparrow",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Dirty Chai Latte"
+            },
+            {
+              "title": "A Serenade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Honey Lavender Latte"
+            },
+            {
+              "title": "Sweet Rhapsody",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lavender Mocha Latte"
+            }
+          ]
+        },
+        {
+          "name": "So Icy",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Hummingbird",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Jamaican Sorrel Slushie"
+            },
+            {
+              "title": "The Monarch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Butterfly Pea Flower Coconut Vanilla Slushie"
+            }
+          ]
+        },
+        {
+          "name": "Tea & More",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black, Green, Herbal"
+            },
+            {
+              "title": "Lavender Tea Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chai Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Matcha Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "The Dream Collection",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate, Caramel, Vanilla, Lavender"
+            },
+            {
+              "title": "Glac\u00e9au Smartwater\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "12-oz Can"
+            },
+            {
+              "title": "Topo Chico\u00ae Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bottled"
+            }
+          ]
+        },
+        {
+          "name": "Kid's Corner",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Hummingbird",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Jamaican Sorrel Slushie"
+            },
+            {
+              "title": "The Monarch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Butterfly Pea Flower Coconut Vanilla Slushie"
+            },
+            {
+              "title": "The Dream Collection",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate, Caramel, Vanilla, Lavender"
+            },
+            {
+              "title": "Orange Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bottled"
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bottled"
+            }
+          ]
+        },
+        {
+          "name": "Bites",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Butter Croissant",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon, Egg, & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hill\u2019s Bacon, Baked Custard Egg, Cheddar Cheese, Caramelized Onion A\u00efoli, Brioche Bun"
+            },
+            {
+              "title": "The Chicken & the Egg",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Sausage, Farm Egg, Cheddar Cheese, Avocado, Hot Honey, English Muffin"
+            },
+            {
+              "title": "Cinnamon Rolls",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Plain, Blueberry Brown Sugar, Cookies & Cream"
+            },
+            {
+              "title": "Cake Pops",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Funfetti, Cookies & Cream, Red Velvet"
+            }
+          ]
+        },
+        {
+          "name": "Bites - Plant-Based",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Vegan Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Plant-based Sausage, Vegan Cheese, Avocado, Garlic Vegenaise, Ciabatta"
+            }
+          ]
+        },
+        {
+          "name": "Non-Dairy Milks",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Almond Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oat Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coconut Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Macadamia Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Syrup Flavors",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Vanilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caramel",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lavender",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rose",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hazelnut",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Coffee",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Regular Drip",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decaf Drip",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caf\u00e9 Au Lait",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Espresso",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cortado",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Americano",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Drinks on Tap",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cold Brew",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nod to Nicaud",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cold Brew with Chicory & Cane Sugar"
+            },
+            {
+              "title": "Iced Oat Milk Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kombucha",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Specialties",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Sparrow",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Dirty Chai Latte"
+            },
+            {
+              "title": "A Serenade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Honey Lavender Latte"
+            },
+            {
+              "title": "Sweet Rhapsody",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lavender Mocha Latte"
+            }
+          ]
+        },
+        {
+          "name": "So Icy",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Hummingbird",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Jamaican Sorrel Slushie"
+            },
+            {
+              "title": "The Monarch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Butterfly Pea Flower Coconut Vanilla Slushie"
+            }
+          ]
+        },
+        {
+          "name": "Tea & More",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black, Green, Herbal"
+            },
+            {
+              "title": "Lavender Tea Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chai Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Matcha Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "The Dream Collection",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate, Caramel, Vanilla, Lavender"
+            },
+            {
+              "title": "Glac\u00e9au Smartwater\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "12-oz Can"
+            },
+            {
+              "title": "Topo Chico\u00ae Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bottled"
+            }
+          ]
+        },
+        {
+          "name": "Kid's Corner",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Hummingbird",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Jamaican Sorrel Slushie"
+            },
+            {
+              "title": "The Monarch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Butterfly Pea Flower Coconut Vanilla Slushie"
+            },
+            {
+              "title": "The Dream Collection",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate, Caramel, Vanilla, Lavender"
+            },
+            {
+              "title": "Orange Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bottled"
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bottled"
+            }
+          ]
+        },
+        {
+          "name": "Bites",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cinnamon Rolls",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Plain, Blueberry Brown Sugar, Cookies & Cream"
+            },
+            {
+              "title": "Cake Pops",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Funfetti, Cookies & Cream, Red Velvet"
+            }
+          ]
+        },
+        {
+          "name": "Non-Dairy Milks",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Almond Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oat Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coconut Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Macadamia Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Syrup Flavors",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Vanilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caramel",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lavender",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rose",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hazelnut",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Coffee",
+        "desktop": "Coffee"
+      },
+      {
+        "mobile": "Espresso",
+        "desktop": "Espresso"
+      },
+      {
+        "mobile": "Drinks on Tap",
+        "desktop": "Drinks on Tap"
+      },
+      {
+        "mobile": "Specialties",
+        "desktop": "Specialties"
+      },
+      {
+        "mobile": "So Icy",
+        "desktop": "So Icy"
+      },
+      {
+        "mobile": "Tea & More",
+        "desktop": "Tea & More"
+      },
+      {
+        "mobile": "Kid's Corner",
+        "desktop": "Kid's Corner"
+      },
+      {
+        "mobile": "Bites",
+        "desktop": "Bites"
+      },
+      {
+        "mobile": "Bites - Plant-Based",
+        "desktop": "Bites - Plant-Based"
+      },
+      {
+        "mobile": "Non-Dairy Milks",
+        "desktop": "Non-Dairy Milks"
+      },
+      {
+        "mobile": "Syrup Flavors",
+        "desktop": "Syrup Flavors"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Coffee",
+        "desktop": "Coffee"
+      },
+      {
+        "mobile": "Espresso",
+        "desktop": "Espresso"
+      },
+      {
+        "mobile": "Drinks on Tap",
+        "desktop": "Drinks on Tap"
+      },
+      {
+        "mobile": "Specialties",
+        "desktop": "Specialties"
+      },
+      {
+        "mobile": "So Icy",
+        "desktop": "So Icy"
+      },
+      {
+        "mobile": "Tea & More",
+        "desktop": "Tea & More"
+      },
+      {
+        "mobile": "Kid's Corner",
+        "desktop": "Kid's Corner"
+      },
+      {
+        "mobile": "Bites",
+        "desktop": "Bites"
+      },
+      {
+        "mobile": "Non-Dairy Milks",
+        "desktop": "Non-Dairy Milks"
+      },
+      {
+        "mobile": "Syrup Flavors",
+        "desktop": "Syrup Flavors"
+      }
+    ]
+  }
+}

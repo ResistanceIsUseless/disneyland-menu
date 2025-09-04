@@ -1,0 +1,391 @@
+{
+  "name": "Sip and Savor Pass",
+  "location": "Disney California Adventure Park",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Aunt Cass Caf\u00e9",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Burrata Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Toasted Sourdough, Onion Jam, Burrata, Tomatoes, Arugula and Balsamic Glaze (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Award Wieners",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini LA Street Dog ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Jalape\u00f1o Mayo, Pepper & Onion Relish and Nueske's\u00ae Applewood Smoked Bacon (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Boardwalk Pizza & Pasta",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pineapple and Coconut Cheesecake ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coconut Cheesecake topped with Pineapple Jam, Pineapple DOLE Whip\u00ae Mousse and a Maraschino Cherry (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Cappucino Cart",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coffee Bundt Cake ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coffee Bundt Cake with Chocolate Mousse Filling and a Coffee-flavored Liqueur Glaze (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Churros at Hollywood Land",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peach Tea Churro",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Classic Churro rolled in Peach Sugar with Diced Peaches and Peach Tea Sauce (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Clarabelle's Hand-Scooped Ice Cream",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Strawberry Shortcake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Angel Food Cake, Vanilla Ice Cream, Strawberry Syrup, Whipped Topping and Fresh Strawberries (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Cocina Cucamonga",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Strawberry Horchata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sweet Rice Beverage with Cinnamon and Strawberry Pur\u00e9e (Sip and Savor Pass portion)"
+            }
+          ]
+        },
+        {
+          "name": "Cozy Cone 5: Popcone",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Corn Chip Chili Pie featuring Impossible\u2122 Beef ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Impossible\u2122 Beef, Spicy Cheese Sauce, Tomatoes, Sliced Jalape\u00f1os and Crema (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Paradise Gardens Festival Cart",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Loaded Carnitas Pretzel Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cheese Sauce, Salsa Verde, Cilantro and Onion (Sip and Savor Pass portion)"
+            }
+          ]
+        },
+        {
+          "name": "Paradise Garden Grill",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Taquito Ahogado",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in Salsa Verde, with Spanish Rice, Avocado Crema, Sour Cream, Pickled Onion, Cotija and Cilantro (Sip and Savor Pass Portion)"
+            },
+            {
+              "title": "Al Pastor Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pineapple-Achiote-marinated Pork with Avocado Spread and Tomatillo Salsa (Sip and Savor Pass Portion)"
+            },
+            {
+              "title": "Lime Parfait ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Layers of Graham Cracker Crust, Lime Cream Cheese Mousse and Lime-Orange Gel\u00e9e, topped with Chantilly (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Smokejumpers Grill",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lemon Pepper Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic Ranch (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Sonoma Terrace",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Birria Mac & Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Onion-Cilantro Sauce and Tortilla Crunch (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Studio Catering Co.",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Salsa Verde Chicharr\u00f3n Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Belly Chicharr\u00f3n tossed in Warm Salsa Verde, topped with Salsa Macha and Pickled Onions (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Terran Treats",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cr\u00e8me Br\u00fbl\u00e9e Churro",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pastry Cream, Strawberry Coulis and Crushed Br\u00fbl\u00e9ed Sugar (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplaces",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Food and beverage selections from 8 Food & Wine Marketplace kiosks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(excluding alcoholic beverages)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace \u2013 California Craft Brews",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lemon Pepper Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic Ranch (Sip and Savor Portion)"
+            },
+            {
+              "title": "Sloppy Joe Slider featuring Impossible\u2122 Beef ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cheese (Sip and Savor Portion)"
+            },
+            {
+              "title": "California Punch",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mango Pur\u00e9e, Guava Nectar, Cucumber Syrup and Lemon Juice, garnished with a Mango Chile Lollipop (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace \u2013 Cluck-a-Doodle-Moo",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Asa'DOS",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Skirt Steak and Chipotle Chicken with Spanish Rice and Salsa Verde (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace \u2013 Garlic Kissed",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sirloin Gruy\u00e9re Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Black Garlic Chimichurri and Garlic Butter Crunch (Sip and Savor Portion)"
+            },
+            {
+              "title": "Huckleberry-Citrus Cooler",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Huckleberry & Agave Syrups, Grapefruit Soda, Lemon & Orange Juices and Gold Peak\u00ae Black Tea, garnished with an Orange Wedge (Sip and Savor Pass portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace \u2013 Golden Dreams",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Musubi Fried Rice brought to you by Disney Vacation Club\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "AULANI Resort-inspired Steamed Rice with Egg, Glazed Spiced Ham, Umami Mayo and Furikake (Sip and Savor Portion)"
+            },
+            {
+              "title": "Cherry Cobbler Pot de Cr\u00e8me ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Custard, Cherry Filling and Oat Crumble (Sip and Savor Portion)"
+            },
+            {
+              "title": "Blueberry Pancake Cold Brew",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Joffrey's Coffee & Tea Co.\u00ae Mexico Origin Coffee, Oat Milk, Demerara, Maple & Brown Butter Syrups, topped with Blueberry Sweet Cream, garnished with Cinnamon-flavored Cereal Crumble (Sip and Savor Pass portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace \u2013 LA Style",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini LA Street Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Jalape\u00f1o Mayo, Pepper & Onion Relish and Nueske's\u00ae Applewood Smoked Bacon (Sip and Savor Portion)"
+            },
+            {
+              "title": "Western BBQ Burger Bao",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet Barbecue Sauce, Nueske's\u00ae Applewood Smoked Bacon and Crispy Onions (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace - Mercado de Antojos",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Birria Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Onion-Cilantro Sauce and Tortilla Crunch (Sip and Savor Portion)"
+            },
+            {
+              "title": "Caf\u00e9 de Olla Tres Leches Cake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caf\u00e9 De Olla-infused Tres Leches topped with Piloncillo Chantilly, Cinnamon and a Mickey-shaped Cookie (Sip and Savor Portion)"
+            },
+            {
+              "title": "Raspberry Horchata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Raspberry, Almond & Cinnamon Syrups, Rice Pudding, Milk and Condensed Milk, garnished with Skewered Raspberries (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace \u2013 Peppers Cali-Ente",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Shrimp Papas Locas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheddar-Bacon Potatoes with Jalape\u00f1o Cheese Sauce and Spicy Shrimp featuring Taj\u00edn\u00ae Chile Lime Sauce (Sip and Savor Pass portion)"
+            },
+            {
+              "title": "Corn Chip Chili Pie featuring Impossible\u2122 Beef ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasoned Impossible\u2122 Beef, Spicy Cheese Sauce, Tomatoes, Sliced Jalape\u00f1os and Crema (Sip and Savor Portion)"
+            }
+          ]
+        },
+        {
+          "name": "Food & Wine Festival Marketplace \u2013 Uncork California",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey-shaped Macaron made with SNICKERS\u00ae bar pieces",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Mickey-shaped Macaron filled with Caramel Ganache, made with SNICKERS\u00ae bar pieces (Sip and Savor Portion)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

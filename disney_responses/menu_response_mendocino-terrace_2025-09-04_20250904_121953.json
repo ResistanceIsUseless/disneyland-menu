@@ -1,0 +1,528 @@
+{
+  "name": "Mendocino Terrace",
+  "location": "Disney California Adventure Park, Performance Corridor",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lounge",
+      "label": "Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lounge",
+      "label": "Lounge",
+      "experience": "Lounges",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizer",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Plate",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef's selection of Cheese and Fruit, served with Crackers"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bottled Coca-Cola\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Diet Coke\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Sprite\u00ae",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Martinelli's Sparkling Apple Cider",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Craftwell Cocktails, Peach Mojito, Oregon",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ripe, delectable West Coast Peaches and Fresh Garden Mint with a Key Lime finish"
+            },
+            {
+              "title": "Mango Mule",
+              "prices": [
+                {
+                  "withoutTax": 18.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka with Mango, Ginger Flavors with Apple and Hibiscus Juice (ABV 7.0%)"
+            },
+            {
+              "title": "Grapefruit Paloma",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka with Grapefruit and Lemon Flavor (ABV 7.0%)"
+            }
+          ]
+        },
+        {
+          "name": "White Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Wilson Creek Winery, White Cabernet Sauvignon, Temecula",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "With Aromas of Ripe Strawberries, Melon and Peach. It's the perfect balance of sweet and refreshing"
+            },
+            {
+              "title": "Jordan, Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Russian River Valley"
+            },
+            {
+              "title": "Laird, Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Carneros"
+            },
+            {
+              "title": "Duckhorn, Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "North Coast"
+            },
+            {
+              "title": "King Estate Domaine, Pinot Gris",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Oregon"
+            },
+            {
+              "title": "Placido, Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italy"
+            },
+            {
+              "title": "Dr. Loosen, Riesling",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mosel, Germany"
+            },
+            {
+              "title": "Matua Marlborough, Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "New Zealand"
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9 and Sparkling Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Wiens Cellars, Amour De L'Orange, Sparkling Wine, NV ",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tropical Aromas of Pear, Coconut and Pineapple and balanced layers of Fresh Oranges and Citrus"
+            },
+            {
+              "title": "Wilson Creek Winery, Limoncello, Sparkling Wine, Temecula",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Effervescent and Bubbly with intense Lemon flavors of an Italian coast classic"
+            },
+            {
+              "title": "Banfi Rosa Regale, Sparkling Red",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Piedmont, Italy"
+            },
+            {
+              "title": "St. Hilaire, Sparkling",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "France"
+            },
+            {
+              "title": "Zonin, Prosecco",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italy"
+            },
+            {
+              "title": "Nivole, Moscato D' Asti",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italy"
+            },
+            {
+              "title": "Daou, Rose ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            }
+          ]
+        },
+        {
+          "name": "Red Wines and Ports",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Argyle, Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Willamette Valley"
+            },
+            {
+              "title": "Justin, Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles"
+            },
+            {
+              "title": "Martin Ray, Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sonoma County"
+            },
+            {
+              "title": "Michael David, Sirah ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lodi, California"
+            },
+            {
+              "title": "Trivento Mendoza, Malbec ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Argentina"
+            }
+          ]
+        },
+        {
+          "name": "Bottled Beer and Cider",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "American Lager (ABV 4.2%)"
+            },
+            {
+              "title": "Angry Orchard Crisp Apple",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hard Cider (ABV 5%)"
+            },
+            {
+              "title": "Blue Moon",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Belgian Wheat Ale (ABV 5.4%)"
+            },
+            {
+              "title": "Corona",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexican Lager (ABV 4.8%)"
+            },
+            {
+              "title": "Samuel Adams Seasonal",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Summer Ale (ABV 5.3%)"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.7%)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Appetizer",
+        "desktop": "Appetizer"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "White Wines",
+        "desktop": "White Wines"
+      },
+      {
+        "mobile": "Ros\u00e9 and Sparkling Wines",
+        "desktop": "Ros\u00e9 and Sparkling Wines"
+      },
+      {
+        "desktop": "Red Wines and Ports"
+      },
+      {
+        "mobile": "Bottled Beer and Cider",
+        "desktop": "Bottled Beer and Cider"
+      }
+    ]
+  }
+}

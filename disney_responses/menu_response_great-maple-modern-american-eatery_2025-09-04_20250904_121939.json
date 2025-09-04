@@ -1,0 +1,2447 @@
+{
+  "name": "Great Maple Modern American Eatery",
+  "location": "Pixar Place Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Brunch",
+      "label": "Brunch",
+      "isActive": true
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Brunch",
+      "label": "Brunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Shares",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Portobello Mushroom Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Parmesan, Red Pepper Flakes, Basil Pesto A\u00efoli"
+            },
+            {
+              "title": "Charred Cauliflower Hummus",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chickpeas & Roasted Cauliflower, Warm Flatbread, market Vegetables"
+            },
+            {
+              "title": "Parmesan Truffle Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Truffle Oil, Sea Salt, Parmesan"
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aged White Cheddar & American Cheese, Herb Panko Gratin. Add Maple Chili Bacon or Shrimp for an additional charge."
+            },
+            {
+              "title": "Shrimp & Avocado Stack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "cooked and chilled Clamato-Marinated Shrimp, Citrus Mashed Avocado, Jalape\u00f1o, Tomato, Market Vegetables, Tortilla Chips"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "\u2018It\u2019s A Date\u2019 Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Kale, Arugula, Dates, Almonds, Chickpeas, Pickled Onions, Spiced Pita, Mint, Garbanzo Lemon Dressing"
+            },
+            {
+              "title": "Modern Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Arugula, Shaved Brussels Sprouts, Romaine, Rosemary Garlic Croutons, Parmesan, House-Made Caesar Dressing"
+            },
+            {
+              "title": "CAL Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Roasted Peppers, Grilled Corn, Toybox Tomatoes, Queso Fresco, Avocado, Romaine Lettuce, Cilantro Lime Vinaigrette, garnished with Tortilla Chips"
+            },
+            {
+              "title": "Cobb Wedge",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Bacon, Avocado, Pickled Onions, Medium-Boiled Egg, Toy Box Tomatoes, Shaved Radish, Romaine Wedge, Blue Cheese Vinaigrette"
+            },
+            {
+              "title": "GM Chopped Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Chorizo, Manchego, Kalamata Olives, Piquillo Peppers, Pickled Onions, Roasted Corn, Toy Box Tomatoes, Romaine Ribs, Pesto Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Brunch Favorites",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Buttermilk Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Butter, Powdered Sugar, Maple Syrup, Whipped Cream. Choose from: Traditional, Fresh Blueberry or Strawberry, Chocolate Chip.\u00a0"
+            },
+            {
+              "title": "French Toast Logs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Thick Cut Brioche, Warm Maple Bacon Syrup, Fresh Blueberries.\u00a0"
+            },
+            {
+              "title": "Chilaquiles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tortilla Chips coated and cooked with Chorizo, Whole Eggs, Salsa Verde, Onions, and Roasted Peppers in a quick casserole. topped with Cilantro Crema, Queso Fresco, Toy Box Tomatoes, and Avocado"
+            },
+            {
+              "title": "Fried Chicken & Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buttermilk Fried Chicken, Maple Bacon Doughnuts, Maple Syrup"
+            },
+            {
+              "title": "Smoked Bacon Scramble",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Two Eggs, Chopped Bacon, White Cheddar, and Tomatoes, topped with Smashed Avocado and Chive, served with Sour Cream & Onion Scalloped Potatoes"
+            },
+            {
+              "title": "Modern American Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Egg choice: Eggs any style, Egg Whites, or Vegan \u2018Cheesy Cauliflower Eggs\u2019. Protein choice: Sausage, Bacon, Fresh Fruit. Served with Vegan Smashed Avocado Toast, Maldon Sea Salt, Chives"
+            },
+            {
+              "title": "Cajun Shrimp Biscuit Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cajun Butter Shrimp, Arugula, Poached Eggs, and Cajun Hollandaise on a White Cheddar Biscuit with Sour Cream & Onion Scalloped Potatoes"
+            },
+            {
+              "title": "\u2018Traditional\u2019 Biscuit Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Forest Ham, Poached Eggs, and Classic Hollandaise on a house-made White Cheddar Biscuit with Sour Cream & Onion Scalloped Potatoes"
+            },
+            {
+              "title": "Ribeye Hash",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sliced Ribeye, Peri Peri Seasoning, Roasted Potatoes, Onion, Bell Peppers, Kale, Portabello Mushrooms, two Poached Eggs, Cajun Hollandaise, Buttermilk battered crispy Onions"
+            }
+          ]
+        },
+        {
+          "name": "Mains",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lemon Shrimp Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fettuccine, Shrimp, Toy Box Tomatoes, Parsley, Garlic Lemon Butter, White Wine, Chili Flakes, Shredded Parmesan"
+            },
+            {
+              "title": "Maple Pecan Crusted Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Salmon with Maple Pecan Panko Crust, Pearled Cauliflower, seasonal Vegetables, Charred Lemon"
+            },
+            {
+              "title": "Protein Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choose a protein: Falafel, Chicken, Shrimp, Salmon, Steak. Roasted Sweet Potatoes, Corn, and Garbanzo Beans saut\u00e9ed with Kale, Portobello Mushrooms, Bell Peppers, Roasted Pepper Hummus, Citrus Extra Virgin Olive Oil, Avocado"
+            },
+            {
+              "title": "Steak & Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chimichurri-marinated 8 oz. Flat Iron Steak, two Eggs any style, Sour Cream & Onion Scalloped Potatoes, White Cheddar Biscuit, Red Wine Maple Gravy"
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches & Burgers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Great Maple BLT",
+              "prices": [],
+              "pricesRange": false,
+              "description": "piled high Thick Cut Smoked Bacon, Lettuce, Tomato, A\u00efoli on Toasted Levain. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Vegan Patty Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Vegan twist on an American classic! Impossible & Roasted Beet Patty, Vegan Cheddar, Caramelized Onions, Pickles, special sauce on Toasted Levain. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Falafel Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chickpea Falafel, Arugula, Toy Box Tomatoes, Kalamata Olives, Pickled Onions, Tzatziki, Cauliflower Hummus on Warm Flatbread.\u00a0Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Fried Fish Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cornmeal crusted Catfish, Jalape\u00f1o A\u00efoli, sliced Jalape\u00f1o, Pickled Onions, Cilantro Lime Slaw on a Brioche Bun. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Hot Honey Fried Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buttermilk Fried Chicken, Cabbage Slaw, Hot Honey A\u00efoli, Melted White American Cheese. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Steakhouse Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aged White Cheddar, Arugula, Tomato, Pickled Red Onions, A\u00efoli on a Brioche Bun. Add Avocado, Bacon, Eggs any style at an additional charge. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Rib Eye Melt",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Rib, Pesto A\u00efoli, Aged White Cheddar, Red Onions, Arugula, Tomato. Includes choice of Fries or Field Greens. Substitute: Parmesan Truffle Fries or mini Caesar at an additional cost."
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Thick Cut Smoked Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pork Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sour Cream & Onion Scalloped Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Field Greens",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mini Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bowl of Seasonal Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sweets",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Famous Maple Bacon Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "three Doughnuts made to order with our signature Maple Bacon Glaze"
+            },
+            {
+              "title": "Seasonal Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "three of our seasonal Doughnuts made to order"
+            },
+            {
+              "title": "Powdered Sugar Beignets",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with house-made Lemon Curd"
+            }
+          ]
+        },
+        {
+          "name": "Kids",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Syrup, Whipped Cream, served with Scrambled Eggs. Served until 2pm"
+            },
+            {
+              "title": "French Toast Log",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Syrup, Blueberries, served with Scrambled Eggs. Served until 2pm"
+            },
+            {
+              "title": "Grilled Cheese & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Levain with American Cheese"
+            },
+            {
+              "title": "4 oz. Burger & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "make it a Cheeseburger: add American Cheese"
+            },
+            {
+              "title": "Curly Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cavatappi Pasta, Cheddar & American Cheese"
+            },
+            {
+              "title": "Cheese or Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Butter Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Fingers & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinna-Babies",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cinnamon Sugar Doughnut Holes served with Caramel, Chocolate Sauce, and Whipped Cream for dipping"
+            },
+            {
+              "title": "One-Scoop Ice Cream Sundae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream, Chocolate sauce, Whipped Cream"
+            }
+          ]
+        },
+        {
+          "name": "Brunch Favorites",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mimosa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "your choice of Orange Juice or Lavender Lemonade or Caramelized Pineapple at an additional cost."
+            },
+            {
+              "title": "White Peach Bellini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Peach Pur\u00e9e, Sparkling Wine"
+            },
+            {
+              "title": "GM House Mary ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Tomato Juice, Horseradish, Green Olives, Thick Cut Smoked Bacon, Salt Rim"
+            },
+            {
+              "title": "Mimosa Kit",
+              "prices": [],
+              "pricesRange": false,
+              "description": "bottle of Sparkling Wine and your choice of Mimosa mixer: Orange Juice, Lavender Lemonade, Pineapple Pur\u00e9e, add White Peach Pur\u00e9e at an additional cost"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caf\u00e9 Moto Espresso, Vodka, Kahlua, Baileys, served up with our twist."
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Liquid Patience",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sparkling Wine, Cointreau, Orange, Peach, & Lemon Juice, Mint"
+            },
+            {
+              "title": "Great Maple Mule",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hibiscus-infused Vodka, Ginger Syrup, Lime Juice, Ginger Beer Float, Candied Ginger"
+            },
+            {
+              "title": "Blood Orange Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila, Blood Orange, Agave, Lime, Chipotle Rim"
+            },
+            {
+              "title": "Fresh Cucumber Gimlet",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Gin, Lime, Simple Syrup, Cucumber"
+            },
+            {
+              "title": "Tropical Merm-ade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coconut Rum, Pineapple, Lime, Bitters, and a touch of tiki"
+            },
+            {
+              "title": "Maple Bacon Old Fashioned",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacon washed Bourbon, Maple Syrup, Bitters, Thick Cut Smoked Bacon"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caf\u00e9 Moto Espresso, Vodka, Kahlua, Baileys, served up with our twist."
+            }
+          ]
+        },
+        {
+          "name": "Bubbles",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jean Dorsene Brut, Sparkling Wine, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Campo Viejo, Cava, Spain ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Days of Youth \"The Diver\" Brut, Sparkling Wine, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Perrier-Jou\u00ebt, Grand Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Veuve Clicquot Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lagaria Pinot Grigio delle Venezie, Italy ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Barton & Guestier Bordeaux Blanc, White Blend, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Domaines Schlumberger 'Les Princes Abb\u00e9s' Riesling, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Loveblock Sauvignon Blanc, New Zealand ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Husch Chenin Blanc, Mendocino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rombauer Chardonnay, Carneros",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Summer Water Ros\u00e9, Sugar Free, Central Coast, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bailly-Lapierre Cremant Bourgogne Brut Ros\u00e9, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Head High Pinot Noir, Sonoma",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rex Hill Pinot Noir, Sonoma, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Castello Banfi Belnero Toscana, Italy ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J Lohr Cabernet Sauvignon, Paso Robles, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Monticello Cabernet Sauvignon, Napa, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hourglass HGIII Red Blend, Napa, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Firestone Cali Squeeze Blood Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Anderson Valley Boont Amber Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lost Coast Great White",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pizza Port California Honey Blonde",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stone Buenaveza Salt & Line Lager, San Diego",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Free Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brew Bears - Salted Caramel ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caramel Sauce, Maldon Sea Salt, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Brew Bears - Cinnamon Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Maple Syrup, Cinnamon, French Toast rim, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Brew Bears - Mexican Mocha",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Sauce, Maldon Sea Salt, Spice mix, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Lavender Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "GM Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Moroccan Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Iced Black Tea, Lime Juice, Mint, Simple Syrup. One refill upon request"
+            },
+            {
+              "title": "GM Brewed Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Juices",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Orange, Cranberry, Pineapple, Grapefruit, Tomato"
+            },
+            {
+              "title": "Sodas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Dr. Pepper\u00ae, Root Beer, Ginger Ale"
+            },
+            {
+              "title": "Bundaberg Ginger Beer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "350 ml"
+            },
+            {
+              "title": "Still Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            },
+            {
+              "title": "Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            }
+          ]
+        },
+        {
+          "name": "Hot Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Double Shot Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": "your choice of regular, Salted Caramel, Cinnamon Toast, or Mexican Mocha"
+            },
+            {
+              "title": "Single Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Shot Mocha",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Shot Cappuccino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Blend Fair Trade Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "regular or decaf"
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ask for our seasonal selections"
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Whipped Cream"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Shares",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Portobello Mushroom Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Parmesan, Red Pepper Flakes, Basil Pesto A\u00efoli"
+            },
+            {
+              "title": "Charred Cauliflower Hummus",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chickpeas & Roasted Cauliflower, Warm Flatbread, market Vegetables"
+            },
+            {
+              "title": "Parmesan Truffle Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Truffle Oil, Sea Salt, Parmesan"
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aged White Cheddar & American Cheese, Herb Panko Gratin. Add Maple Chili Bacon or Shrimp for an additional charge."
+            },
+            {
+              "title": "Shrimp & Avocado Stack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "cooked and chilled Clamato-Marinated Shrimp, Citrus Mashed Avocado, Jalape\u00f1o, Tomato, Market Vegetables, Tortilla Chips"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "\u2018It\u2019s A Date\u2019 Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Kale, Arugula, Dates, Almonds, Chickpeas, Pickled Onions, Spiced Pita, Mint, Garbanzo Lemon Dressing"
+            },
+            {
+              "title": "Modern Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Arugula, Shaved Brussels Sprouts, Romaine, Rosemary Garlic Croutons, Parmesan, House-Made Caesar Dressing"
+            },
+            {
+              "title": "CAL Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Roasted Peppers, Grilled Corn, Toybox Tomatoes, Queso Fresco, Avocado, Romaine Lettuce, Cilantro Lime Vinaigrette, garnished with Tortilla Chips"
+            },
+            {
+              "title": "Cobb Wedge",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Bacon, Avocado, Pickled Onions, Medium-Boiled Egg, Toy Box Tomatoes, Shaved Radish, Romaine Wedge, Blue Cheese Vinaigrette"
+            },
+            {
+              "title": "GM Chopped Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Chorizo, Manchego, Kalamata Olives, Piquillo Peppers, Pickled Onions, Roasted Corn, Toy Box Tomatoes, Romaine Ribs, Pesto Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Brunch Favorites",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Buttermilk Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Butter, Powdered Sugar, Maple Syrup, Whipped Cream. Choose from: Traditional, Fresh Blueberry or Strawberry, Chocolate Chip.\u00a0"
+            },
+            {
+              "title": "French Toast Logs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Thick Cut Brioche, Warm Maple Bacon Syrup, Fresh Blueberries.\u00a0"
+            },
+            {
+              "title": "Chilaquiles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tortilla Chips coated and cooked with Chorizo, Whole Eggs, Salsa Verde, Onions, and Roasted Peppers in a quick casserole. topped with Cilantro Crema, Queso Fresco, Toy Box Tomatoes, and Avocado"
+            },
+            {
+              "title": "Fried Chicken & Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buttermilk Fried Chicken, Maple Bacon Doughnuts, Maple Syrup"
+            },
+            {
+              "title": "Smoked Bacon Scramble",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Two Eggs, Chopped Bacon, White Cheddar, and Tomatoes, topped with Smashed Avocado and Chive, served with Sour Cream & Onion Scalloped Potatoes"
+            },
+            {
+              "title": "Modern American Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Egg choice: Eggs any style, Egg Whites, or Vegan \u2018Cheesy Cauliflower Eggs\u2019. Protein choice: Sausage, Bacon, Fresh Fruit. Served with Vegan Smashed Avocado Toast, Maldon Sea Salt, Chives"
+            },
+            {
+              "title": "Cajun Shrimp Biscuit Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cajun Butter Shrimp, Arugula, Poached Eggs, and Cajun Hollandaise on a White Cheddar Biscuit with Sour Cream & Onion Scalloped Potatoes"
+            },
+            {
+              "title": "\u2018Traditional\u2019 Biscuit Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Forest Ham, Poached Eggs, and Classic Hollandaise on a house-made White Cheddar Biscuit with Sour Cream & Onion Scalloped Potatoes"
+            },
+            {
+              "title": "Ribeye Hash",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sliced Ribeye, Peri Peri Seasoning, Roasted Potatoes, Onion, Bell Peppers, Kale, Portabello Mushrooms, two Poached Eggs, Cajun Hollandaise, Buttermilk battered crispy Onions"
+            }
+          ]
+        },
+        {
+          "name": "Mains",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lemon Shrimp Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fettuccine, Shrimp, Toy Box Tomatoes, Parsley, Garlic Lemon Butter, White Wine, Chili Flakes, Shredded Parmesan"
+            },
+            {
+              "title": "Maple Pecan Crusted Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Salmon with Maple Pecan Panko Crust, Pearled Cauliflower, seasonal Vegetables, Charred Lemon"
+            },
+            {
+              "title": "Protein Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choose a protein: Falafel, Chicken, Shrimp, Salmon, Steak. Roasted Sweet Potatoes, Corn, and Garbanzo Beans saut\u00e9ed with Kale, Portobello Mushrooms, Bell Peppers, Roasted Pepper Hummus, Citrus Extra Virgin Olive Oil, Avocado"
+            },
+            {
+              "title": "Steak & Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chimichurri-marinated 8 oz. Flat Iron Steak, two Eggs any style, Sour Cream & Onion Scalloped Potatoes, White Cheddar Biscuit, Red Wine Maple Gravy"
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches & Burgers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Great Maple BLT",
+              "prices": [],
+              "pricesRange": false,
+              "description": "piled high Thick Cut Smoked Bacon, Lettuce, Tomato, A\u00efoli on Toasted Levain. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Vegan Patty Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Vegan twist on an American classic! Impossible & Roasted Beet Patty, Vegan Cheddar, Caramelized Onions, Pickles, special sauce on Toasted Levain. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Falafel Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chickpea Falafel, Arugula, Toy Box Tomatoes, Kalamata Olives, Pickled Onions, Tzatziki, Cauliflower Hummus on Warm Flatbread.\u00a0Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Fried Fish Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cornmeal crusted Catfish, Jalape\u00f1o A\u00efoli, sliced Jalape\u00f1o, Pickled Onions, Cilantro Lime Slaw on a Brioche Bun. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Hot Honey Fried Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buttermilk Fried Chicken, Cabbage Slaw, Hot Honey A\u00efoli, Melted White American Cheese. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Steakhouse Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aged White Cheddar, Arugula, Tomato, Pickled Red Onions, A\u00efoli on a Brioche Bun. Add Avocado, Bacon, Eggs any style at an additional charge. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Rib Eye Melt",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Rib, Pesto A\u00efoli, Aged White Cheddar, Red Onions, Arugula, Tomato. Includes choice of Fries or Field Greens. Substitute: Parmesan Truffle Fries or mini Caesar at an additional cost."
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Thick Cut Smoked Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pork Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sour Cream & Onion Scalloped Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Field Greens",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mini Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bowl of Seasonal Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sweets",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Famous Maple Bacon Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "three Doughnuts made to order with our signature Maple Bacon Glaze"
+            },
+            {
+              "title": "Seasonal Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "three of our seasonal Doughnuts made to order"
+            },
+            {
+              "title": "Powdered Sugar Beignets",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with house-made Lemon Curd"
+            }
+          ]
+        },
+        {
+          "name": "Kids",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Syrup, Whipped Cream, served with Scrambled Eggs. Served until 2pm"
+            },
+            {
+              "title": "French Toast Log",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Syrup, Blueberries, served with Scrambled Eggs. Served until 2pm"
+            },
+            {
+              "title": "Grilled Cheese & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Levain with American Cheese"
+            },
+            {
+              "title": "4 oz. Burger & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "make it a Cheeseburger: add American Cheese"
+            },
+            {
+              "title": "Curly Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cavatappi Pasta, Cheddar & American Cheese"
+            },
+            {
+              "title": "Cheese or Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Butter Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Fingers & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinna-Babies",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cinnamon Sugar Doughnut Holes served with Caramel, Chocolate Sauce, and Whipped Cream for dipping"
+            },
+            {
+              "title": "One-Scoop Ice Cream Sundae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream, Chocolate sauce, Whipped Cream"
+            }
+          ]
+        },
+        {
+          "name": "Brunch Favorites",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mimosa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "your choice of Orange Juice or Lavender Lemonade or Caramelized Pineapple at an additional cost."
+            },
+            {
+              "title": "White Peach Bellini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Peach Pur\u00e9e, Sparkling Wine"
+            },
+            {
+              "title": "GM House Mary ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka, Tomato Juice, Horseradish, Green Olives, Thick Cut Smoked Bacon, Salt Rim"
+            },
+            {
+              "title": "Mimosa Kit",
+              "prices": [],
+              "pricesRange": false,
+              "description": "bottle of Sparkling Wine and your choice of Mimosa mixer: Orange Juice, Lavender Lemonade, Pineapple Pur\u00e9e, add White Peach Pur\u00e9e at an additional cost"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caf\u00e9 Moto Espresso, Vodka, Kahlua, Baileys, served up with our twist."
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Liquid Patience",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sparkling Wine, Cointreau, Orange, Peach, & Lemon Juice, Mint"
+            },
+            {
+              "title": "Great Maple Mule",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hibiscus-infused Vodka, Ginger Syrup, Lime Juice, Ginger Beer Float, Candied Ginger"
+            },
+            {
+              "title": "Blood Orange Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila, Blood Orange, Agave, Lime, Chipotle Rim"
+            },
+            {
+              "title": "Fresh Cucumber Gimlet",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Gin, Lime, Simple Syrup, Cucumber"
+            },
+            {
+              "title": "Tropical Merm-ade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coconut Rum, Pineapple, Lime, Bitters, and a touch of tiki"
+            },
+            {
+              "title": "Maple Bacon Old Fashioned",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacon washed Bourbon, Maple Syrup, Bitters, Thick Cut Smoked Bacon"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caf\u00e9 Moto Espresso, Vodka, Kahlua, Baileys, served up with our twist."
+            }
+          ]
+        },
+        {
+          "name": "Bubbles",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jean Dorsene Brut, Sparkling Wine, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Campo Viejo, Cava, Spain ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Days of Youth \"The Diver\" Brut, Sparkling Wine, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Perrier-Jou\u00ebt, Grand Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Veuve Clicquot Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lagaria Pinot Grigio delle Venezie, Italy ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Barton & Guestier Bordeaux Blanc, White Blend, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Domaines Schlumberger 'Les Princes Abb\u00e9s' Riesling, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Loveblock Sauvignon Blanc, New Zealand ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Husch Chenin Blanc, Mendocino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rombauer Chardonnay, Carneros",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Summer Water Ros\u00e9, Sugar Free, Central Coast, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bailly-Lapierre Cremant Bourgogne Brut Ros\u00e9, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Head High Pinot Noir, Sonoma",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rex Hill Pinot Noir, Sonoma, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Castello Banfi Belnero Toscana, Italy ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J Lohr Cabernet Sauvignon, Paso Robles, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Monticello Cabernet Sauvignon, Napa, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hourglass HGIII Red Blend, Napa, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Firestone Cali Squeeze Blood Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Anderson Valley Boont Amber Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lost Coast Great White",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pizza Port California Honey Blonde",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stone Buenaveza Salt & Line Lager, San Diego",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Free Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brew Bears - Salted Caramel ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caramel Sauce, Maldon Sea Salt, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Brew Bears - Cinnamon Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Maple Syrup, Cinnamon, French Toast rim, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Brew Bears - Mexican Mocha",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Sauce, Maldon Sea Salt, Spice mix, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Lavender Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "GM Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Moroccan Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Iced Black Tea, Lime Juice, Mint, Simple Syrup. One refill upon request"
+            },
+            {
+              "title": "GM Brewed Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Juices",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Orange, Cranberry, Pineapple, Grapefruit, Tomato"
+            },
+            {
+              "title": "Sodas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Dr. Pepper\u00ae, Root Beer, Ginger Ale"
+            },
+            {
+              "title": "Bundaberg Ginger Beer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "350 ml"
+            },
+            {
+              "title": "Still Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            },
+            {
+              "title": "Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            }
+          ]
+        },
+        {
+          "name": "Hot Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Double Shot Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": "your choice of regular, Salted Caramel, Cinnamon Toast, or Mexican Mocha"
+            },
+            {
+              "title": "Single Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Shot Mocha",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Shot Cappuccino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Blend Fair Trade Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "regular or decaf"
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ask for our seasonal selections"
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Whipped Cream"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Shares",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Parmesan Truffle Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Truffle Oil, Sea Salt, Parmesan"
+            },
+            {
+              "title": "Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aged White Cheddar & American Cheese, Herb Panko Gratin. Add Maple Chili Bacon or Shrimp for an additional charge."
+            },
+            {
+              "title": "Charred Cauliflower Hummus",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chickpeas & Roasted Cauliflower, Warm Flatbread, market Vegetables"
+            },
+            {
+              "title": "Shrimp & Avocado Stack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "cooked and chilled Clamato-Marinated Shrimp, Citrus Mashed Avocado, Jalape\u00f1o, Tomato, Market Vegetables, Tortilla Chips"
+            },
+            {
+              "title": "Portobello Mushroom Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Parmesan, Red Pepper Flakes, Basil Pesto A\u00efoli"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "\u2018It\u2019s A Date\u2019 Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Kale, Arugula, Dates, Almonds, Chickpeas, Pickled Onions, Spiced Pita, Mint, Garbanzo Lemon Dressing"
+            },
+            {
+              "title": "Modern Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Arugula, Shaved Brussels Sprouts, Romaine, Rosemary Garlic Croutons, Parmesan, House-Made Caesar Dressing"
+            },
+            {
+              "title": "CAL Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Roasted Peppers, Grilled Corn, Toybox Tomatoes, Queso Fresco, Avocado, Romaine Lettuce, Cilantro Lime Vinaigrette, garnished with Tortilla Chips"
+            },
+            {
+              "title": "Cobb Wedge",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Bacon, Avocado, Pickled Onions, Medium-Boiled Egg, Toy Box Tomatoes, Shaved Radish, Romaine Wedge, Blue Cheese Vinaigrette"
+            },
+            {
+              "title": "GM Chopped Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pulled Chicken, Chorizo, Manchego, Kalamata Olives, Piquillo Peppers, Pickled Onions, Roasted Corn, Toy Box Tomatoes, Romaine Ribs, Pesto Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Mains",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Chicken & Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buttermilk Fried Chicken, Maple Bacon Doughnuts, Maple Syrup"
+            },
+            {
+              "title": "Turkey Bolognese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fettuccine, Carrots, Tomato, Cream, Manchego Cheese curls, Fried Basil"
+            },
+            {
+              "title": "Protein Bowl",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choose a protein: Falafel, Chicken, Shrimp, Salmon, Steak. Roasted Sweet Potatoes, Corn, and Garbanzo Beans saut\u00e9ed with Kale, Portobello Mushrooms, Bell Peppers, Roasted Pepper Hummus, Citrus Extra Virgin Olive Oil, Avocado"
+            },
+            {
+              "title": "Lemon Shrimp Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fettuccine, Shrimp, Toy Box Tomatoes, Parsley, Garlic Lemon Butter, White Wine, Chili Flakes, Shredded Parmesan"
+            },
+            {
+              "title": "Meatloaf & Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ground Beef, Pork, and Bacon Meatloaf, Brown Butter BBQ Sauce, Roasted Garlic & Parmesan Mashed Potatoes, Buttermilk Battered crispy Onions"
+            },
+            {
+              "title": "Soda Pop Baby Back Ribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Slow Braised and Grilled half rack, Hot Honey Slaw, White Cheddar Biscuit"
+            },
+            {
+              "title": "Maple Pecan Crusted Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Salmon with Maple Pecan Panko Crust, Pearled Cauliflower, seasonal Vegetables, Charred Lemon"
+            },
+            {
+              "title": "10 OZ. New York Steak",
+              "prices": [],
+              "pricesRange": false,
+              "description": "dry rubbed, Mixed Herbs, Bleu Cheese Vinaigrette, French Fries."
+            },
+            {
+              "title": "12 oz. Grilled Ribeye",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Roasted Mushroom Medley, Truffle Mushroom Cream Sauce, Roasted Garlic & Parmesan Mashed Potatoes"
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches & Burgers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Great Maple BLT",
+              "prices": [],
+              "pricesRange": false,
+              "description": "piled high Thick Cut Smoked Bacon, Lettuce, Tomato, A\u00efoli on Toasted Levain. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Vegan Patty Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Vegan twist on an American classic! Impossible & Roasted Beet Patty, Vegan Cheddar, Caramelized Onions, Pickles, special sauce on Toasted Levain. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Falafel Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chickpea Falafel, Arugula, Toy Box Tomatoes, Kalamata Olives, Pickled Onions, Tzatziki, Cauliflower Hummus on Warm Flatbread.\u00a0Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Fried Fish Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cornmeal crusted Catfish, Jalape\u00f1o A\u00efoli, sliced Jalape\u00f1o, Pickled Onions, Cilantro Lime Slaw on a Brioche Bun. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Hot Honey Fried Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Buttermilk Fried Chicken, Cabbage Slaw, Hot Honey A\u00efoli, Melted White American Cheese. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Steakhouse Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Aged White Cheddar, Arugula, Tomato, Pickled Red Onions, A\u00efoli on a Brioche Bun. Add Avocado, Bacon, Eggs any style at an additional charge. Includes choice of Fries or Field Greens. Substitute for Parmesan Truffle Fries or mini Caesar at an additional cost."
+            },
+            {
+              "title": "Rib Eye Melt",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Prime Rib, Pesto A\u00efoli, Aged White Cheddar, Red Onions, Arugula, Tomato. Includes choice of Fries or Field Greens. Substitute: Parmesan Truffle Fries or mini Caesar at an additional cost."
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Field Greens",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mini Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sour Cream & Onion Scalloped Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Garlic & Parmesan Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bowl of Seasonal Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sweets",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Famous Maple Bacon Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "three Doughnuts made to order with our signature Maple Bacon Glaze"
+            },
+            {
+              "title": "Seasonal Doughnuts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "three of our seasonal Doughnuts made to order"
+            },
+            {
+              "title": "Powdered Sugar Beignets",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with house-made Lemon Curd"
+            }
+          ]
+        },
+        {
+          "name": "Kids",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Cheese & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Levain with American Cheese"
+            },
+            {
+              "title": "4 oz. Burger & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "make it a Cheeseburger: add American Cheese"
+            },
+            {
+              "title": "Curly Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cavatappi Pasta, Cheddar & American Cheese"
+            },
+            {
+              "title": "Cheese or Pepperoni Flatbread",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Butter Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Fingers & Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinna-Babies",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cinnamon Sugar Doughnut Holes served with Caramel, Chocolate Sauce, and Whipped Cream for dipping"
+            },
+            {
+              "title": "One-Scoop Ice Cream Sundae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream, Chocolate sauce, Whipped Cream"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Liquid Patience",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sparkling Wine, Cointreau, Orange, Peach, & Lemon Juice, Mint"
+            },
+            {
+              "title": "Great Maple Mule",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hibiscus-infused Vodka, Ginger Syrup, Lime Juice, Ginger Beer Float, Candied Ginger"
+            },
+            {
+              "title": "Blood Orange Margarita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tequila, Blood Orange, Agave, Lime, Chipotle Rim"
+            },
+            {
+              "title": "Fresh Cucumber Gimlet",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Gin, Lime, Simple Syrup, Cucumber"
+            },
+            {
+              "title": "Tropical Merm-ade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coconut Rum, Pineapple, Lime, Bitters, and a touch of tiki"
+            },
+            {
+              "title": "Maple Bacon Old Fashioned",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bacon washed Bourbon, Maple Syrup, Bitters, Thick Cut Smoked Bacon"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caf\u00e9 Moto Espresso, Vodka, Kahlua, Baileys, served up with our twist."
+            }
+          ]
+        },
+        {
+          "name": "Bubbles",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jean Dorsene Brut, Sparkling Wine, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Campo Viejo, Cava, Spain ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Days of Youth \"The Diver\" Brut, Sparkling Wine, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Perrier-Jou\u00ebt, Grand Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Veuve Clicquot Brut, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lagaria Pinot Grigio delle Venezie, Italy ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Barton & Guestier Bordeaux Blanc, White Blend, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Domaines Schlumberger 'Les Princes Abb\u00e9s' Riesling, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Loveblock Sauvignon Blanc, New Zealand ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Husch Chenin Blanc, Mendocino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rombauer Chardonnay, Carneros",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ros\u00e9",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Summer Water Ros\u00e9, Sugar Free, Central Coast, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bailly-Lapierre Cremant Bourgogne Brut Ros\u00e9, France",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Head High Pinot Noir, Sonoma",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rex Hill Pinot Noir, Sonoma, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Castello Banfi Belnero Toscana, Italy ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "J Lohr Cabernet Sauvignon, Paso Robles, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Monticello Cabernet Sauvignon, Napa, California ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hourglass HGIII Red Blend, Napa, California",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Firestone Cali Squeeze Blood Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Anderson Valley Boont Amber Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lost Coast Great White",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pizza Port California Honey Blonde",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stone Buenaveza Salt & Line Lager, San Diego",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Free Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brew Bears - Salted Caramel ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caramel Sauce, Maldon Sea Salt, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Brew Bears - Cinnamon Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Maple Syrup, Cinnamon, French Toast rim, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Brew Bears - Mexican Mocha",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Sauce, Maldon Sea Salt, Spice mix, crafted with Caf\u00e9 Moto Cold Brew, served in a bear glass"
+            },
+            {
+              "title": "Lavender Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "GM Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Moroccan Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Iced Black Tea, Lime Juice, Mint, Simple Syrup. One refill upon request"
+            },
+            {
+              "title": "GM Brewed Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Juices",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Orange, Cranberry, Pineapple, Grapefruit, Tomato"
+            },
+            {
+              "title": "Sodas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Dr. Pepper\u00ae, Root Beer, Ginger Ale"
+            },
+            {
+              "title": "Bundaberg Ginger Beer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "350 ml"
+            },
+            {
+              "title": "Still Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            },
+            {
+              "title": "Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            }
+          ]
+        },
+        {
+          "name": "Hot Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Double Shot Latte",
+              "prices": [],
+              "pricesRange": false,
+              "description": "your choice of regular, Salted Caramel, Cinnamon Toast, or Mexican Mocha"
+            },
+            {
+              "title": "Single Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Espresso",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Shot Mocha",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Shot Cappuccino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House Blend Fair Trade Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "regular or decaf"
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "ask for our seasonal selections"
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Whipped Cream"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Shares",
+        "desktop": "Shares"
+      },
+      {
+        "mobile": "Salads",
+        "desktop": "Salads"
+      },
+      {
+        "mobile": "Brunch Favorites",
+        "desktop": "Brunch Favorites"
+      },
+      {
+        "mobile": "Mains",
+        "desktop": "Mains"
+      },
+      {
+        "mobile": "Sandwiches & Burgers",
+        "desktop": "Sandwiches & Burgers"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Sweets",
+        "desktop": "Sweets"
+      },
+      {
+        "mobile": "Kids",
+        "desktop": "Kids"
+      },
+      {
+        "mobile": "Brunch Favorites",
+        "desktop": "Brunch Favorites"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Bubbles",
+        "desktop": "Bubbles"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9",
+        "desktop": "Ros\u00e9"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Draft Beer",
+        "desktop": "Draft Beer"
+      },
+      {
+        "mobile": "Free Spirits",
+        "desktop": "Free Spirits"
+      },
+      {
+        "mobile": "Hot Drinks",
+        "desktop": "Hot Drinks"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Shares",
+        "desktop": "Shares"
+      },
+      {
+        "mobile": "Salads",
+        "desktop": "Salads"
+      },
+      {
+        "mobile": "Brunch Favorites",
+        "desktop": "Brunch Favorites"
+      },
+      {
+        "mobile": "Mains",
+        "desktop": "Mains"
+      },
+      {
+        "mobile": "Sandwiches & Burgers",
+        "desktop": "Sandwiches & Burgers"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Sweets",
+        "desktop": "Sweets"
+      },
+      {
+        "mobile": "Kids",
+        "desktop": "Kids"
+      },
+      {
+        "mobile": "Brunch Favorites",
+        "desktop": "Brunch Favorites"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Bubbles",
+        "desktop": "Bubbles"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9",
+        "desktop": "Ros\u00e9"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Draft Beer",
+        "desktop": "Draft Beer"
+      },
+      {
+        "mobile": "Free Spirits",
+        "desktop": "Free Spirits"
+      },
+      {
+        "mobile": "Hot Drinks",
+        "desktop": "Hot Drinks"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Shares",
+        "desktop": "Shares"
+      },
+      {
+        "mobile": "Salads",
+        "desktop": "Salads"
+      },
+      {
+        "mobile": "Mains",
+        "desktop": "Mains"
+      },
+      {
+        "mobile": "Sandwiches & Burgers",
+        "desktop": "Sandwiches & Burgers"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Sweets",
+        "desktop": "Sweets"
+      },
+      {
+        "mobile": "Kids",
+        "desktop": "Kids"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Bubbles",
+        "desktop": "Bubbles"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Ros\u00e9",
+        "desktop": "Ros\u00e9"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Draft Beer",
+        "desktop": "Draft Beer"
+      },
+      {
+        "mobile": "Free Spirits",
+        "desktop": "Free Spirits"
+      },
+      {
+        "mobile": "Hot Drinks",
+        "desktop": "Hot Drinks"
+      }
+    ]
+  }
+}

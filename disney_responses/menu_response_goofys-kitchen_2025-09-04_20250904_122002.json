@@ -1,0 +1,2208 @@
+{
+  "name": "Goofy's Kitchen",
+  "location": "Disneyland Resort, Disneyland Hotel",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Brunch",
+      "label": "Brunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Breakfast Pricing",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$59 per adult, plus tax and gratuity ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$36 per child (3-9), plus tax and gratuity ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Create-Your-Own Omelet Station",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey Mouse Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey Mouse Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Eggs Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Muffins",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pastries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Desserts",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Build-Your-Own Granola Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Goofy's Famous Peanut Butter Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft-Serve Yogurt with Toppings",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Non-Alcoholic Frozen Pineapple-Coconut Slushy",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Frozen Coconut Pur\u00e9e and Pineapple Juice"
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso and Steamed Foam with a dash of Milk"
+            },
+            {
+              "title": "Mocha",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso, Chocolate, and Steamed Milk with Whipped Cream and more Chocolate!"
+            },
+            {
+              "title": "Latte",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso with Steamed Milk"
+            },
+            {
+              "title": "Chai Latte",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steamed Milk with Cinnamon, Cardamom, and a variety of other spices"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mimosa Flight",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sparkling Wine, Orange, Pomegranate, Peach Nectar, Raspberry Pur\u00e9e"
+            },
+            {
+              "title": "Sparkling Cocktail Flight",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Vodka, Spicy Margarita, Passion Fruit Gin Fizz, Sparkling Rum, with Piper Sonoma Brut"
+            },
+            {
+              "title": "Margarita Flight",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Classic, Blood Orange, Habanero Lime, Spicy Watermelon"
+            },
+            {
+              "title": "Blood Orange Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 20.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "La Marca Prosecco, Solerno Blood Orange Liqueur, Orange Juice, Grenadine"
+            },
+            {
+              "title": "Michelada",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Modelo Especial, House-made Michelada Mix, Chamoy & Taj\u00edn Rim"
+            },
+            {
+              "title": "Ultimate Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 22.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Bloody Mary Mix, Tiger Prawn, Thick-Cut Bacon, Pimento-Stuffed Olives"
+            },
+            {
+              "title": "Nutty Irish",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caf\u00e9 Americano, Jameson Whiskey, Frangelico, Orgeat, Almond Milk, Whipped Cream, Toasted Almonds"
+            },
+            {
+              "title": "Scratch Agave Margarita",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Codigo Reposado Tequila, Cointreau, Agave, Lime Juice"
+            },
+            {
+              "title": "Frozen Premium Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Codigo Reposado Tequila, Grand Marnier, Agave, Lime Juice"
+            },
+            {
+              "title": "Habanero Lime Margarita",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Habanero-Lime Syrup, Lime Juice"
+            },
+            {
+              "title": "Blood Orange Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sauza Conmemorativo A\u00f1ejo Tequila, Solerno Blood Orange Liqueur, Cointreau, Lime Juice"
+            },
+            {
+              "title": "Bramble",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Chambord, Agave Nectar Syrup, Lime Juice, Mint"
+            },
+            {
+              "title": "Spicy Watermelon Margarita",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Watermelon Syrup, Habanero-Lime Syrup, Lime Juice"
+            },
+            {
+              "title": "Moscow Mule",
+              "prices": [
+                {
+                  "withoutTax": 19.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Absolut Vodka, Agave, Lime Juice, Ginger Beer"
+            },
+            {
+              "title": "Frozen Pi\u00f1a Colada",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Spiced Rum, Frozen Coconut Pur\u00e9e, Pineapple Juice"
+            },
+            {
+              "title": "Ultimate Long Island",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Tito's Handmade Vodka, Hendrick's Gin, Cointreau"
+            },
+            {
+              "title": "Magical Star",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "X-Fusion Organic Mango & Passion Fruit Liqueur, Parrot Bay Coconut Rum, Pineapple Juice, Souvenir Glow Cube"
+            }
+          ]
+        },
+        {
+          "name": "Beer and Hard Cider & Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.2% ABV"
+            },
+            {
+              "title": "Corona Extra - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.6% ABV"
+            },
+            {
+              "title": "Stella Artois - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.2% ABV"
+            },
+            {
+              "title": "Blue Moon Belgian White - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.4% ABV"
+            },
+            {
+              "title": "Ballast Point Grapefruit Sculpin IPA - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "7.0% ABV"
+            },
+            {
+              "title": "Stone Delicious IPA - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "7.7% ABV"
+            },
+            {
+              "title": "Modelo Especial - Draft",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.4% ABV"
+            },
+            {
+              "title": "Birra Moretti - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.6% ABV"
+            },
+            {
+              "title": "Belching Beaver Hazers Gonna Haze IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "6.6% ABV"
+            },
+            {
+              "title": "Elysian Space Dust IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "8.2% ABV"
+            },
+            {
+              "title": "Golden State Jamaica Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.8% ABV"
+            },
+            {
+              "title": "Brewery X Huckleberry Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.0% ABV"
+            },
+            {
+              "title": "Elysian Night Owl Pumpkin Ale, Seattle, Washington",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "ABV. 6.7%"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine and Ros\u00e9",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italy"
+            },
+            {
+              "title": "Daou Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            },
+            {
+              "title": "Piper Sonoma Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California"
+            },
+            {
+              "title": "Ros\u00e9 Flight",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Daou Ros\u00e9 , Fleur de Mer, Piper Sonoma Brut Ros\u00e9, Chandon Etoile Ros\u00e9"
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tenuta Polvaro Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Venice, Italy"
+            },
+            {
+              "title": "Daou Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            },
+            {
+              "title": "Heinz Eifel Spatlese Riesling",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mosel, Germany"
+            },
+            {
+              "title": "The Fableist Honey Bee and Jupiter Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Fableist Spider and Silkworm Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            },
+            {
+              "title": "Daou Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            }
+          ]
+        },
+        {
+          "name": "Novelties",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Birthday Mickey Ear Hat Bowl with Dessert",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Unbirthday Mickey Ear Hat Bowl with Dessert",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Goofy's Kitchen Celebrates Halloween! Breakfast [Starting August 22]",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$69 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$39 per child (3-9), plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini Danishes, Croissants, Cinnamon Rolls, Seasonal Desserts and Baked Good",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Carrot Cake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cream Cheese Frosting"
+            },
+            {
+              "title": "Smoked Salmon Blini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Green Chive Oil Cream Cheese, Onions, and Capers"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Granola and Flavored Yogurts"
+            },
+            {
+              "title": "Assorted Cereals",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Milk and Non Dairy Milk"
+            },
+            {
+              "title": "Steel Cut Oatmeal",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Brown Sugar and Raisins"
+            },
+            {
+              "title": "Butternut Squash Bisque",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cheese Blintz",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Apple Compote"
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chives"
+            },
+            {
+              "title": "Mini Quiches",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Potato Hash",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chorizo, Pepper Jack, Bell Peppers and Caramelized Onions"
+            },
+            {
+              "title": "Chicken and Waffles ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon, Breakfast Sausage Link and Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Prosciutto and Arugula Eggs Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sun-dried Tomato Hollandaise, Paprika and Chives"
+            },
+            {
+              "title": "Orange Mickey Waffles and Classic Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Powdered Sugar, Syrup and Pumpkin Icing"
+            },
+            {
+              "title": "Texas Toast French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Powdered Sugar"
+            },
+            {
+              "title": "Omelet Station",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vegetables, Cheese, and Herbs"
+            },
+            {
+              "title": "Whipped Pumpkin Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with whipped Ricotta, Cranberry, Bacon and Candied Pecan"
+            },
+            {
+              "title": "Assorted Pizza Selections",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brunch",
+      "label": "Brunch",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Goofy's Kitchen Celebrates Halloween! Brunch [Starting August 22]",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$74 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$39 per child (3-9), plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Brunch Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini Danishes, Croissants, Cinnamon Rolls, Seasonal Desserts and Baked Good",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Carrot Cake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cream Cheese Frosting"
+            },
+            {
+              "title": "Smoked Salmon Blini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Green Chive Oil Cream Cheese, Onions, and Capers"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Granola and Flavored Yogurts"
+            },
+            {
+              "title": "Assorted Cereals",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Milk and Non Dairy Milk"
+            },
+            {
+              "title": "Steel Cut Oatmeal",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Brown Sugar and Raisins"
+            },
+            {
+              "title": "Butternut Squash Bisque",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cheese Blintz",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Apple Compote"
+            },
+            {
+              "title": "Scrambled Eggs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chives"
+            },
+            {
+              "title": "Mini Quiches",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Potato Hash",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chorizo, Pepper Jack, Bell Peppers and Caramelized Onions"
+            },
+            {
+              "title": "Chicken and Waffles ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon, Breakfast Sausage Link and Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Prosciutto and Arugula Eggs Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sun-dried Tomato Hollandaise, Paprika and Chives"
+            },
+            {
+              "title": "Orange Mickey Waffles and Classic Pancakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Powdered Sugar, Syrup and Pumpkin Icing"
+            },
+            {
+              "title": "Texas Toast French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Powdered Sugar"
+            },
+            {
+              "title": "Omelet Station",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Vegetables, Cheese, and Herbs"
+            },
+            {
+              "title": "Whipped Pumpkin Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with whipped Ricotta, Cranberry, Bacon and Candied Pecan"
+            },
+            {
+              "title": "Assorted Pizza Selections",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted artisan Sausages",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chateau Sirloin",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Dinner Pricing",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$69 per adult, plus tax and gratuity ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$39 per child (3-9), plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Dinner Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Carving Station",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Catch of the Day",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tossed Salads",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Pizzas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Macaroni and Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dessert Station",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft-Serve Yogurt with Toppings",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Specialty Beverage",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Non-Alcoholic Frozen Pineapple-Coconut Slushy",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Frozen Coconut Pur\u00e9e and Pineapple Juice"
+            },
+            {
+              "title": "Pumpkin Spice Latte",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso, Pumpkin Spice Syrup and Milk"
+            },
+            {
+              "title": "Iced Pumpkin Spice Latte",
+              "prices": [
+                {
+                  "withoutTax": 7.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso, Pumpkin Spice Syrup and Milk"
+            },
+            {
+              "title": "Chai Ginger Latte",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso, Milk, Chai Syrup, White Chocolate Sauce and Gingerbread Whipped Cream"
+            },
+            {
+              "title": "Iced Chai Ginger Latte",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso, Milk, Chai Syrup, White Chocolate Sauce and Gingerbread Whipped Cream"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mimosa Flight",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sparkling Wine, Orange, Pomegranate, Peach Nectar, Raspberry Pur\u00e9e"
+            },
+            {
+              "title": "Sparkling Cocktail Flight",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Vodka, Spicy Margarita, Passion Fruit Gin Fizz, Sparkling Rum, with Piper Sonoma Brut"
+            },
+            {
+              "title": "Margarita Flight",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Classic, Blood Orange, Habanero Lime, Spicy Watermelon"
+            },
+            {
+              "title": "Blood Orange Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 20.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "La Marca Prosecco, Solerno Blood Orange Liqueur, Orange Juice, Grenadine"
+            },
+            {
+              "title": "Michelada",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Modelo Especial, House-made Michelada Mix, Chamoy & Taj\u00edn Rim"
+            },
+            {
+              "title": "Ultimate Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 22.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Bloody Mary Mix, Tiger Prawn, Thick-Cut Bacon, Pimento-Stuffed Olives"
+            },
+            {
+              "title": "Nutty Irish",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caf\u00e9 Americano, Jameson Whiskey, Frangelico, Orgeat, Almond Milk, Whipped Cream, Toasted Almonds"
+            },
+            {
+              "title": "Scratch Agave Margarita",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Codigo Reposado Tequila, Cointreau, Agave, Lime Juice"
+            },
+            {
+              "title": "Frozen Premium Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Codigo Reposado Tequila, Grand Marnier, Agave, Lime Juice"
+            },
+            {
+              "title": "Habanero Lime Margarita",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Habanero-Lime Syrup, Lime Juice"
+            },
+            {
+              "title": "Blood Orange Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sauza Conmemorativo A\u00f1ejo Tequila, Solerno Blood Orange Liqueur, Cointreau, Lime Juice"
+            },
+            {
+              "title": "Bramble",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito\u2019s Handmade Vodka, Chambord, Agave Nectar Syrup, Lime Juice, Mint"
+            },
+            {
+              "title": "Spicy Watermelon Margarita",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patr\u00f3n Silver Tequila, Watermelon Syrup, Habanero-Lime Syrup, Lime Juice"
+            },
+            {
+              "title": "Moscow Mule",
+              "prices": [
+                {
+                  "withoutTax": 19.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Absolut Vodka, Agave, Lime Juice, Ginger Beer"
+            },
+            {
+              "title": "Frozen Pi\u00f1a Colada",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Spiced Rum, Frozen Coconut Pur\u00e9e, Pineapple Juice"
+            },
+            {
+              "title": "Ultimate Long Island",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Tito's Handmade Vodka, Hendrick's Gin, Cointreau"
+            },
+            {
+              "title": "Magical Star",
+              "prices": [
+                {
+                  "withoutTax": 20.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "X-Fusion Organic Mango & Passion Fruit Liqueur, Parrot Bay Coconut Rum, Pineapple Juice, Souvenir Glow Cube"
+            }
+          ]
+        },
+        {
+          "name": "Beer and Hard Cider & Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.2% ABV"
+            },
+            {
+              "title": "Corona Extra - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.6% ABV"
+            },
+            {
+              "title": "Stella Artois - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.2% ABV"
+            },
+            {
+              "title": "Blue Moon Belgian White - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.4% ABV"
+            },
+            {
+              "title": "Ballast Point Grapefruit Sculpin IPA - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "7.0% ABV"
+            },
+            {
+              "title": "Stone Delicious IPA - Bottled",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "7.7% ABV"
+            },
+            {
+              "title": "Modelo Especial - Draft",
+              "prices": [
+                {
+                  "withoutTax": 14.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.4% ABV"
+            },
+            {
+              "title": "Birra Moretti - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "4.6% ABV"
+            },
+            {
+              "title": "Belching Beaver Hazers Gonna Haze IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "6.6% ABV"
+            },
+            {
+              "title": "Elysian Space Dust IPA - Draft",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "8.2% ABV"
+            },
+            {
+              "title": "Golden State Jamaica Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 17.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.8% ABV"
+            },
+            {
+              "title": "Brewery X Huckleberry Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "5.0% ABV"
+            },
+            {
+              "title": "Elysian Night Owl Pumpkin Ale, Seattle, Washington",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "ABV. 6.7%"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Wine and Ros\u00e9",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Avissi Prosecco",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italy"
+            },
+            {
+              "title": "Daou Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            },
+            {
+              "title": "Piper Sonoma Ros\u00e9",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "California"
+            },
+            {
+              "title": "Ros\u00e9 Flight",
+              "prices": [
+                {
+                  "withoutTax": 33,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Daou Ros\u00e9 , Fleur de Mer, Piper Sonoma Brut Ros\u00e9, Chandon Etoile Ros\u00e9"
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tenuta Polvaro Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Venice, Italy"
+            },
+            {
+              "title": "Daou Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 77,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            },
+            {
+              "title": "Heinz Eifel Spatlese Riesling",
+              "prices": [
+                {
+                  "withoutTax": 42,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 8,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mosel, Germany"
+            },
+            {
+              "title": "The Fableist Honey Bee and Jupiter Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 50,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 10,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Fableist Spider and Silkworm Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            },
+            {
+              "title": "Daou Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 70,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Paso Robles, California"
+            }
+          ]
+        },
+        {
+          "name": "Novelties",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Birthday Mickey Ear Hat Bowl with Dessert",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Unbirthday Mickey Ear Hat Bowl with Dessert",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Goofy's Kitchen Celebrates Halloween! Dinner [Starting August 22]",
+          "type": "General",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$79 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            },
+            {
+              "title": "$42 per child (3-9), plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Menu Items, Pricing, and Hours are subject to change without notice."
+            }
+          ]
+        },
+        {
+          "name": "Dinner Selections",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Bread Baskets",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Seasonal Baked Good",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit and Berries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Granola and Flavored Yogurts"
+            },
+            {
+              "title": "Cheese Board and Vegetable Crudit\u00e9",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Smoked Salmon Blini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Green Chive Oil Cream Cheese, Onions, and Capers"
+            },
+            {
+              "title": "Assorted Sliced Fruits and Strawberries",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Build Your Own Salad Bar",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crab Cake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with crispy Pancetta"
+            },
+            {
+              "title": "Roasted Butternut Squash Panzanella",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Farro and Apple Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Salmon with Brown Butter and Orange Butter sauce with Tarragon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Garlicky Mashed Potato, Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mole Roasted Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Rosemary Garlic Black Beans"
+            },
+            {
+              "title": "Bourbon Glazed Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cheese Ravioli and Pumpkin Cream Sauce ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "BBQ Pork Spare Ribs",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Tenders",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Golden Mini Corn Dogs",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Pizzas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Carving Station",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Herb Marinated Turkey Breast and Slow Roasted Prime Rib"
+            },
+            {
+              "title": "Assorted seasonal Desserts and Pastries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast Pricing",
+        "desktop": "Breakfast Pricing"
+      },
+      {
+        "mobile": "Breakfast Selections",
+        "desktop": "Breakfast Selections"
+      },
+      {
+        "mobile": "Specialty Beverages",
+        "desktop": "Specialty Beverages"
+      },
+      {
+        "mobile": "Specialty Cocktails",
+        "desktop": "Specialty Cocktails"
+      },
+      {
+        "mobile": "Beer and Hard Cider & Seltzer",
+        "desktop": "Beer and Hard Cider & Seltzer"
+      },
+      {
+        "mobile": "Sparkling Wine and Ros\u00e9",
+        "desktop": "Sparkling Wine and Ros\u00e9"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Novelties",
+        "desktop": "Novelties"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Goofy's Kitchen Celebrates Halloween! Breakfast [Starting August 22]",
+        "desktop": "Goofy's Kitchen Celebrates Halloween! Breakfast [Starting August 22]"
+      },
+      {
+        "mobile": "Breakfast Selections",
+        "desktop": "Breakfast Selections"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Goofy's Kitchen Celebrates Halloween! Brunch [Starting August 22]",
+        "desktop": "Goofy's Kitchen Celebrates Halloween! Brunch [Starting August 22]"
+      },
+      {
+        "mobile": "Brunch Selections",
+        "desktop": "Brunch Selections"
+      }
+    ],
+    "3": [
+      {
+        "mobile": "Dinner Pricing",
+        "desktop": "Dinner Pricing"
+      },
+      {
+        "mobile": "Dinner",
+        "desktop": "Dinner Selections"
+      },
+      {
+        "mobile": "Non-Alcoholic Specialty Beverage",
+        "desktop": "Non-Alcoholic Specialty Beverage"
+      },
+      {
+        "mobile": "Specialty Cocktails",
+        "desktop": "Specialty Cocktails"
+      },
+      {
+        "mobile": "Beer and Hard Cider & Seltzer",
+        "desktop": "Beer and Hard Cider & Seltzer"
+      },
+      {
+        "mobile": "Sparkling Wine and Ros\u00e9",
+        "desktop": "Sparkling Wine and Ros\u00e9"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Novelties",
+        "desktop": "Novelties"
+      }
+    ],
+    "4": [
+      {
+        "mobile": "Goofy's Kitchen Celebrates Halloween! Dinner [Starting August 22]",
+        "desktop": "Goofy's Kitchen Celebrates Halloween! Dinner [Starting August 22]"
+      },
+      {
+        "mobile": "Dinner Selections",
+        "desktop": "Dinner Selections"
+      }
+    ]
+  }
+}

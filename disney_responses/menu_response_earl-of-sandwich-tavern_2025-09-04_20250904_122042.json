@@ -1,0 +1,995 @@
+{
+  "name": "Earl of Sandwich\u00ae Tavern",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Breakfast",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Blueberry Buttermilk Pancakes",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Powdered Sugar and Maple Syrup"
+            },
+            {
+              "title": "Breakfast Slam",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two Farm Fresh Eggs served with Tater Tots, choice of Applewood Smoked Bacon, Chicken Apple Sausage or Pork Sausage, and choice of Sourdough, Whole Wheat or Rye Toast"
+            },
+            {
+              "title": "Avocado Toast",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Avocado, Radish, Sesame Seeds, Cracked Pepper, Arugula, Farm Fresh Egg, Whole Wheat Bread"
+            },
+            {
+              "title": "Breakfast Burrito ",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Pepper Jack Cheese, Diced Green Peppers, Diced Bacon, Sausage and Ranchero Sauce in a large Flour Tortilla, served with Tater Tots"
+            },
+            {
+              "title": "Eggs Benedict ",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "English Muffin topped with Canadian Bacon, two Poached Eggs and our Classic Hollandaise Sauce, served with Tater Tots"
+            },
+            {
+              "title": "Western Omelet ",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hardwood-Smoked Ham, Saut\u00e9ed Peppers, Onions and Cheddar Cheese, served with Tater Tots and your choice of Sourdough, Whole Wheat or Rye Toast"
+            },
+            {
+              "title": "Croissant French Toast ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Croissant, Vanilla Bean, Citrus, Powdered Sugar, Fresh Strawberries"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 3.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 3.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate ",
+              "prices": [
+                {
+                  "withoutTax": 4.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft Drink",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "O.J.",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Acqua Panna",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "S.Pellegrino",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Starters",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Twice-Cooked Buffalo Wings",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Wings baked and then fried to perfection and tossed in Buffalo Sauce, served with Celery, Carrots and Bleu Cheese Dressing"
+            },
+            {
+              "title": "Wild Mushroom Quesadilla",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "large Flour Tortilla stuffed with assortment of Mexican Cheeses, assorted Wild Mushrooms and Zucchini Blossoms"
+            },
+            {
+              "title": "French Loaf Garlic Bread",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "half-loaf of Bread served open face, roasted Garlic Butter, Provolone, Mozzarella and Oregano served with Homemade Marinara"
+            }
+          ]
+        },
+        {
+          "name": "Soup",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tomato Basil Bisque",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Tomato Bisque with Shaved Parmesan served in a Bread Bowl"
+            },
+            {
+              "title": "Clam Chowder",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Clam Chowder with Potatoes and Vegetables served in a Bread Bowl"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hollywood Bowl",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine Lettuce tossed with Thousand Island Dressing then topped with House-roasted Turkey Breast, Bacon, Swiss Cheese, Hard-Boiled Egg, Avocado, Roma Tomato, Cucumber and Croutons"
+            },
+            {
+              "title": "Steakhouse Salad",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House Mix, sliced Bistro Steak, Avocado, Roma Tomato, Cucumber, Bleu Cheese Crumbles, Parmesan, crispy Onion Straws and Caesar Dressing"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine, Garlic Caesar Dressing, Housemade Croutons, Parmesan Cheese"
+            },
+            {
+              "title": "Caesar Salad with Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken, Romaine, Garlic Caesar Dressing, Housemade Croutons, Parmesan Cheese"
+            },
+            {
+              "title": "Caesar Salad with Salmon",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Salmon, Romaine, Garlic Caesar Dressing, Housemade Croutons, Parmesan Cheese"
+            },
+            {
+              "title": "Caesar Salad with Steak",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steak, Romaine, Garlic Caesar Dressing, Housemade Croutons, Parmesan Cheese"
+            },
+            {
+              "title": "Mixed Green Salad",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine, Iceberg, Tomato, Red Onion, Radishes, served with Balsamic Vinaigrette"
+            },
+            {
+              "title": "Mixed Green Salad with Chicken",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken, Romaine, Iceberg, Tomato, Red Onion, Radishes, served with Balsamic Vinaigrette"
+            },
+            {
+              "title": "Mixed Green Salad with Salmon",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Salmon, Romaine, Iceberg, Tomato, Red Onion, Radishes, served with Balsamic Vinaigrette"
+            },
+            {
+              "title": "Mixed Green Salad with Steak",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steak, Romaine, Iceberg, Tomato, Red Onion, Radishes, served with Balsamic Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Sandwiches",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "B.E.L.T. Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two farm fresh Eggs over easy with Vine-ripened Tomatoes, Applewood Smoked Bacon, Butter Leaf Lettuce, Herb A\u00efoli on Sourdough Bread, served with House Fries or Fruit Cup"
+            },
+            {
+              "title": "Turkey Club",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Smoked Turkey Breast, Applewood Bacon, Swiss Cheese, Lettuce, Tomato and Mayonnaise on Sourdough Bread, served with House Fries or Fruit Cup"
+            },
+            {
+              "title": "Buffalo Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Chicken Tenders, Tossed in Tangy Buffalo Sauce, Topped with Cheddar Cheese on a Brioche Bun, served with House Fries or Fruit Cup"
+            },
+            {
+              "title": "Chimichurri Steak Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Skirt Steak, Mayo Chimichurri Sauce, Sauteed Peppers and Onions, Queso Panela Cheese, Tortilla strips and Chipotle Ranch on a grilled roll served with a side of Giardiniera, served with House Fries or Fruit Cup"
+            },
+            {
+              "title": "Mac-N-Cheese Burger",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "8 oz. patty, six Cheese Mac-n-Cheese, Cheddar, crispy Onion Straws, Lettuce, Tomato, Pickle and special sauce on a Brioche Bun, served with House Fries or Fruit Cup"
+            },
+            {
+              "title": "Downtown Burger",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "8 oz. patty, Caramelized Onions, special sauce, American Cheese and Pickles on Brioche Bun, served with House Fries or Fruit Cup"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sesame Ginger Salmon",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Salmon with Soy-Ginger Glaze, served with Cilantro Rice and Green Bean blend"
+            },
+            {
+              "title": "Spaghetti & Meatballs",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-Made Marinara, Meatballs, Shaved Parmesan, served over Spaghetti"
+            },
+            {
+              "title": "Fish Tacos ",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mahi-Mahi, Pickled Onion, creamy Slaw, Chipotle Salsa, Cilantro"
+            },
+            {
+              "title": "Fish & Chips",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Cod with our House-Made Tartar Sauce, Coleslaw and French Fries"
+            },
+            {
+              "title": "Chicken Fettuccine Alfredo",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "sliced Chicken Breast and Fettuccine tossed in rich Parmesan and Fontina Cheese Cream Sauce"
+            },
+            {
+              "title": "Roasted Prime Rib of Beef",
+              "prices": [
+                {
+                  "withoutTax": 38,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Roasted Garlic Mashed Potatoes and Green Bean Blend"
+            },
+            {
+              "title": "Slow Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "tender, juicy, slow-cooked All-Natural Half Chicken Breast and Pan Gravy with Roasted Garlic Mashed Potatoes and Green Bean Blend"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Home Fries",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Garlic Mashed Potatoes",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Green Bean Blend",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Macaroni & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cilantro Rice ",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fruit Cup",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids Menu",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Cheese ",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cheddar Cheese, Fries, Seasonal Fruit"
+            },
+            {
+              "title": "Chicken Strips",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Strips, Fries, Seasonal Fruit"
+            },
+            {
+              "title": "Kids Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Macaroni and Cheese, Seasonal Fruit"
+            },
+            {
+              "title": "Kids Spaghetti & Meatballs",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-Made Marinara, Meatballs, Shaved Parmesan, served over Spaghetti"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "White Chocolate Bread Pudding ",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "warm White Chocolate Bread Pudding served with Vanilla Ice Cream and a Sweet Whiskey Sauce"
+            },
+            {
+              "title": "Dark Chocolate Ganache Cake",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "New York Style Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "our Homemade New York Style Cheesecake with Graham Cracker Crust topped with Garden Fresh Strawberries and Pur\u00e9e"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 3.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 3.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate ",
+              "prices": [
+                {
+                  "withoutTax": 4.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soft Drink",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Acqua Panna",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "S.Pellegrino",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast",
+        "desktop": "Breakfast"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Starters",
+        "desktop": "Starters"
+      },
+      {
+        "mobile": "Soup",
+        "desktop": "Soup"
+      },
+      {
+        "mobile": "Salads",
+        "desktop": "Salads"
+      },
+      {
+        "mobile": "Sandwiches",
+        "desktop": "Sandwiches"
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Kids Menu",
+        "desktop": "Kids Menu"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  }
+}

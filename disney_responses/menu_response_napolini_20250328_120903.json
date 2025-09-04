@@ -1,0 +1,205 @@
+{
+  "name": "Napolini Pizzeria",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Signature Pizzas",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hot Honey",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Stracciatella, Chili flakes, Basil, Hot Honey, Tomato Sauce"
+            },
+            {
+              "title": "Carne",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, spicy Italian Sausage, Parma Cotto Ham, fresh Mozzarella, Tomato Sauce"
+            },
+            {
+              "title": "Pepperoni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, fresh Mozzarella Cheese, Tomato Sauce"
+            },
+            {
+              "title": "BBQ Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken, smoked Mozzarella, Red Onions, Cilantro, BBQ Sauce"
+            },
+            {
+              "title": "Sweet Potato",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Korean Sweet Potato, Corn, caramelized Onion, fresh Mozzarella, Mayo, Tomato Sauce"
+            },
+            {
+              "title": "Hawaiian",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Parma Ham, Pineapple, fresh Mozzarella Cheese, Tomato Sauce"
+            },
+            {
+              "title": "Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spicy Italian Sausage, fresh Mozzarella, Tomato Sauce"
+            },
+            {
+              "title": "Mexicana",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carnitas, pickled Jalape\u00f1os, Red Onions, Cilantro Aioli, fresh Mozzarella"
+            },
+            {
+              "title": "Margherita",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Basil, fresh Mozzarella Cheese, Tomato Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Seasonal",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chiacchiere Bow Tie Cookies",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Slightly sweet Fried Angel Wing Pastries dusted with Powdered Sugar and Blackberry dipping sauce"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Filo's Italian Gelato",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bottled Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fountain Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola, Diet Coke, Sprite, Pink Lemonade, Barqs Root Beer, Fanta Orange"
+            },
+            {
+              "title": "San Pellegrino",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kids Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Orange Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Truly Hard Seltzer",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cut Water ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vodka Mule, Tequila Paloma, Tiki Rum Mai Tai, Tequila Margarita"
+            },
+            {
+              "title": "Day Drinking Ros\u00e9",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kim Crawford Wine",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ros\u00e9, Sauvignon Blanc"
+            },
+            {
+              "title": "Bottled Beer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sierra Nevada Hazy, Corona Premier, Stella Artois, Sam Adams"
+            },
+            {
+              "title": "Bottled Beer",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Dolomiti (Italian)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

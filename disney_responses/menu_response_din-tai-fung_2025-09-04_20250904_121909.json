@@ -1,0 +1,982 @@
+{
+  "name": "Din Tai Fung",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Signature Dining",
+      "serviceStyle": "Table Service",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cucumber Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seaweed & Beancurd Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Noodle Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Wood Ear Mushrooms in a Vinegar Dressing",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet & Sour Pork Baby Back Ribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot & Sour Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Soft Tofu, Cage-Free Eggs, Kurobuta Pork, Bamboo Shoots and Wood Ear Mushrooms"
+            },
+            {
+              "title": "Steamed Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Clear Broth served in an individual ramekin. Bone-in Chicken | Bone-in Beef Short Ribs"
+            }
+          ]
+        },
+        {
+          "name": "Xiao Long Bao",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kurobuta Pork Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crab & Kurobuta Pork Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Steamed Dumplings & Buns",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Steamed Dumplings (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crescent-Shaped Dumplings. Chicken | Vegan | Cod | Shrimp & Kurobuta Pork | Kimchi & Kurobuta Pork"
+            },
+            {
+              "title": "Shao Mai (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Open Flower-Shaped Dumplings. Shrimp & Kurobuta Pork | Sticky Rice With Kurobuta Pork & Mushroom"
+            },
+            {
+              "title": "Steamed Buns (2 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Kurobuta Pork | Chicken & Mushroom | Vegan. Add a large side of Ginger for additional cost"
+            }
+          ]
+        },
+        {
+          "name": "Wontons",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spicy Wontons (8 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in our Signature Sauce. Shrimp & Kurobuta Pork | Chicken | Vegetable & Kurobuta Pork | Vegan"
+            },
+            {
+              "title": "Wonton Soup (8 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in a Light Broth. Shrimp & Kurobuta Pork | Chicken | Vegetable & Kurobuta Pork | Vegan"
+            }
+          ]
+        },
+        {
+          "name": "Greens",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "String Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Bok Choy",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Scallion-Infused Oil"
+            },
+            {
+              "title": "Spinach",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Taiwanese Cabbage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Kale",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            }
+          ]
+        },
+        {
+          "name": "Specialties",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pot Stickers (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp and Kurobuta Pork, pan-fried and served with a Dipping Sauce"
+            },
+            {
+              "title": "Truffle & Kurobuta Pork Xiao Long Bao (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Italian Black Truffles"
+            },
+            {
+              "title": "Black Pepper Beef Tenderloin*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wok-Fired with our Black Pepper Sauce, Mushrooms, Bell Peppers and Onions"
+            }
+          ]
+        },
+        {
+          "name": "Noodles",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Noodles with Sesame Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Crushed Peanuts and Chili Oil"
+            },
+            {
+              "title": "Noodles with Spicy Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in our Signature Sauce"
+            },
+            {
+              "title": "Noodles with Minced Kurobuta Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Diced Tomatoes, Beancurd and Edamame"
+            },
+            {
+              "title": "Noodles with Diced Beef & Szechuan Peppers",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Diced Tomatoes, Beancurd, Edamame and Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Noodle Soups",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Braised Beef Noodle Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Bok Choy in a Mildly Spicy Taiwanese Beef Broth"
+            },
+            {
+              "title": "Sliced Chicken Noodle Soup (Boneless)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Breast slices with Vegetables in a Light Broth"
+            },
+            {
+              "title": "Fried Pork Chop Noodle Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "in a Light Broth"
+            },
+            {
+              "title": "Tofu Puff & Glass Noodle Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Tofu-Wrapped Kurobuta Pork in a Light Broth"
+            }
+          ]
+        },
+        {
+          "name": "From the Wok",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "California-Grown Rice and Cage-Free Eggs. Chicken | Shrimp | Shredded Kurobuta Pork | Fried Pork Chop | Vegetable & Mushroom"
+            },
+            {
+              "title": "Wok Fried Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Napa Cabbage and Spinach. Chicken | Shrimp | Shredded Kurobuta Pork | Vegetable"
+            },
+            {
+              "title": "Shanghai Rice Cakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Napa Cabbage and Spinach. Chicken | Shrimp | Shredded Kurobuta Pork | Vegan"
+            }
+          ]
+        },
+        {
+          "name": "A La Carte",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Pork Chop",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kurobuta Pork Sticky Rice Wrap (1 Piece)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chocolate & Mochi Xiao Long Bao (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Red Bean & Mochi | Sweet Taro | Sesame & Mochi. Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Steamed Chocolate Buns (2 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Steamed Buns (2 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Red Bean | Sweet Taro | Sesame. Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Red Bean Sticky Rice Wrap (1 Piece)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a side of Sea Salt Cream for an additional cost"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Green Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Honey Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Matcha Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Tea | Green Tea. Add a flavor for additional cost: Honey | Passion Fruit | Peach | Mango | Lychee. Add Boba for an additional cost"
+            },
+            {
+              "title": "Sea Salt Cream Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Tea | Green Tea. Add Boba for an additional cost"
+            },
+            {
+              "title": "Fresh Orange Green Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Fresh Lemon Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Tea | Green Tea. Add Boba for an additional cost"
+            },
+            {
+              "title": "Honey Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taiwanese Oolong | Taiwanese Jasmine"
+            },
+            {
+              "title": "Fresh Squeezed Orange Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fountain Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae | Diet Coke\u00ae | Coke Zero\u00ae | Sprite\u00ae | Dr. Pepper | Ginger Ale"
+            },
+            {
+              "title": "Bottled Natural Spring Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            },
+            {
+              "title": "Bottled Natural Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Signature Dining",
+      "serviceStyle": "Table Service",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cucumber Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seaweed & Beancurd Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Noodle Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Wood Ear Mushrooms in a Vinegar Dressing",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet & Sour Pork Baby Back Ribs",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot & Sour Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Soft Tofu, Cage-Free Eggs, Kurobuta Pork, Bamboo Shoots and Wood Ear Mushrooms"
+            },
+            {
+              "title": "Steamed Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Clear Broth served in an individual ramekin. Bone-in Chicken | Bone-in Beef Short Ribs"
+            }
+          ]
+        },
+        {
+          "name": "Xiao Long Bao",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kurobuta Pork Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crab & Kurobuta Pork Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Steamed Dumplings & Buns",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Steamed Dumplings (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crescent-Shaped Dumplings. Chicken | Vegan | Cod | Shrimp & Kurobuta Pork | Kimchi & Kurobuta Pork"
+            },
+            {
+              "title": "Shao Mai (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Open Flower-Shaped Dumplings. Shrimp & Kurobuta Pork | Sticky Rice With Kurobuta Pork & Mushroom"
+            },
+            {
+              "title": "Steamed Buns (2 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Kurobuta Pork | Chicken & Mushroom | Vegan. Add a large side of Ginger for additional cost"
+            }
+          ]
+        },
+        {
+          "name": "Wontons",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spicy Wontons (8 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in our Signature Sauce. Shrimp & Kurobuta Pork | Chicken | Vegetable & Kurobuta Pork | Vegan"
+            },
+            {
+              "title": "Wonton Soup (8 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in a Light Broth. Shrimp & Kurobuta Pork | Chicken | Vegetable & Kurobuta Pork | Vegan"
+            }
+          ]
+        },
+        {
+          "name": "Greens",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "String Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Broccoli",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Bok Choy",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Scallion-Infused Oil"
+            },
+            {
+              "title": "Spinach",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Taiwanese Cabbage",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            },
+            {
+              "title": "Kale",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Garlic"
+            }
+          ]
+        },
+        {
+          "name": "Specialties",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pot Stickers (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp and Kurobuta Pork, pan-fried and served with a Dipping Sauce"
+            },
+            {
+              "title": "Truffle & Kurobuta Pork Xiao Long Bao (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Italian Black Truffles"
+            },
+            {
+              "title": "Black Pepper Beef Tenderloin*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wok-Fired with our Black Pepper Sauce, Mushrooms, Bell Peppers and Onions"
+            }
+          ]
+        },
+        {
+          "name": "Noodles",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Noodles with Sesame Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Crushed Peanuts and Chili Oil"
+            },
+            {
+              "title": "Noodles with Spicy Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served in our Signature Sauce"
+            },
+            {
+              "title": "Noodles with Minced Kurobuta Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Diced Tomatoes, Beancurd and Edamame"
+            },
+            {
+              "title": "Noodles with Diced Beef & Szechuan Peppers",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Diced Tomatoes, Beancurd, Edamame and Cilantro"
+            }
+          ]
+        },
+        {
+          "name": "Noodle Soups",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Braised Beef Noodle Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Bok Choy in a Mildly Spicy Taiwanese Beef Broth"
+            },
+            {
+              "title": "Sliced Chicken Noodle Soup (Boneless)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Breast slices with Vegetables in a Light Broth"
+            },
+            {
+              "title": "Fried Pork Chop Noodle Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "in a Light Broth"
+            },
+            {
+              "title": "Tofu Puff & Glass Noodle Soup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Tofu-Wrapped Kurobuta Pork in a Light Broth"
+            }
+          ]
+        },
+        {
+          "name": "From the Wok",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "California-Grown Rice and Cage-Free Eggs. Chicken | Shrimp | Shredded Kurobuta Pork | Fried Pork Chop | Vegetable & Mushroom"
+            },
+            {
+              "title": "Wok Fried Noodles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Napa Cabbage and Spinach. Chicken | Shrimp | Shredded Kurobuta Pork | Vegetable"
+            },
+            {
+              "title": "Shanghai Rice Cakes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Napa Cabbage and Spinach. Chicken | Shrimp | Shredded Kurobuta Pork | Vegan"
+            }
+          ]
+        },
+        {
+          "name": "A La Carte",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fried Pork Chop",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kurobuta Pork Sticky Rice Wrap (1 Piece)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chocolate & Mochi Xiao Long Bao (5 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Xiao Long Bao (10 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Red Bean & Mochi | Sweet Taro | Sesame & Mochi. Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Steamed Chocolate Buns (2 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Steamed Buns (2 Pieces)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Red Bean | Sweet Taro | Sesame. Add a side of Sea Salt Cream for an additional cost"
+            },
+            {
+              "title": "Red Bean Sticky Rice Wrap (1 Piece)",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a side of Sea Salt Cream for an additional cost"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Green Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Honey Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Matcha Milk Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Tea | Green Tea. Add a flavor for additional cost: Honey | Passion Fruit | Peach | Mango | Lychee. Add Boba for an additional cost"
+            },
+            {
+              "title": "Sea Salt Cream Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Tea | Green Tea. Add Boba for an additional cost"
+            },
+            {
+              "title": "Fresh Orange Green Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Fresh Lemon Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Black Tea | Green Tea. Add Boba for an additional cost"
+            },
+            {
+              "title": "Honey Lemonade",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add Boba for an additional cost"
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taiwanese Oolong | Taiwanese Jasmine"
+            },
+            {
+              "title": "Fresh Squeezed Orange Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fountain Drinks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae | Diet Coke\u00ae | Coke Zero\u00ae | Sprite\u00ae | Dr. Pepper | Ginger Ale"
+            },
+            {
+              "title": "Bottled Natural Spring Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            },
+            {
+              "title": "Bottled Natural Sparkling Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "750 ml"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Xiao Long Bao",
+        "desktop": "Xiao Long Bao"
+      },
+      {
+        "mobile": "Steamed Dumplings & Buns",
+        "desktop": "Steamed Dumplings & Buns"
+      },
+      {
+        "mobile": "Wontons",
+        "desktop": "Wontons"
+      },
+      {
+        "mobile": "Greens",
+        "desktop": "Greens"
+      },
+      {
+        "mobile": "Specialties",
+        "desktop": "Specialties"
+      },
+      {
+        "mobile": "Noodles",
+        "desktop": "Noodles"
+      },
+      {
+        "mobile": "Noodle Soups",
+        "desktop": "Noodle Soups"
+      },
+      {
+        "mobile": "From the Wok",
+        "desktop": "From the Wok"
+      },
+      {
+        "mobile": "A La Carte",
+        "desktop": "A La Carte"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Xiao Long Bao",
+        "desktop": "Xiao Long Bao"
+      },
+      {
+        "mobile": "Steamed Dumplings & Buns",
+        "desktop": "Steamed Dumplings & Buns"
+      },
+      {
+        "mobile": "Wontons",
+        "desktop": "Wontons"
+      },
+      {
+        "mobile": "Greens",
+        "desktop": "Greens"
+      },
+      {
+        "mobile": "Specialties",
+        "desktop": "Specialties"
+      },
+      {
+        "mobile": "Noodles",
+        "desktop": "Noodles"
+      },
+      {
+        "mobile": "Noodle Soups",
+        "desktop": "Noodle Soups"
+      },
+      {
+        "mobile": "From the Wok",
+        "desktop": "From the Wok"
+      },
+      {
+        "mobile": "A La Carte",
+        "desktop": "A La Carte"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  }
+}

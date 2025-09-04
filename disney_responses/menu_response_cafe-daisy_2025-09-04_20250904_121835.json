@@ -1,0 +1,1453 @@
+{
+  "name": "Caf\u00e9 Daisy",
+  "location": "Disneyland Park, Mickey's Toontown",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    },
+    {
+      "name": "Late Night Dining",
+      "label": "Late Night Dining"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pluto Skeleton Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "For Dessert... or anytime!",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Daisy's Goody-Goody Donuts ",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Mini Apple Cider Donuts with Spiced Apple Sugar"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Tiramisu Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Joffrey's\u2122 French Roast Cold Brew Coffee with Pumpkin & Tiramisu Syrups, topped with Whipped Cream, Chocolate & Pumpkin Powders and a Ladyfinger Cookie"
+            },
+            {
+              "title": "Clarabelle Spicy Chipotle Pineapple Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Zero Sugar Lemonade, Chipotle-Pineapple Syrup and Chile-Lime Seasoning, topped with Pineapple"
+            },
+            {
+              "title": "Picnic Time Watermelon Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Zero Sugar Lemonade with Watermelon Premium Syrup and Watermelon Gummies"
+            },
+            {
+              "title": "Granny Goof's Garden Sweet Tea",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Sweet Iced Tea with Honey-Mango Premium Syrup and Mango flavor-filled Spheres"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Agua Fresca Mango Lime, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweetened Iced Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Agua Fresca Mango Lime, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweetened Iced Tea"
+            },
+            {
+              "title": "Low-fat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaf",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pluto Skeleton Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "For Grown Ups",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Bacon Ranch Flop-Over ",
+              "prices": [
+                {
+                  "withoutTax": 11.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ranch, Bacon Bits, Diced Chicken, Mozzarella and Provolone"
+            },
+            {
+              "title": "Daisy's Dressed-Up Dog",
+              "prices": [
+                {
+                  "withoutTax": 15.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "All-beef Foot-long Hot Dog, Chili-Cheese Sauce, Mac & Cheese and Parmesan Potato Crispies, with House-made Chips"
+            },
+            {
+              "title": "The Daisy Dog",
+              "prices": [
+                {
+                  "withoutTax": 14.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "All Beef Foot-long Hot Dog, with House-made Chips"
+            },
+            {
+              "title": "Cheesy Pizza Flop-Over",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mozzarella and Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Pepperoni Pizza Flop-Over",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pepperoni, Mozzarella, Provolone with Tomato Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spring Garden Wrap",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine and Quinoa Wrap with creamy Lemon Dressing and Toasted Pumpkin Seeds, with House-made Chips"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Toontown 'Tater Chips",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Potato Chips with Chili-Cheese Sauce"
+            },
+            {
+              "title": "Add Chili-Cheese Sauce",
+              "prices": [
+                {
+                  "withoutTax": 3.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Potato Chips",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Please! Pizza",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "For Kids",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pepperoni Please! Pizza",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pepperoni, Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Minnie's Mini Corn Dogs",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bite-Size Corn Dogs served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Toddler Meal",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini Mac and Cheesy",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Applesauce and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "For Dessert... or anytime!",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Daisy's Goody-Goody Donuts ",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Mini Apple Cider Donuts with Spiced Apple Sugar"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Tiramisu Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Joffrey's\u2122 French Roast Cold Brew Coffee with Pumpkin & Tiramisu Syrups, topped with Whipped Cream, Chocolate & Pumpkin Powders and a Ladyfinger Cookie"
+            },
+            {
+              "title": "Clarabelle Spicy Chipotle Pineapple Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Zero Sugar Lemonade, Chipotle-Pineapple Syrup and Chile-Lime Seasoning, topped with Pineapple"
+            },
+            {
+              "title": "Picnic Time Watermelon Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Zero Sugar Lemonade with Watermelon Premium Syrup and Watermelon Gummies"
+            },
+            {
+              "title": "Granny Goof's Garden Sweet Tea",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Sweet Iced Tea with Honey-Mango Premium Syrup and Mango flavor-filled Spheres"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Agua Fresca Mango Lime, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweetened Iced Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Agua Fresca Mango Lime, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweetened Iced Tea"
+            },
+            {
+              "title": "Low-fat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaf",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Pepperoni Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Mozzarella, Provolone with Tomato Sauce with Gluten Friendly Crust"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Cheesy Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mozzarella and Provolone with Tomato Sauce with Gluten Allergy-Friendly Crust"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Chili Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Toontown 'Tater Chips with Chili-Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Potato Chips with Chili-Cheese Sauce"
+            },
+            {
+              "title": "Egg Allergy-Friendly Spring Garden Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Marinated Romaine and Quinoa Salad with creamy Lemon Dressing"
+            },
+            {
+              "title": "Egg Allergy-Friendly Cheese Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese and Tomato Sauce served with a Cuties Mandarin, Applesauce and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pepperoni Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Potato Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Chili Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pepperoni Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Mozzarella, Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Cheesy Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mozzarella and Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly The Daisy Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All Beef Foot-long Hot Dog with House-made Chips"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Daisy's Dressed-up Dog & Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-beef Foot-long with Chili-Cheese Sauce, Mac & Cheese, Crispies, and Herb Cheese Dust with House-made Chips"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Spring Garden Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Marinated Romaine and Quinoa Salad with creamy Lemon Dressing"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Toontown 'Tater Chips with Chili-Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Potato Chips with Chili-Cheese Sauce"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Chili-Cheese Sauce ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Potato Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Cheese Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese and Tomato Sauce served with a Cuties Mandarin, Applesauce and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Minnie's Mini Corn Dogs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bite-Size Corn Dogs served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pepperoni Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Mini Mac and Cheesy",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Applesauce and small Low-fat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Spring Garden Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Marinated Romaine and Quinoa Salad with creamy Lemon Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pepperoni Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Mozzarella, Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Cheesy Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mozzarella and Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly The Daisy Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All Beef Foot-long Hot Dog with House-made Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Daisy's Dressed-up Dog",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-beef Foot-long with Chili-Cheese Sauce, Mac & Cheese, Crispies, and Herb Cheese Dust with House-made Chips"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Toontown 'Tater Chips with Chili-Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Potato Chips with Chili-Cheese Sauce"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Spring Garden Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Marinated Romaine and Quinoa Salad with creamy Lemon Dressing"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Potato Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Chili-Cheese Sauce ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Cheese Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese and Tomato Sauce served with a Cuties Mandarin, Applesauce and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Minnie's Mini Corn Dogs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bite-Size Corn Dogs served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pepperoni Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Mini Mac and Cheesy - Toddler Meal",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Applesauce and small Low-fat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Pepperoni Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Mozzarella, Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Cheesy Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mozzarella and Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Sesame Allergy-Friendly The Daisy Dog & Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All Beef Foot-long Hot Dog with House-made Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly  Daisy's Dressed-up Dog & Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All-beef Foot-long with Chili-Cheese Sauce, Mac & Cheese, Crispies, and Herb Cheese Dust with House-made Chips"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Toontown 'Tater Chips with Chili-Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Potato Chips with Chili-Cheese Sauce"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Spring Garden Wrap",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Marinated Romaine and Quinoa Salad with creamy Lemon Dressing"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Chili Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Potato Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Mini Mac and Cheesy - Toddler Meal",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Applesauce and small Low-fat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Pepperoni Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Minnie's Mini Corn Dogs",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bite-Size Corn Dogs served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Cheese Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Pepperoni Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Mozzarella, Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Soy Allergy-Friendly Cheesy Pizza Flop-Over",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mozzarella and Provolone with Tomato Sauce"
+            },
+            {
+              "title": "Soy Allergy-Friendly The Daisy Dog & Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "All Beef Foot-long Hot Dog with House-made Chips"
+            },
+            {
+              "title": "Soy Allergy-Friendly Cheese Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese and Tomato Sauce served with a Cuties Mandarin, Applesauce and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Soy Allergy-Friendly Pepperoni Please! Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pepperoni, Cheese and Tomato Sauce served with a Cuties\u00ae Mandarin Orange, Applesauce and choice of Small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Mini Mac and Cheesy - Toddler Meal",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Applesauce and small Low-fat Milk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Late Night Dining",
+      "label": "Late Night Dining",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pluto Skeleton Sipper ",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Mickey Mouse & Balloon Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "For Dessert... or anytime!",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Daisy's Goody-Goody Donuts ",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Mini Apple Cider Donuts with Spiced Apple Sugar"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Tiramisu Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Joffrey's\u2122 French Roast Cold Brew Coffee with Pumpkin & Tiramisu Syrups, topped with Whipped Cream, Chocolate & Pumpkin Powders and a Ladyfinger Cookie"
+            },
+            {
+              "title": "Clarabelle Spicy Chipotle Pineapple Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Zero Sugar Lemonade, Chipotle-Pineapple Syrup and Chile-Lime Seasoning, topped with Pineapple"
+            },
+            {
+              "title": "Picnic Time Watermelon Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Zero Sugar Lemonade with Watermelon Premium Syrup and Watermelon Gummies"
+            },
+            {
+              "title": "Granny Goof's Garden Sweet Tea",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gold Peak\u00ae Sweet Iced Tea with Honey-Mango Premium Syrup and Mango flavor-filled Spheres"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Agua Fresca Mango Lime, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweetened Iced Tea"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Barq\u2019s\u00ae Root Beer, Fanta\u00ae Orange, Coca-Cola\u00ae Zero Sugar, Minute Maid\u00ae Agua Fresca Mango Lime, Minute Maid\u00ae Zero Sugar Lemonade, Gold Peak\u00ae Sweetened Iced Tea"
+            },
+            {
+              "title": "Low-fat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaf",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cold Brew",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "For Dessert... or anytime!",
+        "desktop": "For Dessert... or anytime!"
+      },
+      {
+        "mobile": "Specialty Beverages",
+        "desktop": "Specialty Beverages"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "desktop": "For Grown Ups"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "desktop": "Kids' Disney Check Meal"
+      },
+      {
+        "desktop": "For Kids"
+      },
+      {
+        "desktop": "Toddler Meal"
+      },
+      {
+        "mobile": "For Dessert... or anytime!",
+        "desktop": "For Dessert... or anytime!"
+      },
+      {
+        "mobile": "Specialty Beverages",
+        "desktop": "Specialty Beverages"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "For Dessert... or anytime!",
+        "desktop": "For Dessert... or anytime!"
+      },
+      {
+        "mobile": "Specialty Beverages",
+        "desktop": "Specialty Beverages"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  }
+}

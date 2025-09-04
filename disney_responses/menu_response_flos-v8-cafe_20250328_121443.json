@@ -1,0 +1,859 @@
+{
+  "name": "Flo's V8 Cafe",
+  "location": "Disney California Adventure Park, Cars Land",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tokyo Mater Burger",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Angus Beef & Mushroom Patty or Angus Beef Patty, Teriyaki-glazed Grilled Pineapple, Candied Bacon, Fried Onion Strings, Teriyaki A\u00efoli, Lettuce and Tomato, served with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Flo's Famous Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 19.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Cobb de Ville Salad",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, crispy Bacon, Blue Cheese, Hard-cooked Egg, Corn, and Tomatoes with Ranch Dressing"
+            },
+            {
+              "title": "Ramone's Low and Slow Club",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Turkey Breast, crispy Bacon, Avocado-Bacon Mayo, Lettuce, and Tomato on Toasted White Bread with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Ka-Cheeseburger",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Patty, Cheddar Cheese, 1000 Island and Caramelized Onions on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Impossible\u2122 Burger",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Caramelized Onions, Lettuce and Tomato on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Micro Burger",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Fenders",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Mack's Mac & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Flo's Classic Shake",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Flo's Classic Shake in Souvenir Glass",
+              "prices": [
+                {
+                  "withoutTax": 16.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cars Land souvenir Shake glass served with Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side of Steak Fries",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "side of Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seaborn, Spicy Cucumber Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served over Ice. Encinitas, CA (ABV 10%)"
+            },
+            {
+              "title": "Seaborn Lavender Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served over Ice. Encinitas, CA (ABV 10%)"
+            },
+            {
+              "title": "Hamilton Family Brewery, Tow Mango Double IPA",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rancho Cucamonga, CA (ABV 8.2%)"
+            },
+            {
+              "title": "Seaborn, Blueberry Margarita ",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served over Ice. Encinitas, CA (ABV 10%)"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Reusable Cutlery Set",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange Orange Juice",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee - Decaffeinated",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Tea",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Plant-based Impossible\u2122 Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, Dairy-free American Cheese, Caramelized Onions, Lettuce and Tomato on an Allergy-friendly Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Cobb de Ville Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, crispy Bacon, Blue Cheese, Hard-boiled Egg, Corn and Tomatoes with Ranch Dressing"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Ramone's Low and Slow Club",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey Breast, crispy Bacon, Avocado-Bacon Mayo, Lettuce, and Tomato on an Allergy-friendly Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Patty on an Allergy-friendly Roll with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake without \"Road Gravel\""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Flo's Classic Shake in Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake with a Cars Land souvenir Shake glass without \"Road Gravel\""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Ka-Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Patty, Cheddar Cheese, 1000 Island and Caramelized Onions on an Allergy-Friendly Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Plant-based Impossible\u2122 Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Caramelized Onions, Lettuce and Tomato on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Cobb de Ville Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, crispy Bacon, Blue Cheese, Corn and Tomatoes with Fat-free Italian Dressing"
+            },
+            {
+              "title": "Egg Allergy-Friendly Ramone's Low and Slow Club",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey Breast, crispy Bacon, Lettuce, and Tomato on Toasted White Bread with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Egg Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Egg Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Egg Allergy-Friendly Ka-Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Patty, Cheddar Cheese, 1000 Island and Caramelized Onions on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Plant-based Impossible\u2122 Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Caramelized Onions, Lettuce and Tomato on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Cobb de Ville Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, crispy Bacon, Blue Cheese, Hard-boiled Egg, Corn and Tomatoes with Ranch Dressing"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Ramone's Low and Slow Club",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey Breast, crispy Bacon, Avocado-Bacon Mayo, Lettuce, and Tomato on Toasted White Bread with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Ka-Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Patty, Cheddar Cheese, 1000 Island and Caramelized Onions on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Plant-based Impossible\u2122 Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Caramelized Onions, Lettuce and Tomato on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Milk Allergy-Friendly Cobb de Ville Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, crispy Bacon, Hard-Boiled Egg, Corn and Tomatoes without Dressing"
+            },
+            {
+              "title": "Milk Allergy-Friendly Ramone's Low and Slow Club",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey Breast, crispy Bacon, Avocado-Bacon Mayo, Lettuce, and Tomato on Toasted White Bread with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Peanut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Allergy-Friendly Impossible\u2122 Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Patty, American Cheese, Caramelized Onions, Lettuce and Tomato on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Ramone's Low and Slow Club",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey Breast, crispy Bacon, Avocado-Bacon Mayo, Lettuce, and Tomato on Toasted White Bread with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Cobb de Ville Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, crispy Bacon, Blue Cheese, Hard-boiled Egg, Corn and Tomatoes with Ranch Dressing"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Chicken Strips with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Flo's Classic Shake with Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake topped with \"Road Gravel\" in a Cars Land souvenir Shake glass"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Ka-Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Patty, Cheddar Cheese, 1000 Island and Caramelized Onions on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Famous Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Garlic Mashed Potatoes, Gravy and Seasonal Vegetables"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Cobb de Ville Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, Crispy Bacon, Blue Cheese, Hard-cooked Egg, Corn and Tomatoes with Ranch Dressing"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Ramone's Low and Slow Club",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey Breast, Crispy Bacon, Avocado-Bacon Mayo, Lettuce and Tomato on Toasted-White Bread with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Plant-based Impossible\u2122Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "American Cheese, Caramelized Onions, Lettuce and Tomato with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Hamburger with a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Chicken Fenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Chicken Strips with a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Mack's Mac & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "a Cuties\u00ae Mandarin Orange, Carrots and choice of Small Beverage"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Flo's Classic Shake in a Souvenir Glass ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cars Land souvenir Shake glass served with Vanilla, Chocolate or Strawberry Shake topped with \"Road Gravel\""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Ka-Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Patty, Cheddar Cheese, 1000 Island and Caramelized Onions on a Toasted Bun with Cuties\u00ae Mandarin Oranges or Steak Fries"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Micro Burger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini All-Beef Patty on an Allergy-friendly Roll with a Cuties\u00ae Mandarin, Carrots and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Soy Allergy-Friendly Cobb de Ville Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Lettuce, Turkey Breast, crispy Bacon, Blue Cheese, Hard-boiled Egg, Corn and Tomatoes with Fat-free Italian Dressing"
+            },
+            {
+              "title": "Soy Allergy-Friendly Ramone's Low and Slow Club",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Turkey Breast, crispy Bacon, Lettuce and Tomato on Toasted White Bread with Cuties\u00ae Mandarin Oranges"
+            },
+            {
+              "title": "Soy Allergy-Friendly Flo's Classic Shake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake without \"Road Gravel\""
+            },
+            {
+              "title": "Soy Allergy-Friendly Flo's Classic Shake in Souvenir Glass",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, or Strawberry Shake with a Cars Land souvenir Shake glass without \"Road Gravel\""
+            },
+            {
+              "title": "Soy Allergy-Friendly Ka-Cheeseburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Patty, Cheddar Cheese and Caramelized Onions on a Toasted Bun with Cuties\u00ae Mandarin Oranges"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

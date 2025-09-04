@@ -1,0 +1,170 @@
+{
+  "name": "GG's Chicken Shop",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Sandwiches",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Original Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bread and Butter Pickles, Cabbage, Spicy Mayo, Hot Honey, Brioche Bun"
+            },
+            {
+              "title": "Sweet and Spicy Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pickled Daikon Slaw, Soy Cucumbers, Kewpie Mayo, Brioche Bun"
+            },
+            {
+              "title": "Ranch Fried Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheddar Cheese, Lettuce, Tomato, Garlic Ranch, Brioche Bun"
+            },
+            {
+              "title": "Grilled Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pickled red Onion, Arugula, Tomato, Roasted Garlic A\u00efoli, Ciabatta Bun\u00a0"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The California",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Greens, Bulgur, Avocado, Roasted Sweet Potato, Cucumber, Sunflower Seeds, Sesame Sticks, Tahini Miso Dressing. [Add Fried or Grilled Chicken for an additional price]"
+            },
+            {
+              "title": "Kale and Brussels",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grapes, Sunflower Seeds, Pecorino, Quinoa, Dried Cranberries, Honey Lemmon Dressing. [Add Fried or Grilled Chicken for an additional cost]"
+            }
+          ]
+        },
+        {
+          "name": "Strips & Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Three Crispy Chicken Strips",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Waffle Fries",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with GG's Spice Rub"
+            },
+            {
+              "title": "Crispy Brussels Sprouts",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chili Lime Salt"
+            },
+            {
+              "title": "Sweet Corn Elote",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lime, Chipotle, Cotija, Cilantro"
+            },
+            {
+              "title": "Broccoli Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Almonds, Raisins, Dill, Lemon Poppy Seed Dressing"
+            }
+          ]
+        },
+        {
+          "name": "Sauces",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "BBQ Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Garlic Ranch",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Honey Mustard",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chocolate Dirt Pudding",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Pudding, OREO\u00ae Crumble, Mickey Mouse Sprinkles, Gummy Worms"
+            },
+            {
+              "title": "Oatmeal Cream Pie",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Menu",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Strips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Apple Juice and Waffle Fries"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

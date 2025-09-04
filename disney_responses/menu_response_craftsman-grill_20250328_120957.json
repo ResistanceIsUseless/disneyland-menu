@@ -1,0 +1,1213 @@
+{
+  "name": "GCH Craftsman Grill",
+  "location": "Disney's Grand Californian Hotel & Spa, Disney's Grand Californian Hotel & Spa",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "GCH Craftsman Grill Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Avocado Blossom Honey",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jar of Local Honey"
+            },
+            {
+              "title": "Wildflower Honey",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jar of Local Honey"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Breakfast Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eggs, Ham, Potatoes and Melted Cheese on a Toasted Croissant, served with Arugula Salad with Cucumber, Feta and Tomato Vinaigrette"
+            },
+            {
+              "title": "Avocado Toast on Sourdough*",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Poached Egg, Pomegranate Seeds and Olive Oil Drizzle and Parsley & Celery Leaf Salad"
+            },
+            {
+              "title": "Smoked Salmon Bagel Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caper Cream Cheese, Arugula, Tomato and Red Onions on a Toasted Plain Bagel, served with Seasonal Fruit"
+            },
+            {
+              "title": "Egg White Omelet*",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spinach, Tomato, Turkey Bacon and Avocado, served with Arugula Salad with Cucumber, Feta and Tomato Vinaigrette and Seasonal Fruit"
+            },
+            {
+              "title": "Breakfast Burrito*",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eggs, Bacon, Potatoes, Pico de Gallo, and Cheese wrapped in a Flour Tortilla, Salsa Roja and Sour Cream, served with Seasonal Fruit"
+            },
+            {
+              "title": "American Breakfast*",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Bacon or Sausage, Fruit or Breakfast Potatoes"
+            },
+            {
+              "title": "Belgian Waffle",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seasonal Compote, Powdered Sugar, Chocolate-Hazelnut Sauce and Chantilly Cream, served with Seasonal Fruit"
+            },
+            {
+              "title": "Brioche French Toast",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Thick-sliced Brioche with Vanilla-sweetened Mascarpone, Fresh Berries, Powdered Sugar, and Blueberry Compote, served with Seasonal Fruit"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids' Power Pack",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, a Yogurt Smoothie, Carrots and Whole-Grain \"Fish\" Crackers served with choice of small DASANI\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Kid's American Breakfast*",
+              "prices": [
+                {
+                  "withoutTax": 9.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Turkey Bacon and Potato Bites with choice of Seasonal Fruit or Lowfat Yogurt and choice of small Lowfat Milk or small Dasani\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Breakfast",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kid's Mickey Waffle",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "dusted with Powdered Sugar and served with Syrup and choice of small Lowfat Milk or small Dasani\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-friendly Egg White Omelet*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Tomato, Turkey Bacon, Avocado Crema. Served with Arugula Salad with Cucumber, Feta and Tomato Vinaigrette"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kid's Breakfast Plate*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Scrambled Eggs, Turkey Bacon, Fresh Fruit and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Avocado Toast on Sourdough*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Poached Eggs, Pomegranate Seeds, Olive Oil, Pomegranate Drizzle, Parsley and Celery Leaf Salad"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-friendly Egg White Omelet*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Tomato, Turkey Bacon, Avocado Crema. Served with Arugula Salad with Cucumber, Feta and Tomato Vinaigrette"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-friendly Belgian Waffle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasonal Compote, Powdered Sugar, Chocolate-Hazelnut Sauce and Chantilly Cream"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kid's Breakfast Plate*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Turkey Bacon and Potato Bites with choice of Seasonal Fruit or Lowfat Yogurt and choice of small Dasani\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \"Fish\" Crackers served with choice of small DASANI\u00ae Water or small\u00a0Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Belgian Waffle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "dusted with Powdered Sugar and served with Syrup and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Avocado Toast on Sourdough*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Poached Eggs, Pomegranate Seeds, Olive Oil, Pomegranate Drizzle, Parsley and Celery Leaf Salad"
+            },
+            {
+              "title": "Milk Allergy-friendly Egg White Omelet*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Tomato, Turkey Bacon, Served with Arugula Salad with Cucumber and Tomato Vinaigrette"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kid's Breakfast Plate*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Scrambled Eggs, Turkey Bacon, Fresh Fruit,\u00a0and choice of Small DASANI\u00ae Water or Small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Avocado Toast on Sourdough*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Poached Eggs, Pomegranate Seeds, Olive Oil, Pomegranate Drizzle, Parsley and Celery Leaf Salad"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-friendly American Breakfast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Bacon or Sausage and Toast served with Seasonal Fruit"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-friendly Egg White Omelet*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Tomato, Turkey Bacon, Avocado Crema. Served with Arugula Salad with Cucumber, Feta and Tomato Vinaigrette"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Smoked Salmon Bagel Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cream Cheese, Arugula, Tomato, Red Onion and Capers on a Toasted Plain Bagel, served with Seasonal Fruit"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' - Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers, served with choice of small DASANI\u00ae Water or small\u00a0Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kid's Breakfast Plate*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Turkey Bacon, Seasonal Fruit, Lowfat Yogurt and choice of small Dasani\u00ae Water or small Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-friendly American Breakfast*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Bacon or Sausage and Toast served with Potato Bites or Seasonal Fruit"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kid's Breakfast Plate*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Turkey Bacon, Seasonal Fruit, Lowfat Yogurt and choice of small Dasani\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Soy Allergy-Friendly Disney Check Meal - Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \u201cFish\u201d Crackers served with choice of small DASANI\u00ae Water or small\u00a0Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Avocado Toast on Sourdough*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Poached Eggs, Pomegranate Seeds, Olive Oil, Pomegranate Drizzle, Parsley & Celery Leaf Salad"
+            },
+            {
+              "title": "Sesame Allergy-Friendly American Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Scrambled Eggs, Bacon or Sausage, Fruit or Potatoes and Toast"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Egg White Omelet*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Tomato, Turkey Bacon, Avocado Crema, served with Arugula Salad with Cucumber, Feta Cheese and Tomato Vinaigrette"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Breakfast Sandwich*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ham, Eggs, Potato Bites and Melted Cheese on a Toasted Croissant, served with Arugula Salad with Cucumber, Feta Cheese and Tomato Vinaigrette"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Breakfast Burrito*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Eggs, Bacon, Potato Bites and Cheese wrapped in a Flour Tortilla"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Smoked Salmon Bagel Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Cream Cheese, Arugula, Tomato, Red Onion and Capers on a Toasted Plain Bagel, served with Seasonal Fruit"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Belgian Waffle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasonal Compote, Powdered Sugar, Chocolate-Hazelnut Sauce and Chantilly Cream"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Crackers with choice of small Beverage"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Breakfast Plate*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Turkey Bacon, Seasonal Fruit, Lowfat Yogurt and choice of small Dasani\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Belgian Waffle",
+              "prices": [],
+              "pricesRange": false,
+              "description": "dusted with Powdered Sugar and served with Syrup and choice of small DASANI\u00ae Water or small\u00a0Lowfat Milk."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "GCH Craftsman Grill Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pumpkin Muffin",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Avocado Blossom Honey",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jar of Local Honey"
+            },
+            {
+              "title": "Wildflower Honey",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jar of Local Honey"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hot Dog of the Month",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "please inquire with Server"
+            },
+            {
+              "title": "Poke Bowl*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Sushi-grade Salmon or Tuna tossed in Citrus Ponzu with Cucumber, Edamame, Avocado, Crab Salad, Green Onions, Radicchio, Pickled Seaweed, Furikake and spicy A\u00efoli, with choice of Calrose Rice or Mixed Greens"
+            },
+            {
+              "title": "Carne Asada Quesadilla ",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Carne Asada with Melted Cheese, Roasted Corn Relish, Black Beans and Green Onions, wrapped in a Flour Tortilla with Chipotle Crema, Fresno Chile, Cilantro and Limes"
+            },
+            {
+              "title": "Avocado Panzanella",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Baby Heirloom Tomatoes, Kalamata Olive Crumble, Feta, Arugula and Charred Onion Chimichurrii"
+            },
+            {
+              "title": "Baked Nachos",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Shredded Beef or Chicken, Tortilla Chips, Cheese Sauce, Shredded Cheese, Black Beans, Green Onions, Pickled Jalape\u00f1os, Cilantro, Queso Fresco, Avocado, Crema and Salsa Roja"
+            },
+            {
+              "title": "Fish and Chips",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beer-battered Cod and Seasoned Fries with Arugula Salad and Malted Vinegar Mayo"
+            },
+            {
+              "title": "Wagyu Gouda Burger*",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "American Wagyu Patty, Gouda, Grilled Red Onion, Lettuce, Tomato, and Preserved Lemon A\u00efoli on a Brioche Bun served with Seasonal Fruit or Seasoned Fries Plant-based Patty available upon request"
+            },
+            {
+              "title": "Sticky Chicken Wings",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Honey-Soy-Ginger-glazed, served with Steamed Jasmine Rice and Pickled Cucumber Slaw"
+            },
+            {
+              "title": "Flat Iron Steak Salad*",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kale and Romaine, Avocado, Corn, Jicama, Cherry Tomatoes, Cilantro, Crispy Tortilla Strips, Toasted Pepitas, Cotija Cheese with Greek yogurt Caesar Dressing (Substitute Salmon or Chicken)"
+            },
+            {
+              "title": "Seared Salmon Salad*",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spinach & Mixed Greens, Roasted Tomatoes, Pine Nuts and Avocado, with Honey Balsamic Vinaigrette (Substitute Flat Iron Steak or Chicken)"
+            }
+          ]
+        },
+        {
+          "name": "Artisanal Pizzas from Our Pizza Oven",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Margherita Pizza",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Mozzarella, Fresh Basil, Fire-roasted Tomatoes and House Cheese Blend"
+            },
+            {
+              "title": "Classic Pepperoni Pizza",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Premium Pepperoni and House Cheese Blend"
+            },
+            {
+              "title": "Forest Mushroom Impossible\u2122 Sausage Pizza",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Mushrooms, Plant-based Sausage, Mushroom Spread, Caramelized Onions, Green Onions, Fresh Mozzarella and House Cheese Blend"
+            },
+            {
+              "title": "Charcuterie Pizza",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Premium Pepperoni, Prosciutto, Sausage, Arugula, Fire-roasted Tomatoes and House Cheese Blend"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Classic Sundae",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream, Chocolate Sauce, Chantilly Cream and Toasted Almonds, topped with a Cherry"
+            },
+            {
+              "title": "Apple Galette",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel Ice Cream, Vanilla sauce and Powdered Sugar"
+            }
+          ]
+        },
+        {
+          "name": "Lunch And Dinner Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hamburger",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, a Yogurt Smoothie and choice of small Dasani\u00ae Water or small Lowfat Milk. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kids' Chicken Tenders",
+              "prices": [
+                {
+                  "withoutTax": 11.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit or French Fries and a choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Parmesan Crusted Grilled Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit or French Fries and a choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-friendly Poke Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "choice of Salmon or Tuna tossed in Poke Sauce with Red Onion, Cucumber, Edamame, Avocado, Green Onions, Furikake and Sriracha A\u00efoli, served on choice of White Steamed Rice or Lettuce"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-friendly Flat Iron Steak Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Romaine Lettuce, Roasted Tomatoes, Red Onions and Shaved Grana Padano, with Red Wine Vinaigrette"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-friendly Seared Salmon Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Mixed Greens, Roasted Tomatoes, Pine Nuts and Avocado, with Honey Balsamic Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-friendly Avocado Panzanella",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Heirloom Tomatoes, Kalamata Olive Crumble, Feta, Arugula and Charred Onion Chimichurri"
+            },
+            {
+              "title": "Egg Allergy-friendly Flat Iron Steak Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Romaine Lettuce, Roasted Tomatoes, Red Onions, Ciabatta Croutons and Red Wine Vinaigrette"
+            },
+            {
+              "title": "Egg Allergy-friendly Seared Salmon Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Mixed Greens, Roasted Tomatoes, Pine Nuts and Avocado, with Honey Balsamic Vinaigrette"
+            },
+            {
+              "title": "Egg Allergy Friendly Margherita Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Tomato Sauce, fresh Mozzarella, Basil, Fire-roasted Tomato, Parmesan, and Aged Provolone Cheese"
+            },
+            {
+              "title": "Egg Allergy-Friendly Classic Pepperoni Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Parmesan and Aged Provolone Cheese"
+            },
+            {
+              "title": "Egg Allergy-Friendly Forest Mushroom Impossible\u2122 Sausage Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Mushrooms, Plant-based Sausage, Mushroom Spread, Caramelized Onions, Green Onions, fresh Mozzarella, Parmesan, and Aged Provolone Cheese"
+            },
+            {
+              "title": "Egg Allergy-Friendly Charcuterie Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Prosciutto, Salami, Fennel Sausage, Arugula, Fire-roasted Tomatoes, Parmesan and Aged Provolone Cheese"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots, and Whole-Grain \"Fish\" Crackers served with choice of small DASANI\u00ae Water or small\u00a0Lowfat Milk."
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-friendly Avocado Panzanella",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Heirloom Tomatoes, Kalamata Olive Crumble, Feta, Arugula and Charred Onion Chimichurri"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-friendly Carnitas Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Black Bean & Corn Relish, Cheddar, Monterey Jack and Queso Fresco in a Flour Tortilla, topped with Chipotle A\u00efoli, Radish and Micro Cilantro, with a side of Sour Cream, garnished with Limes"
+            },
+            {
+              "title": "Fish/Shellfish Allergy Friendly Margherita Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Tomato Sauce, fresh Mozzarella, Basil, Fire-roasted Tomato, Parmesan, and Aged Provolone"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Classic Pepperoni Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Parmesan and Aged Provolone"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Forest Mushroom Impossible\u2122 Sausage Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Mushrooms, Plant-based Sausage, Mushroom Spread, Caramelized Onions, Green Onions, fresh Mozzarella, Parmesan, and Aged Provolone"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Charcuterie Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Prosciutto, Salami, Fennel Sausage, Arugula, Fire-roasted Tomatoes, Parmesan and Aged Provolone"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Whole-Grain \"Fish\" Crackers served with choice of small DASANI\u00ae Water or small\u00a0Lowfat Milk."
+            },
+            {
+              "title": "Fish Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Yogurt Smoothie and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-friendly Carne Asada Quesadilla ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Carne Asada with Melted Cheese, Roasted Corn Relish, Black Beans and Green Onions, wrapped in a Flour Tortilla with Chipotle Crema, Fresno Chile, Cilantro and Limes"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-friendly Avocado Panzanella",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Heirloom Tomatoes, Kalamata Olive Crumble, Arugula and Charred Onion Chimichurri"
+            },
+            {
+              "title": "Milk Allergy-Friendly Poke Bowl*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Sushi-grade Salmon or Tuna tossed in Citrus Ponzu with Cucumber, Edamame, Avocado, Crab Salad, Green Onions, Radicchio, Pickled Seaweed, Furikake and Spicy Aioli, with choice of Calrose Rice or Mixed Greens"
+            },
+            {
+              "title": "Milk Allergy-friend Flat Iron Steak Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Romaine Lettuce, Roasted Tomatoes, Red Onions and Ciabatta Croutons, with Red Wine Vinaigrette"
+            },
+            {
+              "title": "Milk Allergy-friendly Seared Salmon Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Mixed Greens, Roasted Tomatoes, Pine Nuts and Avocado, with Honey Balsamic Vinaigrette"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-friendly Avocado Panzanella",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Heirloom Tomatoes, Kalamata Olive Crumble, Feta, Arugula and Charred Onion Chimichurri"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-friendly Carnitas Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Black Bean & Corn Relish, Cheddar, Monterey Jack and Queso Fresco in a Flour Tortilla, topped with Chipotle A\u00efoli, Radish and Micro Cilantro, with a side of Sour Cream, garnished with Limes"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-friendly Seared Salmon Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Mixed Greens, Roasted Tomatoes and Avocado, with Honey Balsamic Vinaigrette"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy Friendly Margherita Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Tomato Sauce, fresh Mozzarella, Basil, Fire-roasted Tomato, Parmesan, and Aged Provolone"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Classic Pepperoni Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Parmesan and Aged Provolone"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Forest Mushroom Impossible\u2122 Sausage Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Mushrooms, Plant-based Sausage, Mushroom Spread, Caramelized Onions, Green Onions, fresh Mozzarella, Parmesan, and Aged Provolone"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Charcuterie Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Prosciutto, Salami, Fennel Sausage, Arugula, Fire-roasted Tomatoes, Parmesan and Aged Provolone"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' - Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Crackers served with a choice of Small Beverage"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Yogurt Smoothie and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kid's Parmesan Crusted Grilled Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit or French Fries and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-friendly Carne Asada Quesadilla ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Carne Asada with Melted Cheese, Roasted Corn Relish, Black Beans and Green Onions, wrapped in a Flour Tortilla with Chipotle Crema, Fresno Chile, Cilantro and Limes"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-friendly Avocado Panzanella",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Heirloom Tomatoes, Kalamata Olive Crumble, Feta, Arugula and Charred Onion Chimichurri"
+            },
+            {
+              "title": "Soy Allergy-friendly Seared Salmon Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Mixed Greens, Roasted Tomatoes, Pine Nuts and Avocado, with Honey Balsamic Vinaigrette"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Crackers served with choice of Small Beverage"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Yogurt Smoothie and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Soy Allergy-friendly Carne Asada Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Carne Asada with Melted Cheese, Roasted Corn Relish, Black Beans and Green Onions, wrapped in a Flour Tortilla with Chipotle Crema, Fresno Chile, Cilantro and Limes"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Avocado Panzanella",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Avocado, Sourdough Bread, Heirloom Tomatoes, Kalamata Olive Crumble, Feta, Arugula and Charred Onion Chimichurri"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Carnitas Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Black Bean & Corn Relish, Cheddar, Monterey Jack and Queso Fresco in a Flour Tortilla"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Baked Nachos*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shredded Beef or Chicken, Tortilla Chips, Cheese Sauce, Shredded Cheese, Black Beans, Green Onions, Slivered Jalape\u00f1os, Cilantro, Queso Fresco, Avocado, Crema and Roasted Salsa"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Seared Salmon Salad*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spinach, Mixed Greens, Roasted Tomatoes, Pine Nuts and Avocado, with Honey Balsamic Vinaigrette"
+            },
+            {
+              "title": "Sesame Allergy Friendly Margherita Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Tomato Sauce, fresh Mozzarella, Basil, Fire-roasted Tomato, Parmesan, and Aged Provolone"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Classic Pepperoni Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Parmesan and Aged Provolone"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Forest Mushroom Impossible\u2122 Sausage Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Roasted Mushrooms, Plant-based Sausage, Mushroom Spread, Caramelized Onions, Green Onions, fresh Mozzarella, Parmesan, and Aged Provolone"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Charcuterie Pizza",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Premium Pepperoni, Prosciutto, Salami, Fennel Sausage, Arugula, Fire-roasted Tomatoes, Parmesan and Aged Provolone"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Power Pack",
+              "prices": [],
+              "pricesRange": false,
+              "description": "A Cuties\u00ae Mandarin Orange, Yogurt Smoothie, Carrots and Crackers with a choice of small Beverage"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Hamburger",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange, Yogurt Smoothie and choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Parmesan Crusted Grilled Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit or French Fries and a choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Chicken Tenders",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Seasonal Fruit or French Fries and a choice of small DASANI\u00ae Water or small Lowfat Milk."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Carne Asada Quesadilla ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Carne Asada with Melted Cheese, Roasted Corn Relish, Black Beans and Green Onions, wrapped in a Flour Tortilla with Chipotle Crema, Fresno Chile, Cilantro and Limes"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

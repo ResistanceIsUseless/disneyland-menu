@@ -1,0 +1,762 @@
+{
+  "name": "Tiendita",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Snack",
+      "label": "Snack"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Breakfast Burritos",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Egg & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Mexican Cheese Blend, Chives, Flour Tortilla"
+            },
+            {
+              "title": "Chorizo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Chorizo, Mexican Cheese Blend, Black Bean Pur\u00e9e, Carrots, Potatoes, Flour Tortilla"
+            },
+            {
+              "title": "Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Sirloin, Mexican Cheese Blend, Black Bean Pur\u00e9e, Flour Tortilla"
+            },
+            {
+              "title": "Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Marinated Slow-roasted Pork, Mexican Cheese Blend, Black Bean Pur\u00e9e, Flour Tortilla"
+            }
+          ]
+        },
+        {
+          "name": "Quesadillas",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Eggs & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Mexican Cheese Blend, Sour Cream, Flour Tortilla [Vegetarian]"
+            },
+            {
+              "title": "Egg, Cheese & Chorizo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Chorizo, Mexican Cheese Blend, Carrots, Potatoes, Sour Cream, Flour Tortilla"
+            },
+            {
+              "title": "Egg, Cheese & Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Marinated Slow-roasted Pork, Mexican Cheese Blend, Sour Cream, Flour Tortilla"
+            },
+            {
+              "title": "Egg, Cheese & Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Scrambled Eggs, Sirloin, Mexican Cheese Blend, Sour Cream, Flour Tortilla"
+            }
+          ]
+        },
+        {
+          "name": "Chilaquiles",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chilaquiles",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Tortilla Chips, Guacamole, Salsa Verde, Queso Fresco, Red Onions [Vegetarian, Gluten Free]"
+            },
+            {
+              "title": "Chilaquiles with Fried Egg ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Tortilla Chips, Guacamole, Salsa Verde, Queso Fresco, Red Onions"
+            },
+            {
+              "title": "Chilaquiles with Fried Egg & Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Tortilla Chips, Guacamole, Salsa Verde, Queso Fresco, Red Onions"
+            },
+            {
+              "title": "Chilaquiles with Fried Egg & Chicken Barbacoa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Tortilla Chips, Guacamole, Salsa Verde, Queso Fresco, Red Onions"
+            },
+            {
+              "title": "Chilaquiles with Fried Egg & Pork Pibil",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Tortilla Chips, Guacamole, Salsa Verde, Queso Fresco, Red Onions"
+            }
+          ]
+        },
+        {
+          "name": "Light Breakfast",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Yogurt Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Greek Yogurt, Seasonal Berries, Granola"
+            }
+          ]
+        },
+        {
+          "name": "Bebidas ",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sodas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mexican Coke, Mexican Fanta, Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae"
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Topo Chico",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tepache",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fermented Mango & Chili Soda"
+            },
+            {
+              "title": "Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate or regular"
+            },
+            {
+              "title": "Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Apple or Orange"
+            }
+          ]
+        },
+        {
+          "name": "Aguas Frescas",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Horchata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rice Flavored Water, Cinnamon, Condensed Milk"
+            },
+            {
+              "title": "Jamaica",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hibiscus Flower Flavored Water, Cardamom"
+            },
+            {
+              "title": "Tamarindo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tamarind Flavored Water, Tropical Fruit"
+            },
+            {
+              "title": "Seasonal Selection ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ask for our daily selection"
+            }
+          ]
+        },
+        {
+          "name": "Coffee",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hot Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lavazza"
+            },
+            {
+              "title": "Cold Brew",
+              "prices": [],
+              "pricesRange": false,
+              "description": "La Colombe"
+            },
+            {
+              "title": "Brew-chata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cold Brew, Horchata"
+            }
+          ]
+        },
+        {
+          "name": "Sweets",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Paletas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Frozen Fruit Bars: Mango Chili, Guava Horchata, Avocado Lemon, Fresas con Crema, Strawberry Lemonade, Jamaica & Lemongrass"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Street Tacos",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Romaine Lettuce, Sour Cream, Queso Fresco, Tomato, Guacamole, Onion, Salsa Verde, Corn Tortilla. 3 per order [Gluten Free]"
+            },
+            {
+              "title": "Al Pastor Pork",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Guajillo Pork, Roasted Pineapple, Cilantro, Onion, Corn Tortilla. 3 per order [Gluten Free, Dairy Free]"
+            },
+            {
+              "title": "Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Marinated Steak, Onion, Cilantro, Salsa Verde, Corn Tortilla. 3 per order [Gluten Free, Dairy Free]"
+            },
+            {
+              "title": "Fish Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Market Fish, Tempura Crisp, creamy Coleslaw, Chipotle A\u00efoli, Flour Tortillas"
+            },
+            {
+              "title": "Mushroom Tinga",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mushroom Tinga, Sour Cream, Queso Fresco, Pinto Beans, Corn Tortilla. 3 per order [Vegetarian, Gluten Free]"
+            }
+          ]
+        },
+        {
+          "name": "Burritos",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Pinto Beans, Coleslaw, Guacamole, Cincho Cheese Mix, Flour Tortilla"
+            },
+            {
+              "title": "Al Pastor",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Guajillo Pork, Roasted Pineapple, Black Beans, Pickled Onion, Habanero Salsa, Flour Tortilla"
+            },
+            {
+              "title": "Cochinita Pork Pibil",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Pibil, Black Beans, Pickled Onion, Habanero Salsa, Flour Tortilla"
+            },
+            {
+              "title": "Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Steak, Caramelized Onion, Black Beans, Guacamole, Cheese Mix, Flour Tortilla"
+            },
+            {
+              "title": "Mushroom Tinga",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mushroom Tinga, Pinto Beans, Sour Cream, Queso Fresco, Flour Tortilla [Vegetarian]"
+            }
+          ]
+        },
+        {
+          "name": "Tortas",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Steak, Pinto Beans, Lettuce, Tomato, Onion, Pickled Jalape\u00f1o, Queso Fresco, Garlic Mayo, Telera Bread"
+            },
+            {
+              "title": "Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Pinto Beans, Chipotle Coleslaw, Onion, Tomato, Queso Fresco, Garlic Mayo, Telera Bread"
+            },
+            {
+              "title": "Carnitas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Carnitas, Pinto Beans, Lettuce, Tomato, Onion, Pickled Jalape\u00f1o, Queso Fresco, Garlic Mayo, Telera Bread"
+            },
+            {
+              "title": "Braised Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef, Black Beans, Salsa Verde, Pickled Red Onion, Pickled Jalape\u00f1o, Tomato, Garlic Mayo, Telera Bread"
+            }
+          ]
+        },
+        {
+          "name": "Quesadillas ",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cheese Mix, Avocado Salsa, Flour Tortilla [Vegetarian]"
+            },
+            {
+              "title": "Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Cheese Mix, Avocado Salsa, Flour Tortilla"
+            },
+            {
+              "title": "Cochinita Pork Pibil",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Pibil, Cheese Mix, Avocado Salsa, Flour Tortilla"
+            },
+            {
+              "title": "Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carne Asada, Cheese Mix, Avocado Salsa, Flour Tortilla"
+            }
+          ]
+        },
+        {
+          "name": "Ceviches",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Acapulco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Shrimp, Tomato Juice, Ketchup, Orange Juice, Lime Juice, Tabasco, Pico de Gallo [Dairy Free]"
+            },
+            {
+              "title": "Tuna Aguachile",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tuna, Aguachile Sauce, Red Onion, Cucumber, Cilantro [Dairy Free]"
+            }
+          ]
+        },
+        {
+          "name": "Salads",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Romaine Lettuce, Oven-roasted Tomatoes, Red Onion, Cincho Cheese, Avocado, creamy Poblano Dressing, Croutons [add Chicken Barbacoa or Steak for additional cost]"
+            }
+          ]
+        },
+        {
+          "name": "Nachos",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Corn Chips, Cheese Sauce, Tomato, Green Onion, Pickled Jalape\u00f1o, Guacamole [Gluten Free]"
+            },
+            {
+              "title": "Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Corn Chips, Cheese Sauce, Tomato, Green Onion, Pickled Jalape\u00f1o, Guacamole [Gluten Free]"
+            },
+            {
+              "title": "Cochinita Pork Pibil",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pork Pibil, Corn Chips, Cheese Sauce, Tomato, Green Onion, Pickled Jalape\u00f1o, Guacamole [Gluten Free]"
+            },
+            {
+              "title": "Carne Asada",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carne Asada, Corn Chips, Cheese Sauce, Tomato, Green Onion, Pickled Jalape\u00f1o, Guacamole [Gluten Free]"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guac + Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "creamy Avocado, Pico de Gallo, Tortilla Chips, Corn Chips [Vegetarian, Vegan, Gluten Free]"
+            },
+            {
+              "title": "Salsa + Chips",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Salsa [Vegetarian, Vegan, Gluten Free]"
+            },
+            {
+              "title": "Esquites",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Corn, Mayonnaise, Cotija Cheese, Chili Powder, Lime Juice, Epazote [Vegetarian, Gluten Free]"
+            },
+            {
+              "title": "Mexican Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Rice, Tomato Broth, Carrots, Peas [Vegetarian, Vegan, Gluten Free]"
+            },
+            {
+              "title": "Black Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Locally Sourced, Avocado Leaves, Serrano [Gluten Free]"
+            }
+          ]
+        },
+        {
+          "name": "Kid's Menu",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cheese Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "White Cheese, Flour Tortilla, choice of Mexican Rice or Beans"
+            },
+            {
+              "title": "Chicken Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, White Cheese, Flour Tortilla, choice of Mexican Rice or Beans"
+            },
+            {
+              "title": "Carne Asada Quesadilla",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carne Asada, White Cheese, Flour Tortilla, choice of Mexican Rice or Beans"
+            },
+            {
+              "title": "Bean & Cheese Burrito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beans, White Cheese, Flour Tortilla, choice of Mexican Rice or Beans"
+            },
+            {
+              "title": "Chicken Burrito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Barbacoa, Beans, White Cheese, Flour Tortilla, choice of Mexican Rice or Beans"
+            },
+            {
+              "title": "Carne Asada Burrito",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carne Asada, Beans, White Cheese, Flour Tortilla, choice of Mexican Rice or Beans"
+            }
+          ]
+        },
+        {
+          "name": "Bebidas ",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sodas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mexican Coke, Mexican Fanta, Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae"
+            },
+            {
+              "title": "Iced Tea",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottled Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Topo Chico",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tepache",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fermented Mango & Chili Soda"
+            },
+            {
+              "title": "Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate or regular"
+            },
+            {
+              "title": "Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Apple or Orange"
+            }
+          ]
+        },
+        {
+          "name": "Aguas Frescas",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Horchata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rice Flavored Water, Cinnamon, Condensed Milk"
+            },
+            {
+              "title": "Jamaica",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Hibiscus Flower Flavored Water, Cardamom"
+            },
+            {
+              "title": "Tamarindo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tamarind Flavored Water, Tropical Fruit"
+            },
+            {
+              "title": "Seasonal Selection ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ask for our daily selection"
+            }
+          ]
+        },
+        {
+          "name": "Coffee",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hot Coffee",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lavazza"
+            },
+            {
+              "title": "Cold Brew",
+              "prices": [],
+              "pricesRange": false,
+              "description": "La Colombe"
+            },
+            {
+              "title": "Brew-chata",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Cold Brew, Horchata"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bu\u00f1uelos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Spiced Chocolate, Cinnamon Sugar, Candy"
+            },
+            {
+              "title": "Paletas",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Frozen Fruit Bars: Mango Chili, Guava Horchata, Avocado Lemon, Fresas con Crema, Strawberry Lemonade, Jamaica & Lemongrass"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Breakfast Burritos",
+        "desktop": "Breakfast Burritos"
+      },
+      {
+        "mobile": "Quesadillas",
+        "desktop": "Quesadillas"
+      },
+      {
+        "mobile": "Chilaquiles",
+        "desktop": "Chilaquiles"
+      },
+      {
+        "mobile": "Light Breakfast",
+        "desktop": "Light Breakfast"
+      },
+      {
+        "mobile": "Bebidas ",
+        "desktop": "Bebidas "
+      },
+      {
+        "mobile": "Aguas Frescas",
+        "desktop": "Aguas Frescas"
+      },
+      {
+        "mobile": "Coffee",
+        "desktop": "Coffee"
+      },
+      {
+        "mobile": "Sweets",
+        "desktop": "Sweets"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Street Tacos",
+        "desktop": "Street Tacos"
+      },
+      {
+        "mobile": "Burritos",
+        "desktop": "Burritos"
+      },
+      {
+        "mobile": "Tortas",
+        "desktop": "Tortas"
+      },
+      {
+        "mobile": "Quesadillas ",
+        "desktop": "Quesadillas "
+      },
+      {
+        "mobile": "Ceviches",
+        "desktop": "Ceviches"
+      },
+      {
+        "mobile": "Salads",
+        "desktop": "Salads"
+      },
+      {
+        "mobile": "Nachos",
+        "desktop": "Nachos"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Kid's Menu",
+        "desktop": "Kid's Menu"
+      },
+      {
+        "mobile": "Bebidas ",
+        "desktop": "Bebidas "
+      },
+      {
+        "mobile": "Aguas Frescas",
+        "desktop": "Aguas Frescas"
+      },
+      {
+        "mobile": "Coffee",
+        "desktop": "Coffee"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      }
+    ]
+  }
+}

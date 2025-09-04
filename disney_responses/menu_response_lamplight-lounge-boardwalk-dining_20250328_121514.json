@@ -1,0 +1,868 @@
+{
+  "name": "Lamplight Lounge - Boardwalk Dining",
+  "location": "Disney California Adventure Park, Pixar Pier",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lounge",
+      "label": "Lounge"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lounge",
+      "label": "Lounge",
+      "experience": "Lounges",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "\"Shorts\" to Share",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beer-battered Fish Tacos",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Corn Tortillas, Avocado Sauce, Chipotle Sauce, Cabbage, Pico De Gallo, Radishes, Micro Cilantro and Lime Wedge"
+            },
+            {
+              "title": "Lobster Nachos",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Lobster with Black Beans, Lobster Cheese Sauce, Shredded Cheese Blend, Pico de Gallo, Sliced Serrano Chiles and Chipotle Crema"
+            },
+            {
+              "title": "Spotlight Nachos: Barbacoa",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chile-spiced Beef Barbacoa and House-made Tortilla Chips with Pinto Bean Pur\u00e9e, spicy Tomatillo Salsa, Onions, Cilantro, Chipotle Cheese Sauce, Queso Fresco and Pickled Jalape\u00f1os"
+            },
+            {
+              "title": "Beef Sliders*",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Onions, Ale Cheese Sauce, Bacon and House Pickle"
+            },
+            {
+              "title": "Korean-style Chicken Wings",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kimchi Buffalo Sauce topped with Green Onions and served with Spicy Cucumber"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cauliflower Wings",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Battered Cauliflower tossed in Kung Pao Sauce, paired with Spicy Cucumber and garnished with Red Bell Peppers and Green Onions"
+            }
+          ]
+        },
+        {
+          "name": "Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Burger Slider",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mini Burger with Cheese and Pickles served with choice of two selections: Vanilla Yogurt, Carrots, or Fresh Fruit. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Budding Artists",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pasta",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Corkscrew Pasta with Creamy Cheese Sauce and Cheddar \"Fish\" served with choice of two selections: Vanilla Yogurt, Carrots, Fresh Fruit or Fries. Includes choice of small Lowfat Milk or small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Goofball Island",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Fruit Punch\u00ae, Minute Maid\u00ae Lemonade and Raspberry Pur\u00e9e"
+            },
+            {
+              "title": "Falling with Style",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid\u00ae Lemonade with Mango Pur\u00e9e"
+            },
+            {
+              "title": "Mint to Be",
+              "prices": [
+                {
+                  "withoutTax": 7.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Simply Limeade\u00ae, Watermelon and Berry Pur\u00e9e and fresh Mint topped with Soda Water"
+            },
+            {
+              "title": "2319",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "a frozen Mocktail made with Strawberry Pur\u00e9e, Cream of Coconut and Pineapple Juice topped with Coca-Cola\u00ae"
+            },
+            {
+              "title": "Pixar Ball Sipper",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Available to purchase with any Non-Alcoholic beverage purchase"
+            },
+            {
+              "title": "Assorted Beverages",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Coca-Cola\u00ae, Diet Coke\u00ae, Sprite\u00ae, Fanta\u00ae Orange, Minute Maid\u00ae Light Lemonade, Barq's\u00ae Root Beer and freshly brewed Iced Tea"
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Chocolate",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Twinings of London\u00ae Hot Teas",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Java Martini",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Coffee Liqueur, Licor 43 and Hazelnut Cream Cold Foam"
+            },
+            {
+              "title": "Tamarind Cucumber Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Cucumber, Tamarind, and Lime Juice"
+            },
+            {
+              "title": "Huckleberry Dragon Fruit Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Huckleberry Vodka, Dragon Fruit Syrup, Lemon Juice and Agave"
+            },
+            {
+              "title": "Water District Gimlet",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Empress Gin, 1883 Lychee Syrup and Lime Juice"
+            },
+            {
+              "title": "Over Budget",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Vodka, Liquid Alchemist Passion Fruit, fresh Lime Juice, Agave Nectar and Ginger Beer"
+            },
+            {
+              "title": "Scream Canister",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Superior Rum, Cream of Coconut and Pineapple and Orange Juices with a mist of Angostura Bitters"
+            },
+            {
+              "title": "Find Your Spark",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "X-Fusion Vodka, Bacardi Raspberry Rum, Lemon Juice, Watermelon Syrup and Sparkling Wine"
+            },
+            {
+              "title": "Sunrise Spectacular",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Maker's Mark Bourbon, Tropical Juices, Agave Nectar and a dash of Angostura Bitters"
+            },
+            {
+              "title": "Cobra Hiss",
+              "prices": [
+                {
+                  "withoutTax": 19.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Del Maguey Vida Mezcal, Cointreau,\u00a0Cucumber Syrup, Lemon Juice\u00a0and Agave Nectar"
+            },
+            {
+              "title": "Berry Smash",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rye Whiskey, Blueberry Syrup, Mint,\u00a0Lemon Juice, Passion Fruit Syrup\u00a0and Blueberries"
+            },
+            {
+              "title": "Final with a Fix",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Greenbar IX\u00c1 Reposado Tequila, Raspberry Liqueur, Cointreau, fresh Lime Juice, Agave Nectar and a spritz of Del Maguey Vida Mezcal"
+            },
+            {
+              "title": "Open Ocean with a Splash",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "a Frozen Cocktail made with Bacardi Raspberry Rum, Bols Blue Cura\u00e7ao, Liquid Alchemist Orgeat (Almond), Agave Nectar and fresh Lime Juice"
+            },
+            {
+              "title": "Red is a Lucky Color",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "X-Fusion Vodka, Bacardi Superior Rum, Strawberry and Raspberry Pur\u00e9es and Rosemary Syrup"
+            }
+          ]
+        },
+        {
+          "name": "Draft, Bottle and Can Beer Selections",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Brown Soul Quiero Maiz",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexican Lager - ABV 4.7% South Gate, CA"
+            },
+            {
+              "title": "Full Circle Peachy Vibes Wheat Ale",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Ale - ABV 4.7% Fresno, CA"
+            },
+            {
+              "title": "GameCraft Leit Lager",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light Lager - ABV 4.5% Laguna Hills, CA"
+            },
+            {
+              "title": "New Belgium Brewing, Voodoo Ranger Juice Force",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hazy IPA (ABV 9.5%)"
+            },
+            {
+              "title": "Karl Strauss, Aurora Hoppyalis",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crowns and Hops - 8 Trill Pils",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pilsner 5% ABV"
+            },
+            {
+              "title": "North Coast Brother Thelonious, Fort Bragg, California",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Belgian-style Abbey Ale (ABV 9.4%)"
+            },
+            {
+              "title": "Duck Foot Brewing Co., Golden Honey Ale, Miramar, CA",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 6.5%)"
+            },
+            {
+              "title": "N\u00dcTRL Hard Seltzer, WI",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Featured Selection (ABV 4.5%)"
+            }
+          ]
+        },
+        {
+          "name": "Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Carl Graff Riesling, Germany",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 13,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sokol Blosser Pinot Gris, Willamette Valley, Oregon",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Grassini Family Vineyards Sauvignon Blanc, Santa Barbara, California",
+              "prices": [
+                {
+                  "withoutTax": 63,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hartford Court Russian River Valley Chardonnay, California",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Silverado Chardonnay, Carneros, California",
+              "prices": [
+                {
+                  "withoutTax": 72,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Wachira Wine - Muscat",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 18,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bella Grace Vineyards Bella Ros\u00e9, Amador County, California",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Elouan Pinot Noir, Willamette Valley, Oregon",
+              "prices": [
+                {
+                  "withoutTax": 61,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Long Meadow Ranch Merlot, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Eberle Steinbeck Vineyard Syrah, Paso Robles, California",
+              "prices": [
+                {
+                  "withoutTax": 63,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ghost Block Zinfandel, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Honey Bubbles Moscato",
+              "prices": [
+                {
+                  "withoutTax": 68,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 15,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Honey Bubbles Sparkling Moscato"
+            },
+            {
+              "title": "Domaine Chandon \u00c9toile, Napa Valley, California",
+              "prices": [
+                {
+                  "withoutTax": 83,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Wild Horse Cabernet Sauvignon, Paso Robles, California ",
+              "prices": [
+                {
+                  "withoutTax": 86,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 22,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Notes of Dark Cherry, Vanilla and Cocoa with hints of Sage"
+            },
+            {
+              "title": "Santa Marina Prosecco, Italy",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Notes of Honey, Jasmine & Wisteria. Hints of Apple, White Peaches with a refreshing & crisp finish."
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Bites and Bigger Bites",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lobster Nachos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Warm Lobster with Black Beans, Aged Cheddar-Oaxaca Cheese Sauce, Shredded Cheese Blend, Pico de Gallo, Sliced Serrano Chiles and Chipotle Crema (For Egg, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Spotlight Nachos: Barbacoa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chile-spiced Beef Barbacoa and House-made Tortilla Chips with Pinto Bean Pur\u00e9e, spicy Tomatillo Salsa, Onions, Cilantro, Chipotle Cheese Sauce, Queso Fresco and Pickled Jalape\u00f1os. (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            },
+            {
+              "title": "Beef Sliders*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Onions, Ale Cheese Sauce, Bacon and House Pickle (For Egg, Fish/Shellfish, Peanut/Tree Nut and Sesame Allergies )"
+            },
+            {
+              "title": "Korean-style Chicken Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Kimchi Buffalo Sauce topped with Green Onions and served with Spicy Cucumber (For Shellfish and Peanut/Tree Nut Allergies)"
+            },
+            {
+              "title": "Beer-battered Fish Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Corn Tortillas, Avocado Sauce, Chipotle Sauce, Cabbage, Pico De Gallo, Radishes, Micro Cilantro and Lime Wedge (For Shellfish, Peanut/Tree Nut and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Plant-Based",
+          "type": "Allergy Friendly|Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cauliflower Wings",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Battered Cauliflower tossed in Kung Pao Sauce, paired with Spicy Cucumber and garnished with Red Bell Peppers and Green Onions (For Egg, Milk and Tree Nut Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Budding Bites",
+          "type": "Allergy Friendly|Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Corkscrew Pasta with Creamy Cheese Sauce and Cheddar \"Fish\" served with Carrots, Yogurt & Berries with a choice of small DASANI\u00ae water or small lowfat milk. (For Fish/Shellfish and Sesame Allergies)"
+            },
+            {
+              "title": "Burger Slider",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mini Burger with Cheese and Pickles on a Toasted Bun served with Carrots, Yogurt & Berries with a choice of small DASANI\u00ae water or small lowfat milk. (For Egg, Fish, Peanut/Tree Nut, Sesame and Shellfish Allergies)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

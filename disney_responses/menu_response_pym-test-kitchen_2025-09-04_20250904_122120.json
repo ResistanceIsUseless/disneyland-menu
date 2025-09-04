@@ -1,0 +1,3130 @@
+{
+  "name": "Pym Test Kitchen",
+  "location": "Disney California Adventure Park, Avengers Campus",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast"
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    },
+    {
+      "name": "Special",
+      "label": "Special"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mister Fantastic Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "The Fantastic Four: Clobberin\u2019 Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes Coca-Cola Freestyle\u00ae Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Spider-Man Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Captain America Shield Sipper",
+              "prices": [
+                {
+                  "withoutTax": 30.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Sized to Share",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Quantum Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Entr\u00e9es",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Calculated Breakfast = E x 2 + (B+P)/T*",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eggs Two Ways with Smoked Bacon, crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Cinna-Pym Toast 2.0 ",
+              "prices": [
+                {
+                  "withoutTax": 12.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Challah French Toast with Smoked Bacon and Maple Syrup with Blueberry-flavored Popping Spheres"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Impossible\u2122 Quantum Garden Breakfast",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plant-based Folded Omelet with Impossible\u2122 Breakfast Sausage, crispy Potato Bites and Focaccia Toast"
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Turkey Bacon",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Potato Bites",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Smoked Bacon",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Cheese-Beer Sauce",
+              "prices": [
+                {
+                  "withoutTax": 1.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Cuties\u00ae Mandarin",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Nano Eggs-periment 101",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "softly arranged Eggs and Turkey Bacon with Toast, served with a Cuties\u00ae Mandarin and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Full-Grown French Toast Sticks",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Challah French Toast Sticks with Turkey Bacon and Maple Syrup with Blueberry-flavored Popping Spheres and Cuties\u00ae Mandarin Orange and choice of small Lowfat Milk or small DASANI\u00ae Water"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Choco Smash Bar",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "With Dark Chocolate, Peanuts, Caramel, Nougat, and Chocolate Brownie"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Asgardian Apple Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel Cold Brew, Green Apple Cold Foam and Caramel Sauce with a Caramel Apple Lollipop"
+            },
+            {
+              "title": "Blueberry Matcha Iced Latte ",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Matcha Latte topped with Blueberry Cold Foam and Blueberry Popping Spheres"
+            },
+            {
+              "title": "Proton Punch",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemonade, Berry Pur\u00e9e, Cherry Flavor-filled Boba and Grenadine-filled Pipette"
+            },
+            {
+              "title": "Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "smooth and rich Cold Brew Coffee infused with Nitrogen"
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coca-Cola\u00ae Freestyle - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings featuring Pingo Doce"
+            },
+            {
+              "title": "Coca-Cola\u00ae Freestyle - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings featuring Pingo Doce"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Novelties",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Glowing Pym Particle Capsule",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light up your Beverage with a Red or Blue Glowing Pym Particle Capsule"
+            },
+            {
+              "title": "Glowing Pym Particle Disc",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light up your Beverage with a Red or Blue Glowing Pym Particle Disc"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Proton Potation",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Lemonade and Grenadine with Cherry-flavored Popping Spheres"
+            },
+            {
+              "title": "Topa Topa Brewing Co., Chief Peak IPA ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.0%)"
+            },
+            {
+              "title": "Kona Brewing Co., Big Wave",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Ale (ABV 4.4%)"
+            },
+            {
+              "title": "Beer Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Ale with Minute Maid\u00ae Orange Juice"
+            },
+            {
+              "title": "Sierra Nevada, Sunny Little Thing",
+              "prices": [
+                {
+                  "withoutTax": 13.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Wheat Ale made with Citrus for radiant flavor (ABV 5.0%)"
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Calculated Breakfast = E x 2 + (B+P)/T",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Crispy Potato Bites and Allergy Friendly Bread"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Impossible\u2122 Quantum Garden Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Crispy Potato Bites and Allergy-Friendly Bread"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Nano Eggs-periment 101",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with a Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Calculated Breakfast = E x 2 + (B+P)/T",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Calculated Breakfast = E x 2 + (B+P)/T",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Cinna-Pym Toast 2.0",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast with Smoked Bacon, Maple Syrup and Blueberry-flavored Popping Spheres"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Full-Grown French Toast Sticks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast Sticks with Turkey Bacon, Maple Syrup and Blueberry-flavored Popping Spheres, served with Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Impossible\u2122 Quantum Garden Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Nano Eggs-periment 101",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with a Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Calculated Breakfast = E x 2 + (B+P)/T",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Impossible\u2122 Quantum Garden Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Nano Eggs-periment 101",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with a Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Calculated Breakfast = E x 2 + (B+P)/T",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Cinna-Pym Toast 2.0",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast with Smoked Bacon, Maple Syrup and Blueberry-flavored Popping Spheres"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Full-Grown French Toast Sticks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast Sticks with Turkey Bacon, Maple Syrup and Blueberry-flavored Popping Spheres, served with Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Impossible\u2122 Quantum Garden Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Nano Eggs-periment 101",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with a Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Calculated Breakfast = E x 2 + (B+P)/T",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Impossible\u2122 Quantum Garden Breakfast",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Cinna-Pym Toast 2.0",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast with Smoked Bacon, Maple Syrup and Blueberry-flavored Popping Spheres"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids Nano Eggs-periment 101",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Full-Grown French Toast Sticks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast Sticks with Turkey Bacon, Maple Syrup and Blueberry-flavored Popping Spheres, served with Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Calculated Breakfast = E x 2 + (B+P)/T",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with Crispy Potato Bites and Focaccia Toast"
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Turkey Bacon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Cinna-Pym Toast 2.0",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast with Smoked Bacon, Maple Syrup and Blueberry-flavored Popping Spheres"
+            },
+            {
+              "title": "Soy Allergy-Friendly Full-Grown French Toast Sticks",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Challah French Toast Sticks with Turkey Bacon, Maple Syrup and Blueberry-flavored Popping Spheres, served with Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Nano Eggs-periment 101",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Served with a Cuties\u00ae Mandarin Orange and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mister Fantastic Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "The Fantastic Four: Clobberin\u2019 Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes Coca-Cola Freestyle\u00ae Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Fantastic Elastic Mozzarella Stick",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two Mozzarella Sticks served with Marinara Sauce and Sour Cream & Onion Ranch"
+            },
+            {
+              "title": "Invisible Indulgence",
+              "prices": [
+                {
+                  "withoutTax": 7.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Clear Lemon Pie with a Shortbread Crust, Whipped Cream, and Meringue Pieces"
+            },
+            {
+              "title": "Spider-Man Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Captain America Shield Sipper",
+              "prices": [
+                {
+                  "withoutTax": 30.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Sized to Share",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Quantum Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Blue Particle Specials ",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Not so Little Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 16.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Chicken Breast, Teriyaki and Red Chili Sauces, and Pickled Cabbage Slaw on Brioche, served with crispy Potato Bites"
+            },
+            {
+              "title": "Pepper Particle Pasta",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Humongous Taco Salad",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Reactor Melt ",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Neutron Nachos",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue and Red Corn Tortilla Chips, Impossible\u2122 Taco Meat, Seasoned Black Beans, Cheese Sauce, Pico De Gallo, Sour Cream and Pickled Jalape\u00f1os"
+            }
+          ]
+        },
+        {
+          "name": "Lunch and Dinner Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Slaw",
+              "prices": [
+                {
+                  "withoutTax": 2.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Potato Bites",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Smoked Bacon",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Cheese-Beer Sauce",
+              "prices": [
+                {
+                  "withoutTax": 1.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Cuties\u00ae Mandarin",
+              "prices": [
+                {
+                  "withoutTax": 1.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "PB&J Flavor Lab",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Pym Particle Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Red Particle Mini-Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kid's Buttered Noodles ",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cavatappi Pasta tossed in Melted Butter, served with a Cuties\u00ae Mandarin Orange and choice of Small DASANI\u00ae Bottled Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Nachos Assemble!",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue and Red Corn Tortilla Chips, Impossible\u2122 Taco Meat, Seasoned Black Beans, Sour Cream and Cheese Sauce, served with Yogurt, a Cuties\u00ae Mandarin Orange and a small DASANI\u00ae Bottled Water"
+            },
+            {
+              "title": "Subatomic Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Breaded Chicken Breast on a Soft Roll, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Bite-sized Grilled Cheese ",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Choco Smash Bar",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "With Dark Chocolate, Peanuts, Caramel, Nougat, and Chocolate Brownie"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Asgardian Apple Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel Cold Brew, Green Apple Cold Foam and Caramel Sauce with a Caramel Apple Lollipop"
+            },
+            {
+              "title": "Blueberry Matcha Iced Latte ",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Matcha Latte topped with Blueberry Cold Foam and Blueberry Popping Spheres"
+            },
+            {
+              "title": "Proton Punch",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemonade, Berry Pur\u00e9e, Cherry Flavor-filled Boba and Grenadine-filled Pipette"
+            },
+            {
+              "title": "Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "smooth and rich Cold Brew Coffee infused with Nitrogen"
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coca-Cola\u00ae Freestyle - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings featuring Pingo Doce"
+            },
+            {
+              "title": "Coca-Cola\u00ae Freestyle - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings featuring Pingo Doce"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Novelties",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Glowing Pym Particle Capsule",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light up your Beverage with a Red or Blue Glowing Pym Particle Capsule"
+            },
+            {
+              "title": "Glowing Pym Particle Disc",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light up your Beverage with a Red or Blue Glowing Pym Particle Disc"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Proton Potation",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Lemonade and Grenadine with Cherry-flavored Popping Spheres"
+            },
+            {
+              "title": "Topa Topa Brewing Co., Chief Peak IPA ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.0%)"
+            },
+            {
+              "title": "Kona Brewing Co., Big Wave",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Ale (ABV 4.4%)"
+            },
+            {
+              "title": "Beer Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Ale with Minute Maid\u00ae Orange Juice"
+            },
+            {
+              "title": "Sierra Nevada, Sunny Little Thing",
+              "prices": [
+                {
+                  "withoutTax": 13.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Wheat Ale made with Citrus for radiant flavor (ABV 5.0%)"
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Reactor Melt",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Allergy Friendly Bread, with Mozzarella, Basil, and Tomato served with Potato Bites."
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Humongous Taco Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Allergy-friendly bread, served with a Cuties\u00ae Mandarin Orange, Yogurt and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Disney Check Meal - PB&J Flavor Lab",
+              "prices": [],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Allergy-Friendly Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Humongous Taco Salad ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Subatomic Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Breaded Chicken Breast on a Soft Roll, served with Cuties\u00ae Mandarin Orange, Yogurt and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Not so Little Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style Pretzel"
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Humongous Taco Salad ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Subatomic Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Breaded Chicken Breast on a Soft Roll, served with Cuties\u00ae Mandarin Orange, Yogurt and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Treenut Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' PB&J Flavor Lab",
+              "prices": [],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Pym Particle Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Beverage. Meets Disney Nutrition Guidelines for Complete Meals without substitution."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Humongous Taco Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Soy Allergy-Friendly Disney Check Meal - PB&J Flavor Lab",
+              "prices": [],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Allergy-Friendly Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Subatomic Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Breaded Chicken Breast on a Soft Roll, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Soy Allergy-Friendly Not so Little Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites"
+            },
+            {
+              "title": "Soy Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Soy Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special",
+      "label": "Special",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offerings",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mister Fantastic Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "The Fantastic Four: Clobberin\u2019 Sipper",
+              "prices": [
+                {
+                  "withoutTax": 29.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes Coca-Cola Freestyle\u00ae Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Fantastic Elastic Mozzarella Stick",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Two Mozzarella Sticks served with Marinara Sauce and Sour Cream & Onion Ranch"
+            },
+            {
+              "title": "Invisible Indulgence",
+              "prices": [
+                {
+                  "withoutTax": 7.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Clear Lemon Pie with a Shortbread Crust, Whipped Cream, and Meringue Pieces"
+            },
+            {
+              "title": "Spider-Man Straw Clip",
+              "prices": [
+                {
+                  "withoutTax": 13.89,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Captain America Shield Sipper",
+              "prices": [
+                {
+                  "withoutTax": 30.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Sized to Share",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Quantum Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Blue Particle Specials ",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Not so Little Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 16.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Chicken Breast, Teriyaki and Red Chili Sauces, and Pickled Cabbage Slaw on Brioche, served with crispy Potato Bites"
+            },
+            {
+              "title": "Pepper Particle Pasta",
+              "prices": [
+                {
+                  "withoutTax": 15.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Humongous Taco Salad",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Reactor Melt ",
+              "prices": [
+                {
+                  "withoutTax": 14.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Neutron Nachos",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue and Red Corn Tortilla Chips, Impossible\u2122 Taco Meat, Seasoned Black Beans, Cheese Sauce, Pico De Gallo, Sour Cream and Pickled Jalape\u00f1os"
+            }
+          ]
+        },
+        {
+          "name": "Lunch and Dinner Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Side Slaw",
+              "prices": [
+                {
+                  "withoutTax": 2.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Disney Check Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "PB&J Flavor Lab",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Pym Particle Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            }
+          ]
+        },
+        {
+          "name": "Red Particle Mini-Meals",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kid's Buttered Noodles ",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cavatappi Pasta tossed in Melted Butter, served with a Cuties\u00ae Mandarin Orange and choice of Small DASANI\u00ae Bottled Water or Small Lowfat Milk"
+            },
+            {
+              "title": "Nachos Assemble!",
+              "prices": [
+                {
+                  "withoutTax": 9.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blue and Red Corn Tortilla Chips, Impossible\u2122 Taco Meat, Seasoned Black Beans, Sour Cream and Cheese Sauce, served with Yogurt, a Cuties\u00ae Mandarin Orange and a small DASANI\u00ae Bottled Water"
+            },
+            {
+              "title": "Subatomic Chicken Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Breaded Chicken Breast on a Soft Roll, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Bite-sized Grilled Cheese ",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Dessert",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Choco Smash Bar",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "With Dark Chocolate, Peanuts, Caramel, Nougat, and Chocolate Brownie"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Asgardian Apple Cold Brew ",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Caramel Cold Brew, Green Apple Cold Foam and Caramel Sauce with a Caramel Apple Lollipop"
+            },
+            {
+              "title": "Blueberry Matcha Iced Latte ",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Matcha Latte topped with Blueberry Cold Foam and Blueberry Popping Spheres"
+            },
+            {
+              "title": "Proton Punch",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemonade, Berry Pur\u00e9e, Cherry Flavor-filled Boba and Grenadine-filled Pipette"
+            },
+            {
+              "title": "Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nitro Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "smooth and rich Cold Brew Coffee infused with Nitrogen"
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 3.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply\u00ae Orange",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coca-Cola\u00ae Freestyle - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings featuring Pingo Doce"
+            },
+            {
+              "title": "Coca-Cola\u00ae Freestyle - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.69,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola\u00ae offerings featuring Pingo Doce"
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Novelties",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Glowing Pym Particle Capsule",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light up your Beverage with a Red or Blue Glowing Pym Particle Capsule"
+            },
+            {
+              "title": "Glowing Pym Particle Disc",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Light up your Beverage with a Red or Blue Glowing Pym Particle Disc"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Proton Potation",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vodka, Lemonade and Grenadine with Cherry-flavored Popping Spheres"
+            },
+            {
+              "title": "Topa Topa Brewing Co., Chief Peak IPA ",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 7.0%)"
+            },
+            {
+              "title": "Kona Brewing Co., Big Wave",
+              "prices": [
+                {
+                  "withoutTax": 15.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden Ale (ABV 4.4%)"
+            },
+            {
+              "title": "Beer Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 16.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheat Ale with Minute Maid\u00ae Orange Juice"
+            },
+            {
+              "title": "Sierra Nevada, Sunny Little Thing",
+              "prices": [
+                {
+                  "withoutTax": 13.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Wheat Ale made with Citrus for radiant flavor (ABV 5.0%)"
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Reactor Melt",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Allergy Friendly Bread, with Mozzarella, Basil, and Tomato served with Potato Bites."
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Humongous Taco Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Allergy-friendly bread, served with a Cuties\u00ae Mandarin Orange, Yogurt and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Disney Check Meal - PB&J Flavor Lab",
+              "prices": [],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Allergy-Friendly Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Humongous Taco Salad ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Subatomic Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Breaded Chicken Breast on a Soft Roll, served with Cuties\u00ae Mandarin Orange, Yogurt and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Not so Little Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style Pretzel"
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk/Dairy Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Humongous Taco Salad ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Subatomic Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Crispy Breaded Chicken Breast on a Soft Roll, served with Cuties\u00ae Mandarin Orange, Yogurt and choice of small DASANI\u00ae Water or small Lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Treenut Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' PB&J Flavor Lab",
+              "prices": [],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Pym Particle Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Beverage. Meets Disney Nutrition Guidelines for Complete Meals without substitution."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Humongous Taco Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Taco Shell loaded with Romaine tossed in Chipotle Ranch, topped with Chicken, Corn, Bell Pepper, Cotija and Avocado"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Quantum Pretzel",
+              "prices": [],
+              "pricesRange": false,
+              "description": "453.8 grams, Bavarian-style, with Sharp Cheddar Cheese-Beer Sauce"
+            },
+            {
+              "title": "Soy Allergy-Friendly Disney Check Meal - PB&J Flavor Lab",
+              "prices": [],
+              "pricesRange": false,
+              "description": "assemble your own experiment - smooth Peanut Butter, Strawberry Jelly and Allergy-Friendly Bread, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water. Meets Disney Nutrition Guidelines for Complete Meals without substitutions"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Subatomic Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Breaded Chicken Breast on a Soft Roll, served with a Cuties\u00ae Mandarin, Yogurt and choice of Small Lowfat Milk or Small DASANI\u00ae Water"
+            },
+            {
+              "title": "Soy Allergy-Friendly Not so Little Chicken Sandwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with Crispy Potato Bites"
+            },
+            {
+              "title": "Soy Allergy-Friendly Pepper Particle Pasta ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Campanelli Pasta topped with Grilled Chicken, Spicy Tomato Cream Sauce, Chimichurri and Parmesan"
+            },
+            {
+              "title": "Soy Allergy-Friendly Reactor Melt ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Garlic Pesto Toasted Sourdough with Mozzarella, Basil and Tomato, served with Potato Bites"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Bite-sized Grilled Cheese ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Melted Cheddar on Toasted Sourdough, served with a Cuties\u00ae Mandarin, Yogurt and choice of small DASANI Water or small Lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Beer Cheese Sauce",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Cuties\u00ae Mandarin Orange",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Slaw",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Side Crispy Potato Bites",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Sized to Share",
+        "desktop": "Sized to Share"
+      },
+      {
+        "mobile": "Entr\u00e9es",
+        "desktop": "Entr\u00e9es"
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Breakfast Sides",
+        "desktop": "Breakfast Sides"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Kids' Disney Check Meal",
+        "desktop": "Kids' Disney Check Meal"
+      },
+      {
+        "mobile": "Kids' Meals",
+        "desktop": "Kids' Meals"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Novelties",
+        "desktop": "Novelties"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Sized to Share",
+        "desktop": "Sized to Share"
+      },
+      {
+        "mobile": "Blue Particle Specials ",
+        "desktop": "Blue Particle Specials "
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Lunch and Dinner Sides",
+        "desktop": "Lunch and Dinner Sides"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Red Particle Mini-Meals",
+        "desktop": "Red Particle Mini-Meals"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Novelties",
+        "desktop": "Novelties"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Seasonal Offerings",
+        "desktop": "Seasonal Offerings"
+      },
+      {
+        "mobile": "Sized to Share",
+        "desktop": "Sized to Share"
+      },
+      {
+        "mobile": "Blue Particle Specials ",
+        "desktop": "Blue Particle Specials "
+      },
+      {
+        "mobile": "Plant-Based",
+        "desktop": "Plant-Based"
+      },
+      {
+        "mobile": "Lunch and Dinner Sides",
+        "desktop": "Lunch and Dinner Sides"
+      },
+      {
+        "mobile": "Kids' Disney Check Meals",
+        "desktop": "Kids' Disney Check Meals"
+      },
+      {
+        "mobile": "Red Particle Mini-Meals",
+        "desktop": "Red Particle Mini-Meals"
+      },
+      {
+        "mobile": "Dessert",
+        "desktop": "Dessert"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Novelties",
+        "desktop": "Novelties"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "Gluten/Wheat Allergy-Friendly",
+        "desktop": "Gluten/Wheat Allergy-Friendly"
+      },
+      {
+        "mobile": "Egg Allergy-Friendly",
+        "desktop": "Egg Allergy-Friendly"
+      },
+      {
+        "mobile": "Fish/Shellfish Allergy-Friendly",
+        "desktop": "Fish/Shellfish Allergy-Friendly"
+      },
+      {
+        "mobile": "Milk Allergy-Friendly",
+        "desktop": "Milk Allergy-Friendly"
+      },
+      {
+        "mobile": "Peanut/Tree Nut Allergy-Friendly",
+        "desktop": "Peanut/Tree Nut Allergy-Friendly"
+      },
+      {
+        "mobile": "Sesame Allergy-Friendly",
+        "desktop": "Sesame Allergy-Friendly"
+      },
+      {
+        "mobile": "Soy Allergy-Friendly",
+        "desktop": "Soy Allergy-Friendly"
+      }
+    ]
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "name": "Cocina Cucamonga Mexican Grill",
+  "location": "Disney California Adventure Park, San Fransokyo Square",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Fast Casual Dining",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Seasonal Offering",
+          "type": "Featured",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Megabot Sipper",
+              "prices": [
+                {
+                  "withoutTax": 23.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            }
+          ]
+        },
+        {
+          "name": "Street-style Tacos and Corn",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "QuesaBirria",
+              "prices": [
+                {
+                  "withoutTax": 12.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Beef and Cheese Tacos with Tomatillo Salsa and Consom\u00e9."
+            },
+            {
+              "title": "Carne Asada",
+              "prices": [
+                {
+                  "withoutTax": 11.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Pollo Asado",
+              "prices": [
+                {
+                  "withoutTax": 10.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "San Fransokyo-style Street Corn ",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Togarashi Mayonnaise, Queso Fresco, Furikake and Bonito Flakes, served with Spiced Wheat Chicharrones"
+            }
+          ]
+        },
+        {
+          "name": "Plant-Based Offering",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tacos Dorados de Papa",
+              "prices": [
+                {
+                  "withoutTax": 10.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "crispy Potato Tacos topped with Cabbage Slaw, Dairy-free Crema and Tomatillo Salsa"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frijoles Charros",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            },
+            {
+              "title": "Lime-Cilantro Rice",
+              "prices": [
+                {
+                  "withoutTax": 3.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Meal",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Carne Asada Taco",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Pollo Asado Taco",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Strawberry Horchata",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Rice Beverage with Cinnamon and Strawberry Pur\u00e9e"
+            },
+            {
+              "title": "Baymax Sipper",
+              "prices": [
+                {
+                  "withoutTax": 21.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "includes choice of Fountain Beverage at time of purchase. Limit two (2) per person, per transaction. No discounts apply."
+            },
+            {
+              "title": "Horchata Agua Fresca",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Rice and Cinnamon Beverage"
+            },
+            {
+              "title": "Assorted Fountain Beverages - Regular",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages - Large",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid\u00ae Fruit Punch",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lowfat Milk",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Horchata with Rum",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Rice Beverage with Cinnamon and a shot of Rum"
+            },
+            {
+              "title": "Strawberry Horchata with Rum",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Rice Beverage with Cinnamon, Strawberry Pur\u00e9e and a shot of Rum"
+            },
+            {
+              "title": "Classic Lime Margarita",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bottle Logic, Paloma Hard Seltzer ",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served over Ice (ABV 12.0%)"
+            },
+            {
+              "title": "Karl Strauss\u00ae Brewing Company, House Mexican Lager",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(ABV 4.4%)"
+            },
+            {
+              "title": "Citrus Michelada with Karl Strauss\u00ae Brewing Company, House Mexican Lager",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Michelada Mix served with Karl Strauss\u00ae Brewing Company, House Mexican Lager"
+            }
+          ]
+        },
+        {
+          "name": "Gluten/Wheat Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly QuesaBirria Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef and Cheese Tacos with Tomatillo Salsa and Consom\u00e9. Limit 2 per transaction."
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Carne Asada Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Pollo Asado Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Tacos Dorados de Papa Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Potato Tacos topped with Cabbage Slaw, Dairy-free Crema and Tomatillo Salsa"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Pollo Asado Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Kids' Carne Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Lime-Cilantro Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Frijoles Charros",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            },
+            {
+              "title": "Gluten/Wheat Allergy-Friendly Horchata Agua Fresca",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Rice and Cinnamon Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Egg Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly QuesaBirria Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef and Cheese Tacos with Tomatillo Salsa and Consom\u00e9. Limit 2 per transaction."
+            },
+            {
+              "title": "Egg Allergy-Friendly Carne Asada Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Egg Allergy-Friendly Pollo Asado Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Egg Allergy-Friendly Tacos Dorados de Papa Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Potato Tacos topped with Cabbage Slaw, Dairy-free Crema and Tomatillo Salsa"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Pollo Asado Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Kids' Carne Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Egg Allergy-Friendly Lime-Cilantro Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Egg Allergy-Friendly Frijoles Charros",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            },
+            {
+              "title": "Egg Allergy-Friendly Horchata Agua Fresca",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Rice and Cinnamon Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Fish/Shellfish Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly QuesaBirria Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef and Cheese Tacos with Tomatillo Salsa and Consom\u00e9. Limit 2 per transaction."
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Carne Asada Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Pollo Asado Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Tacos Dorados de Papa Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Potato Tacos topped with Cabbage Slaw, Dairy-free Crema and Tomatillo Salsa"
+            },
+            {
+              "title": "Fish/Shellfish Nut Allergy-Friendly Kids' Pollo Asado Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Kids' Carne Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Lime-Cilantro Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Frijoles Charros",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            },
+            {
+              "title": "Fish/Shellfish Allergy-Friendly Horchata Agua Fresca",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Rice and Cinnamon Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Milk Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Carne Asada Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Milk Allergy-Friendly Pollo Asado Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Milk Allergy-Friendly Tacos Dorados de Papa Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Potato Tacos topped with Cabbage Slaw, Dairy-free Crema and Tomatillo Salsa"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' Pollo Asado Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Milk Allergy-Friendly Kids' Carne Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Milk Allergy-Friendly Lime-Cilantro Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Milk Allergy-Friendly Frijoles Charros",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            }
+          ]
+        },
+        {
+          "name": "Peanut/Tree Nut Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly QuesaBirria Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef and Cheese Tacos with Tomatillo Salsa and Consom\u00e9. Limit 2 per transaction."
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Carne Asada Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Pollo Asado Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Peanut/ Tree Nut Allergy-Friendly San Fransokyo Style Street Corn ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Corn on the Cob with Togarashi A\u00cfoli, Queso Fresco, Furikake and Bonito Flakes, served with Wheat Chicharrones"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Lime-Cilantro Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Frijoles Charros",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Pollo Asado Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Kids' Carne Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Peanut/Tree Nut Allergy-Friendly Horchata Agua Fresca",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Rice and Cinnamon Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Sesame Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly QuesaBirria Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef and Cheese Tacos with Tomatillo Salsa and Consom\u00e9."
+            },
+            {
+              "title": "Sesame Allergy-Friendly Carne Asada Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Pollo Asado Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Tacos Dorados de Papa",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Potato Tacos topped with Cabbage Slaw, Dairy-free Crema and Tomatillo Salsa"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Frijoles Charros",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Lime-Cilantro Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Carne Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Sesame Allergy-Friendly Kids' Pollo Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            }
+          ]
+        },
+        {
+          "name": "Soy Allergy-Friendly",
+          "type": "Allergy Friendly",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly QuesaBirria Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Braised Beef and Cheese Tacos with Tomatillo Salsa and Consom\u00e9. Limit 2 per transaction."
+            },
+            {
+              "title": "Soy Allergy-Friendly Carne Asada Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Citrus-marinated Grilled Steak Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Soy Allergy-Friendly Pollo Asado Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Achiote-marinated Grilled Chicken Tacos with Crushed Avocados and Fuego Salsa"
+            },
+            {
+              "title": "Soy Allergy-Friendly Tacos Dorados de Papa Street Tacos",
+              "prices": [],
+              "pricesRange": false,
+              "description": "crispy Potato Tacos topped with Cabbage Slaw, Dairy-free Crema and Tomatillo Salsa"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Pollo Asado Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Kids' Carne Asada Taco",
+              "prices": [],
+              "pricesRange": false,
+              "description": "served with a Cuties\u00ae Mandarin Orange and Yogurt Smoothie, with choice of small DASANI\u00ae water or small lowfat Milk"
+            },
+            {
+              "title": "Soy Allergy-Friendly Lime-Cilantro Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soy Allergy-Friendly Frijoles Charros",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chorizo and Bacon stewed Pinto Beans"
+            },
+            {
+              "title": "Soy Allergy-Friendly Horchata Agua Fresca",
+              "prices": [],
+              "pricesRange": false,
+              "description": "House-made Rice and Cinnamon Beverage"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  }
+}

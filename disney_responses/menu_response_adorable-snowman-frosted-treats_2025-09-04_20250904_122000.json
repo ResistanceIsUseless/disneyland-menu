@@ -1,0 +1,280 @@
+{
+  "name": "Adorable Snowman Frosted Treats",
+  "location": "Disney California Adventure Park, Pixar Pier",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Plant-Based Offerings",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "It\u2019s Lemon!",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Non-Dairy Lemon, Mango or Raspberry Soft-serve in choice of Cup or Cone"
+            },
+            {
+              "title": "It's Mango!",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Nondairy Mango Soft-serve in choice of Cup or Cone"
+            },
+            {
+              "title": "It's Raspberry!",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "It's a Flight!",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Dairy Lemon, Raspberry and Mango Soft Serve Flight"
+            },
+            {
+              "title": "Pixar Pier Frosty Parfait",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Non-Dairy Lemon, Mango or Raspberry Soft Serve with Blue Raspberry Swirl"
+            },
+            {
+              "title": "It's Lemon and Mango Swirl!",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Nondairy Lemon and Mango Soft-serve in choice of Cup or Cone"
+            },
+            {
+              "title": "It's Raspberry and Lemon Swirl!",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "It's Raspberry and Mango Swirl!",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Specialties",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "It's Chile-Lime Lemon!",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Dairy Lemon Soft Serve with Chamoy, Chile Lime Seasoning and Diced Mango"
+            },
+            {
+              "title": "It's Chile-Lime Raspberry!",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Dairy Raspberry Soft Serve with Chamoy, Chile Lime Seasoning and Diced Mango"
+            },
+            {
+              "title": "It's Snow Capped Lemon!",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Dairy Soft Serve Topped with White Chocolate"
+            },
+            {
+              "title": "It's Snow-capped Mango!",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Dairy Mango Soft Serve Topped with White Chocolate"
+            },
+            {
+              "title": "It's Snow-capped Raspberry!",
+              "prices": [
+                {
+                  "withoutTax": 7.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-Dairy Raspberry Soft Serve Topped with White Chocolate"
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "It's Chile-Lime Mango Margarita!",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Non-dairy Mango Soft-serve with Tequila, Chamoy, Chile-Lime Seasoning, and Diced Mango"
+            },
+            {
+              "title": "Pixar Pier Frosty Parfait with Spiced Rum",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with choice of Non-Dairy Lemon, Mango or Raspberry Soft Serve with Blue Raspberry Swirl and a splash of Spiced Rum"
+            },
+            {
+              "title": "Soft Serve with Spiced Rum ",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of Non-Dairy Lemon, Mango or Raspberry Soft Serve with a splash of Spiced Rum"
+            }
+          ]
+        },
+        {
+          "name": "Beverage",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI\u00ae Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Plant-Based Offerings",
+        "desktop": "Plant-Based Offerings"
+      },
+      {
+        "mobile": "Specialties",
+        "desktop": "Specialties"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "Beverage",
+        "desktop": "Beverage"
+      }
+    ]
+  }
+}

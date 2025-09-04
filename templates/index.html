@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disneyland Menus</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --disney-blue: #0066b2;
+            --disney-gold: #f4c542;
+            --disney-red: #ee2737;
+            --disney-light-blue: #7eb7dd;
+        }
+        
+        body {
+            font-family: 'Avenir', 'Helvetica Neue', sans-serif;
+            background-color: #f8f9fa;
+        }
+        
+        .navbar {
+            background-color: var(--disney-blue);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .navbar-brand {
+            color: var(--disney-gold) !important;
+            font-weight: bold;
+            font-size: 1.5rem;
+        }
+        
+        .nav-link {
+            color: white !important;
+            padding: 8px 16px !important;
+        }
+        
+        .nav-link.active {
+            background-color: var(--disney-gold) !important;
+            color: var(--disney-blue) !important;
+            font-weight: bold;
+            border-radius: 20px;
+        }
+        
+        .filter-section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .search-box {
+            border: 2px solid var(--disney-blue);
+            border-radius: 20px;
+            padding: 10px 20px;
+        }
+        
+        .menu-table {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .menu-table thead {
+            background-color: var(--disney-blue);
+            color: white;
+            position: sticky;
+            top: 60px;
+            z-index: 800;
+        }
+        
+        .menu-table th {
+            font-weight: bold;
+            padding: 12px;
+            border: none;
+            cursor: pointer;
+            user-select: none;
+            white-space: nowrap;
+        }
+        
+        .menu-table th.sortable:hover {
+            background-color: rgba(255,255,255,0.1);
+        }
+        
+        .menu-table th.sortable:after {
+            content: ' ⇅';
+            opacity: 0.4;
+            font-size: 0.8em;
+        }
+        
+        .menu-table th.sorted-asc:after {
+            content: ' ↑';
+            opacity: 1;
+        }
+        
+        .menu-table th.sorted-desc:after {
+            content: ' ↓';
+            opacity: 1;
+        }
+        
+        .menu-table td {
+            padding: 12px;
+            vertical-align: middle;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        
+        .menu-table tr:hover {
+            background-color: rgba(126, 183, 221, 0.1);
+        }
+        
+        .price {
+            color: var(--disney-red);
+            font-weight: bold;
+        }
+        
+        .meal-period {
+            background-color: var(--disney-gold);
+            color: var(--disney-blue);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            white-space: nowrap;
+            display: inline-block;
+        }
+        
+        .location {
+            color: var(--disney-light-blue);
+            font-size: 0.9rem;
+        }
+        
+        .menu-count {
+            background-color: var(--disney-blue);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .refresh-btn {
+            background-color: white;
+            color: var(--disney-blue);
+            border: none;
+            padding: 5px 15px;
+            border-radius: 15px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        
+        .refresh-btn:hover {
+            transform: scale(1.05);
+        }
+        
+        .refresh-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255,255,255,0.9);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+        }
+        
+        .loading-overlay.active {
+            display: flex;
+        }
+        
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 5px solid var(--disney-light-blue);
+            border-top: 5px solid var(--disney-blue);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: var(--disney-blue);
+        }
+        
+        .no-results-icon {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        
+        /* Mobile optimizations */
+        @media (max-width: 768px) {
+            .navbar-brand {
+                font-size: 1.2rem;
+            }
+            
+            .filter-section {
+                padding: 15px;
+            }
+            
+            .search-box {
+                margin-bottom: 10px;
+            }
+            
+            .menu-table {
+                font-size: 0.9rem;
+            }
+            
+            .menu-table th, .menu-table td {
+                padding: 8px 4px;
+            }
+            
+            /* Hide less important columns on mobile */
+            .hide-mobile {
+                display: none !important;
+            }
+            
+            /* Make cards for mobile */
+            @media (max-width: 576px) {
+                .menu-table thead {
+                    display: none;
+                }
+                
+                .menu-table tr {
+                    display: block;
+                    border: 1px solid var(--disney-light-blue);
+                    border-radius: 10px;
+                    margin-bottom: 10px;
+                    padding: 10px;
+                }
+                
+                .menu-table td {
+                    display: block;
+                    text-align: left;
+                    border: none;
+                    padding: 5px 0;
+                    position: relative;
+                    padding-left: 30%;
+                }
+                
+                .menu-table td:before {
+                    content: attr(data-label);
+                    position: absolute;
+                    left: 0;
+                    width: 25%;
+                    font-weight: bold;
+                    color: var(--disney-blue);
+                }
+            }
+        }
+        
+        /* Desktop enhancements */
+        @media (min-width: 992px) {
+            .filter-section {
+                position: sticky;
+                top: 70px;
+                z-index: 900;
+            }
+            
+            .menu-table thead {
+                top: 180px;
+            }
+        }
+        
+        .favorite-btn {
+            background: none;
+            border: none;
+            color: #ddd;
+            font-size: 1.2rem;
+            cursor: pointer;
+            padding: 0;
+            transition: color 0.2s;
+        }
+        
+        .favorite-btn.favorited {
+            color: var(--disney-gold);
+        }
+        
+        .favorite-btn:hover {
+            color: var(--disney-gold);
+        }
+        
+        .date-selector-section {
+            background-color: white;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .date-selector-section .btn-group {
+            flex-wrap: wrap;
+        }
+        
+        .date-selector-section .btn {
+            border-color: var(--disney-blue);
+        }
+        
+        .date-selector-section .btn-primary {
+            background-color: var(--disney-blue);
+            border-color: var(--disney-blue);
+        }
+        
+        .date-selector-section .btn-outline-primary {
+            color: var(--disney-blue);
+        }
+        
+        .date-selector-section .btn-outline-primary:hover {
+            background-color: var(--disney-blue);
+            border-color: var(--disney-blue);
+        }
+        
+        @media (max-width: 768px) {
+            .date-selector-section .btn-group {
+                width: 100%;
+            }
+            
+            .date-selector-section .btn {
+                flex: 1 0 30%;
+                margin: 2px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark mb-4">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">🏰 Disneyland Menus</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="nav nav-pills ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link {% if active_tab == 'food' %}active{% endif %}" href="/?tab=food">🍔 Food</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if active_tab == 'beverages' %}active{% endif %}" href="/?tab=beverages">🥤 Beverages</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid">
+        {% if enable_date_selector %}
+        <div class="date-selector-section mb-3">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="d-flex align-items-center justify-content-center flex-wrap gap-2">
+                        <span class="fw-bold">📅 Select Date:</span>
+                        <div class="btn-group" role="group">
+                            {% for date in available_dates %}
+                            <a href="/?tab={{ active_tab }}&date={{ date.value }}" 
+                               class="btn btn-sm {% if date.value == selected_date %}btn-primary{% else %}btn-outline-primary{% endif %}">
+                                {{ date.display }}
+                            </a>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        
+        <div class="filter-section">
+            <div class="row g-3">
+                <div class="col-md-3">
+                    <input type="text" id="searchInput" class="form-control search-box" 
+                           placeholder="🔍 Search menu items...">
+                </div>
+                <div class="col-md-3">
+                    <select id="locationFilter" class="form-control search-box">
+                        <option value="">📍 All Locations</option>
+                        {% for location in locations %}
+                        <option value="{{ location }}">{{ location }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <select id="priceFilter" class="form-control search-box">
+                        <option value="">💰 All Prices</option>
+                        <option value="0-10">$0 - $10</option>
+                        <option value="10-20">$10 - $20</option>
+                        <option value="20-30">$20 - $30</option>
+                        <option value="30+">$30+</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <select id="categoryFilter" class="form-control search-box">
+                        <option value="">🍽️ All Categories</option>
+                    </select>
+                </div>
+                <div class="col-md-2">
+                    <select id="sortBy" class="form-control search-box">
+                        <option value="">📊 Sort by...</option>
+                        <option value="name-asc">Name (A-Z)</option>
+                        <option value="name-desc">Name (Z-A)</option>
+                        <option value="price-asc">Price (Low-High)</option>
+                        <option value="price-desc">Price (High-Low)</option>
+                        <option value="restaurant">Restaurant</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="menu-count">
+            <span id="itemCount">Showing {{ menu_items|length }} items</span>
+            {% if show_refresh %}
+            <button class="refresh-btn" id="refreshBtn" onclick="refreshData()">
+                🔄 Refresh Data
+            </button>
+            {% endif %}
+        </div>
+
+        <div class="menu-table-container">
+            <table class="table menu-table" id="menuTable">
+                <thead>
+                    <tr>
+                        {% if enable_favorites %}<th>❤️</th>{% endif %}
+                        <th class="sortable" data-sort="name">Item Name</th>
+                        <th class="sortable" data-sort="restaurant">Restaurant</th>
+                        <th class="sortable" data-sort="price">Price</th>
+                        <th class="sortable hide-mobile" data-sort="location">Location</th>
+                        <th class="hide-mobile">Category</th>
+                        <th class="hide-mobile">Meal Period</th>
+                    </tr>
+                </thead>
+                <tbody id="menuTableBody">
+                    {% for item in menu_items %}
+                    <tr class="menu-item" 
+                        data-name="{{ item.name }}"
+                        data-restaurant="{{ item.restaurant_name }}"
+                        data-location="{{ item.land }}"
+                        data-category="{{ item.category }}"
+                        data-price="{{ item.cost|replace('$', '')|replace('N/A', '0')|float }}">
+                        {% if enable_favorites %}
+                        <td data-label="Favorite">
+                            <button class="favorite-btn" onclick="toggleFavorite(this, '{{ item.name }}')">
+                                ❤️
+                            </button>
+                        </td>
+                        {% endif %}
+                        <td data-label="Item">{{ item.name }}</td>
+                        <td data-label="Restaurant">{{ item.restaurant_name }}</td>
+                        <td data-label="Price" class="price">{{ item.cost }}</td>
+                        <td data-label="Location" class="location hide-mobile">{{ item.land }}</td>
+                        <td data-label="Category" class="hide-mobile">{{ item.category }}</td>
+                        <td data-label="Period" class="hide-mobile">
+                            <span class="meal-period">{{ item.time_till_close }}</span>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            
+            <div class="no-results" id="noResults" style="display: none;">
+                <div class="no-results-icon">🎢</div>
+                <h3>No menu items found</h3>
+                <p>Try adjusting your filters or search terms</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="text-center">
+            <div class="spinner"></div>
+            <p class="mt-3">Loading menu data...</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const searchInput = document.getElementById('searchInput');
+            const locationFilter = document.getElementById('locationFilter');
+            const priceFilter = document.getElementById('priceFilter');
+            const categoryFilter = document.getElementById('categoryFilter');
+            const sortBy = document.getElementById('sortBy');
+            const menuItems = document.querySelectorAll('.menu-item');
+            const noResults = document.getElementById('noResults');
+            const itemCount = document.getElementById('itemCount');
+            const tableBody = document.getElementById('menuTableBody');
+            
+            // Build category filter options
+            const categories = new Set();
+            menuItems.forEach(item => {
+                const category = item.dataset.category;
+                if (category) categories.add(category);
+            });
+            Array.from(categories).sort().forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.textContent = cat;
+                categoryFilter.appendChild(option);
+            });
+            
+            // Load favorites from localStorage
+            const favorites = JSON.parse(localStorage.getItem('disneyMenuFavorites') || '[]');
+            
+            function filterAndSortItems() {
+                const searchTerm = searchInput.value.toLowerCase();
+                const selectedLocation = locationFilter.value;
+                const selectedCategory = categoryFilter.value;
+                const selectedPrice = priceFilter.value;
+                const selectedSort = sortBy.value;
+                
+                let visibleItems = [];
+                
+                // Filter items
+                menuItems.forEach(item => {
+                    const itemName = item.dataset.name.toLowerCase();
+                    const itemLocation = item.dataset.location;
+                    const itemCategory = item.dataset.category;
+                    const itemPrice = parseFloat(item.dataset.price);
+                    
+                    let showItem = itemName.includes(searchTerm);
+                    
+                    if (selectedLocation && itemLocation !== selectedLocation) {
+                        showItem = false;
+                    }
+                    
+                    if (selectedCategory && itemCategory !== selectedCategory) {
+                        showItem = false;
+                    }
+                    
+                    if (selectedPrice) {
+                        const [min, max] = selectedPrice.split('-').map(s => s === '+' ? 999 : Number(s));
+                        if (max) {
+                            if (itemPrice < min || itemPrice > max) showItem = false;
+                        } else {
+                            if (itemPrice < min) showItem = false;
+                        }
+                    }
+                    
+                    item.style.display = showItem ? '' : 'none';
+                    if (showItem) visibleItems.push(item);
+                });
+                
+                // Sort items if needed
+                if (selectedSort && visibleItems.length > 0) {
+                    const [field, direction] = selectedSort.split('-');
+                    
+                    visibleItems.sort((a, b) => {
+                        let aVal, bVal;
+                        
+                        switch(field) {
+                            case 'name':
+                                aVal = a.dataset.name;
+                                bVal = b.dataset.name;
+                                break;
+                            case 'price':
+                                aVal = parseFloat(a.dataset.price);
+                                bVal = parseFloat(b.dataset.price);
+                                break;
+                            case 'restaurant':
+                                aVal = a.dataset.restaurant;
+                                bVal = b.dataset.restaurant;
+                                break;
+                            default:
+                                return 0;
+                        }
+                        
+                        if (direction === 'desc') {
+                            [aVal, bVal] = [bVal, aVal];
+                        }
+                        
+                        if (typeof aVal === 'string') {
+                            return aVal.localeCompare(bVal);
+                        }
+                        return aVal - bVal;
+                    });
+                    
+                    // Reorder DOM elements
+                    visibleItems.forEach(item => {
+                        tableBody.appendChild(item);
+                    });
+                }
+                
+                // Update count and show/hide no results
+                itemCount.textContent = `Showing ${visibleItems.length} items`;
+                noResults.style.display = visibleItems.length === 0 ? 'block' : 'none';
+                document.querySelector('.menu-table').style.display = 
+                    visibleItems.length === 0 ? 'none' : '';
+            }
+            
+            // Add event listeners
+            searchInput.addEventListener('input', filterAndSortItems);
+            locationFilter.addEventListener('change', filterAndSortItems);
+            priceFilter.addEventListener('change', filterAndSortItems);
+            categoryFilter.addEventListener('change', filterAndSortItems);
+            sortBy.addEventListener('change', filterAndSortItems);
+            
+            // Table header sorting
+            document.querySelectorAll('.sortable').forEach(th => {
+                th.addEventListener('click', function() {
+                    const field = this.dataset.sort;
+                    const currentSort = sortBy.value;
+                    
+                    if (currentSort === `${field}-asc`) {
+                        sortBy.value = `${field}-desc`;
+                    } else {
+                        sortBy.value = `${field}-asc`;
+                    }
+                    
+                    // Update visual indicators
+                    document.querySelectorAll('.sortable').forEach(h => {
+                        h.classList.remove('sorted-asc', 'sorted-desc');
+                    });
+                    
+                    if (sortBy.value.includes('-asc')) {
+                        this.classList.add('sorted-asc');
+                    } else {
+                        this.classList.add('sorted-desc');
+                    }
+                    
+                    filterAndSortItems();
+                });
+            });
+        });
+        
+        function toggleFavorite(btn, itemName) {
+            let favorites = JSON.parse(localStorage.getItem('disneyMenuFavorites') || '[]');
+            
+            if (favorites.includes(itemName)) {
+                favorites = favorites.filter(f => f !== itemName);
+                btn.classList.remove('favorited');
+            } else {
+                favorites.push(itemName);
+                btn.classList.add('favorited');
+            }
+            
+            localStorage.setItem('disneyMenuFavorites', JSON.stringify(favorites));
+        }
+        
+        function refreshData() {
+            const btn = document.getElementById('refreshBtn');
+            const overlay = document.getElementById('loadingOverlay');
+            
+            btn.disabled = true;
+            btn.textContent = '⏳ Refreshing...';
+            overlay.classList.add('active');
+            
+            // Get current date from URL params
+            const urlParams = new URLSearchParams(window.location.search);
+            const currentDate = urlParams.get('date') || '{{ selected_date }}';
+            
+            fetch('/api/refresh', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    date: currentDate
+                })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        setTimeout(() => {
+                            location.reload();
+                        }, 1000);
+                    } else {
+                        alert('Failed to refresh data: ' + (data.error || 'Unknown error'));
+                        btn.disabled = false;
+                        btn.textContent = '🔄 Refresh Data';
+                        overlay.classList.remove('active');
+                    }
+                })
+                .catch(error => {
+                    alert('Error refreshing data: ' + error);
+                    btn.disabled = false;
+                    btn.textContent = '🔄 Refresh Data';
+                    overlay.classList.remove('active');
+                });
+        }
+        
+        // Initialize favorites on load
+        if ({{ 'true' if enable_favorites else 'false' }}) {
+            const favorites = JSON.parse(localStorage.getItem('disneyMenuFavorites') || '[]');
+            document.querySelectorAll('.menu-item').forEach(row => {
+                const itemName = row.dataset.name;
+                if (favorites.includes(itemName)) {
+                    const btn = row.querySelector('.favorite-btn');
+                    if (btn) btn.classList.add('favorited');
+                }
+            });
+        }
+    </script>
+</body>
+</html>

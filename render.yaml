@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: disneyland-menu
+    runtime: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python disneyland.py --web"
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: SECRET_KEY
+        generateValue: true
+      - key: CACHE_HOURS
+        value: 12
+      - key: ENABLE_REFRESH_BUTTON
+        value: true
+      - key: LOG_LEVEL
+        value: INFO
+      - key: PORT
+        value: 10000

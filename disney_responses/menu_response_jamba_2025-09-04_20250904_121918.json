@@ -1,0 +1,433 @@
+{
+  "name": "Jamba\u00ae",
+  "location": "Downtown Disney District",
+  "destinationId": "DLR",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Quick Service Restaurant",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Plant-Based Smoothies",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Apple 'n Greens\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pear Apple Juice blend, Kale, Mangos, Peaches, Bananas"
+            },
+            {
+              "title": "Mega Mango\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pineapple Juice, Orange Juice, Mangos, Strawberries"
+            },
+            {
+              "title": "Strawberry Whirl\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pear Apple Juice blend, Strawberries, Bananas"
+            },
+            {
+              "title": "Greens 'N Ginger\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lemonade, Peaches, Kale, Mangos, Ginger Pur\u00e9e"
+            },
+            {
+              "title": "Vanilla Blue Sky",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Unsweetened Almond Milk, Vanilla Coconut Milk, Banana, Pineapple, Blue Spirulina Boost"
+            },
+            {
+              "title": "Pomegranate Paradise\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pomegranate Flavored Apple Juice blend, Mangos, Strawberries, Peaches"
+            },
+            {
+              "title": "Peach Perfection\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Peach Flavored Pear Juice blend, Mangos, Peaches, Pear Apple Juice blend, Strawberries"
+            }
+          ]
+        },
+        {
+          "name": "Kids",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Blueberry Strawberry Blast-Off\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Berry Flavored Grape Juice blend, Blueberries, Banana, Strawberries"
+            },
+            {
+              "title": "Strawberries Gone Bananas\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pear Apple Juice blend, Strawberries, Banana"
+            }
+          ]
+        },
+        {
+          "name": "Classic Smoothies",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mango-A-Go-Go\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mango and Passionfruit Flavored Pear Juice blend, Mangos, Pineapple Sherbet"
+            },
+            {
+              "title": "White Gummi",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Peach Flavored Pear Juice blend, Pineapple Sherbet, Vanilla Soy Milk, Orange Sherbet, Raspberry Sherbet, Mango, Lime Sherbet"
+            },
+            {
+              "title": "Razzmatazz\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mixed Berry Flavored Grape Juice blend, Orange Sherbet, Strawberry, Banana"
+            },
+            {
+              "title": "Strawberries Wild\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pear Apple Juice blend, Fat Free Vanilla Frozen Yogurt, Strawberry, Banana"
+            },
+            {
+              "title": "Caribbean Passion\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mango and Passionfruit Flavored Pear Juice blend, Orange Sherbet, Strawberry, Peaches"
+            },
+            {
+              "title": "Peanut Butter Moo'd\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fat Free Vanilla Frozen Yogurt, Vanilla Soy Milk, 2% Milk, Bananas, Peanut Butter, Chocolate Moo'd\u00ae Dairy base"
+            },
+            {
+              "title": "Orange Dream Machine\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Orange Juice, Orange Sherbet,\u00a0Vanilla Soy Milk, and Fat Free Vanilla Frozen Yogurt"
+            },
+            {
+              "title": "PB Chocolate Love\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Banana, Peanut Butter, reduced fat Milk, Chocolate Moo'd\u00ae Dairy base"
+            },
+            {
+              "title": "Strawberry Surf Rider\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry, Peach, Lemonade, Lime Sherbet"
+            },
+            {
+              "title": "Aloha Pineapple\u00ae",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pineapple Juice, Pineapple Sherbet, Strawberries, Bananas, Nonfat Greek Yogurt"
+            }
+          ]
+        },
+        {
+          "name": "Super Blends Smoothies",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "A\u00e7a\u00ed Super-Antioxidant\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Soymilk, A\u00e7a\u00ed Grape Juice blend, Strawberries, Blueberries, Raspberry Sherbet, Daily Vitamin + Zinc Boost"
+            },
+            {
+              "title": "Protein Berry Workout\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberries, Bananas, Soy Milk and Whey Protein or Pea Protein"
+            },
+            {
+              "title": "Orange C-Booster\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Orange Juice, Peaches, Bananas, Orange Sherbet, Daily Vitamin + Zinc Boost"
+            },
+            {
+              "title": "PB and Banana Protein",
+              "prices": [],
+              "pricesRange": false,
+              "description": "reduced fat Milk, Banana, Peanut Butter, Honey and Whey Protein or Pea Protein"
+            },
+            {
+              "title": "The Go Getter",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Matcha Green Tea, vegetable and fruit juice blend, Mangos, Kale, Orange Juice"
+            }
+          ]
+        },
+        {
+          "name": "Iced Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Gotcha Matcha ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet Cloud Whip. Matcha Green Tea, Sweet Cloud Whip Foam, Organic Agave"
+            },
+            {
+              "title": "Bold N' Cold Brew",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Sweet Cloud Whip. Cold Brew Coffee, Sweet Cloud Whip Foam, Organic Agave"
+            }
+          ]
+        },
+        {
+          "name": "Bowls",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "A\u00e7a\u00ed Primo\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberries, A\u00e7ai Blend, Blueberries, Soy Milk, Bananas, Organic Granola, Honey, Shredded Coconut"
+            },
+            {
+              "title": "Vanilla Blue Sky",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Banana, Pineapple, Unsweetened Almond Milk, Vanilla Coconut Milk, Blue Spirulina, Organic Granola, Strawberry, Blueberry, Coconut Chips, Goji Berry, Sliced Almonds"
+            },
+            {
+              "title": "Chunky Strawberry\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry, Banana, Peanut Butter, Soy Milk, Nonfat Greek Yogurt, Organic Granola"
+            },
+            {
+              "title": "Dragon Fruit Delight",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pineapple Juice, organic Dragon Fruit, Pineapple, Banana, Mangos"
+            },
+            {
+              "title": "Belgian Waffle Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": "With Coconut whip or Nonfat Greek Yogurt with a Honey drizzle"
+            },
+            {
+              "title": "PB Banana Waffle Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": "With Coconut whip or Nonfat Greek Yogurt with a Honey drizzle"
+            }
+          ]
+        },
+        {
+          "name": "Bites",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Classic Handwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sausage, Egg, White Cheddar on a Sprouted Grain bun"
+            },
+            {
+              "title": "Impossible\u2122 Handwich",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Impossible\u2122 Sausage, Egg, White Cheddar on a Sprouted Grain bun"
+            },
+            {
+              "title": "Spring Veggie Egg Bake",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Egg, Nonfat Yogurt, Heavy Whipping Cream, Montamore Cheese, Artichoke Hearts, Red Bell Pepper strips"
+            },
+            {
+              "title": "Belgian Waffle",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Savory Pretzel",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Pretzel",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cheddar Twist",
+              "prices": [
+                {
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Customizations",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Oatmilk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla Soymilk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Unsweetened Almondmilk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla Coconutmilk",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oatmilk Frozen Dessert",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Contains Coconut"
+            },
+            {
+              "title": "Soy Protein",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Whey Protein",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Daily Vitamin + Zinc\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "3G Energy\u2122",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coconut Whip",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Contains Soy. Premium boost"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "desktop": "Plant-Based Smoothies"
+      },
+      {
+        "mobile": "Kids",
+        "desktop": "Kids"
+      },
+      {
+        "mobile": "Classic Smoothies",
+        "desktop": "Classic Smoothies"
+      },
+      {
+        "desktop": "Super Blends Smoothies"
+      },
+      {
+        "desktop": "Iced Beverages"
+      },
+      {
+        "desktop": "Bowls"
+      },
+      {
+        "desktop": "Bites"
+      },
+      {
+        "desktop": "Customizations"
+      }
+    ]
+  }
+}
