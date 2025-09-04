@@ -210,7 +210,7 @@ class DisneylandMenuFetcher:
         return None
     
     def get_cache_last_updated(self) -> Optional[datetime]:
-        """Get the timestamp of the most recent cache file."""
+        """Get the timestamp of the most recent cache file in Pacific Time."""
         if not os.path.exists(self.output_dir):
             return None
             
@@ -224,7 +224,23 @@ class DisneylandMenuFetcher:
             most_recent_file = max(cache_files, 
                                  key=lambda x: os.path.getmtime(os.path.join(self.output_dir, x)))
             most_recent_path = os.path.join(self.output_dir, most_recent_file)
-            return datetime.fromtimestamp(os.path.getmtime(most_recent_path))
+            
+            # Convert UTC timestamp to Pacific Time
+            from datetime import timezone, timedelta
+            import time
+            
+            utc_time = datetime.fromtimestamp(os.path.getmtime(most_recent_path), tz=timezone.utc)
+            
+            # Check if we're in DST (rough approximation - second Sunday in March to first Sunday in November)
+            year = utc_time.year
+            march_second_sunday = datetime(year, 3, 8) + timedelta(days=(6 - datetime(year, 3, 8).weekday()) % 7)
+            november_first_sunday = datetime(year, 11, 1) + timedelta(days=(6 - datetime(year, 11, 1).weekday()) % 7)
+            
+            is_dst = march_second_sunday <= utc_time.replace(tzinfo=None) < november_first_sunday
+            offset = -7 if is_dst else -8  # PDT (UTC-7) or PST (UTC-8)
+            
+            pacific_time = utc_time.astimezone(timezone(timedelta(hours=offset)))
+            return pacific_time
         except Exception as e:
             self.logger.warning(f"Error getting cache timestamp: {e}")
             return None

@@ -442,8 +442,8 @@
                 <span id="itemCount">Showing {{ menu_items|length }} items</span>
                 {% if last_updated %}
                 <div class="text-light" style="font-size: 0.85rem; opacity: 0.8;">
-                    Last updated: <span id="lastUpdated" title="{{ last_updated.strftime('%Y-%m-%d %H:%M:%S UTC') }}">
-                        {{ last_updated.strftime('%b %d, %I:%M %p') }}
+                    Last updated: <span id="lastUpdated" title="{{ last_updated.strftime('%Y-%m-%d %H:%M:%S PT') }}">
+                        {{ last_updated.strftime('%b %d, %I:%M %p PT') }}
                     </span>
                 </div>
                 {% endif %}
